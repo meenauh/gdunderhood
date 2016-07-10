@@ -1,36 +1,47 @@
 {
-  "name": "gdunderhood",
-  "version": "0.1.2",
-  "description": "game design underhood",
+  "name": "abroadunderhood",
+  "version": "0.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "migrate": "babel-node migration",
     "update": "babel-node update",
     "deploy": "gulp deploy",
     "deploy:ci": "npm-run-all git-setup:ci update save deploy",
     "pretest": "gulp build",
     "test": "mocha --require babel/register",
     "posttest": "gulp clean",
-    "start": "gulp",
-    "lint": "eslint ."
+    "start": "gulp"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/meenauh/meenauh/gdunderhood.git"
+    "url": "git+https://github.com/suxxes/abroadunderhood.git"
+  },
+  "site": {
+    "title": "abroadunderhood",
+    "description": "Коллективный твиттер-аккаунт для тех, кто хочет уехать за границу, от тех, кто уехал, с новым автором каждую неделю",
+    "site_url": "https://abroadunderhood.ru/",
+    "managingEditor": "iamstarkov@gmail.com (Vladimir Starkov)",
+    "webMaster": "iamstarkov@gmail.com (Vladimir Starkov)",
+    "copyright": "MIT",
+    "language": "en-us",
+    "categories": [
+      "frontend",
+      "css",
+      "twitter"
+    ]
   },
   "author": "Vladimir Starkov <iamstarkov@gmail.com> (https://iamstarkov.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/meenauh/meenauh/gdunderhood/issues"
+    "url": "https://github.com/suxxes/abroadunderhood/issues"
   },
-  "homepage": "https://github.com/meenauh/meenauh/gdunderhood#readme",
+  "homepage": "https://github.com/suxxes/abroadunderhood#readme",
   "dependencies": {
     "article-data": "^0.3.1",
     "autoprefixer": "^6.1.0",
     "babel": "^5.8.29",
     "babel-loader": "^5.3.3",
     "bignum-dec": "^1.0.1",
-    "bootstrap": "^3.3.4",
     "buildbranch": "0.0.3",
     "commonmark-helpers": "^0.4.1",
     "each-done": "^1.0.0",
@@ -62,7 +73,6 @@
     "postcss-initial": "^1.3.1",
     "ramda": "^0.18.0",
     "rimraf": "^2.4.3",
-    "rss": "^1.2.0",
     "run-sequence": "^1.1.0",
     "tablesort": "^3.0.2",
     "through2": "^2.0.0",
@@ -84,7 +94,6 @@
     "eslint": "^1.7.3",
     "eslint-config-airbnb": "^0.1.0",
     "eslint-plugin-react": "^3.6.3",
-    "eslint-plugin-require-path-exists": "^1.0.25",
     "mocha": "^2.2.5"
   }
 }

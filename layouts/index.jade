@@ -3,39 +3,42 @@ extend page
 block meta
   meta(property="description" content=site.description)
   meta(name="og:url"          content=site.site_url)
-  meta(name="og:image"        content="https://i.imgur.com/GpzEJQ7.jpg?1")
+  meta(name="og:image"        content=helpers.bust("/image.png"))
   meta(name="og:title"        content=site.title)
   meta(name="og:description"  content=site.description)
 
 block headerTitle
-  = site.title
+  span.hidden-xs
+    = site.title
 
 block content
-  if currentAuthor
-    article.container
-      a.now-playing-wrapper(href="https://twitter.com/" + underhood.underhood)
-        .now-playing
-          .now-playing__userpic
-          .now-playing__info
-            .small На этой неделе твиттер ведёт:<br/>
-            .now-playing__username @#{currentAuthor.username}
+  if -1 === authors.indexOf(currentAuthor)
+    article
+      a.author-wrapper.now-playing(href="https://twitter.com/" + site.title)
+        span.container
+          span.author
+            span.author__userpic
+            span.author__info
+              span.author__headline.small На этой неделе твиттер ведёт
+              h2.author__username= "@" + currentAuthor.username
+              if currentAuthor.info.location
+                span.small
+                  span.glyphicon.glyphicon-map-marker
+                  = " " + currentAuthor.info.location
 
-  article.container
-    each row in authors
-      .row(style="margin-bottom: 1em")
-        each author in row
-          .col-md-4
-            div.row
-              .col-md-2
-                .row.text-center
-                  div.img-circle(style="width: 48px; height: 48px; background-image: url(" + author.media.image + "); background-size: cover; margin: 0 auto;")
-              .col-md-10
-                h2(style="margin: 0"): a(href="/" + author.username + '/')
-                  = "@" + author.username
-                if author.info.location
-                  small
-                    span.glyphicon.glyphicon-map-marker
-                    = " " + author.info.location
-            .row
-              .col-md-12
-                p.list__item-desc!= helpers.render(helpers.firstTweet(author))
+  each author in authors
+    article.author-list-item
+      a.author-wrapper(href="/" + author.username + '/' style="background-image: url(" + author.media.banner + ");")
+        span.container
+          span.author
+            span.author__userpic(style="background-image: url(" + author.media.image + ");")
+            span.author__info
+              span.author__headline.small
+                = helpers.authorRender.d(author.tweets[0].created_at, author.info.time_zone_offset)
+                != " &ndash; "
+                = helpers.authorRender.d(author.tweets[author.tweets.length - 1].created_at, author.info.time_zone_offset)
+              h2.author__username= "@" + author.username
+              if author.info.location
+                span.small
+                  span.glyphicon.glyphicon-map-marker
+                  = " " + author.info.location
