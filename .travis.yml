@@ -1,5 +1,3 @@
-before_install:
-  - export TZ=Europe/Moscow
 language: node_js
 node_js:
   - v5
