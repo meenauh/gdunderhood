@@ -8,7 +8,7 @@
     "deploy": "gulp deploy",
     "deploy:ci": "npm-run-all git-setup:ci update save deploy",
     "pretest": "gulp build",
-    "test": "mocha --require babel/register",
+    "test": "mocha --require babel-core/register",
     "posttest": "gulp clean",
     "start": "gulp"
   },
@@ -41,6 +41,7 @@
     "autoprefixer": "^6.1.0",
     "babel-core": "^5.8.29",
     "babel-loader": "^5.3.3",
+    "babel-register": "^6.9.0",
     "bignum-dec": "^1.0.1",
     "buildbranch": "0.0.3",
     "commonmark-helpers": "^0.4.1",
