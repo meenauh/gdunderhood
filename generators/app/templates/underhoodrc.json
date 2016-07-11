@@ -1,0 +1,26 @@
+{
+  "underhood": "<%= underhoodName  %>",
+  "underhoodDesc": "<%= underhoodDesc %>",
+  "underhoodSite": "<%= underhoodSite %>",
+  "githubUser": "<%= githubUser %>",
+  "githubRepo": "<%= githubRepo %>",
+  "curatorEmail": "<%= curatorEmail %>",
+  "curatorTwitter": "<%= curatorTwitter %>",
+  "creatorTwitter": "<%= creatorTwitter %>",
+  "gauges": "<%= gauges %>",
+  "googleAnalytics": "<%= googleAnalytics %>",
+  "yandexMetric": "<%= yandexMetric %>",
+  "creatorCreds": "<%= creatorCreds %>",
+  "underhoodVersion": "<%= underhoodVersion %>",
+  "site": {
+    "title": "Сайт @<%= underhoodName  %>",
+    "description": "<%= underhoodDesc %>",
+    "feed_url": "https://<%= underhoodSite %>/rss.xml",
+    "site_url": "https://<%= underhoodSite %>/",
+    "managingEditor": "<%= creatorCreds %>",
+    "webMaster": "<%= creatorCreds %>",
+    "copyright": "MIT",
+    "language": "ru",
+    "categories": [ "twitter" ]
+  }
+}
