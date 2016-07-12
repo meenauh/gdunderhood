@@ -5,7 +5,7 @@ echo "set git environment"
 git config user.email "iamstarkov+tachikombie@gmail.com"
 git config user.name "Tachikoma Zombie"
 git remote rm origin
-git remote add origin https://meenauh:${GITHUB_TOKEN}@github.com/meenauh/gdunderhood.git
+git remote add origin https://<%= githubUser %>:${GITHUB_TOKEN}@github.com/<%= githubUser %>/<%= githubRepo %>.git
 git checkout master
 
 echo "run update"

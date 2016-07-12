@@ -1,11 +1,11 @@
-# http://gdcuffs.com/gdunderhood
+# <%= underhoodSite  %>
 
-&#34;Коллективный твиттер-аккаунт для гейм-дизайнеров всех мастей: от балансеров до нарративщиков. Новый автор каждую неделю.&#34;
+<%= underhoodDesc %>
 
 ## Старт проекта
 
-    git clone git@github.com:meenauh/gdunderhood.git
-    cd gdunderhood
+    git clone git@github.com:<%= githubUser %>/<%= githubRepo %>.git
+    cd <%= githubRepo %>
     npm install
     npm start
 
