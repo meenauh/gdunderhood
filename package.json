@@ -8,9 +8,8 @@
     "update": "babel-node update",
     "deploy": "gulp deploy",
     "deploy:ci": "npm-run-all git-setup:ci update save deploy",
-    "_pretest": "gulp build",
-    "_test": "mocha --require babel/register",
-    "test": "echo 'lol'",
+    "pretest": "gulp build",
+    "test": "mocha --require babel/register",
     "posttest": "gulp clean",
     "start": "gulp",
     "lint": "eslint ."
