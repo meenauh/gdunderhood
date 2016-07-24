@@ -37,38 +37,28 @@
     }
   },
   "protected": false,
-  "followers_count": 441,
+  "followers_count": 439,
   "friends_count": 16,
-  "listed_count": 8,
+  "listed_count": 7,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 163,
+  "favourites_count": 164,
   "utc_offset": -25200,
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 1138,
+  "statuses_count": 1147,
   "lang": "en",
   "status": {
-    "created_at": "Sun Jul 24 19:44:23 +0000 2016",
-    "id": 757300413712433200,
-    "id_str": "757300413712433152",
-    "text": "Попиарю этот дизайн. Во-первых, парень старался и есть много картинок. Во-вторых, my bad, что пропустил при подсчете https://t.co/qGSj2uckh7",
+    "created_at": "Sun Jul 24 20:12:15 +0000 2016",
+    "id": 757307427901546500,
+    "id_str": "757307427901546496",
+    "text": "Пришло время прощаться. Это была очень бодрая неделя и вы все большие молодцы. Передаю пост следующему. Жду вас в своем тви.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/qGSj2uckh7",
-          "expanded_url": "https://twitter.com/gdunderhood/status/757299408442691584",
-          "display_url": "twitter.com/gdunderhood/st…",
-          "indices": [
-            117,
-            140
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -80,14 +70,11 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 757299408442691600,
-    "quoted_status_id_str": "757299408442691584",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
