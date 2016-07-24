@@ -31161,6 +31161,105 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jul 24 08:08:45 +0000 2016",
+      "id": 757125354561663000,
+      "id_str": "757125354561662977",
+      "text": "@gdunderhood Добавил наконец-то фичелист. У меня все фичи кор, подожду мнения опытных ГД по этому поводу =)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Геймдизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 756057729685397500,
+      "in_reply_to_status_id_str": "756057729685397504",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 1909469556,
+        "id_str": "1909469556"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jul 24 08:09:27 +0000 2016",
+      "id": 757125529300529200,
+      "id_str": "757125529300529152",
+      "text": "@gdunderhood https://t.co/smYH8Te6jp",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Геймдизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/smYH8Te6jp",
+            "expanded_url": "https://docs.google.com/document/d/1Bz1QG4D7wl0R8yh-Unl655DGAYdLU1LsYsX-JLMz1SU/edit#",
+            "display_url": "docs.google.com/document/d/1Bz…",
+            "indices": [
+              13,
+              36
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 757125354561663000,
+      "in_reply_to_status_id_str": "757125354561662977",
+      "in_reply_to_user_id": 1909469556,
+      "in_reply_to_user_id_str": "1909469556",
+      "in_reply_to_screen_name": "CadmusRu",
+      "user": {
+        "id": 1909469556,
+        "id_str": "1909469556"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
     }
   ]
 }
