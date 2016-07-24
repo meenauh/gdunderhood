@@ -37,133 +37,36 @@
     }
   },
   "protected": false,
-  "followers_count": 434,
+  "followers_count": 440,
   "friends_count": 15,
   "listed_count": 7,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 112,
+  "favourites_count": 157,
   "utc_offset": -25200,
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 993,
+  "statuses_count": 1079,
   "lang": "en",
   "status": {
-    "created_at": "Thu Jul 21 18:19:12 +0000 2016",
-    "id": 756191812742553600,
-    "id_str": "756191812742553600",
-    "text": "RT @Famalgaut: @gdunderhood Nooooooooo! Только не Пицца! \nНе ожидал такой ультимативной годноты :3\nНо от Владивостока далековато :о https:/…",
+    "created_at": "Sat Jul 23 20:33:17 +0000 2016",
+    "id": 756950333541257200,
+    "id_str": "756950333541257217",
+    "text": "Диздоки лучше хранить вместе с историей изменений. Гуглдоки и confluence это умеют. https://t.co/7eR6euyG5S",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "Famalgaut",
-          "name": "Mikhail Petrov",
-          "id": 114133748,
-          "id_str": "114133748",
+          "url": "https://t.co/7eR6euyG5S",
+          "expanded_url": "https://twitter.com/x_GS_x/status/756948263316688896",
+          "display_url": "twitter.com/x_GS_x/status/…",
           "indices": [
-            3,
-            13
+            84,
+            107
           ]
-        },
-        {
-          "screen_name": "gdunderhood",
-          "name": "Геймдизайнер",
-          "id": 747371158832545800,
-          "id_str": "747371158832545792",
-          "indices": [
-            15,
-            27
-          ]
-        }
-      ],
-      "urls": [],
-      "media": [
-        {
-          "id": 756190561565106200,
-          "id_str": "756190561565106176",
-          "indices": [
-            139,
-            140
-          ],
-          "media_url": "http://pbs.twimg.com/media/Cn6HTyyXYAAvsJE.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Cn6HTyyXYAAvsJE.jpg",
-          "url": "https://t.co/ES1r9QoNeG",
-          "display_url": "pic.twitter.com/ES1r9QoNeG",
-          "expanded_url": "http://twitter.com/Famalgaut/status/756191273510379520/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 383,
-              "h": 263,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 383,
-              "h": 263,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 383,
-              "h": 263,
-              "resize": "fit"
-            }
-          },
-          "source_status_id": 756191273510379500,
-          "source_status_id_str": "756191273510379520",
-          "source_user_id": 114133748,
-          "source_user_id_str": "114133748"
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 756190561565106200,
-          "id_str": "756190561565106176",
-          "indices": [
-            139,
-            140
-          ],
-          "media_url": "http://pbs.twimg.com/media/Cn6HTyyXYAAvsJE.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Cn6HTyyXYAAvsJE.jpg",
-          "url": "https://t.co/ES1r9QoNeG",
-          "display_url": "pic.twitter.com/ES1r9QoNeG",
-          "expanded_url": "http://twitter.com/Famalgaut/status/756191273510379520/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 383,
-              "h": 263,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 383,
-              "h": 263,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 383,
-              "h": 263,
-              "resize": "fit"
-            }
-          },
-          "source_status_id": 756191273510379500,
-          "source_status_id_str": "756191273510379520",
-          "source_user_id": 114133748,
-          "source_user_id_str": "114133748"
         }
       ]
     },
@@ -177,130 +80,13 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Thu Jul 21 18:17:03 +0000 2016",
-      "id": 756191273510379500,
-      "id_str": "756191273510379520",
-      "text": "@gdunderhood Nooooooooo! Только не Пицца! \nНе ожидал такой ультимативной годноты :3\nНо от Владивостока далековато :о https://t.co/ES1r9QoNeG",
-      "truncated": false,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "gdunderhood",
-            "name": "Геймдизайнер",
-            "id": 747371158832545800,
-            "id_str": "747371158832545792",
-            "indices": [
-              0,
-              12
-            ]
-          }
-        ],
-        "urls": [],
-        "media": [
-          {
-            "id": 756190561565106200,
-            "id_str": "756190561565106176",
-            "indices": [
-              117,
-              140
-            ],
-            "media_url": "http://pbs.twimg.com/media/Cn6HTyyXYAAvsJE.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Cn6HTyyXYAAvsJE.jpg",
-            "url": "https://t.co/ES1r9QoNeG",
-            "display_url": "pic.twitter.com/ES1r9QoNeG",
-            "expanded_url": "http://twitter.com/Famalgaut/status/756191273510379520/photo/1",
-            "type": "photo",
-            "sizes": {
-              "small": {
-                "w": 383,
-                "h": 263,
-                "resize": "fit"
-              },
-              "thumb": {
-                "w": 150,
-                "h": 150,
-                "resize": "crop"
-              },
-              "large": {
-                "w": 383,
-                "h": 263,
-                "resize": "fit"
-              },
-              "medium": {
-                "w": 383,
-                "h": 263,
-                "resize": "fit"
-              }
-            }
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "id": 756190561565106200,
-            "id_str": "756190561565106176",
-            "indices": [
-              117,
-              140
-            ],
-            "media_url": "http://pbs.twimg.com/media/Cn6HTyyXYAAvsJE.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Cn6HTyyXYAAvsJE.jpg",
-            "url": "https://t.co/ES1r9QoNeG",
-            "display_url": "pic.twitter.com/ES1r9QoNeG",
-            "expanded_url": "http://twitter.com/Famalgaut/status/756191273510379520/photo/1",
-            "type": "photo",
-            "sizes": {
-              "small": {
-                "w": 383,
-                "h": 263,
-                "resize": "fit"
-              },
-              "thumb": {
-                "w": 150,
-                "h": 150,
-                "resize": "crop"
-              },
-              "large": {
-                "w": 383,
-                "h": 263,
-                "resize": "fit"
-              },
-              "medium": {
-                "w": 383,
-                "h": 263,
-                "resize": "fit"
-              }
-            }
-          }
-        ]
-      },
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "in_reply_to_status_id": 756187499161006100,
-      "in_reply_to_status_id_str": "756187499161006080",
-      "in_reply_to_user_id": 747371158832545800,
-      "in_reply_to_user_id_str": "747371158832545792",
-      "in_reply_to_screen_name": "gdunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "favorited": false,
-      "retweeted": true,
-      "possibly_sensitive": false,
-      "lang": "ru"
-    },
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 756948263316688900,
+    "quoted_status_id_str": "756948263316688896",
     "retweet_count": 1,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": true,
+    "retweeted": false,
     "possibly_sensitive": false,
     "lang": "ru"
   },
