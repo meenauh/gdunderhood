@@ -1,0 +1,722 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Jul 25 07:31:17 +0000 2016",
+      "id": 757478312360968200,
+      "id_str": "757478312360968192",
+      "text": "Всем привет! Меня зовут Святослав Торик, и на этой неделе @gdunderhood пройдет под знаком теории (а за практику - спасибище @YarKravtsov !)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Геймдизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              58,
+              70
+            ]
+          },
+          {
+            "screen_name": "YarKravtsov",
+            "name": "Yaroslav Kravtsov",
+            "id": 2248341073,
+            "id_str": "2248341073",
+            "indices": [
+              124,
+              136
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        904657574
+      ],
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 25 07:32:30 +0000 2016",
+      "id": 757478616192127000,
+      "id_str": "757478616192126976",
+      "text": "Мы поговорим об игровой индустрии, немного о терминологии и о различных холиворах, а также о прошлом, настоящем и будущем геймидзайна.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        904657574
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 25 07:36:20 +0000 2016",
+      "id": 757479582874366000,
+      "id_str": "757479582874365954",
+      "text": "Но для начала немного обо мне: я работаю в должности Product Vision Expert в отделе Research &amp; Development компании https://t.co/VTxVef2EMv",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/VTxVef2EMv",
+            "expanded_url": "http://Wargaming.net",
+            "display_url": "Wargaming.net",
+            "indices": [
+              120,
+              143
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        904657574
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Jul 25 07:37:21 +0000 2016",
+      "id": 757479840635162600,
+      "id_str": "757479840635162624",
+      "text": "Если убрать всю бюрократию, то я придумываю новые игры, прототипирую их и доказываю, что они смогут принести WG (и мне) деньги и славу.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        904657574
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 25 07:39:51 +0000 2016",
+      "id": 757480468791066600,
+      "id_str": "757480468791066624",
+      "text": "В свободное от безделья время веду блог и пишу подкасты, подробнее тут - https://t.co/NhzuBcxCoN",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/NhzuBcxCoN",
+            "expanded_url": "http://torick.ru/obo-mne/",
+            "display_url": "torick.ru/obo-mne/",
+            "indices": [
+              73,
+              96
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        904657574
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 25 07:41:04 +0000 2016",
+      "id": 757480775499542500,
+      "id_str": "757480775499542528",
+      "text": "Для разминки - такой простой вопрос: есть ли у вас любимое выражение для обозначения термина \"игра\"? Приведите его.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        904657574
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 25 07:43:42 +0000 2016",
+      "id": 757481437079670800,
+      "id_str": "757481437079670785",
+      "text": "@VKSpaz я бы не был столь категоричен. Пространство для творчества сильно ограничено, что яростно бустит креатив, но все равно фрустрирует.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "VKSpaz",
+            "name": "Vladimir Kovtun",
+            "id": 127288264,
+            "id_str": "127288264",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 757480148828561400,
+      "in_reply_to_status_id_str": "757480148828561408",
+      "in_reply_to_user_id": 127288264,
+      "in_reply_to_user_id_str": "127288264",
+      "in_reply_to_screen_name": "VKSpaz",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        904657574
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 25 07:44:12 +0000 2016",
+      "id": 757481563659595800,
+      "id_str": "757481563659595776",
+      "text": "@FORMAcevt я читал об этом доклад, есть запись: https://t.co/e6NK3URI0e",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "FORMAcevt",
+            "name": "Vit",
+            "id": 311002227,
+            "id_str": "311002227",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/e6NK3URI0e",
+            "expanded_url": "https://www.youtube.com/watch?v=4i0x1t6wWfY",
+            "display_url": "youtube.com/watch?v=4i0x1t…",
+            "indices": [
+              48,
+              71
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 757480274900942800,
+      "in_reply_to_status_id_str": "757480274900942848",
+      "in_reply_to_user_id": 311002227,
+      "in_reply_to_user_id_str": "311002227",
+      "in_reply_to_screen_name": "FORMAcevt",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        904657574
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 25 07:45:55 +0000 2016",
+      "id": 757481996209782800,
+      "id_str": "757481996209782785",
+      "text": "Подробностями делиться не могу, но я читал о работе RnD доклад, есть запись:\nhttps://t.co/e6NK3URI0e https://t.co/1NXelMXJbo",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/e6NK3URI0e",
+            "expanded_url": "https://www.youtube.com/watch?v=4i0x1t6wWfY",
+            "display_url": "youtube.com/watch?v=4i0x1t…",
+            "indices": [
+              77,
+              100
+            ]
+          },
+          {
+            "url": "https://t.co/1NXelMXJbo",
+            "expanded_url": "https://twitter.com/FORMAcevt/status/757480274900942848",
+            "display_url": "twitter.com/FORMAcevt/stat…",
+            "indices": [
+              101,
+              124
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        904657574
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 757480274900942800,
+      "quoted_status_id_str": "757480274900942848",
+      "quoted_status": {
+        "created_at": "Mon Jul 25 07:39:05 +0000 2016",
+        "id": 757480274900942800,
+        "id_str": "757480274900942848",
+        "text": "@gdunderhood А расскажешь по ходу дела чем занимается рнд в ВГ? Всегда было любопытно)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Геймдизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 757479582874366000,
+        "in_reply_to_status_id_str": "757479582874365954",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 311002227,
+          "id_str": "311002227"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 25 07:48:25 +0000 2016",
+      "id": 757482622444531700,
+      "id_str": "757482622444531712",
+      "text": "Определение от Сида Мейера - очень ОК, да. https://t.co/DXCdCt9D28",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DXCdCt9D28",
+            "expanded_url": "https://twitter.com/_Nevermind/status/757481829133877252",
+            "display_url": "twitter.com/_Nevermind/sta…",
+            "indices": [
+              43,
+              66
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        904657574
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 757481829133877200,
+      "quoted_status_id_str": "757481829133877252",
+      "quoted_status": {
+        "created_at": "Mon Jul 25 07:45:16 +0000 2016",
+        "id": 757481829133877200,
+        "id_str": "757481829133877252",
+        "text": "@gdunderhood https://t.co/yhZPCXE7cO",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Геймдизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/yhZPCXE7cO",
+              "expanded_url": "https://www.google.ru/search?q=a+game+is+a+series+of+interesting+choices",
+              "display_url": "google.ru/search?q=a+gam…",
+              "indices": [
+                13,
+                36
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 757480775499542500,
+        "in_reply_to_status_id_str": "757480775499542528",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 17658923,
+          "id_str": "17658923"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 25 07:52:00 +0000 2016",
+      "id": 757483527487254500,
+      "id_str": "757483527487254528",
+      "text": "@VKSpaz @meenauh @vedmich он дал нормальные инструкции, просто я их прочитал за минуту до отхода ко сну, и забыл )",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "VKSpaz",
+            "name": "Vladimir Kovtun",
+            "id": 127288264,
+            "id_str": "127288264",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "meenauh",
+            "name": "Ilya",
+            "id": 368361119,
+            "id_str": "368361119",
+            "indices": [
+              8,
+              16
+            ]
+          },
+          {
+            "screen_name": "vedmich",
+            "name": "Matsukaze",
+            "id": 56080508,
+            "id_str": "56080508",
+            "indices": [
+              17,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 757483121814212600,
+      "in_reply_to_status_id_str": "757483121814212608",
+      "in_reply_to_user_id": 127288264,
+      "in_reply_to_user_id_str": "127288264",
+      "in_reply_to_screen_name": "VKSpaz",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        904657574
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 25 07:53:46 +0000 2016",
+      "id": 757483968208003100,
+      "id_str": "757483968208003072",
+      "text": "Штука в том, что это не ты выбираешь RnD, а RnD выбирает тебя. Наниматель утверждал, что меня ему продал мой блог ) https://t.co/lUl2JhKn90",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/lUl2JhKn90",
+            "expanded_url": "https://twitter.com/VKSpaz/status/757482802006855680",
+            "display_url": "twitter.com/VKSpaz/status/…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        904657574
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 757482802006855700,
+      "quoted_status_id_str": "757482802006855680",
+      "quoted_status": {
+        "created_at": "Mon Jul 25 07:49:08 +0000 2016",
+        "id": 757482802006855700,
+        "id_str": "757482802006855680",
+        "text": "@gdunderhood а как стать таким же как ты экспертом? Как ты пришёл к этой работе? Думаю, что не просто «скинул CV и тут закрутилось...»",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Геймдизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 757481437079670800,
+        "in_reply_to_status_id_str": "757481437079670785",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 127288264,
+          "id_str": "127288264"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
