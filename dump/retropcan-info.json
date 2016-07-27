@@ -46,13 +46,13 @@
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 1235,
+  "statuses_count": 1242,
   "lang": "en",
   "status": {
-    "created_at": "Wed Jul 27 11:47:33 +0000 2016",
-    "id": 758267578464763900,
-    "id_str": "758267578464763904",
-    "text": "Там есть Win-интеграция: можно отработать файл F-командой, а можно по правому клику вызвать меню Windows Explorer. https://t.co/oJ1FKaeNIT",
+    "created_at": "Wed Jul 27 12:37:32 +0000 2016",
+    "id": 758280157702553600,
+    "id_str": "758280157702553601",
+    "text": "У TC одна конфигурация, но она БОЛЬШАЯ - от отображения имен файлов в быстром поиске до путей к внешним редакторам.  https://t.co/SXZXVkcWv1",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -60,12 +60,12 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/oJ1FKaeNIT",
-          "expanded_url": "https://twitter.com/cool8me/status/758267195642249216",
-          "display_url": "twitter.com/cool8me/status…",
+          "url": "https://t.co/SXZXVkcWv1",
+          "expanded_url": "https://twitter.com/YarKravtsov/status/758275259292327936",
+          "display_url": "twitter.com/YarKravtsov/st…",
           "indices": [
-            115,
-            138
+            117,
+            140
           ]
         }
       ]
@@ -83,8 +83,8 @@
       904657574
     ],
     "is_quote_status": true,
-    "quoted_status_id": 758267195642249200,
-    "quoted_status_id_str": "758267195642249216",
+    "quoted_status_id": 758275259292328000,
+    "quoted_status_id_str": "758275259292327936",
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,

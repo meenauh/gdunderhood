@@ -5248,6 +5248,568 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 27 12:25:46 +0000 2016",
+      "id": 758277198675599400,
+      "id_str": "758277198675599360",
+      "text": "N++ тоже бесплатный, но это вопрос привычки, я так думаю. Наверняка есть люди, до сих пользующие UltraEdit. https://t.co/gndEEqZbJr",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gndEEqZbJr",
+            "expanded_url": "https://twitter.com/alxr_noise/status/758273240510988290",
+            "display_url": "twitter.com/alxr_noise/sta…",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        904657574
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 758273240510988300,
+      "quoted_status_id_str": "758273240510988290",
+      "quoted_status": {
+        "created_at": "Wed Jul 27 12:10:03 +0000 2016",
+        "id": 758273240510988300,
+        "id_str": "758273240510988290",
+        "text": "@gdunderhood это уже не в моде, есть фришный Atom. Он правда не для огромных файлов, но для ГД нормально.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Геймдизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 758254826706890800,
+        "in_reply_to_status_id_str": "758254826706890752",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 1705104182,
+          "id_str": "1705104182"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 27 12:35:59 +0000 2016",
+      "id": 758279770014642200,
+      "id_str": "758279770014642176",
+      "text": "Это к утреннему вопросу о скиллах - типа мой вижн, значит, только я могу сделать TRUE GAME DESIGN DOC. Это не так. https://t.co/Yd7VVRjT9H",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Yd7VVRjT9H",
+            "expanded_url": "https://twitter.com/mif2000/status/758279489419878400",
+            "display_url": "twitter.com/mif2000/status…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        904657574
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 758279489419878400,
+      "quoted_status_id_str": "758279489419878400",
+      "quoted_status": {
+        "created_at": "Wed Jul 27 12:34:53 +0000 2016",
+        "id": 758279489419878400,
+        "id_str": "758279489419878400",
+        "text": "@YarKravtsov @gdunderhood должны ли были Умберто Эко или Достоевский делегировать право писать часть книг литературным неграм, как Донцова?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "YarKravtsov",
+              "name": "Yaroslav Kravtsov",
+              "id": 2248341073,
+              "id_str": "2248341073",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "gdunderhood",
+              "name": "Геймдизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                13,
+                25
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 758275143533752300,
+        "in_reply_to_status_id_str": "758275143533752320",
+        "in_reply_to_user_id": 2248341073,
+        "in_reply_to_user_id_str": "2248341073",
+        "in_reply_to_screen_name": "YarKravtsov",
+        "user": {
+          "id": 77679557,
+          "id_str": "77679557"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 27 12:36:44 +0000 2016",
+      "id": 758279956099129300,
+      "id_str": "758279956099129344",
+      "text": "Плагины: Imagine (просмотрщик графики), ISO (чтоб не монтировать), Cloud (для Google Drive), sftp (ssh as ftp).  https://t.co/SXZXVkcWv1",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/SXZXVkcWv1",
+            "expanded_url": "https://twitter.com/YarKravtsov/status/758275259292327936",
+            "display_url": "twitter.com/YarKravtsov/st…",
+            "indices": [
+              113,
+              136
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        904657574
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 758275259292328000,
+      "quoted_status_id_str": "758275259292327936",
+      "quoted_status": {
+        "created_at": "Wed Jul 27 12:18:04 +0000 2016",
+        "id": 758275259292328000,
+        "id_str": "758275259292327936",
+        "text": "@gdunderhood какие плагины и конфиги тебе так дороги?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Геймдизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 758256111745134600,
+        "in_reply_to_status_id_str": "758256111745134592",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 2248341073,
+          "id_str": "2248341073"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Jul 27 12:37:05 +0000 2016",
+      "id": 758280043596480500,
+      "id_str": "758280043596480512",
+      "text": "Иначе жить вам с командной строкой, забивая данные в SQL-таблицу (если повезет).  https://t.co/iJzk9s9pcU",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/iJzk9s9pcU",
+            "expanded_url": "https://twitter.com/YarKravtsov/status/758274109008674817",
+            "display_url": "twitter.com/YarKravtsov/st…",
+            "indices": [
+              82,
+              105
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        904657574
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 758274109008674800,
+      "quoted_status_id_str": "758274109008674817",
+      "quoted_status": {
+        "created_at": "Wed Jul 27 12:13:30 +0000 2016",
+        "id": 758274109008674800,
+        "id_str": "758274109008674817",
+        "text": "@gdunderhood обязательно требуйте тулзовых программистов на ваших проектах",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Геймдизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 758258855608475600,
+        "in_reply_to_status_id_str": "758258855608475648",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 2248341073,
+          "id_str": "2248341073"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 27 12:37:17 +0000 2016",
+      "id": 758280094142042100,
+      "id_str": "758280094142042112",
+      "text": "Если ГД больше одного на проекте, да. На прошлой работе нас было четверо, каждый со своей специализацией.  https://t.co/Cl6bMwBrQu",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Cl6bMwBrQu",
+            "expanded_url": "https://twitter.com/YarKravtsov/status/758275143533752320",
+            "display_url": "twitter.com/YarKravtsov/st…",
+            "indices": [
+              107,
+              130
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        904657574
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 758275143533752300,
+      "quoted_status_id_str": "758275143533752320",
+      "quoted_status": {
+        "created_at": "Wed Jul 27 12:17:36 +0000 2016",
+        "id": 758275143533752300,
+        "id_str": "758275143533752320",
+        "text": "@gdunderhood делегирование - лучший инструмент оптимизации :о) Иначе говоря, не делать чужие задачи.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Геймдизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 758258238672560100,
+        "in_reply_to_status_id_str": "758258238672560128",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 2248341073,
+          "id_str": "2248341073"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 27 12:37:32 +0000 2016",
+      "id": 758280157702553600,
+      "id_str": "758280157702553601",
+      "text": "У TC одна конфигурация, но она БОЛЬШАЯ - от отображения имен файлов в быстром поиске до путей к внешним редакторам.  https://t.co/SXZXVkcWv1",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/SXZXVkcWv1",
+            "expanded_url": "https://twitter.com/YarKravtsov/status/758275259292327936",
+            "display_url": "twitter.com/YarKravtsov/st…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        904657574
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 758275259292328000,
+      "quoted_status_id_str": "758275259292327936",
+      "quoted_status": {
+        "created_at": "Wed Jul 27 12:18:04 +0000 2016",
+        "id": 758275259292328000,
+        "id_str": "758275259292327936",
+        "text": "@gdunderhood какие плагины и конфиги тебе так дороги?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Геймдизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 758256111745134600,
+        "in_reply_to_status_id_str": "758256111745134592",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 2248341073,
+          "id_str": "2248341073"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
