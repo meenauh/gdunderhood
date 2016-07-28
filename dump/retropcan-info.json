@@ -46,13 +46,13 @@
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 1255,
+  "statuses_count": 1256,
   "lang": "en",
   "status": {
-    "created_at": "Thu Jul 28 04:28:38 +0000 2016",
-    "id": 758519509988872200,
-    "id_str": "758519509988872193",
-    "text": "Отличный пример геймплея - простого и короткого, но оставляющего уникальные впечатления. Всего 10 минут, поиграйте.\n\nhttps://t.co/SCd3EXDlGE",
+    "created_at": "Thu Jul 28 06:53:04 +0000 2016",
+    "id": 758555858104188900,
+    "id_str": "758555858104188928",
+    "text": "Слышал про такую штуку, и мы даже тренировались брейнштормить с очерчиванием майндмапа, но их тяжело детализировать. https://t.co/LHDStC0swH",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -60,9 +60,9 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/SCd3EXDlGE",
-          "expanded_url": "http://store.steampowered.com/app/496920/",
-          "display_url": "store.steampowered.com/app/496920/",
+          "url": "https://t.co/LHDStC0swH",
+          "expanded_url": "https://twitter.com/wachutuchief/status/758516175513018368",
+          "display_url": "twitter.com/wachutuchief/s…",
           "indices": [
             117,
             140
@@ -82,9 +82,11 @@
     "contributors": [
       904657574
     ],
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 6,
+    "is_quote_status": true,
+    "quoted_status_id": 758516175513018400,
+    "quoted_status_id_str": "758516175513018368",
+    "retweet_count": 0,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
