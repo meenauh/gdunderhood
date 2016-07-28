@@ -73,5 +73,5 @@
 Если вы заметили нарушение, как можно скорее [напишите письмо][coc-violations].
 
 [uh]: https://twitter.com/gdunderhood
-[proposal]: mailto:meenauh@gmail.com?subject=Author’s%20proposal%20for%20@gdunderhood
-[coc-violations]: mailto:meenauh@gmail.com?subject=CoC%20violations%20in%20@gdunderhood
+[proposal]: mailto:shiroolab@gmail.com@gmail.com?subject=Author’s%20proposal%20for%20@gdunderhood
+[coc-violations]: mailto:shiroolab@gmail.com@gmail.com?subject=CoC%20violations%20in%20@gdunderhood
