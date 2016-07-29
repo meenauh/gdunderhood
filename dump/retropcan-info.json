@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 466,
+  "followers_count": 468,
   "friends_count": 16,
   "listed_count": 7,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
@@ -46,51 +46,49 @@
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 1268,
+  "statuses_count": 1292,
   "lang": "en",
   "status": {
-    "created_at": "Thu Jul 28 14:57:30 +0000 2016",
-    "id": 758677768993382400,
-    "id_str": "758677768993382400",
-    "text": "...но что ни говори: работа ведь на воздухе, работа ведь с людьми (с) https://t.co/kmgud1exNu",
+    "created_at": "Fri Jul 29 13:00:33 +0000 2016",
+    "id": 759010726182654000,
+    "id_str": "759010726182653952",
+    "text": "@Ed_Wing )))))))))",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/kmgud1exNu",
-          "expanded_url": "https://twitter.com/shestovt/status/758666147113959424",
-          "display_url": "twitter.com/shestovt/statu…",
+          "screen_name": "Ed_Wing",
+          "name": "Slava Lukyanenka",
+          "id": 16422171,
+          "id_str": "16422171",
           "indices": [
-            70,
-            93
+            0,
+            8
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 759010186287652900,
+    "in_reply_to_status_id_str": "759010186287652872",
+    "in_reply_to_user_id": 16422171,
+    "in_reply_to_user_id_str": "16422171",
+    "in_reply_to_screen_name": "Ed_Wing",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": [
       904657574
     ],
-    "is_quote_status": true,
-    "quoted_status_id": 758666147113959400,
-    "quoted_status_id_str": "758666147113959424",
+    "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "ru"
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
