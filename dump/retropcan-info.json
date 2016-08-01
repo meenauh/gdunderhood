@@ -46,26 +46,37 @@
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 1295,
+  "statuses_count": 1297,
   "lang": "en",
   "status": {
-    "created_at": "Sun Jul 31 08:28:43 +0000 2016",
-    "id": 759667090878001200,
-    "id_str": "759667090878001152",
-    "text": "В основном \"для души\". В игры конкурентов играю с чисто профессиональной точки зрения, мне сложно абстрагироваться. https://t.co/03oe0V2APN",
+    "created_at": "Sun Jul 31 20:59:08 +0000 2016",
+    "id": 759855940338266100,
+    "id_str": "759855940338266112",
+    "text": "С вами был @retropcan - фолловьте твиттер и читайте блог - https://t.co/2Y6ltXzTGm\n\nНапоследок совет: делайте только то, что вам нравится!",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "retropcan",
+          "name": "Svyatoslav Torick",
+          "id": 904657574,
+          "id_str": "904657574",
+          "indices": [
+            11,
+            21
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/03oe0V2APN",
-          "expanded_url": "https://twitter.com/Hatred_oberon/status/759666568552906754",
-          "display_url": "twitter.com/Hatred_oberon/…",
+          "url": "https://t.co/2Y6ltXzTGm",
+          "expanded_url": "http://torick.ru",
+          "display_url": "torick.ru",
           "indices": [
-            116,
-            139
+            59,
+            82
           ]
         }
       ]
@@ -79,14 +90,10 @@
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": [
-      904657574
-    ],
-    "is_quote_status": true,
-    "quoted_status_id": 759666568552906800,
-    "quoted_status_id_str": "759666568552906754",
+    "contributors": null,
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
