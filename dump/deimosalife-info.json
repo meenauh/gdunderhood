@@ -1,0 +1,114 @@
+{
+  "id": 747371158832545800,
+  "id_str": "747371158832545792",
+  "name": "Геймдизайнер",
+  "screen_name": "gdunderhood",
+  "location": "Saint Petersburg, Russia",
+  "profile_location": {
+    "id": "a76c0cd7d56c4836",
+    "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
+    "place_type": "unknown",
+    "name": "Saint Petersburg, Russia",
+    "full_name": "Saint Petersburg, Russia",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
+  "description": "Коллективный твиттер-аккаунт для гейм-дизайнеров всех мастей: от балансеров до нарративщиков. Новый автор каждую неделю. На этой неделе – @deimosalife",
+  "url": "https://t.co/lIo0mtT2X0",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/lIo0mtT2X0",
+          "expanded_url": "http://gdunderhood.ru/",
+          "display_url": "gdunderhood.ru",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "protected": false,
+  "followers_count": 474,
+  "friends_count": 16,
+  "listed_count": 8,
+  "created_at": "Mon Jun 27 10:09:04 +0000 2016",
+  "favourites_count": 170,
+  "utc_offset": -25200,
+  "time_zone": "Pacific Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 1302,
+  "lang": "en",
+  "status": {
+    "created_at": "Mon Aug 01 09:06:10 +0000 2016",
+    "id": 760038903621492700,
+    "id_str": "760038903621492736",
+    "text": "Наверное мне бы стоило делать космические sci-fi игры, но этим занимается Артем Волков - постоянный автор @GDcuffs \nА где учились вы,ребята?",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "GDcuffs",
+          "name": "Манжеты ГД",
+          "id": 3341695624,
+          "id_str": "3341695624",
+          "indices": [
+            106,
+            114
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ru"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/760034431792971776/fE2XdLki_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/760034431792971776/fE2XdLki_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/747371158832545792/1470041453",
+  "profile_link_color": "000000",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "000000",
+  "profile_text_color": "000000",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "suspended": false,
+  "needs_phone_verification": false
+}
