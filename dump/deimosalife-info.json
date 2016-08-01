@@ -37,39 +37,38 @@
     }
   },
   "protected": false,
-  "followers_count": 474,
-  "friends_count": 16,
+  "followers_count": 473,
+  "friends_count": 17,
   "listed_count": 8,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 170,
+  "favourites_count": 188,
   "utc_offset": -25200,
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 1302,
+  "statuses_count": 1317,
   "lang": "en",
   "status": {
-    "created_at": "Mon Aug 01 09:06:10 +0000 2016",
-    "id": 760038903621492700,
-    "id_str": "760038903621492736",
-    "text": "Наверное мне бы стоило делать космические sci-fi игры, но этим занимается Артем Волков - постоянный автор @GDcuffs \nА где учились вы,ребята?",
+    "created_at": "Mon Aug 01 15:27:52 +0000 2016",
+    "id": 760134963723460600,
+    "id_str": "760134963723460608",
+    "text": "Конечно, держитесь там) На самом деле вход в индустрию со стороны гд довольно широк. Рассматривают даже без опыта https://t.co/3dSytA8cge",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "GDcuffs",
-          "name": "Манжеты ГД",
-          "id": 3341695624,
-          "id_str": "3341695624",
+          "url": "https://t.co/3dSytA8cge",
+          "expanded_url": "https://twitter.com/dearenot/status/760134430493212672",
+          "display_url": "twitter.com/dearenot/statu…",
           "indices": [
-            106,
-            114
+            114,
+            137
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -81,11 +80,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 760134430493212700,
+    "quoted_status_id_str": "760134430493212672",
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -109,6 +111,7 @@
   "following": false,
   "follow_request_sent": false,
   "notifications": false,
+  "translator_type": "none",
   "suspended": false,
   "needs_phone_verification": false
 }
