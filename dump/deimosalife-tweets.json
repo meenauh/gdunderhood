@@ -2642,6 +2642,957 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 08:43:39 +0000 2016",
+      "id": 760758012478951400,
+      "id_str": "760758012478951424",
+      "text": "Всем привет. Сегодня мы поговорим о том, нужно ли писать статьи. Новичку. Без опыта.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 08:45:33 +0000 2016",
+      "id": 760758492630310900,
+      "id_str": "760758492630310912",
+      "text": "И по традиции опрос. \nПишите ли вы статьи?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 09:05:46 +0000 2016",
+      "id": 760763578697809900,
+      "id_str": "760763578697809920",
+      "text": "Никита опережает события и передает мой основной посыл. Но чуть позже поделюсь своим научным опытом https://t.co/S58DwFBw4b",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/S58DwFBw4b",
+            "expanded_url": "https://twitter.com/vedmich/status/760762472315977728",
+            "display_url": "twitter.com/vedmich/status…",
+            "indices": [
+              100,
+              123
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 760762472315977700,
+      "quoted_status_id_str": "760762472315977728",
+      "quoted_status": {
+        "created_at": "Wed Aug 03 09:01:22 +0000 2016",
+        "id": 760762472315977700,
+        "id_str": "760762472315977728",
+        "text": "@CadmusRu @gdunderhood не согласен, когда пишешь о чем-то – параллельно копаешь тему и многому сам учишься в процессе. Я так про МК писал :)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "CadmusRu",
+              "name": "Cadmus",
+              "id": 1909469556,
+              "id_str": "1909469556",
+              "indices": [
+                0,
+                9
+              ]
+            },
+            {
+              "screen_name": "gdunderhood",
+              "name": "Геймдизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                10,
+                22
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 760758306210185200,
+        "in_reply_to_status_id_str": "760758306210185216",
+        "in_reply_to_user_id": 1909469556,
+        "in_reply_to_user_id_str": "1909469556",
+        "in_reply_to_screen_name": "CadmusRu",
+        "user": {
+          "id": 56080508,
+          "id_str": "56080508"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 09:31:08 +0000 2016",
+      "id": 760769964886388700,
+      "id_str": "760769964886388736",
+      "text": "Именно поэтому важная часть - найти опытного рецензента. Многие люди в индустрии с удовольствием укажут на ошибки. https://t.co/dgsTsfAp57",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/dgsTsfAp57",
+            "expanded_url": "https://twitter.com/diforus/status/760768430408544256",
+            "display_url": "twitter.com/diforus/status…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 760768430408544300,
+      "quoted_status_id_str": "760768430408544256",
+      "quoted_status": {
+        "created_at": "Wed Aug 03 09:25:02 +0000 2016",
+        "id": 760768430408544300,
+        "id_str": "760768430408544256",
+        "text": "@gdunderhood И какого качества тогда будет это материал? И кому он будет интересен/полезен? Писать - можно, публиковать - не стоит.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Геймдизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 760758012478951400,
+        "in_reply_to_status_id_str": "760758012478951424",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 347723676,
+          "id_str": "347723676"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 09:32:23 +0000 2016",
+      "id": 760770277173239800,
+      "id_str": "760770277173239808",
+      "text": "В науке так:\n- Пишем статью\n- Отсылаем в редакцию, получаем рецензента\n- Отстаиваем свою точку зрения\n- Убеждаем или уходим дорабатывать",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 09:33:19 +0000 2016",
+      "id": 760770512893145100,
+      "id_str": "760770512893145089",
+      "text": "Как уже высказался @vedmich для написания статьи нужно поставить проблему и решить ее. Делиться этим с окружающими - ваш выбор",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vedmich",
+            "name": "Matsukaze",
+            "id": 56080508,
+            "id_str": "56080508",
+            "indices": [
+              19,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 09:34:38 +0000 2016",
+      "id": 760770843597299700,
+      "id_str": "760770843597299713",
+      "text": "Но как фидбек от рецензента, так и фидбек от читателей (а у нас в индустрии все профи - не забывайте :) будет очень полезен в плане опыта",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 760770512893145100,
+      "in_reply_to_status_id_str": "760770512893145089",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 09:52:07 +0000 2016",
+      "id": 760775245846474800,
+      "id_str": "760775245846474752",
+      "text": "@GDcuffs и рубрика письмо в редакцию, App2top всегда рад материалам о разработке https://t.co/9KADhak8PT https://t.co/GxTZ7ctm4d",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "GDcuffs",
+            "name": "Манжеты ГД",
+            "id": 3341695624,
+            "id_str": "3341695624",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/9KADhak8PT",
+            "expanded_url": "http://app2top.ru/prislat-material",
+            "display_url": "app2top.ru/prislat-materi…",
+            "indices": [
+              81,
+              104
+            ]
+          },
+          {
+            "url": "https://t.co/GxTZ7ctm4d",
+            "expanded_url": "https://twitter.com/Gilnaure/status/760771751081046016",
+            "display_url": "twitter.com/Gilnaure/statu…",
+            "indices": [
+              105,
+              128
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 3341695624,
+      "in_reply_to_user_id_str": "3341695624",
+      "in_reply_to_screen_name": "GDcuffs",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 760771751081046000,
+      "quoted_status_id_str": "760771751081046016",
+      "quoted_status": {
+        "created_at": "Wed Aug 03 09:38:14 +0000 2016",
+        "id": 760771751081046000,
+        "id_str": "760771751081046016",
+        "text": "@gdunderhood Остался важный вопрос - где же водятся желающие прочитать? Причём именно статью новичка, а не что-то с Гамасутры сразу :)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Геймдизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 760770843597299700,
+        "in_reply_to_status_id_str": "760770843597299713",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 122800182,
+          "id_str": "122800182"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 09:53:34 +0000 2016",
+      "id": 760775610964869100,
+      "id_str": "760775610964869120",
+      "text": "А также стоит знакомиться с опытными ребятами из индустрии и общаться. Если есть цель набирать опыт - знакомства очень помогут",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 760775245846474800,
+      "in_reply_to_status_id_str": "760775245846474752",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 10:31:14 +0000 2016",
+      "id": 760785087264874500,
+      "id_str": "760785087264874496",
+      "text": "Так точно.Причем фиксация результатов ресерча на бумаге позволит через время оценить адекватность полученных выводов https://t.co/7VJcuuuayE",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/7VJcuuuayE",
+            "expanded_url": "https://twitter.com/retropcan/status/760783782517608448",
+            "display_url": "twitter.com/retropcan/stat…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 760783782517608400,
+      "quoted_status_id_str": "760783782517608448",
+      "quoted_status": {
+        "created_at": "Wed Aug 03 10:26:03 +0000 2016",
+        "id": 760783782517608400,
+        "id_str": "760783782517608448",
+        "text": "@gdunderhood есть такая древняя журналистская поговорка - \"если не можешь найти нужную книжку, напиши ее сам\".",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Геймдизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": 760763578697809900,
+        "in_reply_to_status_id_str": "760763578697809920",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 904657574,
+          "id_str": "904657574"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 11:32:48 +0000 2016",
+      "id": 760800581099327500,
+      "id_str": "760800581099327488",
+      "text": "Все так. Суть в том, что писать статьи, делать ресерчи нужно, т.к. это неплохо прокачивает различные навыки https://t.co/sUj4HzTbYL",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/sUj4HzTbYL",
+            "expanded_url": "https://twitter.com/ovca_snob/status/760800096380448768",
+            "display_url": "twitter.com/ovca_snob/stat…",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 760800096380448800,
+      "quoted_status_id_str": "760800096380448768",
+      "quoted_status": {
+        "created_at": "Wed Aug 03 11:30:52 +0000 2016",
+        "id": 760800096380448800,
+        "id_str": "760800096380448768",
+        "text": "@gdunderhood если в области, то писывать поиски решения своих новичковых задач может быть полезно, другим таким же новичкам, например.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Геймдизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 760799955363692500,
+        "in_reply_to_status_id_str": "760799955363692544",
+        "in_reply_to_user_id": 710179047913951200,
+        "in_reply_to_user_id_str": "710179047913951234",
+        "in_reply_to_screen_name": "ovca_snob",
+        "user": {
+          "id": 710179047913951200,
+          "id_str": "710179047913951234"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 13:28:45 +0000 2016",
+      "id": 760829763158179800,
+      "id_str": "760829763158179840",
+      "text": "Как найти тему? Взять то, что не понятно и начать копать. Спрашивать у коллег - хорошо, но в меру. Не нужно быть назойливыми",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 14:01:52 +0000 2016",
+      "id": 760838095424016400,
+      "id_str": "760838095424016385",
+      "text": "Каждое утро перед работой читаю статьи. Pocket помогает не забыть то, что отложил на потом :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 15:29:55 +0000 2016",
+      "id": 760860254829682700,
+      "id_str": "760860254829682690",
+      "text": "RT @_K_o_S_: @gdunderhood писать - нужно. Публиковать ли - зависит. Очень полезно через пару лет оглядываться и анализировать свои ошибки",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_K_o_S_",
+            "name": "Andrey Kostyushko",
+            "id": 20938561,
+            "id_str": "20938561",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Геймдизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              13,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Aug 03 15:10:44 +0000 2016",
+        "id": 760855426824929300,
+        "id_str": "760855426824929280",
+        "text": "@gdunderhood писать - нужно. Публиковать ли - зависит. Очень полезно через пару лет оглядываться и анализировать свои ошибки",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Геймдизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 760758012478951400,
+        "in_reply_to_status_id_str": "760758012478951424",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 20938561,
+          "id_str": "20938561"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": true,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 15:59:27 +0000 2016",
+      "id": 760867686700159000,
+      "id_str": "760867686700158978",
+      "text": "RT @_K_o_S_: @gdunderhood а правильнее сначала применить, а потом - описать. ГД - тот, кто делает игры в первую очередь, а не пишет статьи",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_K_o_S_",
+            "name": "Andrey Kostyushko",
+            "id": 20938561,
+            "id_str": "20938561",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Геймдизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              13,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Aug 03 15:36:03 +0000 2016",
+        "id": 760861799495376900,
+        "id_str": "760861799495376896",
+        "text": "@gdunderhood а правильнее сначала применить, а потом - описать. ГД - тот, кто делает игры в первую очередь, а не пишет статьи",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Геймдизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 760861578472329200,
+        "in_reply_to_status_id_str": "760861578472329216",
+        "in_reply_to_user_id": 20938561,
+        "in_reply_to_user_id_str": "20938561",
+        "in_reply_to_screen_name": "_K_o_S_",
+        "user": {
+          "id": 20938561,
+          "id_str": "20938561"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": true,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
     }
   ]
 }
