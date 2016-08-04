@@ -37,105 +37,44 @@
     }
   },
   "protected": false,
-  "followers_count": 476,
+  "followers_count": 480,
   "friends_count": 17,
   "listed_count": 8,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 218,
+  "favourites_count": 226,
   "utc_offset": -25200,
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 1354,
+  "statuses_count": 1365,
   "lang": "en",
   "status": {
-    "created_at": "Wed Aug 03 15:59:27 +0000 2016",
-    "id": 760867686700159000,
-    "id_str": "760867686700158978",
-    "text": "RT @_K_o_S_: @gdunderhood а правильнее сначала применить, а потом - описать. ГД - тот, кто делает игры в первую очередь, а не пишет статьи",
+    "created_at": "Thu Aug 04 12:24:46 +0000 2016",
+    "id": 761176048893562900,
+    "id_str": "761176048893562880",
+    "text": "Люди используют вывод из каких-либо формул не понимая базисных утверждений. ИМХО: перед употреблением стоит читать инструкцию",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "_K_o_S_",
-          "name": "Andrey Kostyushko",
-          "id": 20938561,
-          "id_str": "20938561",
-          "indices": [
-            3,
-            11
-          ]
-        },
-        {
-          "screen_name": "gdunderhood",
-          "name": "Геймдизайнер",
-          "id": 747371158832545800,
-          "id_str": "747371158832545792",
-          "indices": [
-            13,
-            25
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 761175632684412900,
+    "in_reply_to_status_id_str": "761175632684412928",
+    "in_reply_to_user_id": 747371158832545800,
+    "in_reply_to_user_id_str": "747371158832545792",
+    "in_reply_to_screen_name": "gdunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Wed Aug 03 15:36:03 +0000 2016",
-      "id": 760861799495376900,
-      "id_str": "760861799495376896",
-      "text": "@gdunderhood а правильнее сначала применить, а потом - описать. ГД - тот, кто делает игры в первую очередь, а не пишет статьи",
-      "truncated": false,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "gdunderhood",
-            "name": "Геймдизайнер",
-            "id": 747371158832545800,
-            "id_str": "747371158832545792",
-            "indices": [
-              0,
-              12
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "in_reply_to_status_id": 760861578472329200,
-      "in_reply_to_status_id_str": "760861578472329216",
-      "in_reply_to_user_id": 20938561,
-      "in_reply_to_user_id_str": "20938561",
-      "in_reply_to_screen_name": "_K_o_S_",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 2,
-      "favorited": true,
-      "retweeted": true,
-      "lang": "ru"
-    },
     "is_quote_status": false,
-    "retweet_count": 1,
+    "retweet_count": 0,
     "favorite_count": 0,
-    "favorited": true,
-    "retweeted": true,
+    "favorited": false,
+    "retweeted": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
