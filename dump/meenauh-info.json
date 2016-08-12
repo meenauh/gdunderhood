@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 493,
+  "followers_count": 488,
   "friends_count": 19,
   "listed_count": 9,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
@@ -46,57 +46,96 @@
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 1582,
+  "statuses_count": 1685,
   "lang": "en",
   "status": {
-    "created_at": "Wed Aug 10 10:25:22 +0000 2016",
-    "id": 763320328974106600,
-    "id_str": "763320328974106624",
-    "text": "И 6 бордов на пинтересте из вот этого поста @galyonkin: https://t.co/JynKD6LabI",
+    "created_at": "Fri Aug 12 07:01:17 +0000 2016",
+    "id": 763993745607921700,
+    "id_str": "763993745607921665",
+    "text": "RT @shestovt: @gdunderhood Большая часть теории сводится к \"выберите то, без чего ну никак, и проверьте играбельность с минимальными прилож…",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "galyonkin",
-          "name": "Sergey Galyonkin",
-          "id": 14375068,
-          "id_str": "14375068",
+          "screen_name": "shestovt",
+          "name": "Анатолий Шестов",
+          "id": 446838946,
+          "id_str": "446838946",
           "indices": [
-            44,
-            54
+            3,
+            12
+          ]
+        },
+        {
+          "screen_name": "gdunderhood",
+          "name": "Гейм-дизайнер",
+          "id": 747371158832545800,
+          "id_str": "747371158832545792",
+          "indices": [
+            14,
+            26
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/JynKD6LabI",
-          "expanded_url": "http://goo.gl/ZeL51E",
-          "display_url": "goo.gl/ZeL51E",
-          "indices": [
-            56,
-            79
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 763320118470410200,
-    "in_reply_to_status_id_str": "763320118470410240",
-    "in_reply_to_user_id": 747371158832545800,
-    "in_reply_to_user_id_str": "747371158832545792",
-    "in_reply_to_screen_name": "gdunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Aug 12 06:56:39 +0000 2016",
+      "id": 763992578949681200,
+      "id_str": "763992578949681152",
+      "text": "@gdunderhood Большая часть теории сводится к \"выберите то, без чего ну никак, и проверьте играбельность с минимальными приложением сил\" )",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 763983856433193000,
+      "in_reply_to_status_id_str": "763983856433192962",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
     "is_quote_status": false,
     "retweet_count": 1,
-    "favorite_count": 7,
+    "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,

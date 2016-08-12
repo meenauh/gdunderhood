@@ -2714,6 +2714,411 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 10 16:42:27 +0000 2016",
+      "id": 763415223566991400,
+      "id_str": "763415223566991361",
+      "text": "@gdunderhood а есть какие-либо хорошие книги про UX-игр?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 763030652228890600,
+      "in_reply_to_status_id_str": "763030652228890624",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 410179365,
+        "id_str": "410179365"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "702478813c134c46",
+        "url": "https://api.twitter.com/1.1/geo/id/702478813c134c46.json",
+        "place_type": "city",
+        "name": "Ulyanovsk",
+        "full_name": "Ulyanovsk, Russia",
+        "country_code": "RU",
+        "country": "Russia",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                48.2490015,
+                54.2317531
+              ],
+              [
+                48.688845,
+                54.2317531
+              ],
+              [
+                48.688845,
+                54.404
+              ],
+              [
+                48.2490015,
+                54.404
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 11 08:09:54 +0000 2016",
+      "id": 763648622567252000,
+      "id_str": "763648622567251968",
+      "text": "@gdunderhood плюсую за бальзамик, отличная тулза.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 763648477687484400,
+      "in_reply_to_status_id_str": "763648477687484417",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 615029171,
+        "id_str": "615029171"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 11 12:38:27 +0000 2016",
+      "id": 763716208457908200,
+      "id_str": "763716208457908225",
+      "text": "@gdunderhood ну, тут стоит учитывать количество ресурсов программеров, которое уйдет на создание такого инструмента.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 763716012063752200,
+      "in_reply_to_status_id_str": "763716012063752192",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 56080508,
+        "id_str": "56080508"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 11 12:50:23 +0000 2016",
+      "id": 763719208488276000,
+      "id_str": "763719208488275969",
+      "text": "@gdunderhood труъ, но для этого надо уметь крутить компоненты. Тулза же – инструмент, чтобы не вгрызаться в нюансы обычно :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 763719017429364700,
+      "in_reply_to_status_id_str": "763719017429364736",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 56080508,
+        "id_str": "56080508"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 11 20:28:49 +0000 2016",
+      "id": 763834579467792400,
+      "id_str": "763834579467792384",
+      "text": "@gdunderhood интересно. Но твиттер не для таких излияний :( сложно читать",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 763649023530111000,
+      "in_reply_to_status_id_str": "763649023530110976",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 447343984,
+        "id_str": "447343984"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 11 23:00:28 +0000 2016",
+      "id": 763872740336136200,
+      "id_str": "763872740336136196",
+      "text": "@vedmich @gdunderhood близко к нулю, если это задумывалось на этапе прототипа. Тяжело только жирный проект на это переводить.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vedmich",
+            "name": "Matsukaze",
+            "id": 56080508,
+            "id_str": "56080508",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              9,
+              21
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 763716208457908200,
+      "in_reply_to_status_id_str": "763716208457908225",
+      "in_reply_to_user_id": 56080508,
+      "in_reply_to_user_id_str": "56080508",
+      "in_reply_to_screen_name": "vedmich",
+      "user": {
+        "id": 85163927,
+        "id_str": "85163927"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 12 05:19:03 +0000 2016",
+      "id": 763968014035275800,
+      "id_str": "763968014035275780",
+      "text": "@gdunderhood @stanislavsmagin прикольно что геймдиз так сфокусированный на UX юзает платформу \"против шерсти\" и UX выходит отстойный.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "stanislavsmagin",
+            "name": "Stanislav Smagin",
+            "id": 447343984,
+            "id_str": "447343984",
+            "indices": [
+              13,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 763963226878939100,
+      "in_reply_to_status_id_str": "763963226878939137",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 17658923,
+        "id_str": "17658923"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 12 06:56:39 +0000 2016",
+      "id": 763992578949681200,
+      "id_str": "763992578949681152",
+      "text": "@gdunderhood Большая часть теории сводится к \"выберите то, без чего ну никак, и проверьте играбельность с минимальными приложением сил\" )",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 763983856433193000,
+      "in_reply_to_status_id_str": "763983856433192962",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 446838946,
+        "id_str": "446838946"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
     }
   ]
 }
