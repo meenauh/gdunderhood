@@ -37,105 +37,44 @@
     }
   },
   "protected": false,
-  "followers_count": 488,
+  "followers_count": 492,
   "friends_count": 19,
-  "listed_count": 9,
+  "listed_count": 10,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 229,
+  "favourites_count": 230,
   "utc_offset": -25200,
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 1685,
+  "statuses_count": 1712,
   "lang": "en",
   "status": {
-    "created_at": "Fri Aug 12 07:01:17 +0000 2016",
-    "id": 763993745607921700,
-    "id_str": "763993745607921665",
-    "text": "RT @shestovt: @gdunderhood Большая часть теории сводится к \"выберите то, без чего ну никак, и проверьте играбельность с минимальными прилож…",
+    "created_at": "Sat Aug 13 18:46:24 +0000 2016",
+    "id": 764533578759798800,
+    "id_str": "764533578759798785",
+    "text": "У нас же как-то этими гейм-дизайнерами становятся. Специализация неформальная есть, но вроде как от тебя ждут большего :)",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "shestovt",
-          "name": "Анатолий Шестов",
-          "id": 446838946,
-          "id_str": "446838946",
-          "indices": [
-            3,
-            12
-          ]
-        },
-        {
-          "screen_name": "gdunderhood",
-          "name": "Гейм-дизайнер",
-          "id": 747371158832545800,
-          "id_str": "747371158832545792",
-          "indices": [
-            14,
-            26
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 764533295321387000,
+    "in_reply_to_status_id_str": "764533295321387008",
+    "in_reply_to_user_id": 747371158832545800,
+    "in_reply_to_user_id_str": "747371158832545792",
+    "in_reply_to_screen_name": "gdunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Fri Aug 12 06:56:39 +0000 2016",
-      "id": 763992578949681200,
-      "id_str": "763992578949681152",
-      "text": "@gdunderhood Большая часть теории сводится к \"выберите то, без чего ну никак, и проверьте играбельность с минимальными приложением сил\" )",
-      "truncated": false,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "gdunderhood",
-            "name": "Гейм-дизайнер",
-            "id": 747371158832545800,
-            "id_str": "747371158832545792",
-            "indices": [
-              0,
-              12
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "in_reply_to_status_id": 763983856433193000,
-      "in_reply_to_status_id_str": "763983856433192962",
-      "in_reply_to_user_id": 747371158832545800,
-      "in_reply_to_user_id_str": "747371158832545792",
-      "in_reply_to_screen_name": "gdunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "favorited": false,
-      "retweeted": true,
-      "lang": "ru"
-    },
     "is_quote_status": false,
-    "retweet_count": 1,
+    "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": true,
+    "retweeted": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
