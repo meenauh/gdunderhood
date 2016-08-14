@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 492,
+  "followers_count": 491,
   "friends_count": 19,
   "listed_count": 10,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
@@ -46,26 +46,37 @@
   "time_zone": "Pacific Time (US & Canada)",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 1712,
+  "statuses_count": 1747,
   "lang": "en",
   "status": {
-    "created_at": "Sat Aug 13 18:46:24 +0000 2016",
-    "id": 764533578759798800,
-    "id_str": "764533578759798785",
-    "text": "У нас же как-то этими гейм-дизайнерами становятся. Специализация неформальная есть, но вроде как от тебя ждут большего :)",
+    "created_at": "Sun Aug 14 18:15:01 +0000 2016",
+    "id": 764888068197417000,
+    "id_str": "764888068197416960",
+    "text": "@Gilnaure надеюсь, это будет полезная и нужная профдеформация. По моему опыту и общению тестеры лучше других понимают гейм-дизайнеров.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "Gilnaure",
+          "name": "Catherine",
+          "id": 122800182,
+          "id_str": "122800182",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 764533295321387000,
-    "in_reply_to_status_id_str": "764533295321387008",
-    "in_reply_to_user_id": 747371158832545800,
-    "in_reply_to_user_id_str": "747371158832545792",
-    "in_reply_to_screen_name": "gdunderhood",
+    "in_reply_to_status_id": 764887668731809800,
+    "in_reply_to_status_id_str": "764887668731809793",
+    "in_reply_to_user_id": 122800182,
+    "in_reply_to_user_id_str": "122800182",
+    "in_reply_to_screen_name": "Gilnaure",
     "geo": null,
     "coordinates": null,
     "place": null,
