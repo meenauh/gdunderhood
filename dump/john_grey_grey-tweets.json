@@ -76,6 +76,876 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 15 15:25:46 +0000 2016",
+      "id": 765207866504536000,
+      "id_str": "765207866504536069",
+      "text": "Немного о себе.\nПолучил образование специалиста книжного дела, работал в бизнес-консалтинге и в театре, пытался зарабатывать литературой.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 15 15:27:00 +0000 2016",
+      "id": 765208174462992400,
+      "id_str": "765208174462992384",
+      "text": "Твердо решил, что игры - лучший способ рассказывать истории. Потому 2 года назад попал в разработку черно-белого платформера @OVIVO_game",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "OVIVO_game",
+            "name": "OVIVO Game",
+            "id": 2984304022,
+            "id_str": "2984304022",
+            "indices": [
+              125,
+              136
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 15 15:28:03 +0000 2016",
+      "id": 765208438704050200,
+      "id_str": "765208438704050176",
+      "text": "Потом было еще несколько проектов, где мне довелось участвовать. А сейчас я оказался в команде чертовски обаятельной @SmashBashGame.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SmashBashGame",
+            "name": "SMASH BASH",
+            "id": 2213610082,
+            "id_str": "2213610082",
+            "indices": [
+              117,
+              131
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 15 15:29:20 +0000 2016",
+      "id": 765208763972382700,
+      "id_str": "765208763972382720",
+      "text": "Часто меня приглашают в качестве сценариста. Я действительно пишу сценарии. Но занимаюсь \"нарративным дизайнером\".",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 15 15:30:28 +0000 2016",
+      "id": 765209048786534400,
+      "id_str": "765209048786534401",
+      "text": "Почему \"нарративный дизайнер\"? И как это связано с гейм-дизайном? Об этом я и буду здесь говорить всю неделю ;)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 15 16:20:22 +0000 2016",
+      "id": 765221606268538900,
+      "id_str": "765221606268538880",
+      "text": "@YarKravtsov @vedmich конечно, расскажу!\nЭто станет важной частью того очень субъективного рассказа, который я заготовил на  неделю ;)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "YarKravtsov",
+            "name": "Yaroslav Kravtsov",
+            "id": 2248341073,
+            "id_str": "2248341073",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "vedmich",
+            "name": "Matsukaze",
+            "id": 56080508,
+            "id_str": "56080508",
+            "indices": [
+              13,
+              21
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 765211882085052400,
+      "in_reply_to_status_id_str": "765211882085052416",
+      "in_reply_to_user_id": 2248341073,
+      "in_reply_to_user_id_str": "2248341073",
+      "in_reply_to_screen_name": "YarKravtsov",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 16 07:27:19 +0000 2016",
+      "id": 765449844794224600,
+      "id_str": "765449844794224640",
+      "text": "Доброе утро, друзья!\nСегодня я расскажу о важных играх, которые заставили меня посмотреть на игры как на уникальный инструмент сторителинга.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 16 07:27:49 +0000 2016",
+      "id": 765449972506583000,
+      "id_str": "765449972506583040",
+      "text": "Это будет рассказ об интересных комбинациях гейм-дизайнерских решений, рассказывающих игроку сложные истории (зачастую без единого слова).",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 16 08:54:36 +0000 2016",
+      "id": 765471814147567600,
+      "id_str": "765471814147567616",
+      "text": "Majesty подарила мне загадочные слова \"indirect control\", а жанр этой игры лихо объединил почтенные RPG и RTS. https://t.co/AH1J5QoLrw",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 765464491651981300,
+            "id_str": "765464491651981312",
+            "indices": [
+              111,
+              134
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp955kkXYAALPoe.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp955kkXYAALPoe.jpg",
+            "url": "https://t.co/AH1J5QoLrw",
+            "display_url": "pic.twitter.com/AH1J5QoLrw",
+            "expanded_url": "http://twitter.com/gdunderhood/status/765471814147567616/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 256,
+                "h": 361,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 256,
+                "h": 361,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 256,
+                "h": 361,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 765464491651981300,
+            "id_str": "765464491651981312",
+            "indices": [
+              111,
+              134
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp955kkXYAALPoe.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp955kkXYAALPoe.jpg",
+            "url": "https://t.co/AH1J5QoLrw",
+            "display_url": "pic.twitter.com/AH1J5QoLrw",
+            "expanded_url": "http://twitter.com/gdunderhood/status/765471814147567616/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 256,
+                "h": 361,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 256,
+                "h": 361,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 256,
+                "h": 361,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 16 08:54:50 +0000 2016",
+      "id": 765471872918052900,
+      "id_str": "765471872918052865",
+      "text": "Конечно, \"indirect control\" много раз встречался и до симулятора фентезийного королевства (хотя бы даже в Dungeon Keeper и Settlers).",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 16 08:55:34 +0000 2016",
+      "id": 765472054921596900,
+      "id_str": "765472054921596928",
+      "text": "Но именно в Majesty \"непрямое управление\" стало краеугольным камнем геймплея и генератором целого вороха увлекательных историй.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 16 11:44:31 +0000 2016",
+      "id": 765514573281624000,
+      "id_str": "765514573281624068",
+      "text": "Majesty предлагает игроку ощутить разницу между его ожиданиями от своих действий и тем, как они отражаются на состоянии игровой системы.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 16 11:44:40 +0000 2016",
+      "id": 765514612485808100,
+      "id_str": "765514612485808128",
+      "text": "При этом каждое действие отражается в игре не моментально, а поступательно разворачивается перед нами словно отдельная история.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 16 11:44:52 +0000 2016",
+      "id": 765514660053389300,
+      "id_str": "765514660053389312",
+      "text": "Эта история озаглавлена решением игрока, и пишется игровыми правилами, но ее идея предложена игроком.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 16 11:45:09 +0000 2016",
+      "id": 765514734183575600,
+      "id_str": "765514734183575552",
+      "text": "Majesty впервые подарила мне удивительный опыт соавторства, где я выступал чуть ли не на равных с разработчиком в создании своего опыта.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 16 11:53:31 +0000 2016",
+      "id": 765516838763634700,
+      "id_str": "765516838763634688",
+      "text": "Принятие решений и оценка их результатов не в конечном состоянии системы, но в процессе ее изменения, заставляют игрока ценить свои действия",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 16 13:56:14 +0000 2016",
+      "id": 765547722791350300,
+      "id_str": "765547722791350272",
+      "text": "@gorogoro848 В той же Majesty решение уничтожить точку спавна монстров - это назначение цены за попытку и наблюдение за ее реализацией.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gorogoro848",
+            "name": "feelsgood",
+            "id": 936375678,
+            "id_str": "936375678",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 765541151357149200,
+      "in_reply_to_status_id_str": "765541151357149184",
+      "in_reply_to_user_id": 936375678,
+      "in_reply_to_user_id_str": "936375678",
+      "in_reply_to_screen_name": "gorogoro848",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 16 13:56:26 +0000 2016",
+      "id": 765547772040847400,
+      "id_str": "765547772040847360",
+      "text": "@gorogoro848 А сами попытки обусловлены назначенной ценой, впрягшимися героями, их попутными приключениями...",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gorogoro848",
+            "name": "feelsgood",
+            "id": 936375678,
+            "id_str": "936375678",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 765541151357149200,
+      "in_reply_to_status_id_str": "765541151357149184",
+      "in_reply_to_user_id": 936375678,
+      "in_reply_to_user_id_str": "936375678",
+      "in_reply_to_screen_name": "gorogoro848",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 16 13:57:56 +0000 2016",
+      "id": 765548147334647800,
+      "id_str": "765548147334647808",
+      "text": "@gorogoro848 Даже неудача реализации принятого решения может дать уникальные плоды в прокачке героев, убитых монстрах, полученных ресурсах)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gorogoro848",
+            "name": "feelsgood",
+            "id": 936375678,
+            "id_str": "936375678",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 765541151357149200,
+      "in_reply_to_status_id_str": "765541151357149184",
+      "in_reply_to_user_id": 936375678,
+      "in_reply_to_user_id_str": "936375678",
+      "in_reply_to_screen_name": "gorogoro848",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 16 13:58:24 +0000 2016",
+      "id": 765548265970495500,
+      "id_str": "765548265970495488",
+      "text": "@gorogoro848 Такое не только в Majesty, но здесь вариативность сценариев осуществления решений игрока стала краеугольным камнем геймплея.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gorogoro848",
+            "name": "feelsgood",
+            "id": 936375678,
+            "id_str": "936375678",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 765541151357149200,
+      "in_reply_to_status_id_str": "765541151357149184",
+      "in_reply_to_user_id": 936375678,
+      "in_reply_to_user_id_str": "936375678",
+      "in_reply_to_screen_name": "gorogoro848",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 16 14:50:16 +0000 2016",
+      "id": 765561318900437000,
+      "id_str": "765561318900436992",
+      "text": "@gorogoro848 моментальный результат исключает рефлексию игрока в процессе наблюдения реализации решения, а значит и шанс изменить его",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gorogoro848",
+            "name": "feelsgood",
+            "id": 936375678,
+            "id_str": "936375678",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 765550673559711700,
+      "in_reply_to_status_id_str": "765550673559711744",
+      "in_reply_to_user_id": 936375678,
+      "in_reply_to_user_id_str": "936375678",
+      "in_reply_to_screen_name": "gorogoro848",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
