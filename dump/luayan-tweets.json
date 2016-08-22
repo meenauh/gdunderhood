@@ -1,0 +1,48 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Aug 22 09:43:44 +0000 2016",
+      "id": 767658506048725000,
+      "id_str": "767658506048724992",
+      "text": "Привет!\nМеня зовут Илья и эта неделя за мной.\nКто я такой: https://t.co/1N0egDw8R0\nНо общаться будем не про меня - ждите подробностей:)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/1N0egDw8R0",
+            "expanded_url": "http://warnworld.com/who-is-mr-wnw/",
+            "display_url": "warnworld.com/who-is-mr-wnw/",
+            "indices": [
+              59,
+              82
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
