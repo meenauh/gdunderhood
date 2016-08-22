@@ -46,36 +46,47 @@
   "time_zone": "Ekaterinburg",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 1839,
+  "statuses_count": 1840,
   "lang": "en",
   "status": {
-    "created_at": "Mon Aug 22 09:43:44 +0000 2016",
-    "id": 767658506048725000,
-    "id_str": "767658506048724992",
-    "text": "Привет!\nМеня зовут Илья и эта неделя за мной.\nКто я такой: https://t.co/1N0egDw8R0\nНо общаться будем не про меня - ждите подробностей:)",
+    "created_at": "Mon Aug 22 10:04:24 +0000 2016",
+    "id": 767663703735070700,
+    "id_str": "767663703735070720",
+    "text": "@gamescodedogs Ник @vedmich придумай, что замутить с Олегом и Джемом :)",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/1N0egDw8R0",
-          "expanded_url": "http://warnworld.com/who-is-mr-wnw/",
-          "display_url": "warnworld.com/who-is-mr-wnw/",
+          "screen_name": "gamescodedogs",
+          "name": "Oleg Chumakov",
+          "id": 114134342,
+          "id_str": "114134342",
           "indices": [
-            59,
-            82
+            0,
+            14
+          ]
+        },
+        {
+          "screen_name": "vedmich",
+          "name": "Matsukaze",
+          "id": 56080508,
+          "id_str": "56080508",
+          "indices": [
+            19,
+            27
           ]
         }
-      ]
+      ],
+      "urls": []
     },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 767662454100877300,
+    "in_reply_to_status_id_str": "767662454100877312",
+    "in_reply_to_user_id": 114134342,
+    "in_reply_to_user_id_str": "114134342",
+    "in_reply_to_screen_name": "gamescodedogs",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -85,7 +96,6 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
