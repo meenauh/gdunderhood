@@ -2,7 +2,7 @@
 
 export default [
   // post: false
-  { username: 'john_grey_grey', start: '15 Aug 2016', first: '765112568004349952', post: false },
+  { username: 'john_grey_grey', start: '15 Aug 2016', first: '765112568004349952' },
   { username: 'meenauh',        start: '08 Aug 2016', first: '762535730749005824' },
   { username: 'deimosalife',    start: '01 Aug 2016', first: '760036334581014528' },
   { username: 'retropcan',      start: '25 Jul 2016', first: '757478312360968192' },
