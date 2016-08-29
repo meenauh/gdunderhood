@@ -1,0 +1,48 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Aug 29 11:56:59 +0000 2016",
+      "id": 770228753360359400,
+      "id_str": "770228753360359424",
+      "text": "Товарищи, на этой неделе буду с вами я Артём @desfolk Волков. И я расскажу о том, как я работал над персонажами своего проекта и не только.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "desfolk",
+            "name": "Артём Волков",
+            "id": 102768548,
+            "id_str": "102768548",
+            "indices": [
+              45,
+              53
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "mentions": [
+    {
+      "created_at": "Mon Aug 29 12:23:42 +0000 2016",
+      "id": 770235476011782100,
+      "id_str": "770235476011782145",
+      "text": "@gdunderhood @desfolk привет! Надо еще поменять закрепленный твит :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "desfolk",
+            "name": "Артём Волков",
+            "id": 102768548,
+            "id_str": "102768548",
+            "indices": [
+              13,
+              21
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 770228753360359400,
+      "in_reply_to_status_id_str": "770228753360359424",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 85163927,
+        "id_str": "85163927"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
