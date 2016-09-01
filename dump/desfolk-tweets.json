@@ -175,6 +175,442 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 30 15:53:56 +0000 2016",
+      "id": 770650769485860900,
+      "id_str": "770650769485860867",
+      "text": "Немного о том, с чего начинал работу над персонажами. https://t.co/Pf29rqcELJ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 770650758572367900,
+            "id_str": "770650758572367872",
+            "indices": [
+              54,
+              77
+            ],
+            "media_url": "http://pbs.twimg.com/media/CrHmyCaXYAAwYJD.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CrHmyCaXYAAwYJD.jpg",
+            "url": "https://t.co/Pf29rqcELJ",
+            "display_url": "pic.twitter.com/Pf29rqcELJ",
+            "expanded_url": "https://twitter.com/gdunderhood/status/770650769485860867/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 595,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 869,
+                "h": 993,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 869,
+                "h": 993,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 770650758572367900,
+            "id_str": "770650758572367872",
+            "indices": [
+              54,
+              77
+            ],
+            "media_url": "http://pbs.twimg.com/media/CrHmyCaXYAAwYJD.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CrHmyCaXYAAwYJD.jpg",
+            "url": "https://t.co/Pf29rqcELJ",
+            "display_url": "pic.twitter.com/Pf29rqcELJ",
+            "expanded_url": "https://twitter.com/gdunderhood/status/770650769485860867/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 595,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 869,
+                "h": 993,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 869,
+                "h": 993,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 31 09:47:00 +0000 2016",
+      "id": 770920818062856200,
+      "id_str": "770920818062856192",
+      "text": "@FYPIIN как раз они уники, при том они нацелены на исполнение определённой роли и она может быть размыта очень и обладать большой гибкостью",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "FYPIIN",
+            "name": "Aili",
+            "id": 430588478,
+            "id_str": "430588478",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 770880581278261200,
+      "in_reply_to_status_id_str": "770880581278261248",
+      "in_reply_to_user_id": 430588478,
+      "in_reply_to_user_id_str": "430588478",
+      "in_reply_to_screen_name": "FYPIIN",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 31 09:48:41 +0000 2016",
+      "id": 770921242773884900,
+      "id_str": "770921242773884928",
+      "text": "@FYPIIN баланс зависит от объёма работы. Классовая система в описанном варианте заметно проще в балансировке, чем МОБА стайл.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "FYPIIN",
+            "name": "Aili",
+            "id": 430588478,
+            "id_str": "430588478",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 770880818399088600,
+      "in_reply_to_status_id_str": "770880818399088640",
+      "in_reply_to_user_id": 430588478,
+      "in_reply_to_user_id_str": "430588478",
+      "in_reply_to_screen_name": "FYPIIN",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 31 10:15:23 +0000 2016",
+      "id": 770927960039759900,
+      "id_str": "770927960039759872",
+      "text": "Продолжаю про персонажей свой рассказ. Также к твиту приложена самая первая итерация. https://t.co/OSUhMBGNKL",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 770927413366755300,
+            "id_str": "770927413366755328",
+            "indices": [
+              86,
+              109
+            ],
+            "media_url": "http://pbs.twimg.com/media/CrLiZd1WEAAYczb.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CrLiZd1WEAAYczb.jpg",
+            "url": "https://t.co/OSUhMBGNKL",
+            "display_url": "pic.twitter.com/OSUhMBGNKL",
+            "expanded_url": "https://twitter.com/gdunderhood/status/770927960039759872/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 381,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 571,
+                "h": 1020,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 571,
+                "h": 1020,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 770927413366755300,
+            "id_str": "770927413366755328",
+            "indices": [
+              86,
+              109
+            ],
+            "media_url": "http://pbs.twimg.com/media/CrLiZd1WEAAYczb.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CrLiZd1WEAAYczb.jpg",
+            "url": "https://t.co/OSUhMBGNKL",
+            "display_url": "pic.twitter.com/OSUhMBGNKL",
+            "expanded_url": "https://twitter.com/gdunderhood/status/770927960039759872/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 381,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 571,
+                "h": 1020,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 571,
+                "h": 1020,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 770927947997929500,
+            "id_str": "770927947997929472",
+            "indices": [
+              86,
+              109
+            ],
+            "media_url": "http://pbs.twimg.com/media/CrLi4lfWYAAVryM.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CrLi4lfWYAAVryM.jpg",
+            "url": "https://t.co/OSUhMBGNKL",
+            "display_url": "pic.twitter.com/OSUhMBGNKL",
+            "expanded_url": "https://twitter.com/gdunderhood/status/770927960039759872/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 413,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 234,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 706,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 31 12:26:56 +0000 2016",
+      "id": 770961067455414300,
+      "id_str": "770961067455414272",
+      "text": "@FYPIIN по сути, каждый уникальный персонаж сам в себе класс, но тут лучше говорить о ролях.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "FYPIIN",
+            "name": "Aili",
+            "id": 430588478,
+            "id_str": "430588478",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 770956967372349400,
+      "in_reply_to_status_id_str": "770956967372349440",
+      "in_reply_to_user_id": 430588478,
+      "in_reply_to_user_id_str": "430588478",
+      "in_reply_to_screen_name": "FYPIIN",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 31 15:26:33 +0000 2016",
+      "id": 771006269129912300,
+      "id_str": "771006269129912320",
+      "text": "@FYPIIN как раз классовая система отменяет уникальных героев.:) Роль - это более гибкое понятие.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "FYPIIN",
+            "name": "Aili",
+            "id": 430588478,
+            "id_str": "430588478",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 770977639737729000,
+      "in_reply_to_status_id_str": "770977639737729025",
+      "in_reply_to_user_id": 430588478,
+      "in_reply_to_user_id_str": "430588478",
+      "in_reply_to_screen_name": "FYPIIN",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
