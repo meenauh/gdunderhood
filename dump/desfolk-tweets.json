@@ -1683,6 +1683,60 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "und"
+    },
+    {
+      "created_at": "Sun Sep 04 16:16:54 +0000 2016",
+      "id": 772468490699702300,
+      "id_str": "772468490699702272",
+      "text": "@vibe_crc девочка фрилансер @ginkiri_art",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vibe_crc",
+            "name": "Sergey Eybog",
+            "id": 96967347,
+            "id_str": "96967347",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "ginkiri_art",
+            "name": "Ginkiri",
+            "id": 717306989978718200,
+            "id_str": "717306989978718208",
+            "indices": [
+              28,
+              40
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 772467220362436600,
+      "in_reply_to_status_id_str": "772467220362436608",
+      "in_reply_to_user_id": 96967347,
+      "in_reply_to_user_id_str": "96967347",
+      "in_reply_to_screen_name": "vibe_crc",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }

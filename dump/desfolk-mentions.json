@@ -459,6 +459,138 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sun Sep 04 16:11:51 +0000 2016",
+      "id": 772467220362436600,
+      "id_str": "772467220362436608",
+      "text": "@gdunderhood Красавицы. А кто рисовал?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 772466458244870100,
+      "in_reply_to_status_id_str": "772466458244870144",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 96967347,
+        "id_str": "96967347"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Sep 04 17:25:36 +0000 2016",
+      "id": 772485780950356000,
+      "id_str": "772485780950355968",
+      "text": "@gdunderhood Marksman*",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 772466458244870100,
+      "in_reply_to_status_id_str": "772466458244870144",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 369408680,
+        "id_str": "369408680"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Sep 04 17:26:52 +0000 2016",
+      "id": 772486095879667700,
+      "id_str": "772486095879667712",
+      "text": "@gdunderhood Персонажи очаровательны",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 772485780950356000,
+      "in_reply_to_status_id_str": "772485780950355968",
+      "in_reply_to_user_id": 369408680,
+      "in_reply_to_user_id_str": "369408680",
+      "in_reply_to_screen_name": "Feacur",
+      "user": {
+        "id": 369408680,
+        "id_str": "369408680"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
