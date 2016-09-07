@@ -1446,6 +1446,533 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 07 07:55:07 +0000 2016",
+      "id": 773429376373448700,
+      "id_str": "773429376373448704",
+      "text": "Неплохо! :) А кто смог перезарядить после пред. участника, тот весь кор освоил. А кто еще и попал, туториал прошел. https://t.co/3zCM72zgPt",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/3zCM72zgPt",
+            "expanded_url": "https://twitter.com/SheVasya/status/773380782488428544",
+            "display_url": "twitter.com/SheVasya/statu…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 773380782488428500,
+      "quoted_status_id_str": "773380782488428544",
+      "quoted_status": {
+        "created_at": "Wed Sep 07 04:42:01 +0000 2016",
+        "id": 773380782488428500,
+        "id_str": "773380782488428544",
+        "text": "@gdunderhood вешали на стену ружье. Кто снимал его и стрелял, тот понят смысл интуитивности :D",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 773272869484855300,
+        "in_reply_to_status_id_str": "773272869484855296",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 1361394086,
+          "id_str": "1361394086"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 07 07:58:57 +0000 2016",
+      "id": 773430339209396200,
+      "id_str": "773430339209396224",
+      "text": "Да! Имея образец, можно попытаться заставить его работать без тех/иных частей. В пути к тесному дизайну с 0 лишнего. https://t.co/BzOJwkJ7Uw",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/BzOJwkJ7Uw",
+            "expanded_url": "https://twitter.com/shestovt/status/773415992856875008",
+            "display_url": "twitter.com/shestovt/statu…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 773415992856875000,
+      "quoted_status_id_str": "773415992856875008",
+      "quoted_status": {
+        "created_at": "Wed Sep 07 07:01:56 +0000 2016",
+        "id": 773415992856875000,
+        "id_str": "773415992856875008",
+        "text": "@gdunderhood Чаще всего прототип мне позволяет понять, что выкинуть можно без вреда, а что всё-таки неотъемлимо.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 773254033297530900,
+        "in_reply_to_status_id_str": "773254033297530880",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 446838946,
+          "id_str": "446838946"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 07 08:00:27 +0000 2016",
+      "id": 773430719083405300,
+      "id_str": "773430719083405313",
+      "text": "Пока не совсем согласен, но, может, не до конца понял. С чем именно намучились в аспекте \"что другие хотят видеть\"? https://t.co/7qtENezkk3",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/7qtENezkk3",
+            "expanded_url": "https://twitter.com/FYPIIN/status/773423325272039424",
+            "display_url": "twitter.com/FYPIIN/status/…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 773423325272039400,
+      "quoted_status_id_str": "773423325272039424",
+      "quoted_status": {
+        "created_at": "Wed Sep 07 07:31:04 +0000 2016",
+        "id": 773423325272039400,
+        "id_str": "773423325272039424",
+        "text": "@gdunderhood еще зависит от того, что другие хотят увидеть от вашего прото. Как то мы делали прототипы хоррора. Ух и намучились",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 773275323173593100,
+        "in_reply_to_status_id_str": "773275323173593089",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 430588478,
+          "id_str": "430588478"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 07 08:02:00 +0000 2016",
+      "id": 773431106637103100,
+      "id_str": "773431106637103104",
+      "text": "Кстати, интересно! Как вы поняли, что те 3-4 прототипа, что вы выкинули, не играются \"вообще никак\", если не чуйкой? https://t.co/tUxNyQpnyb",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/tUxNyQpnyb",
+            "expanded_url": "https://twitter.com/breadgames_ru/status/773420380275048448",
+            "display_url": "twitter.com/breadgames_ru/…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 773420380275048400,
+      "quoted_status_id_str": "773420380275048448",
+      "quoted_status": {
+        "created_at": "Wed Sep 07 07:19:22 +0000 2016",
+        "id": 773420380275048400,
+        "id_str": "773420380275048448",
+        "text": "Чуйки даже для инди мало, если только он не делает игру для людей с идентичным ему игровым опытом, имхо. https://t.co/Qkxn3s039z",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/Qkxn3s039z",
+              "expanded_url": "https://twitter.com/gdunderhood/status/773272381112610820",
+              "display_url": "twitter.com/gdunderhood/st…",
+              "indices": [
+                105,
+                128
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 770698869508284400,
+          "id_str": "770698869508284416"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 773272381112610800,
+        "quoted_status_id_str": "773272381112610820",
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 07 16:46:08 +0000 2016",
+      "id": 773563012313714700,
+      "id_str": "773563012313714688",
+      "text": "Геймдиз! Не жди программера! И художника! И \"звукача\"! Прототип – лучшее демо (и проверка) твоей идеи. Умеешь доки и схемы? Умей прототипы!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 07 16:49:13 +0000 2016",
+      "id": 773563786561196000,
+      "id_str": "773563786561196032",
+      "text": "1) Прот. бывают на бумажках, игральных картах, ЛЕГО, кубиках и пр. Хорошо подходят д/ уровней, систем, правил. Плохо – для динам. геймплея.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 773563012313714700,
+      "in_reply_to_status_id_str": "773563012313714688",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 07 16:50:50 +0000 2016",
+      "id": 773564191630356500,
+      "id_str": "773564191630356480",
+      "text": "В \"бумажных\" прототипах часто можно доверить работу каких-то систем помощникам. Один играет, один двигает врагов, один считает ходы, и т.п.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 773563786561196000,
+      "in_reply_to_status_id_str": "773563786561196032",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 07 16:54:58 +0000 2016",
+      "id": 773565234103681000,
+      "id_str": "773565234103681024",
+      "text": "Строя прот., всегда думай, как МАЛО ты можешь положить внутрь, чтоб проверить/показать, что надо. Точнее фокус, быстрее готово, меньше цена.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 773563012313714700,
+      "in_reply_to_status_id_str": "773563012313714688",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 07 16:58:28 +0000 2016",
+      "id": 773566113695338500,
+      "id_str": "773566113695338496",
+      "text": "2) Прототип должен быть цифровым (динамика, удал. плейтесты, т.п.)? Ок. Выбирай движок так: какой самый ПРОСТОЙ в освоении движок справится?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 773563012313714700,
+      "in_reply_to_status_id_str": "773563012313714688",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
