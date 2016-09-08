@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 504,
+  "followers_count": 506,
   "friends_count": 19,
   "listed_count": 11,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
@@ -35,23 +35,33 @@
   "time_zone": "Kyiv",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 2348,
+  "statuses_count": 2370,
   "lang": "en",
   "status": {
-    "created_at": "Wed Sep 07 16:58:28 +0000 2016",
-    "id": 773566113695338500,
-    "id_str": "773566113695338496",
-    "text": "2) Прототип должен быть цифровым (динамика, удал. плейтесты, т.п.)? Ок. Выбирай движок так: какой самый ПРОСТОЙ в освоении движок справится?",
+    "created_at": "Thu Sep 08 10:21:25 +0000 2016",
+    "id": 773828581151694800,
+    "id_str": "773828581151694848",
+    "text": "В нагрузку дается Art Of Screenshake от JW Nijman, тоже полезно и весело. Позже сегодня будет рисование. Stay tuned! https://t.co/tq0Y6BYypb",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/tq0Y6BYypb",
+          "expanded_url": "https://www.youtube.com/watch?v=AJdEqssNZ-U&list=PLTEsRU7UrklFTW4DyVXteUhZ0RnX1kEM1&index=4",
+          "display_url": "youtube.com/watch?v=AJdEqs…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 773563012313714700,
-    "in_reply_to_status_id_str": "773563012313714688",
+    "in_reply_to_status_id": 773825297678495700,
+    "in_reply_to_status_id_str": "773825297678495744",
     "in_reply_to_user_id": 747371158832545800,
     "in_reply_to_user_id_str": "747371158832545792",
     "in_reply_to_screen_name": "gdunderhood",
@@ -61,9 +71,10 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
