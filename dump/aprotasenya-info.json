@@ -26,22 +26,22 @@
     }
   },
   "protected": false,
-  "followers_count": 505,
+  "followers_count": 507,
   "friends_count": 19,
   "listed_count": 11,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 305,
+  "favourites_count": 306,
   "utc_offset": 10800,
   "time_zone": "Kyiv",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 2440,
+  "statuses_count": 2450,
   "lang": "en",
   "status": {
-    "created_at": "Sat Sep 10 10:21:29 +0000 2016",
-    "id": 774553373244788700,
-    "id_str": "774553373244788736",
-    "text": "Субботним бонусом к вам летит мой \"Prototyping Starter Mix\" из 10 видео (3 из них я уже упоминал). Для вдохновения. https://t.co/oBzC4ES1A2",
+    "created_at": "Sun Sep 11 18:00:29 +0000 2016",
+    "id": 775031274436235300,
+    "id_str": "775031274436235264",
+    "text": "Thanks for having me! :)  https://t.co/X5zfojZIP4",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -49,17 +49,17 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/oBzC4ES1A2",
-          "expanded_url": "https://www.youtube.com/playlist?list=PLTEsRU7UrklFTW4DyVXteUhZ0RnX1kEM1",
-          "display_url": "youtube.com/playlist?list=…",
+          "url": "https://t.co/X5zfojZIP4",
+          "expanded_url": "https://twitter.com/vedmich/status/775030640081301504",
+          "display_url": "twitter.com/vedmich/status…",
           "indices": [
-            116,
-            139
+            26,
+            49
           ]
         }
       ]
     },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -69,13 +69,15 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 775030640081301500,
+    "quoted_status_id_str": "775030640081301504",
     "retweet_count": 0,
-    "favorite_count": 2,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
-    "lang": "ru"
+    "lang": "en"
   },
   "contributors_enabled": false,
   "is_translator": false,
