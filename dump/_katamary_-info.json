@@ -37,22 +37,22 @@
     }
   },
   "protected": false,
-  "followers_count": 515,
+  "followers_count": 519,
   "friends_count": 23,
   "listed_count": 12,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 525,
+  "favourites_count": 600,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
-  "geo_enabled": false,
+  "geo_enabled": true,
   "verified": false,
-  "statuses_count": 2702,
+  "statuses_count": 2767,
   "lang": "en",
   "status": {
-    "created_at": "Wed Sep 14 20:31:20 +0000 2016",
-    "id": 776156400770805800,
-    "id_str": "776156400770805760",
-    "text": "Какого жанру насыпать? https://t.co/QiiDJ7CjRc",
+    "created_at": "Thu Sep 15 17:22:38 +0000 2016",
+    "id": 776471300332150800,
+    "id_str": "776471300332150784",
+    "text": "Петроградка внезапно) https://t.co/3D6TH9E10J",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -60,12 +60,12 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/QiiDJ7CjRc",
-          "expanded_url": "https://twitter.com/elmortem/status/776149899503144960",
-          "display_url": "twitter.com/elmortem/statu…",
+          "url": "https://t.co/3D6TH9E10J",
+          "expanded_url": "https://twitter.com/Viruzzzkun/status/776468522109116416",
+          "display_url": "twitter.com/Viruzzzkun/sta…",
           "indices": [
-            23,
-            46
+            22,
+            45
           ]
         }
       ]
@@ -81,8 +81,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": true,
-    "quoted_status_id": 776149899503145000,
-    "quoted_status_id_str": "776149899503144960",
+    "quoted_status_id": 776468522109116400,
+    "quoted_status_id_str": "776468522109116416",
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
