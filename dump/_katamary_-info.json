@@ -37,22 +37,22 @@
     }
   },
   "protected": false,
-  "followers_count": 520,
+  "followers_count": 521,
   "friends_count": 23,
   "listed_count": 12,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 639,
+  "favourites_count": 685,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 2809,
+  "statuses_count": 2860,
   "lang": "en",
   "status": {
-    "created_at": "Fri Sep 16 19:46:09 +0000 2016",
-    "id": 776869803696980000,
-    "id_str": "776869803696979968",
-    "text": "Так не идёт же!))) Просто не идёт. https://t.co/VM4FJrYK6s",
+    "created_at": "Sat Sep 17 21:09:18 +0000 2016",
+    "id": 777253117071093800,
+    "id_str": "777253117071093760",
+    "text": "Напоследок напомню одну из любимейших игр - Zangband, потомка Rogue и немного букв впридачу https://t.co/NImmPwL6PA https://t.co/ceEpwl0O0Z",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -60,13 +60,91 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/VM4FJrYK6s",
-          "expanded_url": "https://twitter.com/vladimore/status/776861038524370944",
-          "display_url": "twitter.com/vladimore/stat…",
+          "url": "https://t.co/NImmPwL6PA",
+          "expanded_url": "https://goo.gl/zSjXXP",
+          "display_url": "goo.gl/zSjXXP",
           "indices": [
-            35,
-            58
+            92,
+            115
           ]
+        }
+      ],
+      "media": [
+        {
+          "id": 777252997629960200,
+          "id_str": "777252997629960192",
+          "indices": [
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cslbe7hXYAAUUZC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cslbe7hXYAAUUZC.jpg",
+          "url": "https://t.co/ceEpwl0O0Z",
+          "display_url": "pic.twitter.com/ceEpwl0O0Z",
+          "expanded_url": "https://twitter.com/gdunderhood/status/777253117071093760/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 796,
+              "h": 486,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 796,
+              "h": 486,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 415,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 777252997629960200,
+          "id_str": "777252997629960192",
+          "indices": [
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cslbe7hXYAAUUZC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cslbe7hXYAAUUZC.jpg",
+          "url": "https://t.co/ceEpwl0O0Z",
+          "display_url": "pic.twitter.com/ceEpwl0O0Z",
+          "expanded_url": "https://twitter.com/gdunderhood/status/777253117071093760/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 796,
+              "h": 486,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 796,
+              "h": 486,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 415,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -80,11 +158,9 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 776861038524371000,
-    "quoted_status_id_str": "776861038524370944",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
