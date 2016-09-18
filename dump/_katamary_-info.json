@@ -37,22 +37,22 @@
     }
   },
   "protected": false,
-  "followers_count": 521,
+  "followers_count": 524,
   "friends_count": 23,
   "listed_count": 12,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 685,
+  "favourites_count": 723,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 2860,
+  "statuses_count": 2890,
   "lang": "en",
   "status": {
-    "created_at": "Sat Sep 17 21:09:18 +0000 2016",
-    "id": 777253117071093800,
-    "id_str": "777253117071093760",
-    "text": "Напоследок напомню одну из любимейших игр - Zangband, потомка Rogue и немного букв впридачу https://t.co/NImmPwL6PA https://t.co/ceEpwl0O0Z",
+    "created_at": "Sun Sep 18 18:56:30 +0000 2016",
+    "id": 777582086974804000,
+    "id_str": "777582086974803973",
+    "text": "Как обещал в конце недели делюсь с вами сырой версией концепт-гайда игрового мира. Напишите, всё ли там понятно?\nhttps://t.co/HeWBIPVWf7",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -60,91 +60,13 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/NImmPwL6PA",
-          "expanded_url": "https://goo.gl/zSjXXP",
-          "display_url": "goo.gl/zSjXXP",
+          "url": "https://t.co/HeWBIPVWf7",
+          "expanded_url": "https://goo.gl/PG5Nhm",
+          "display_url": "goo.gl/PG5Nhm",
           "indices": [
-            92,
-            115
+            113,
+            136
           ]
-        }
-      ],
-      "media": [
-        {
-          "id": 777252997629960200,
-          "id_str": "777252997629960192",
-          "indices": [
-            116,
-            139
-          ],
-          "media_url": "http://pbs.twimg.com/media/Cslbe7hXYAAUUZC.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Cslbe7hXYAAUUZC.jpg",
-          "url": "https://t.co/ceEpwl0O0Z",
-          "display_url": "pic.twitter.com/ceEpwl0O0Z",
-          "expanded_url": "https://twitter.com/gdunderhood/status/777253117071093760/photo/1",
-          "type": "photo",
-          "sizes": {
-            "large": {
-              "w": 796,
-              "h": 486,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 796,
-              "h": 486,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 415,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 777252997629960200,
-          "id_str": "777252997629960192",
-          "indices": [
-            116,
-            139
-          ],
-          "media_url": "http://pbs.twimg.com/media/Cslbe7hXYAAUUZC.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Cslbe7hXYAAUUZC.jpg",
-          "url": "https://t.co/ceEpwl0O0Z",
-          "display_url": "pic.twitter.com/ceEpwl0O0Z",
-          "expanded_url": "https://twitter.com/gdunderhood/status/777253117071093760/photo/1",
-          "type": "photo",
-          "sizes": {
-            "large": {
-              "w": 796,
-              "h": 486,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 796,
-              "h": 486,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 415,
-              "resize": "fit"
-            }
-          }
         }
       ]
     },
@@ -160,7 +82,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
