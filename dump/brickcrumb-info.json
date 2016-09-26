@@ -1,0 +1,104 @@
+{
+  "id": 747371158832545800,
+  "id_str": "747371158832545792",
+  "name": "Гейм-дизайнер",
+  "screen_name": "gdunderhood",
+  "location": "Moscow, Russia",
+  "profile_location": {
+    "id": "4303d1afc1e98c37",
+    "url": "https://api.twitter.com/1.1/geo/id/4303d1afc1e98c37.json",
+    "place_type": "unknown",
+    "name": "Moscow, Russia",
+    "full_name": "Moscow, Russia",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
+  "description": "Коллективный твиттер-аккаунт для гейм-дизайнеров всех мастей: от балансеров до нарративщиков. Новый автор каждую неделю. На этой неделе – @brickcrumb",
+  "url": "https://t.co/lIo0mtT2X0",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/lIo0mtT2X0",
+          "expanded_url": "http://gdunderhood.ru/",
+          "display_url": "gdunderhood.ru",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "protected": false,
+  "followers_count": 531,
+  "friends_count": 23,
+  "listed_count": 13,
+  "created_at": "Mon Jun 27 10:09:04 +0000 2016",
+  "favourites_count": 818,
+  "utc_offset": 10800,
+  "time_zone": "Vilnius",
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 3190,
+  "lang": "en",
+  "status": {
+    "created_at": "Mon Sep 26 11:09:23 +0000 2016",
+    "id": 780363632647499800,
+    "id_str": "780363632647499776",
+    "text": "Для начала я расскажу о себе. Я практикующий гейм-дизайнер в одной хорошей компании. Я успел побывать инди, а это БОЛЬ и СТРАДАНИЯ.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ru"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/780358922813186048/7oaqeSJV_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/780358922813186048/7oaqeSJV_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/747371158832545792/1474887074",
+  "profile_link_color": "000000",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "000000",
+  "profile_text_color": "000000",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none",
+  "suspended": false,
+  "needs_phone_verification": false
+}

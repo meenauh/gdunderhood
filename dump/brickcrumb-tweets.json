@@ -1,0 +1,81 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Sep 26 10:55:13 +0000 2016",
+      "id": 780360070051799000,
+      "id_str": "780360070051799040",
+      "text": "Всем привет! Меня зовут Артем @brickcrumb Волков и эту неделю я буду вашим ведущим. Поговорим о том, о сем и немножко о гейм-дизайне.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "brickcrumb",
+            "name": "Artyom V.",
+            "id": 199250770,
+            "id_str": "199250770",
+            "indices": [
+              30,
+              41
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 26 11:09:23 +0000 2016",
+      "id": 780363632647499800,
+      "id_str": "780363632647499776",
+      "text": "Для начала я расскажу о себе. Я практикующий гейм-дизайнер в одной хорошей компании. Я успел побывать инди, а это БОЛЬ и СТРАДАНИЯ.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
