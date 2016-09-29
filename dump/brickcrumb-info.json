@@ -37,22 +37,22 @@
     }
   },
   "protected": false,
-  "followers_count": 531,
+  "followers_count": 535,
   "friends_count": 24,
-  "listed_count": 12,
+  "listed_count": 14,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 851,
+  "favourites_count": 854,
   "utc_offset": 10800,
   "time_zone": "Vilnius",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 3233,
+  "statuses_count": 3254,
   "lang": "en",
   "status": {
-    "created_at": "Wed Sep 28 19:19:00 +0000 2016",
-    "id": 781211624803893200,
-    "id_str": "781211624803893248",
-    "text": "Друзья, извините, что сегодняшний день прошел впустую. Я немного приболел, но завтра постараюсь наверстать! ^_^ https://t.co/FA2HGbl5fS",
+    "created_at": "Thu Sep 29 15:11:31 +0000 2016",
+    "id": 781511731881410600,
+    "id_str": "781511731881410560",
+    "text": "Под конец дня мы с ребятами накидали годных ссылок на журналы об играх и интересные блоги https://t.co/BQELvNy636 вдруг пригодится ^_^",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -60,17 +60,17 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/FA2HGbl5fS",
-          "expanded_url": "http://www.polygon.com/platform/amp/2016/9/28/13093588/no-mans-sky-advertising-standards-authority-false-advertising",
-          "display_url": "polygon.com/platform/amp/2…",
+          "url": "https://t.co/BQELvNy636",
+          "expanded_url": "https://goo.gl/MWUONg",
+          "display_url": "goo.gl/MWUONg",
           "indices": [
-            112,
-            135
+            90,
+            113
           ]
         }
       ]
     },
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -81,8 +81,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "retweet_count": 6,
+    "favorite_count": 10,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
