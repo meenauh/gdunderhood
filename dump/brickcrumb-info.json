@@ -37,40 +37,40 @@
     }
   },
   "protected": false,
-  "followers_count": 529,
+  "followers_count": 531,
   "friends_count": 24,
   "listed_count": 12,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 846,
+  "favourites_count": 851,
   "utc_offset": 10800,
   "time_zone": "Vilnius",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 3227,
+  "statuses_count": 3233,
   "lang": "en",
   "status": {
-    "created_at": "Tue Sep 27 15:44:20 +0000 2016",
-    "id": 780795214898290700,
-    "id_str": "780795214898290689",
-    "text": "В данный момент у меня все хорошо. Но я прошел через разные компании и поработал с разными людьми. Продукт вторичен… https://t.co/zG3qkzX35b",
-    "truncated": true,
+    "created_at": "Wed Sep 28 19:19:00 +0000 2016",
+    "id": 781211624803893200,
+    "id_str": "781211624803893248",
+    "text": "Друзья, извините, что сегодняшний день прошел впустую. Я немного приболел, но завтра постараюсь наверстать! ^_^ https://t.co/FA2HGbl5fS",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/zG3qkzX35b",
-          "expanded_url": "https://twitter.com/i/web/status/780795214898290689",
-          "display_url": "twitter.com/i/web/status/7…",
+          "url": "https://t.co/FA2HGbl5fS",
+          "expanded_url": "http://www.polygon.com/platform/amp/2016/9/28/13093588/no-mans-sky-advertising-standards-authority-false-advertising",
+          "display_url": "polygon.com/platform/amp/2…",
           "indices": [
-            117,
-            140
+            112,
+            135
           ]
         }
       ]
     },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -80,11 +80,9 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 780794301160755200,
-    "quoted_status_id_str": "780794301160755201",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
