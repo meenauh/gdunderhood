@@ -4,18 +4,7 @@
   "name": "Гейм-дизайнер",
   "screen_name": "gdunderhood",
   "location": "Saint Petersburg, Russia",
-  "profile_location": {
-    "id": "a76c0cd7d56c4836",
-    "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
-    "place_type": "unknown",
-    "name": "Saint Petersburg, Russia",
-    "full_name": "Saint Petersburg, Russia",
-    "country_code": "",
-    "country": "",
-    "contained_within": [],
-    "bounding_box": null,
-    "attributes": {}
-  },
+  "profile_location": null,
   "description": "Коллективный твиттер-аккаунт для гейм-дизайнеров всех мастей: от балансеров до нарративщиков. Новый автор каждую неделю. На этой неделе – @kir_lyric",
   "url": "https://t.co/lIo0mtT2X0",
   "entities": {
@@ -37,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 543,
+  "followers_count": 548,
   "friends_count": 24,
   "listed_count": 13,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
@@ -46,29 +35,19 @@
   "time_zone": "Vilnius",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 3269,
+  "statuses_count": 3276,
   "lang": "en",
   "status": {
-    "created_at": "Mon Oct 03 17:27:34 +0000 2016",
-    "id": 782995520843292700,
-    "id_str": "782995520843292672",
-    "text": "Каждый год на Humble Bundle отдают GameMaker за 15$ с кучей исходников игр.\nВ этому году продали 230 тысяч копий. С… https://t.co/ElOKf6ACVN",
-    "truncated": true,
+    "created_at": "Tue Oct 04 11:49:03 +0000 2016",
+    "id": 783272720041730000,
+    "id_str": "783272720041730048",
+    "text": "Слепнущего Ницше спас «Пишущий шар». \nБыл бы слог Марка Твена таким без Ремингтона?\nИнструменты влияют на нас, не находите?",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/ElOKf6ACVN",
-          "expanded_url": "https://twitter.com/i/web/status/782995520843292672",
-          "display_url": "twitter.com/i/web/status/7…",
-          "indices": [
-            117,
-            140
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -85,7 +64,6 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
