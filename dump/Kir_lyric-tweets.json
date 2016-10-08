@@ -2676,6 +2676,483 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 07 11:32:06 +0000 2016",
+      "id": 784355616097726500,
+      "id_str": "784355616097726465",
+      "text": "Если вы ещё не забыли, мы голосуем за конструкторы:\nhttps://t.co/odtCGEMSnI\n52 человека проголосовало. 42 — за GameMaker. Пока это лидер.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/odtCGEMSnI",
+            "expanded_url": "https://twitter.com/gdunderhood/status/783051560741904384",
+            "display_url": "twitter.com/gdunderhood/st…",
+            "indices": [
+              52,
+              75
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 783051560741904400,
+      "quoted_status_id_str": "783051560741904384",
+      "quoted_status": {
+        "created_at": "Mon Oct 03 21:10:15 +0000 2016",
+        "id": 783051560741904400,
+        "id_str": "783051560741904384",
+        "text": "Конструкторский опрос по просьбе @YarKravtsov.\nГейм-дизайнеры, отметьте, пожалуйста, с чем из списка работали в последние два года.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "YarKravtsov",
+              "name": "Yaroslav Kravtsov",
+              "id": 2248341073,
+              "id_str": "2248341073",
+              "indices": [
+                33,
+                45
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 747371158832545800,
+          "id_str": "747371158832545792"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 07 11:38:06 +0000 2016",
+      "id": 784357125602639900,
+      "id_str": "784357125602639872",
+      "text": "@tha_rami — пожалуй, самый известный инди на Game Maker. Ну и ещё @cactusquid. Первый сделал #NuclearThrone, второй — #HotlineMiami.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "NuclearThrone",
+            "indices": [
+              93,
+              107
+            ]
+          },
+          {
+            "text": "HotlineMiami",
+            "indices": [
+              118,
+              131
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tha_rami",
+            "name": "Rami Ismail",
+            "id": 17064600,
+            "id_str": "17064600",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "cactusquid",
+            "name": "Jonatan Söderström",
+            "id": 29756727,
+            "id_str": "29756727",
+            "indices": [
+              66,
+              77
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 17064600,
+      "in_reply_to_user_id_str": "17064600",
+      "in_reply_to_screen_name": "tha_rami",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 07 11:48:15 +0000 2016",
+      "id": 784359681619812400,
+      "id_str": "784359681619812352",
+      "text": "У Рами все доклады похожи, но всегда есть что-то новое. Любимый доклад:\nhttps://t.co/MbEZZKhy3O\nЗачем я делаю это? — важный вопрос для инди.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/MbEZZKhy3O",
+            "expanded_url": "https://youtu.be/o7KSbdIEA0U?list=PLURgy8kNiTREhB0vuWxViD_QNty097luB&t=1144",
+            "display_url": "youtu.be/o7KSbdIEA0U?li…",
+            "indices": [
+              72,
+              95
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 07 11:52:47 +0000 2016",
+      "id": 784360821077995500,
+      "id_str": "784360821077995520",
+      "text": "А вот прекрасная презентация Кактуса, сделанная целиком на Game Maker 8:\nhttps://t.co/hTw6GfEyQY https://t.co/YPpJHF7TRd",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/hTw6GfEyQY",
+            "expanded_url": "https://youtu.be/sgwlJu8Ql2o?list=PLC261E393485CD2F1&t=137",
+            "display_url": "youtu.be/sgwlJu8Ql2o?li…",
+            "indices": [
+              73,
+              96
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 784360714425266200,
+            "id_str": "784360714425266176",
+            "indices": [
+              97,
+              120
+            ],
+            "media_url": "http://pbs.twimg.com/media/CuKb6f8W8AA-D2t.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CuKb6f8W8AA-D2t.jpg",
+            "url": "https://t.co/YPpJHF7TRd",
+            "display_url": "pic.twitter.com/YPpJHF7TRd",
+            "expanded_url": "https://twitter.com/gdunderhood/status/784360821077995520/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 352,
+                "h": 313,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 352,
+                "h": 313,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 352,
+                "h": 313,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 784360714425266200,
+            "id_str": "784360714425266176",
+            "indices": [
+              97,
+              120
+            ],
+            "media_url": "http://pbs.twimg.com/media/CuKb6f8W8AA-D2t.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CuKb6f8W8AA-D2t.jpg",
+            "url": "https://t.co/YPpJHF7TRd",
+            "display_url": "pic.twitter.com/YPpJHF7TRd",
+            "expanded_url": "https://twitter.com/gdunderhood/status/784360821077995520/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 352,
+                "h": 313,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 352,
+                "h": 313,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 352,
+                "h": 313,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 07 12:16:32 +0000 2016",
+      "id": 784366798351261700,
+      "id_str": "784366798351261696",
+      "text": "Надо отметить бодрые доклады о Game Feel:\nhttps://t.co/WUS1JgdMmV\nhttps://t.co/dctslar9fc\nJW — коллега Рами из… https://t.co/nvFqKDGRqZ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/WUS1JgdMmV",
+            "expanded_url": "https://www.youtube.com/watch?v=Fy0aCDmgnxg",
+            "display_url": "youtube.com/watch?v=Fy0aCD…",
+            "indices": [
+              42,
+              65
+            ]
+          },
+          {
+            "url": "https://t.co/dctslar9fc",
+            "expanded_url": "https://www.youtube.com/watch?v=AJdEqssNZ-U",
+            "display_url": "youtube.com/watch?v=AJdEqs…",
+            "indices": [
+              66,
+              89
+            ]
+          },
+          {
+            "url": "https://t.co/nvFqKDGRqZ",
+            "expanded_url": "https://twitter.com/i/web/status/784366798351261696",
+            "display_url": "twitter.com/i/web/status/7…",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 07 12:27:25 +0000 2016",
+      "id": 784369538976579600,
+      "id_str": "784369538976579584",
+      "text": "Извините, потерял процент. 22 из 52 — отличный результат. Учитывая, что за ним — всё множество конструкторов, не ук… https://t.co/Sc47fA1Ulo",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Sc47fA1Ulo",
+            "expanded_url": "https://twitter.com/i/web/status/784369538976579584",
+            "display_url": "twitter.com/i/web/status/7…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 784356432648949800,
+      "quoted_status_id_str": "784356432648949760",
+      "quoted_status": {
+        "created_at": "Fri Oct 07 11:35:20 +0000 2016",
+        "id": 784356432648949800,
+        "id_str": "784356432648949760",
+        "text": "@gdunderhood предложение читается как 42 человека за гм, а там всего лишь 42%)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 784355616097726500,
+        "in_reply_to_status_id_str": "784355616097726465",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 430588478,
+          "id_str": "430588478"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }

@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 556,
+  "followers_count": 557,
   "friends_count": 24,
   "listed_count": 13,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
@@ -46,46 +46,48 @@
   "time_zone": "Vilnius",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 3307,
+  "statuses_count": 3313,
   "lang": "en",
   "status": {
-    "created_at": "Wed Oct 05 20:53:55 +0000 2016",
-    "id": 783772228060053500,
-    "id_str": "783772228060053504",
-    "text": "Это о путешествиях. Но идеально подходит для игр, которые я бы хотел создавать. @gdunderhood",
-    "truncated": false,
+    "created_at": "Fri Oct 07 12:27:25 +0000 2016",
+    "id": 784369538976579600,
+    "id_str": "784369538976579584",
+    "text": "Извините, потерял процент. 22 из 52 — отличный результат. Учитывая, что за ним — всё множество конструкторов, не ук… https://t.co/Sc47fA1Ulo",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "gdunderhood",
-          "name": "Гейм-дизайнер",
-          "id": 747371158832545800,
-          "id_str": "747371158832545792",
+          "url": "https://t.co/Sc47fA1Ulo",
+          "expanded_url": "https://twitter.com/i/web/status/784369538976579584",
+          "display_url": "twitter.com/i/web/status/7…",
           "indices": [
-            80,
-            92
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 783771961566560300,
-    "in_reply_to_status_id_str": "783771961566560256",
-    "in_reply_to_user_id": 747371158832545800,
-    "in_reply_to_user_id_str": "747371158832545792",
-    "in_reply_to_screen_name": "gdunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 784356432648949800,
+    "quoted_status_id_str": "784356432648949760",
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
