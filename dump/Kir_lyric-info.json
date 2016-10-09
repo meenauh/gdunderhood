@@ -37,40 +37,119 @@
     }
   },
   "protected": false,
-  "followers_count": 558,
+  "followers_count": 559,
   "friends_count": 24,
-  "listed_count": 13,
+  "listed_count": 17,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
   "favourites_count": 859,
   "utc_offset": 10800,
   "time_zone": "Vilnius",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 3313,
+  "statuses_count": 3318,
   "lang": "en",
   "status": {
-    "created_at": "Fri Oct 07 12:27:25 +0000 2016",
-    "id": 784369538976579600,
-    "id_str": "784369538976579584",
-    "text": "Извините, потерял процент. 22 из 52 — отличный результат. Учитывая, что за ним — всё множество конструкторов, не ук… https://t.co/Sc47fA1Ulo",
-    "truncated": true,
+    "created_at": "Sun Oct 09 19:38:05 +0000 2016",
+    "id": 785202696269787100,
+    "id_str": "785202696269787136",
+    "text": "Рабочее место @hi_paper_knight: Вёдр Ведросов, баран Роки и я. Всегда рады подписчикам. Всегда готовы к селфи. https://t.co/6ZfIj7oXzS",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/Sc47fA1Ulo",
-          "expanded_url": "https://twitter.com/i/web/status/784369538976579584",
-          "display_url": "twitter.com/i/web/status/7…",
+          "screen_name": "hi_paper_knight",
+          "name": "Paper Knight",
+          "id": 3224094783,
+          "id_str": "3224094783",
           "indices": [
-            117,
-            140
+            14,
+            30
           ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 785202685368799200,
+          "id_str": "785202685368799232",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/CuWZrqIXEAADdEf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CuWZrqIXEAADdEf.jpg",
+          "url": "https://t.co/6ZfIj7oXzS",
+          "display_url": "pic.twitter.com/6ZfIj7oXzS",
+          "expanded_url": "https://twitter.com/gdunderhood/status/785202696269787136/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "extended_entities": {
+      "media": [
+        {
+          "id": 785202685368799200,
+          "id_str": "785202685368799232",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/CuWZrqIXEAADdEf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CuWZrqIXEAADdEf.jpg",
+          "url": "https://t.co/6ZfIj7oXzS",
+          "display_url": "pic.twitter.com/6ZfIj7oXzS",
+          "expanded_url": "https://twitter.com/gdunderhood/status/785202696269787136/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -80,9 +159,7 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 784356432648949800,
-    "quoted_status_id_str": "784356432648949760",
+    "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
