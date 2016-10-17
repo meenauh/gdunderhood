@@ -1,0 +1,347 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Oct 17 09:55:26 +0000 2016",
+      "id": 787955168423866400,
+      "id_str": "787955168423866368",
+      "text": "Всем привет! Меня зовут Селезнев Сергей. Работаю в игрострое уже лет 9. Работал с рядом известных проектов, таких как Суперсити и Мегаполис.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 17 09:56:09 +0000 2016",
+      "id": 787955350536347600,
+      "id_str": "787955350536347649",
+      "text": "На это неделе хочу поговорить о сеттингах, первых сессиях, ошибках и нас самих. Научиться пользоваться твиттером.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 17 10:04:00 +0000 2016",
+      "id": 787957326175174700,
+      "id_str": "787957326175174656",
+      "text": "Не знаю, как у вас тут обычно происходит, но у меня по плану разговор о подборе сеттинга и сценариев для ситибилдеров и ферм.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 17 10:19:01 +0000 2016",
+      "id": 787961102848098300,
+      "id_str": "787961102848098304",
+      "text": "А смысл, давайте рассмотрим все варианты. От туземцев до Сим Сити. Почему в одном случае берем королевство в другом… https://t.co/jmvmqaNw8z",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/jmvmqaNw8z",
+            "expanded_url": "https://twitter.com/i/web/status/787961102848098304",
+            "display_url": "twitter.com/i/web/status/7…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 787958325367410700,
+      "quoted_status_id_str": "787958325367410688",
+      "quoted_status": {
+        "created_at": "Mon Oct 17 10:07:58 +0000 2016",
+        "id": 787958325367410700,
+        "id_str": "787958325367410688",
+        "text": "@gdunderhood а есть какая-то жанровая специфика касательно сеттинга?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Селезнев Сергей",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 787957326175174700,
+        "in_reply_to_status_id_str": "787957326175174656",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 446838946,
+          "id_str": "446838946"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 17 10:19:57 +0000 2016",
+      "id": 787961338521870300,
+      "id_str": "787961338521870336",
+      "text": "Извиняюсь если создал неудобство. Вчера твиттер только завел. Непривычно тут все. @VLuchinkin",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "VLuchinkin",
+            "name": "Vitaliy Luchinkin",
+            "id": 414904898,
+            "id_str": "414904898",
+            "indices": [
+              82,
+              93
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 787957091860410400,
+      "in_reply_to_status_id_str": "787957091860410368",
+      "in_reply_to_user_id": 414904898,
+      "in_reply_to_user_id_str": "414904898",
+      "in_reply_to_screen_name": "VLuchinkin",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 17 12:10:42 +0000 2016",
+      "id": 787989208824774700,
+      "id_str": "787989208824774656",
+      "text": "Почему нет. Есть игры с сеттингом с зомби и pvp в которых прикручено для галочки, в который нужно выживать. State o… https://t.co/asXENizmss",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/asXENizmss",
+            "expanded_url": "https://twitter.com/i/web/status/787989208824774656",
+            "display_url": "twitter.com/i/web/status/7…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 787985624309653500,
+      "quoted_status_id_str": "787985624309653504",
+      "quoted_status": {
+        "created_at": "Mon Oct 17 11:56:27 +0000 2016",
+        "id": 787985624309653500,
+        "id_str": "787985624309653504",
+        "text": "@shestovt @vedmich @gdunderhood не, тут надо ближе к соулсам делать.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "shestovt",
+              "name": "Анатолий Шестов",
+              "id": 446838946,
+              "id_str": "446838946",
+              "indices": [
+                0,
+                9
+              ]
+            },
+            {
+              "screen_name": "vedmich",
+              "name": "M475uk4z3",
+              "id": 56080508,
+              "id_str": "56080508",
+              "indices": [
+                10,
+                18
+              ]
+            },
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                19,
+                31
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 787985406834929700,
+        "in_reply_to_status_id_str": "787985406834929664",
+        "in_reply_to_user_id": 446838946,
+        "in_reply_to_user_id_str": "446838946",
+        "in_reply_to_screen_name": "shestovt",
+        "user": {
+          "id": 102768548,
+          "id_str": "102768548"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
