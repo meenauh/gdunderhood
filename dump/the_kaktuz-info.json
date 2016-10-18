@@ -4,18 +4,7 @@
   "name": "Гейм-дизайнер",
   "screen_name": "gdunderhood",
   "location": "Saint Petersburg, Russia",
-  "profile_location": {
-    "id": "a76c0cd7d56c4836",
-    "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
-    "place_type": "unknown",
-    "name": "Saint Petersburg, Russia",
-    "full_name": "Saint Petersburg, Russia",
-    "country_code": "",
-    "country": "",
-    "contained_within": [],
-    "bounding_box": null,
-    "attributes": {}
-  },
+  "profile_location": null,
   "description": "Коллективный твиттер-аккаунт для гейм-дизайнеров всех мастей: от балансеров до нарративщиков. Новый автор каждую неделю. На этой неделе - @никведущего.",
   "url": "https://t.co/lIo0mtT2X0",
   "entities": {
@@ -37,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 583,
+  "followers_count": 585,
   "friends_count": 24,
   "listed_count": 15,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
@@ -46,26 +35,26 @@
   "time_zone": "Vilnius",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 3334,
+  "statuses_count": 3344,
   "lang": "en",
   "status": {
-    "created_at": "Mon Oct 17 12:10:42 +0000 2016",
-    "id": 787989208824774700,
-    "id_str": "787989208824774656",
-    "text": "Почему нет. Есть игры с сеттингом с зомби и pvp в которых прикручено для галочки, в который нужно выживать. State o… https://t.co/asXENizmss",
-    "truncated": true,
+    "created_at": "Mon Oct 17 20:30:46 +0000 2016",
+    "id": 788115056017965000,
+    "id_str": "788115056017965060",
+    "text": "Я не против, подскажите пожалуйста успешные фентези ситибилдеры на мобильнике. Возможно полезно будет их увидеть. https://t.co/TJBsfgPq00",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/asXENizmss",
-          "expanded_url": "https://twitter.com/i/web/status/787989208824774656",
-          "display_url": "twitter.com/i/web/status/7…",
+          "url": "https://t.co/TJBsfgPq00",
+          "expanded_url": "https://twitter.com/gorogoro848/status/788113300500389888",
+          "display_url": "twitter.com/gorogoro848/st…",
           "indices": [
-            117,
-            140
+            114,
+            137
           ]
         }
       ]
@@ -81,8 +70,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": true,
-    "quoted_status_id": 787985624309653500,
-    "quoted_status_id_str": "787985624309653504",
+    "quoted_status_id": 788113300500389900,
+    "quoted_status_id_str": "788113300500389888",
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
