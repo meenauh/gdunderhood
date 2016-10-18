@@ -4,7 +4,18 @@
   "name": "Гейм-дизайнер",
   "screen_name": "gdunderhood",
   "location": "Saint Petersburg, Russia",
-  "profile_location": null,
+  "profile_location": {
+    "id": "a76c0cd7d56c4836",
+    "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
+    "place_type": "unknown",
+    "name": "Saint Petersburg, Russia",
+    "full_name": "Saint Petersburg, Russia",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
   "description": "Коллективный твиттер-аккаунт для гейм-дизайнеров всех мастей: от балансеров до нарративщиков. Новый автор каждую неделю. На этой неделе - @никведущего.",
   "url": "https://t.co/lIo0mtT2X0",
   "entities": {
@@ -26,22 +37,22 @@
     }
   },
   "protected": false,
-  "followers_count": 585,
+  "followers_count": 588,
   "friends_count": 24,
   "listed_count": 15,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 859,
+  "favourites_count": 860,
   "utc_offset": 10800,
   "time_zone": "Vilnius",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 3344,
+  "statuses_count": 3364,
   "lang": "en",
   "status": {
-    "created_at": "Mon Oct 17 20:30:46 +0000 2016",
-    "id": 788115056017965000,
-    "id_str": "788115056017965060",
-    "text": "Я не против, подскажите пожалуйста успешные фентези ситибилдеры на мобильнике. Возможно полезно будет их увидеть. https://t.co/TJBsfgPq00",
+    "created_at": "Tue Oct 18 19:45:05 +0000 2016",
+    "id": 788465945660551200,
+    "id_str": "788465945660551168",
+    "text": "Главное не перебарщивать! Взрослый ребенок то еще наказание, даже если охотно ест кашу! https://t.co/bdLNIyp3jb",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -49,12 +60,12 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/TJBsfgPq00",
-          "expanded_url": "https://twitter.com/gorogoro848/status/788113300500389888",
-          "display_url": "twitter.com/gorogoro848/st…",
+          "url": "https://t.co/bdLNIyp3jb",
+          "expanded_url": "https://twitter.com/imodjen/status/788453192094912512",
+          "display_url": "twitter.com/imodjen/status…",
           "indices": [
-            114,
-            137
+            88,
+            111
           ]
         }
       ]
@@ -70,10 +81,10 @@
     "place": null,
     "contributors": null,
     "is_quote_status": true,
-    "quoted_status_id": 788113300500389900,
-    "quoted_status_id_str": "788113300500389888",
+    "quoted_status_id": 788453192094912500,
+    "quoted_status_id_str": "788453192094912512",
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
