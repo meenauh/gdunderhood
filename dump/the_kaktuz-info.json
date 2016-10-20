@@ -16,7 +16,7 @@
     "bounding_box": null,
     "attributes": {}
   },
-  "description": "Коллективный твиттер-аккаунт для гейм-дизайнеров всех мастей: от балансеров до нарративщиков. Новый автор каждую неделю. На этой неделе - @никведущего.",
+  "description": "Коллективный твиттер-аккаунт для гейм-дизайнеров всех мастей: от балансеров до нарративщиков. Новый автор каждую неделю. На этой неделе - @the_kaktuz.",
   "url": "https://t.co/lIo0mtT2X0",
   "entities": {
     "url": {
@@ -46,13 +46,13 @@
   "time_zone": "Vilnius",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 3364,
+  "statuses_count": 3382,
   "lang": "en",
   "status": {
-    "created_at": "Tue Oct 18 19:45:05 +0000 2016",
-    "id": 788465945660551200,
-    "id_str": "788465945660551168",
-    "text": "Главное не перебарщивать! Взрослый ребенок то еще наказание, даже если охотно ест кашу! https://t.co/bdLNIyp3jb",
+    "created_at": "Wed Oct 19 20:05:22 +0000 2016",
+    "id": 788833438166057000,
+    "id_str": "788833438166056960",
+    "text": "Извиняюсь, я видимо не понял. О каком жанре идет речь? https://t.co/I3iJLMstCM",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -60,12 +60,12 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/bdLNIyp3jb",
-          "expanded_url": "https://twitter.com/imodjen/status/788453192094912512",
-          "display_url": "twitter.com/imodjen/status…",
+          "url": "https://t.co/I3iJLMstCM",
+          "expanded_url": "https://twitter.com/teidoo/status/788819926161166336",
+          "display_url": "twitter.com/teidoo/status/…",
           "indices": [
-            88,
-            111
+            55,
+            78
           ]
         }
       ]
@@ -81,10 +81,10 @@
     "place": null,
     "contributors": null,
     "is_quote_status": true,
-    "quoted_status_id": 788453192094912500,
-    "quoted_status_id_str": "788453192094912512",
+    "quoted_status_id": 788819926161166300,
+    "quoted_status_id_str": "788819926161166336",
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
