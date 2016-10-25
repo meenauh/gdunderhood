@@ -37,66 +37,35 @@
     }
   },
   "protected": false,
-  "followers_count": 612,
+  "followers_count": 610,
   "friends_count": 24,
   "listed_count": 15,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 869,
+  "favourites_count": 880,
   "utc_offset": 10800,
   "time_zone": "Vilnius",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 3446,
+  "statuses_count": 3529,
   "lang": "en",
   "status": {
-    "created_at": "Mon Oct 24 16:45:15 +0000 2016",
-    "id": 790595019732320300,
-    "id_str": "790595019732320256",
-    "text": "@ogi_sama @Arvydas_B @markar_1 Книга не отвечает техническим потребностям игры. Игры не могли развиваться взрывными темпами без электрики",
+    "created_at": "Tue Oct 25 17:15:41 +0000 2016",
+    "id": 790965063251353600,
+    "id_str": "790965063251353604",
+    "text": "Завтра мы поговорим о практической стороне работы НД и потравим байки о жизни игровых сценаристов :) А пока - \"В конце Mass Effec 3 я...\"",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "ogi_sama",
-          "name": "Ogion",
-          "id": 908734638,
-          "id_str": "908734638",
-          "indices": [
-            0,
-            9
-          ]
-        },
-        {
-          "screen_name": "Arvydas_B",
-          "name": "Arvydas Brazdeikis",
-          "id": 1108292779,
-          "id_str": "1108292779",
-          "indices": [
-            10,
-            20
-          ]
-        },
-        {
-          "screen_name": "markar_1",
-          "name": "Маркар Балаян",
-          "id": 755410353748664300,
-          "id_str": "755410353748664321",
-          "indices": [
-            21,
-            30
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 790591828307374100,
-    "in_reply_to_status_id_str": "790591828307374080",
-    "in_reply_to_user_id": 908734638,
-    "in_reply_to_user_id_str": "908734638",
-    "in_reply_to_screen_name": "ogi_sama",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
