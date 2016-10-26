@@ -37,28 +37,38 @@
     }
   },
   "protected": false,
-  "followers_count": 611,
+  "followers_count": 610,
   "friends_count": 24,
   "listed_count": 15,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 882,
+  "favourites_count": 883,
   "utc_offset": 10800,
   "time_zone": "Vilnius",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 3556,
+  "statuses_count": 3617,
   "lang": "en",
   "status": {
-    "created_at": "Wed Oct 26 12:12:08 +0000 2016",
-    "id": 791251060933402600,
-    "id_str": "791251060933402625",
-    "text": "Найдя камень, игрок получал квест - достать из него меч. Чтобы сделать это, ему нужно было доказать свою силу, мудрость и доблесть.",
+    "created_at": "Wed Oct 26 16:35:18 +0000 2016",
+    "id": 791317287974338600,
+    "id_str": "791317287974338561",
+    "text": "Он в разы сложнее и запутаннее, чем нужно инструменту для написания диалогов. Соответственно снижается юзабилити. https://t.co/E7zd2rcDp2",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/E7zd2rcDp2",
+          "expanded_url": "https://twitter.com/caerlyKD/status/791307468005634048",
+          "display_url": "twitter.com/caerlyKD/statu…",
+          "indices": [
+            114,
+            137
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -70,11 +80,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 791307468005634000,
+    "quoted_status_id_str": "791307468005634048",
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
