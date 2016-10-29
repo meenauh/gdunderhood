@@ -4,18 +4,7 @@
   "name": "Гейм-дизайнер",
   "screen_name": "gdunderhood",
   "location": "Moscow, Russia",
-  "profile_location": {
-    "id": "4303d1afc1e98c37",
-    "url": "https://api.twitter.com/1.1/geo/id/4303d1afc1e98c37.json",
-    "place_type": "unknown",
-    "name": "Moscow, Russia",
-    "full_name": "Moscow, Russia",
-    "country_code": "",
-    "country": "",
-    "contained_within": [],
-    "bounding_box": null,
-    "attributes": {}
-  },
+  "profile_location": null,
   "description": "Коллективный твиттер-аккаунт для гейм-дизайнеров всех мастей: от балансеров до нарративщиков. Новый автор каждую неделю. На этой неделе - @guiltythree",
   "url": "https://t.co/lIo0mtT2X0",
   "entities": {
@@ -39,20 +28,20 @@
   "protected": false,
   "followers_count": 618,
   "friends_count": 24,
-  "listed_count": 15,
+  "listed_count": 16,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 888,
+  "favourites_count": 894,
   "utc_offset": 10800,
   "time_zone": "Vilnius",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 3677,
+  "statuses_count": 3697,
   "lang": "en",
   "status": {
-    "created_at": "Fri Oct 28 13:30:10 +0000 2016",
-    "id": 791995473540345900,
-    "id_str": "791995473540345856",
-    "text": "Спасибо :) https://t.co/vnBEmyytje",
+    "created_at": "Sat Oct 29 14:03:38 +0000 2016",
+    "id": 792366284897935400,
+    "id_str": "792366284897935360",
+    "text": "Вернемся к играм и судьбе нарративного дизайна в СНГ: https://t.co/qgClnPAAnf\nThe Long Reach шикарен :) Для меня это most anticipated game",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -60,12 +49,12 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/vnBEmyytje",
-          "expanded_url": "https://twitter.com/Ivan_Osenkov/status/791964198859190272",
-          "display_url": "twitter.com/Ivan_Osenkov/s…",
+          "url": "https://t.co/qgClnPAAnf",
+          "expanded_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=781956216",
+          "display_url": "steamcommunity.com/sharedfiles/fi…",
           "indices": [
-            11,
-            34
+            54,
+            77
           ]
         }
       ]
@@ -80,11 +69,9 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 791964198859190300,
-    "quoted_status_id_str": "791964198859190272",
-    "retweet_count": 0,
-    "favorite_count": 3,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
