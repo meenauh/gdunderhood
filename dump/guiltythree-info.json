@@ -4,7 +4,18 @@
   "name": "Гейм-дизайнер",
   "screen_name": "gdunderhood",
   "location": "Moscow, Russia",
-  "profile_location": null,
+  "profile_location": {
+    "id": "4303d1afc1e98c37",
+    "url": "https://api.twitter.com/1.1/geo/id/4303d1afc1e98c37.json",
+    "place_type": "unknown",
+    "name": "Moscow, Russia",
+    "full_name": "Moscow, Russia",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
   "description": "Коллективный твиттер-аккаунт для гейм-дизайнеров всех мастей: от балансеров до нарративщиков. Новый автор каждую неделю. На этой неделе - @guiltythree",
   "url": "https://t.co/lIo0mtT2X0",
   "entities": {
@@ -26,22 +37,22 @@
     }
   },
   "protected": false,
-  "followers_count": 618,
+  "followers_count": 623,
   "friends_count": 24,
-  "listed_count": 16,
+  "listed_count": 17,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 894,
-  "utc_offset": 10800,
+  "favourites_count": 898,
+  "utc_offset": 7200,
   "time_zone": "Vilnius",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 3697,
+  "statuses_count": 3703,
   "lang": "en",
   "status": {
-    "created_at": "Sat Oct 29 14:03:38 +0000 2016",
-    "id": 792366284897935400,
-    "id_str": "792366284897935360",
-    "text": "Вернемся к играм и судьбе нарративного дизайна в СНГ: https://t.co/qgClnPAAnf\nThe Long Reach шикарен :) Для меня это most anticipated game",
+    "created_at": "Sun Oct 30 18:56:53 +0000 2016",
+    "id": 792802470351269900,
+    "id_str": "792802470351269888",
+    "text": "Ну и напоследок - https://t.co/s38eR48W4U :) За сим все. Надеюсь, неделя получилась информативной и интересной. Спасибо за ваше внимание! :)",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -49,12 +60,12 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/qgClnPAAnf",
-          "expanded_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=781956216",
-          "display_url": "steamcommunity.com/sharedfiles/fi…",
+          "url": "https://t.co/s38eR48W4U",
+          "expanded_url": "https://www.youtube.com/playlist?list=PLhyKYa0YJ_5ATCznEwJx794x4RMuYNZLN",
+          "display_url": "youtube.com/playlist?list=…",
           "indices": [
-            54,
-            77
+            18,
+            41
           ]
         }
       ]
@@ -70,8 +81,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 4,
+    "retweet_count": 0,
+    "favorite_count": 8,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,

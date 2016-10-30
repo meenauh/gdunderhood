@@ -12647,6 +12647,362 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sat Oct 29 17:59:24 +0000 2016",
+      "id": 792425618482888700,
+      "id_str": "792425618482888704",
+      "text": "RT @vd_cheshire: This! Fucken this! https://t.co/EFkrKbAHjp",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vd_cheshire",
+            "name": "Vyacheslav Dobranov",
+            "id": 218983085,
+            "id_str": "218983085",
+            "indices": [
+              3,
+              15
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/EFkrKbAHjp",
+            "expanded_url": "https://twitter.com/gdunderhood/status/791972706874957824",
+            "display_url": "twitter.com/gdunderhood/st…",
+            "indices": [
+              36,
+              59
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sat Oct 29 17:30:13 +0000 2016",
+        "id": 792418272859811800,
+        "id_str": "792418272859811841",
+        "text": "This! Fucken this! https://t.co/EFkrKbAHjp",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/EFkrKbAHjp",
+              "expanded_url": "https://twitter.com/gdunderhood/status/791972706874957824",
+              "display_url": "twitter.com/gdunderhood/st…",
+              "indices": [
+                19,
+                42
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 218983085,
+          "id_str": "218983085"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 791972706874957800,
+        "quoted_status_id_str": "791972706874957824",
+        "quoted_status": {
+          "created_at": "Fri Oct 28 11:59:42 +0000 2016",
+          "id": 791972706874957800,
+          "id_str": "791972706874957824",
+          "text": "Кстати, вот одна из моих любимых нарративних игр: https://t.co/Jo7ew6xTW1",
+          "truncated": false,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/Jo7ew6xTW1",
+                "expanded_url": "http://adamcadre.ac/if/905.html",
+                "display_url": "adamcadre.ac/if/905.html",
+                "indices": [
+                  50,
+                  73
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "user": {
+            "id": 747371158832545800,
+            "id_str": "747371158832545792"
+          },
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 1,
+          "favorite_count": 12,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "ru"
+        },
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": true,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "quoted_status_id": 791972706874957800,
+      "quoted_status_id_str": "791972706874957824",
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Oct 30 10:08:19 +0000 2016",
+      "id": 792669451804151800,
+      "id_str": "792669451804151812",
+      "text": "Кстати, вот этот трейлер от Blur Studio отлично иллюстрирует принцип \"скажи меньше, расскажи больше\": https://t.co/5dmN9iWwzZ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/5dmN9iWwzZ",
+            "expanded_url": "https://youtu.be/yPq_NVi-TC4",
+            "display_url": "youtu.be/yPq_NVi-TC4",
+            "indices": [
+              102,
+              125
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 30 11:03:30 +0000 2016",
+      "id": 792683341887762400,
+      "id_str": "792683341887762433",
+      "text": "Людям, которые заинтересованы в сценарном деле, я очень рекомендую вот этот подкаст: https://t.co/smQaEElL6L.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/smQaEElL6L",
+            "expanded_url": "http://nerdist.com/podcasts/nerdist-writers-panel-channel/",
+            "display_url": "nerdist.com/podcasts/nerdi…",
+            "indices": [
+              85,
+              108
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 30 11:43:08 +0000 2016",
+      "id": 792693315120558100,
+      "id_str": "792693315120558080",
+      "text": "Нарративно интересные игры: Oxenfree, Firewatch. Limbo, Darkest Dungeon, Bastion, Papers Please, Sunless Sea, Banner Saga, Rogue Legacy",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 12,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Sun Oct 30 11:46:06 +0000 2016",
+      "id": 792694062436479000,
+      "id_str": "792694062436478976",
+      "text": "А также Movie Fights, особенно эпизоды с Максом Лэндисом: https://t.co/mqayhQBvw1",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/mqayhQBvw1",
+            "expanded_url": "https://www.youtube.com/playlist?list=PLFWHlH4koGZDABLg4i81lswPJPHqLdKj7",
+            "display_url": "youtube.com/playlist?list=…",
+            "indices": [
+              58,
+              81
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 792683341887762400,
+      "in_reply_to_status_id_str": "792683341887762433",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 30 18:56:53 +0000 2016",
+      "id": 792802470351269900,
+      "id_str": "792802470351269888",
+      "text": "Ну и напоследок - https://t.co/s38eR48W4U :) За сим все. Надеюсь, неделя получилась информативной и интересной. Спасибо за ваше внимание! :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/s38eR48W4U",
+            "expanded_url": "https://www.youtube.com/playlist?list=PLhyKYa0YJ_5ATCznEwJx794x4RMuYNZLN",
+            "display_url": "youtube.com/playlist?list=…",
+            "indices": [
+              18,
+              41
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }

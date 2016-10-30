@@ -9017,6 +9017,483 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 30 12:27:13 +0000 2016",
+      "id": 792704408324804600,
+      "id_str": "792704408324804608",
+      "text": "@gdunderhood @guiltythree спасибо, довольно интересная получилась неделя.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "guiltythree",
+            "name": "Barisbi Alborov",
+            "id": 1277413980,
+            "id_str": "1277413980",
+            "indices": [
+              13,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 1690999675,
+        "id_str": "1690999675"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 30 15:24:38 +0000 2016",
+      "id": 792749058901303300,
+      "id_str": "792749058901303296",
+      "text": "@imodjen @gdunderhood Мне тоже так кажется, он больше на серал похож, чем на фильм.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "imodjen",
+            "name": "генератор идей",
+            "id": 345834192,
+            "id_str": "345834192",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              9,
+              21
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 791682683772469200,
+      "in_reply_to_status_id_str": "791682683772469248",
+      "in_reply_to_user_id": 345834192,
+      "in_reply_to_user_id_str": "345834192",
+      "in_reply_to_screen_name": "imodjen",
+      "user": {
+        "id": 2207946954,
+        "id_str": "2207946954"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 30 15:24:52 +0000 2016",
+      "id": 792749118103949300,
+      "id_str": "792749118103949312",
+      "text": "@imodjen @gdunderhood Но, по мне - это всегда будет, если хочеш сделать большой открытой мир.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "imodjen",
+            "name": "генератор идей",
+            "id": 345834192,
+            "id_str": "345834192",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              9,
+              21
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 791682683772469200,
+      "in_reply_to_status_id_str": "791682683772469248",
+      "in_reply_to_user_id": 345834192,
+      "in_reply_to_user_id_str": "345834192",
+      "in_reply_to_screen_name": "imodjen",
+      "user": {
+        "id": 2207946954,
+        "id_str": "2207946954"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 30 15:31:47 +0000 2016",
+      "id": 792750856349376500,
+      "id_str": "792750856349376512",
+      "text": "@imodjen @gdunderhood Еще мне не нравится стандартная логика - убил разбойников у деревни - помедитировал - жители уже вернулись.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "imodjen",
+            "name": "генератор идей",
+            "id": 345834192,
+            "id_str": "345834192",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              9,
+              21
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 791682683772469200,
+      "in_reply_to_status_id_str": "791682683772469248",
+      "in_reply_to_user_id": 345834192,
+      "in_reply_to_user_id_str": "345834192",
+      "in_reply_to_screen_name": "imodjen",
+      "user": {
+        "id": 2207946954,
+        "id_str": "2207946954"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 30 15:33:21 +0000 2016",
+      "id": 792751251347890200,
+      "id_str": "792751251347890176",
+      "text": "@imodjen @gdunderhood Что там такое было, как так случилось - не понятно. Вроде мир живой, а вроде и нет",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "imodjen",
+            "name": "генератор идей",
+            "id": 345834192,
+            "id_str": "345834192",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              9,
+              21
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 791682683772469200,
+      "in_reply_to_status_id_str": "791682683772469248",
+      "in_reply_to_user_id": 345834192,
+      "in_reply_to_user_id_str": "345834192",
+      "in_reply_to_screen_name": "imodjen",
+      "user": {
+        "id": 2207946954,
+        "id_str": "2207946954"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 30 15:33:56 +0000 2016",
+      "id": 792751398777679900,
+      "id_str": "792751398777679872",
+      "text": "@imodjen @gdunderhood но, это мое мнения, я не гейм дизайнер, только хочу ним стать)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "imodjen",
+            "name": "генератор идей",
+            "id": 345834192,
+            "id_str": "345834192",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              9,
+              21
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 791682683772469200,
+      "in_reply_to_status_id_str": "791682683772469248",
+      "in_reply_to_user_id": 345834192,
+      "in_reply_to_user_id_str": "345834192",
+      "in_reply_to_screen_name": "imodjen",
+      "user": {
+        "id": 2207946954,
+        "id_str": "2207946954"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 30 19:06:22 +0000 2016",
+      "id": 792804856738287600,
+      "id_str": "792804856738287617",
+      "text": "@gdunderhood Было интересно спасибо. Единственное надеюсь реальный человек похож на аватарку. Иначе придётся кормить лангоньеров.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 792802470351269900,
+      "in_reply_to_status_id_str": "792802470351269888",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 328560172,
+        "id_str": "328560172"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 30 19:27:17 +0000 2016",
+      "id": 792810120208126000,
+      "id_str": "792810120208125952",
+      "text": "@InvisibleSpiris @gdunderhood вот поэтому я и не люблю открытые миры. Не встречала пока ни одной игры, где бы это не добавляло проблем.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "InvisibleSpiris",
+            "name": "Ярослав  R",
+            "id": 2207946954,
+            "id_str": "2207946954",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              17,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 792749118103949300,
+      "in_reply_to_status_id_str": "792749118103949312",
+      "in_reply_to_user_id": 2207946954,
+      "in_reply_to_user_id_str": "2207946954",
+      "in_reply_to_screen_name": "InvisibleSpiris",
+      "user": {
+        "id": 345834192,
+        "id_str": "345834192"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 30 22:41:09 +0000 2016",
+      "id": 792858908297756700,
+      "id_str": "792858908297756677",
+      "text": "Well that's the end of my shift at the helm of @gdunderhood. I've written twice as much tweets in a week as I usual… https://t.co/uYewtwT5dS",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              47,
+              59
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/uYewtwT5dS",
+            "expanded_url": "https://twitter.com/i/web/status/792858908297756677",
+            "display_url": "twitter.com/i/web/status/7…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1277413980,
+        "id_str": "1277413980"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
     }
   ]
 }
