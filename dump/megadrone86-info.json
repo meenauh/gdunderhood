@@ -30,119 +30,40 @@
   "friends_count": 25,
   "listed_count": 17,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 898,
+  "favourites_count": 901,
   "utc_offset": 7200,
   "time_zone": "Vilnius",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 3744,
+  "statuses_count": 3780,
   "lang": "en",
   "status": {
-    "created_at": "Mon Oct 31 17:31:02 +0000 2016",
-    "id": 793143254460076000,
-    "id_str": "793143254460076032",
-    "text": "а это казалось в конце 90-х чем-то нереальным https://t.co/QknKSS7YJk",
+    "created_at": "Tue Nov 01 15:06:02 +0000 2016",
+    "id": 793469151826370600,
+    "id_str": "793469151826370560",
+    "text": "Сейчас у меня нет игры мечты, есть просто игры, которые хочется делать и которые — не хочется.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
-        {
-          "id": 793143250026659800,
-          "id_str": "793143250026659840",
-          "indices": [
-            46,
-            69
-          ],
-          "media_url": "http://pbs.twimg.com/media/CwHPlWnWgAA8QX0.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CwHPlWnWgAA8QX0.jpg",
-          "url": "https://t.co/QknKSS7YJk",
-          "display_url": "pic.twitter.com/QknKSS7YJk",
-          "expanded_url": "https://twitter.com/gdunderhood/status/793143254460076032/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 482,
-              "h": 361,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 482,
-              "h": 361,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 482,
-              "h": 361,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 793143250026659800,
-          "id_str": "793143250026659840",
-          "indices": [
-            46,
-            69
-          ],
-          "media_url": "http://pbs.twimg.com/media/CwHPlWnWgAA8QX0.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CwHPlWnWgAA8QX0.jpg",
-          "url": "https://t.co/QknKSS7YJk",
-          "display_url": "pic.twitter.com/QknKSS7YJk",
-          "expanded_url": "https://twitter.com/gdunderhood/status/793143254460076032/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 482,
-              "h": 361,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 482,
-              "h": 361,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 482,
-              "h": 361,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
-    "in_reply_to_status_id": 793142639306612700,
-    "in_reply_to_status_id_str": "793142639306612736",
-    "in_reply_to_user_id": 747371158832545800,
-    "in_reply_to_user_id_str": "747371158832545792",
-    "in_reply_to_screen_name": "gdunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 1,
-    "favorite_count": 2,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
