@@ -8954,6 +8954,831 @@
       "favorited": false,
       "retweeted": true,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 03 11:55:34 +0000 2016",
+      "id": 794145995726684200,
+      "id_str": "794145995726684161",
+      "text": "Может кто-нибудь знает? https://t.co/Tge5KoNFjz",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Tge5KoNFjz",
+            "expanded_url": "https://twitter.com/sha_ste/status/794145294027997184",
+            "display_url": "twitter.com/sha_ste/status…",
+            "indices": [
+              24,
+              47
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 794145294027997200,
+      "quoted_status_id_str": "794145294027997184",
+      "quoted_status": {
+        "created_at": "Thu Nov 03 11:52:47 +0000 2016",
+        "id": 794145294027997200,
+        "id_str": "794145294027997184",
+        "text": "@gdunderhood вопрос ко всем. Есть какие-нибудь интересные каналы в Телеграме для гейм-дизайнеров? Можно на английском",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 245347012,
+          "id_str": "245347012"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 03 11:56:14 +0000 2016",
+      "id": 794146162680954900,
+      "id_str": "794146162680954880",
+      "text": "Ох-хо сегодня с 6:30 утра на ногах и совсем некогда писать, сейчас немного исправим ситуацию ;)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 03 12:28:18 +0000 2016",
+      "id": 794154232672878600,
+      "id_str": "794154232672878594",
+      "text": "Сегодня большой компании i-Free, частью которой является наша студия Zillion Whales исполняется 15 лет. https://t.co/SK5MnI3Vu2",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 794154226641436700,
+            "id_str": "794154226641436674",
+            "indices": [
+              104,
+              127
+            ],
+            "media_url": "http://pbs.twimg.com/media/CwVnD7_WgAIj_GM.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CwVnD7_WgAIj_GM.jpg",
+            "url": "https://t.co/SK5MnI3Vu2",
+            "display_url": "pic.twitter.com/SK5MnI3Vu2",
+            "expanded_url": "https://twitter.com/gdunderhood/status/794154232672878594/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 454,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 850,
+                "h": 567,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 850,
+                "h": 567,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 794154226641436700,
+            "id_str": "794154226641436674",
+            "indices": [
+              104,
+              127
+            ],
+            "media_url": "http://pbs.twimg.com/media/CwVnD7_WgAIj_GM.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CwVnD7_WgAIj_GM.jpg",
+            "url": "https://t.co/SK5MnI3Vu2",
+            "display_url": "pic.twitter.com/SK5MnI3Vu2",
+            "expanded_url": "https://twitter.com/gdunderhood/status/794154232672878594/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 454,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 850,
+                "h": 567,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 850,
+                "h": 567,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 03 12:29:54 +0000 2016",
+      "id": 794154636894732300,
+      "id_str": "794154636894732288",
+      "text": "На контрасте с большими и достаточно устойчивыми структурами, всего хочется отдать должное отважным стартаперам, особенно в сфере геймдев!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 794154232672878600,
+      "in_reply_to_status_id_str": "794154232672878594",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 03 12:35:43 +0000 2016",
+      "id": 794156099280785400,
+      "id_str": "794156099280785408",
+      "text": "Сам я входил в эту воду дважды… Первую компанию я основал еще в вузе и она просуществовала без малого 7 лет:… https://t.co/GtRa14WxPn",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/GtRa14WxPn",
+            "expanded_url": "https://twitter.com/i/web/status/794156099280785408",
+            "display_url": "twitter.com/i/web/status/7…",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 794154636894732300,
+      "in_reply_to_status_id_str": "794154636894732288",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 03 12:39:17 +0000 2016",
+      "id": 794156997717487600,
+      "id_str": "794156997717487617",
+      "text": "Весь кайф в управлении собственной компании, без инвестора, заключается в том, что нужно постоянно искать пути к выживанию и успеху 😏",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 794156099280785400,
+      "in_reply_to_status_id_str": "794156099280785408",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 03 12:44:58 +0000 2016",
+      "id": 794158428184789000,
+      "id_str": "794158428184788992",
+      "text": "«Предпринимательство — пожалуй, лучший способ прожить эту жизнь, во всех остальных областях геймплей уже утерян» Сергей Орловский (Nival)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 794156997717487600,
+      "in_reply_to_status_id_str": "794156997717487617",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 03 12:52:51 +0000 2016",
+      "id": 794160412157677600,
+      "id_str": "794160412157677568",
+      "text": "Советую не бояться сразу делать свою студию.По началу это не так страшно, как потом, а полученные скиллы в любом случае будут котироваться.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 03 12:57:48 +0000 2016",
+      "id": 794161655164923900,
+      "id_str": "794161655164923904",
+      "text": "Вторая моя компания была маленькой труЪ геймдев студией. Все, как у всех, в общем 🙃 Она уже и привела меня туда, гд… https://t.co/ZZY96YeYZq",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ZZY96YeYZq",
+            "expanded_url": "https://twitter.com/i/web/status/794161655164923904",
+            "display_url": "twitter.com/i/web/status/7…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 03 17:25:11 +0000 2016",
+      "id": 794228947756191700,
+      "id_str": "794228947756191744",
+      "text": "Весь путь это подъемы и падения. Когда закончатся деньги, всегда можно начать новую компанию. Рано или поздно получ… https://t.co/WX1glPijnd",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/WX1glPijnd",
+            "expanded_url": "https://twitter.com/i/web/status/794228947756191744",
+            "display_url": "twitter.com/i/web/status/7…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 794169762834251800,
+      "quoted_status_id_str": "794169762834251776",
+      "quoted_status": {
+        "created_at": "Thu Nov 03 13:30:01 +0000 2016",
+        "id": 794169762834251800,
+        "id_str": "794169762834251776",
+        "text": "@gdunderhood ага \"вначале страшно, а потом у вас закончатся деньги и вы закроетесь\")",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 794160412157677600,
+        "in_reply_to_status_id_str": "794160412157677568",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 30450469,
+          "id_str": "30450469"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 03 17:25:29 +0000 2016",
+      "id": 794229022528065500,
+      "id_str": "794229022528065536",
+      "text": "Поддерживаю! https://t.co/7CkctxEpa6",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/7CkctxEpa6",
+            "expanded_url": "https://twitter.com/luayan/status/794174604709339136",
+            "display_url": "twitter.com/luayan/status/…",
+            "indices": [
+              13,
+              36
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 794174604709339100,
+      "quoted_status_id_str": "794174604709339136",
+      "quoted_status": {
+        "created_at": "Thu Nov 03 13:49:15 +0000 2016",
+        "id": 794174604709339100,
+        "id_str": "794174604709339136",
+        "text": "@eu_genes @gdunderhood лучше так, чем \"вначале вам страшно, потом тоже страшно, а к пенсии ты понимаешь что просто ссыкло\"",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "eu_genes",
+              "name": "Eugene Vinakov",
+              "id": 30450469,
+              "id_str": "30450469",
+              "indices": [
+                0,
+                9
+              ]
+            },
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                10,
+                22
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": 794169762834251800,
+        "in_reply_to_status_id_str": "794169762834251776",
+        "in_reply_to_user_id": 30450469,
+        "in_reply_to_user_id_str": "30450469",
+        "in_reply_to_screen_name": "eu_genes",
+        "user": {
+          "id": 85163927,
+          "id_str": "85163927"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 03 17:27:40 +0000 2016",
+      "id": 794229572971753500,
+      "id_str": "794229572971753472",
+      "text": "Я с радостью готов поделиться своим предпринимательским опытом… Буду рад наводящим вопросам, о чем вещать дальше! :) https://t.co/umN141xVhz",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/umN141xVhz",
+            "expanded_url": "https://twitter.com/vedmich/status/794170236207591424",
+            "display_url": "twitter.com/vedmich/status…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 794170236207591400,
+      "quoted_status_id_str": "794170236207591424",
+      "quoted_status": {
+        "created_at": "Thu Nov 03 13:31:53 +0000 2016",
+        "id": 794170236207591400,
+        "id_str": "794170236207591424",
+        "text": "@gdunderhood а можно вообще поподробнее на эту тему? Мало кто тут таким опытом делился )",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": 794160412157677600,
+        "in_reply_to_status_id_str": "794160412157677568",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 56080508,
+          "id_str": "56080508"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 03 17:56:17 +0000 2016",
+      "id": 794236772335124500,
+      "id_str": "794236772335124480",
+      "text": "Находишь деньги (инвестор / ангел, аутсорс проекты для старта), находишь людей и начинаешь :) Иногда деньги можно з… https://t.co/gXIlyDWbVL",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gXIlyDWbVL",
+            "expanded_url": "https://twitter.com/i/web/status/794236772335124480",
+            "display_url": "twitter.com/i/web/status/7…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 794229682417860600,
+      "quoted_status_id_str": "794229682417860609",
+      "quoted_status": {
+        "created_at": "Thu Nov 03 17:28:07 +0000 2016",
+        "id": 794229682417860600,
+        "id_str": "794229682417860609",
+        "text": "@gdunderhood у меня только один вопрос, что вкладывается в понятие \"начать новую компанию\", когда деньги уже закончились?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 794228947756191700,
+        "in_reply_to_status_id_str": "794228947756191744",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 2333212574,
+          "id_str": "2333212574"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
