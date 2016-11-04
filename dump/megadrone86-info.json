@@ -35,45 +35,111 @@
   "time_zone": "Vilnius",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 3818,
+  "statuses_count": 3840,
   "lang": "en",
   "status": {
-    "created_at": "Thu Nov 03 17:56:17 +0000 2016",
-    "id": 794236772335124500,
-    "id_str": "794236772335124480",
-    "text": "Находишь деньги (инвестор / ангел, аутсорс проекты для старта), находишь людей и начинаешь :) Иногда деньги можно з… https://t.co/gXIlyDWbVL",
-    "truncated": true,
+    "created_at": "Fri Nov 04 17:21:46 +0000 2016",
+    "id": 794590475315511300,
+    "id_str": "794590475315511296",
+    "text": "Мое рабочее место с правильным геймдев рационом в придачу 😄 https://t.co/9QP0ILyUG5",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/gXIlyDWbVL",
-          "expanded_url": "https://twitter.com/i/web/status/794236772335124480",
-          "display_url": "twitter.com/i/web/status/7…",
+          "id": 794590472023011300,
+          "id_str": "794590472023011329",
           "indices": [
-            117,
-            140
-          ]
+            60,
+            83
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cwbz0wrXcAEShuI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cwbz0wrXcAEShuI.jpg",
+          "url": "https://t.co/9QP0ILyUG5",
+          "display_url": "pic.twitter.com/9QP0ILyUG5",
+          "expanded_url": "https://twitter.com/gdunderhood/status/794590475315511296/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 960,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 794590472023011300,
+          "id_str": "794590472023011329",
+          "indices": [
+            60,
+            83
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cwbz0wrXcAEShuI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cwbz0wrXcAEShuI.jpg",
+          "url": "https://t.co/9QP0ILyUG5",
+          "display_url": "pic.twitter.com/9QP0ILyUG5",
+          "expanded_url": "https://twitter.com/gdunderhood/status/794590475315511296/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 960,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
     "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 794588940107939800,
+    "in_reply_to_status_id_str": "794588940107939840",
+    "in_reply_to_user_id": 747371158832545800,
+    "in_reply_to_user_id_str": "747371158832545792",
+    "in_reply_to_screen_name": "gdunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 794229682417860600,
-    "quoted_status_id_str": "794229682417860609",
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
