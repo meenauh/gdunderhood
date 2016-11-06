@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 630,
+  "followers_count": 631,
   "friends_count": 25,
   "listed_count": 17,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
@@ -35,29 +35,19 @@
   "time_zone": "Vilnius",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 3842,
+  "statuses_count": 3843,
   "lang": "en",
   "status": {
-    "created_at": "Sat Nov 05 11:46:10 +0000 2016",
-    "id": 794868406138847200,
-    "id_str": "794868406138847232",
-    "text": "Именно она и есть 👍🏼 https://t.co/Dfh1LQjvA9",
+    "created_at": "Sun Nov 06 13:12:17 +0000 2016",
+    "id": 795252467281887200,
+    "id_str": "795252467281887232",
+    "text": "Сейчас расскажу немного про то, как мы делали Mushroom Wars 2.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/Dfh1LQjvA9",
-          "expanded_url": "https://twitter.com/shamangod/status/794609066383462401",
-          "display_url": "twitter.com/shamangod/stat…",
-          "indices": [
-            21,
-            44
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "in_reply_to_status_id": null,
@@ -69,14 +59,11 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 794609066383462400,
-    "quoted_status_id_str": "794609066383462401",
+    "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
