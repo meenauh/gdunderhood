@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 631,
+  "followers_count": 630,
   "friends_count": 25,
   "listed_count": 17,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
@@ -35,19 +35,29 @@
   "time_zone": "Vilnius",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 3843,
+  "statuses_count": 3860,
   "lang": "en",
   "status": {
-    "created_at": "Sun Nov 06 13:12:17 +0000 2016",
-    "id": 795252467281887200,
-    "id_str": "795252467281887232",
-    "text": "Сейчас расскажу немного про то, как мы делали Mushroom Wars 2.",
-    "truncated": false,
+    "created_at": "Sun Nov 06 19:09:06 +0000 2016",
+    "id": 795342260258873300,
+    "id_str": "795342260258873345",
+    "text": "Ну и за сим прощаюсь😁 Сложный для меня формат😑 Надеюсь было ок😋Наберем 20 лайков, напишу статью про создание своей… https://t.co/ZCmDixgaoW",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/ZCmDixgaoW",
+          "expanded_url": "https://twitter.com/i/web/status/795342260258873345",
+          "display_url": "twitter.com/i/web/status/7…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "in_reply_to_status_id": null,
@@ -60,10 +70,11 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "retweet_count": 3,
+    "favorite_count": 18,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
