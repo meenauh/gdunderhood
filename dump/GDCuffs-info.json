@@ -35,33 +35,44 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 4068,
+  "statuses_count": 4082,
   "lang": "en",
   "status": {
-    "created_at": "Thu Nov 17 08:55:47 +0000 2016",
-    "id": 799174181346742300,
-    "id_str": "799174181346742272",
-    "text": "MARIA CHYRVONA: \"Интернет на конференции - это единорог\".\nНикогда. На него. Не рассчитывайте.",
+    "created_at": "Fri Nov 18 21:32:04 +0000 2016",
+    "id": 799726894291636200,
+    "id_str": "799726894291636225",
+    "text": "@wasteland_rider Манжеты ГД - показать все что скрыто.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "wasteland_rider",
+          "name": "Vitaly Grischenckoff",
+          "id": 48675889,
+          "id_str": "48675889",
+          "indices": [
+            0,
+            16
+          ]
+        }
+      ],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 799711754456440800,
+    "in_reply_to_status_id_str": "799711754456440832",
+    "in_reply_to_user_id": 48675889,
+    "in_reply_to_user_id_str": "48675889",
+    "in_reply_to_screen_name": "wasteland_rider",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
