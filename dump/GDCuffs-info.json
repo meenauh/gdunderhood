@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 669,
+  "followers_count": 670,
   "friends_count": 28,
   "listed_count": 17,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
@@ -35,37 +35,44 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 4082,
+  "statuses_count": 4084,
   "lang": "en",
   "status": {
-    "created_at": "Fri Nov 18 21:32:04 +0000 2016",
-    "id": 799726894291636200,
-    "id_str": "799726894291636225",
-    "text": "@wasteland_rider Манжеты ГД - показать все что скрыто.",
-    "truncated": false,
+    "created_at": "Sat Nov 19 17:02:34 +0000 2016",
+    "id": 800021462182674400,
+    "id_str": "800021462182674433",
+    "text": "Друзья, если кто-то из вас был на нашем Анти-Линче на #DevGAMM - не поленитесь дать свой отзыв в официальном прилож… https://t.co/pUOAMKSrnq",
+    "truncated": true,
     "entities": {
-      "hashtags": [],
-      "symbols": [],
-      "user_mentions": [
+      "hashtags": [
         {
-          "screen_name": "wasteland_rider",
-          "name": "Vitaly Grischenckoff",
-          "id": 48675889,
-          "id_str": "48675889",
+          "text": "DevGAMM",
           "indices": [
-            0,
-            16
+            54,
+            62
           ]
         }
       ],
-      "urls": []
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/pUOAMKSrnq",
+          "expanded_url": "https://twitter.com/i/web/status/800021462182674433",
+          "display_url": "twitter.com/i/web/status/8…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 799711754456440800,
-    "in_reply_to_status_id_str": "799711754456440832",
-    "in_reply_to_user_id": 48675889,
-    "in_reply_to_user_id_str": "48675889",
-    "in_reply_to_screen_name": "wasteland_rider",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -75,6 +82,7 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
