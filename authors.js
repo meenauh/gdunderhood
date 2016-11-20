@@ -2,7 +2,7 @@
 
 export default [
   // , post: false 
-  { username: 'GDCuffs',        start: '14 Nov 2016', first: '798063684257857536', post: false },
+  { username: 'GDCuffs',        start: '14 Nov 2016', first: '798063684257857536' },
   { username: 'oxeren',         start: '07 Nov 2016', first: '795573066449485824' },
   { username: 'megadrone86',    start: '31 Oct 2016', first: '793028262641471489' },
   { username: 'guiltythree',    start: '24 Oct 2016', first: '790457486612525056' },
