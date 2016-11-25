@@ -37,125 +37,36 @@
     }
   },
   "protected": false,
-  "followers_count": 667,
+  "followers_count": 669,
   "friends_count": 28,
-  "listed_count": 16,
+  "listed_count": 17,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 933,
+  "favourites_count": 943,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 4118,
+  "statuses_count": 4140,
   "lang": "en",
   "status": {
-    "created_at": "Wed Nov 23 18:56:44 +0000 2016",
-    "id": 801499741783814100,
-    "id_str": "801499741783814147",
-    "text": "Обожаю, когда разработчики уделяют внимание мелочам на поле боя! #Hearthstone https://t.co/7k9CRP4XwI",
+    "created_at": "Fri Nov 25 12:34:17 +0000 2016",
+    "id": 802128271466971100,
+    "id_str": "802128271466971137",
+    "text": "Call of Duty: Black Ops Zombies, порт всем известной игры на планшеты и смартфоны - пример применения marmalade sdk.\nhttps://t.co/LpxGe3LPEN",
     "truncated": false,
     "entities": {
-      "hashtags": [
-        {
-          "text": "Hearthstone",
-          "indices": [
-            65,
-            77
-          ]
-        }
-      ],
+      "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 801499617745653800,
-          "id_str": "801499617745653760",
+          "url": "https://t.co/LpxGe3LPEN",
+          "expanded_url": "http://www.giphy.com/gifs/l3vReDgWCBLfVjBJK",
+          "display_url": "giphy.com/gifs/l3vReDgWC…",
           "indices": [
-            78,
-            101
-          ],
-          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Cx9_p-NXUAAG2h9.jpg",
-          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Cx9_p-NXUAAG2h9.jpg",
-          "url": "https://t.co/7k9CRP4XwI",
-          "display_url": "pic.twitter.com/7k9CRP4XwI",
-          "expanded_url": "https://twitter.com/gdunderhood/status/801499741783814147/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 486,
-              "h": 408,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 340,
-              "h": 285,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 486,
-              "h": 408,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 801499617745653800,
-          "id_str": "801499617745653760",
-          "indices": [
-            78,
-            101
-          ],
-          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Cx9_p-NXUAAG2h9.jpg",
-          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Cx9_p-NXUAAG2h9.jpg",
-          "url": "https://t.co/7k9CRP4XwI",
-          "display_url": "pic.twitter.com/7k9CRP4XwI",
-          "expanded_url": "https://twitter.com/gdunderhood/status/801499741783814147/photo/1",
-          "type": "animated_gif",
-          "sizes": {
-            "medium": {
-              "w": 486,
-              "h": 408,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 340,
-              "h": 285,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 486,
-              "h": 408,
-              "resize": "fit"
-            }
-          },
-          "video_info": {
-            "aspect_ratio": [
-              81,
-              68
-            ],
-            "variants": [
-              {
-                "bitrate": 0,
-                "content_type": "video/mp4",
-                "url": "https://pbs.twimg.com/tweet_video/Cx9_p-NXUAAG2h9.mp4"
-              }
-            ]
-          }
+            117,
+            140
+          ]
         }
       ]
     },
@@ -171,7 +82,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
