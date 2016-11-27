@@ -4,18 +4,7 @@
   "name": "Гейм-дизайнер",
   "screen_name": "gdunderhood",
   "location": "Saint Petersburg, Russia",
-  "profile_location": {
-    "id": "a76c0cd7d56c4836",
-    "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
-    "place_type": "unknown",
-    "name": "Saint Petersburg, Russia",
-    "full_name": "Saint Petersburg, Russia",
-    "country_code": "",
-    "country": "",
-    "contained_within": [],
-    "bounding_box": null,
-    "attributes": {}
-  },
+  "profile_location": null,
   "description": "Коллективный твиттер-аккаунт для гейм-дизайнеров всех мастей: от балансеров до нарративщиков. Новый автор каждую неделю. На этой неделе – @jok_off",
   "url": "https://t.co/lIo0mtT2X0",
   "entities": {
@@ -46,26 +35,26 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 4169,
+  "statuses_count": 4170,
   "lang": "en",
   "status": {
-    "created_at": "Sun Nov 27 17:48:57 +0000 2016",
-    "id": 802932237310316500,
-    "id_str": "802932237310316544",
-    "text": "Если вы решили покупать траффик - стоит обратить внимание на интерактивную карту CPI https://t.co/NrCQI2zmsI",
-    "truncated": false,
+    "created_at": "Sun Nov 27 20:12:05 +0000 2016",
+    "id": 802968255077855200,
+    "id_str": "802968255077855232",
+    "text": "Спасибо всем, кто читал андерхуд всю эту неделю! Надеюсь, вам понравилось! Делайте игры, хорошие и разные! Пока-пок… https://t.co/PcBDZ63N34",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/NrCQI2zmsI",
-          "expanded_url": "https://www.chartboost.com/insights/ios-/insights/",
-          "display_url": "chartboost.com/insights/ios-/…",
+          "url": "https://t.co/PcBDZ63N34",
+          "expanded_url": "https://twitter.com/i/web/status/802968255077855232",
+          "display_url": "twitter.com/i/web/status/8…",
           "indices": [
-            85,
-            108
+            117,
+            140
           ]
         }
       ]
@@ -82,7 +71,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 2,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
