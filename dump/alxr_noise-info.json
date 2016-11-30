@@ -35,26 +35,37 @@
   "time_zone": "Minsk",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 4205,
+  "statuses_count": 4217,
   "lang": "en",
   "status": {
-    "created_at": "Tue Nov 29 16:44:52 +0000 2016",
-    "id": 803640882654314500,
-    "id_str": "803640882654314496",
-    "text": "Бесценным был опыт наблюдения за ходом UX тестов. Я увидел на сколько важно чувствовать своих игроков, и наблюдать их реакции.",
+    "created_at": "Wed Nov 30 18:07:10 +0000 2016",
+    "id": 804023984304062500,
+    "id_str": "804023984304062464",
+    "text": "@FYPIIN ну мы например в туторе первым делом просили игроков взять устройство так как показано на картинке. :)",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "FYPIIN",
+          "name": "Aili",
+          "id": 430588478,
+          "id_str": "430588478",
+          "indices": [
+            0,
+            7
+          ]
+        }
+      ],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 803535872457052200,
-    "in_reply_to_status_id_str": "803535872457052160",
-    "in_reply_to_user_id": 747371158832545800,
-    "in_reply_to_user_id_str": "747371158832545792",
-    "in_reply_to_screen_name": "gdunderhood",
+    "in_reply_to_status_id": 803889222893666300,
+    "in_reply_to_status_id_str": "803889222893666304",
+    "in_reply_to_user_id": 430588478,
+    "in_reply_to_user_id_str": "430588478",
+    "in_reply_to_screen_name": "FYPIIN",
     "geo": null,
     "coordinates": null,
     "place": null,
