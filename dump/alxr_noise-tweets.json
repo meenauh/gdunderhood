@@ -1773,6 +1773,1206 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 30 18:13:30 +0000 2016",
+      "id": 804025576398999600,
+      "id_str": "804025576398999552",
+      "text": "@Hatred_oberon я работал в преодакшн отделе, писал доки. Занимался всем подряд, от управления до систем обучения.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Hatred_oberon",
+            "name": "Hatred_oberon",
+            "id": 16489345,
+            "id_str": "16489345",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 804021939773833200,
+      "in_reply_to_status_id_str": "804021939773833221",
+      "in_reply_to_user_id": 16489345,
+      "in_reply_to_user_id_str": "16489345",
+      "in_reply_to_screen_name": "Hatred_oberon",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 30 18:16:03 +0000 2016",
+      "id": 804026217770942500,
+      "id_str": "804026217770942464",
+      "text": "В какой-то момент все дизы стали фичер оунерами того что понаписали. И тут мне конечно стало жить веселее потому как мог влиять на продакшн.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 804009795145662500,
+      "in_reply_to_status_id_str": "804009795145662464",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "333a5811d6b0c1cb",
+        "url": "https://api.twitter.com/1.1/geo/id/333a5811d6b0c1cb.json",
+        "place_type": "country",
+        "name": "Republic of Belarus",
+        "full_name": "Republic of Belarus",
+        "country_code": "BY",
+        "country": "Republic of Belarus",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                23.179217,
+                51.2626423
+              ],
+              [
+                32.7769812,
+                51.2626423
+              ],
+              [
+                32.7769812,
+                56.1717339
+              ],
+              [
+                23.179217,
+                56.1717339
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 30 18:18:15 +0000 2016",
+      "id": 804026772941586400,
+      "id_str": "804026772941586433",
+      "text": "Пушить задачи, стрелять в дезертиров с крыши броневика и вот это все. Делалось ради релиза все, гуарилла дэвэлопмент процветал.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 804026217770942500,
+      "in_reply_to_status_id_str": "804026217770942464",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "333a5811d6b0c1cb",
+        "url": "https://api.twitter.com/1.1/geo/id/333a5811d6b0c1cb.json",
+        "place_type": "country",
+        "name": "Republic of Belarus",
+        "full_name": "Republic of Belarus",
+        "country_code": "BY",
+        "country": "Republic of Belarus",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                23.179217,
+                51.2626423
+              ],
+              [
+                32.7769812,
+                51.2626423
+              ],
+              [
+                32.7769812,
+                56.1717339
+              ],
+              [
+                23.179217,
+                56.1717339
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 30 18:20:41 +0000 2016",
+      "id": 804027387591721000,
+      "id_str": "804027387591720960",
+      "text": "Но проблема тут только в том что не всем дизам это нужно. Кому-то просто комфортно сидеть и бить буквы. А продакшн он сам по себе.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 804026772941586400,
+      "in_reply_to_status_id_str": "804026772941586433",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "333a5811d6b0c1cb",
+        "url": "https://api.twitter.com/1.1/geo/id/333a5811d6b0c1cb.json",
+        "place_type": "country",
+        "name": "Republic of Belarus",
+        "full_name": "Republic of Belarus",
+        "country_code": "BY",
+        "country": "Republic of Belarus",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                23.179217,
+                51.2626423
+              ],
+              [
+                32.7769812,
+                51.2626423
+              ],
+              [
+                32.7769812,
+                56.1717339
+              ],
+              [
+                23.179217,
+                56.1717339
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 30 18:23:58 +0000 2016",
+      "id": 804028211776671700,
+      "id_str": "804028211776671744",
+      "text": "Дока есть, там все написано. Это тоже подход, но лично для меня это скучно. Я люблю работать с людьми, бегать волком держа пульс.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 804027387591721000,
+      "in_reply_to_status_id_str": "804027387591720960",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "333a5811d6b0c1cb",
+        "url": "https://api.twitter.com/1.1/geo/id/333a5811d6b0c1cb.json",
+        "place_type": "country",
+        "name": "Republic of Belarus",
+        "full_name": "Republic of Belarus",
+        "country_code": "BY",
+        "country": "Republic of Belarus",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                23.179217,
+                51.2626423
+              ],
+              [
+                32.7769812,
+                51.2626423
+              ],
+              [
+                32.7769812,
+                56.1717339
+              ],
+              [
+                23.179217,
+                56.1717339
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 30 18:30:09 +0000 2016",
+      "id": 804029768266092500,
+      "id_str": "804029768266092544",
+      "text": "Душа требовала экшена и я начал свой пэт проджект с одним из программистов из моей старой команды.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 804028211776671700,
+      "in_reply_to_status_id_str": "804028211776671744",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "333a5811d6b0c1cb",
+        "url": "https://api.twitter.com/1.1/geo/id/333a5811d6b0c1cb.json",
+        "place_type": "country",
+        "name": "Republic of Belarus",
+        "full_name": "Republic of Belarus",
+        "country_code": "BY",
+        "country": "Republic of Belarus",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                23.179217,
+                51.2626423
+              ],
+              [
+                32.7769812,
+                51.2626423
+              ],
+              [
+                32.7769812,
+                56.1717339
+              ],
+              [
+                23.179217,
+                56.1717339
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 30 18:33:32 +0000 2016",
+      "id": 804030619466530800,
+      "id_str": "804030619466530819",
+      "text": "Нам повезло и нас приютили мои знакомые, которые работали на коттедже. Им нужен был наш опыт, а нам их площадь. Симботические отношения.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 804029768266092500,
+      "in_reply_to_status_id_str": "804029768266092544",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "333a5811d6b0c1cb",
+        "url": "https://api.twitter.com/1.1/geo/id/333a5811d6b0c1cb.json",
+        "place_type": "country",
+        "name": "Republic of Belarus",
+        "full_name": "Republic of Belarus",
+        "country_code": "BY",
+        "country": "Republic of Belarus",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                23.179217,
+                51.2626423
+              ],
+              [
+                32.7769812,
+                51.2626423
+              ],
+              [
+                32.7769812,
+                56.1717339
+              ],
+              [
+                23.179217,
+                56.1717339
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 30 18:35:26 +0000 2016",
+      "id": 804031098053390300,
+      "id_str": "804031098053390336",
+      "text": "Мы приезжали по выходным и пару раз в неделю и горели мы там как твари. Усталость пффф.. мы тут индихит снова делаем.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 804030619466530800,
+      "in_reply_to_status_id_str": "804030619466530819",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 30 18:39:01 +0000 2016",
+      "id": 804031999665180700,
+      "id_str": "804031999665180673",
+      "text": "Потом мы стали участвовать в джэмах. В Ludum Dare например. https://t.co/I92Cruecpy",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 804031964516876300,
+            "id_str": "804031964516876288",
+            "indices": [
+              60,
+              83
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cyh-z9EWgAAt8PP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cyh-z9EWgAAt8PP.jpg",
+            "url": "https://t.co/I92Cruecpy",
+            "display_url": "pic.twitter.com/I92Cruecpy",
+            "expanded_url": "https://twitter.com/gdunderhood/status/804031999665180673/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1701,
+                "h": 1701,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 804031964516876300,
+            "id_str": "804031964516876288",
+            "indices": [
+              60,
+              83
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cyh-z9EWgAAt8PP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cyh-z9EWgAAt8PP.jpg",
+            "url": "https://t.co/I92Cruecpy",
+            "display_url": "pic.twitter.com/I92Cruecpy",
+            "expanded_url": "https://twitter.com/gdunderhood/status/804031999665180673/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1701,
+                "h": 1701,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 804031098053390300,
+      "in_reply_to_status_id_str": "804031098053390336",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 30 18:43:46 +0000 2016",
+      "id": 804033196144857100,
+      "id_str": "804033196144857088",
+      "text": "Мы сделали тогда Starpiercer https://t.co/z9nMMhjIMm игры там было мало зато красиво было.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/z9nMMhjIMm",
+            "expanded_url": "https://youtu.be/FPtw2sqs86E",
+            "display_url": "youtu.be/FPtw2sqs86E",
+            "indices": [
+              29,
+              52
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 804031999665180700,
+      "in_reply_to_status_id_str": "804031999665180673",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 30 18:49:22 +0000 2016",
+      "id": 804034602025287700,
+      "id_str": "804034602025287685",
+      "text": "Для двух дней это был хороший результат и мы почувствовали, что можем вывести проект на новый уровень. Пошли с ним на GameJam Kanobu.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 804033196144857100,
+      "in_reply_to_status_id_str": "804033196144857088",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 30 18:54:05 +0000 2016",
+      "id": 804035790749765600,
+      "id_str": "804035790749765636",
+      "text": "На Канобу мы стали одними из призеров, нас позвали на церемонию вручения, которая проходила на Игромире.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 804034602025287700,
+      "in_reply_to_status_id_str": "804034602025287685",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 30 18:59:58 +0000 2016",
+      "id": 804037272765136900,
+      "id_str": "804037272765136902",
+      "text": "В котельную нашего эго подбросили ещё угля и мы начали работать с еще большим усердием. Повезли мы уже новый билд https://t.co/07suN1gbMt",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/07suN1gbMt",
+            "expanded_url": "https://youtu.be/SA_4Ac85Rcs",
+            "display_url": "youtu.be/SA_4Ac85Rcs",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 804035790749765600,
+      "in_reply_to_status_id_str": "804035790749765636",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 30 19:01:13 +0000 2016",
+      "id": 804037587266637800,
+      "id_str": "804037587266637824",
+      "text": "Но дорабатывали мы его по дороге Игромир и тут начинается поучительная часть истории.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 804037272765136900,
+      "in_reply_to_status_id_str": "804037272765136902",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 30 19:04:46 +0000 2016",
+      "id": 804038481072754700,
+      "id_str": "804038481072754688",
+      "text": "Мы заселились в хостеле.. внимание.. Аризонская Мечта. Вопрос. Что тут могло пойти так?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 804037587266637800,
+      "in_reply_to_status_id_str": "804037587266637824",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 30 19:06:55 +0000 2016",
+      "id": 804039021525602300,
+      "id_str": "804039021525602304",
+      "text": "Там было действительно мило, легкий налет артхауса присутствовал везде. Но одна деталь не давала мне покоя.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 804038481072754700,
+      "in_reply_to_status_id_str": "804038481072754688",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 30 19:12:41 +0000 2016",
+      "id": 804040473174298600,
+      "id_str": "804040473174298624",
+      "text": "Когда мы вселялись я заметил ребят в трениках, с разложенными на газете семечками, они жадно сосали пиво и смотрели Blade Runner.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 804039021525602300,
+      "in_reply_to_status_id_str": "804039021525602304",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 30 19:16:37 +0000 2016",
+      "id": 804041459905265700,
+      "id_str": "804041459905265666",
+      "text": "Я спросил у девочки админа, а что тут собственно за сюр происходит, на что она мне ответила: А.. это местные, наши друзья.;)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 804040473174298600,
+      "in_reply_to_status_id_str": "804040473174298624",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 30 19:21:30 +0000 2016",
+      "id": 804042689234796500,
+      "id_str": "804042689234796545",
+      "text": "В нашей комнате было тесно, по этому мы решили пойти работать в общей комнате. Спустя какое время начался главный аттракцион.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 804041459905265700,
+      "in_reply_to_status_id_str": "804041459905265666",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 30 19:24:55 +0000 2016",
+      "id": 804043548991619100,
+      "id_str": "804043548991619072",
+      "text": "К нам пришла подпившая дамочка, с шикарными рыжими волосами. Она заявила что у нее сегодня день рождения, и она хочет читать Блока..",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 804042689234796500,
+      "in_reply_to_status_id_str": "804042689234796545",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 30 19:31:19 +0000 2016",
+      "id": 804045163190489100,
+      "id_str": "804045163190489088",
+      "text": "Но то что было дальше, я расскажу вам как-нибудь в баре.. потому что начался совсем трэш.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 804043548991619100,
+      "in_reply_to_status_id_str": "804043548991619072",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 30 19:33:43 +0000 2016",
+      "id": 804045765626724400,
+      "id_str": "804045765626724353",
+      "text": "Утром мы допилили билд до состояния, когда мы опоздали на собственное награждение. Были обидно.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 804045163190489100,
+      "in_reply_to_status_id_str": "804045163190489088",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 30 19:42:07 +0000 2016",
+      "id": 804047879534952400,
+      "id_str": "804047879534952449",
+      "text": "ПДелать еще что-то в последний день было плохой идеей. Но желание выебнуться опьяняет, даже если ты опытен.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 804045765626724400,
+      "in_reply_to_status_id_str": "804045765626724353",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 30 19:49:19 +0000 2016",
+      "id": 804049691516268500,
+      "id_str": "804049691516268544",
+      "text": "На сегодня все друзья. Завтра я ещё расскажу заключительную часть моих похождений, а потом поеду на Games Gathering в Киев.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 804047879534952400,
+      "in_reply_to_status_id_str": "804047879534952449",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 01 07:20:01 +0000 2016",
+      "id": 804223513112576000,
+      "id_str": "804223513112576001",
+      "text": "@vedmich кота зовут Марсик, он один из коренных жителей коттеджа. Я про него еще расскажу.)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vedmich",
+            "name": "M475uk4z3",
+            "id": 56080508,
+            "id_str": "56080508",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 804222210537885700,
+      "in_reply_to_status_id_str": "804222210537885696",
+      "in_reply_to_user_id": 56080508,
+      "in_reply_to_user_id_str": "56080508",
+      "in_reply_to_screen_name": "vedmich",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 01 08:51:12 +0000 2016",
+      "id": 804246456823611400,
+      "id_str": "804246456823611392",
+      "text": "@vedmich @stagefear напомни мне на Московском DevGamm, там рили легендарная история. )",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vedmich",
+            "name": "M475uk4z3",
+            "id": 56080508,
+            "id_str": "56080508",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "stagefear",
+            "name": "Max Postnikov",
+            "id": 129312982,
+            "id_str": "129312982",
+            "indices": [
+              9,
+              19
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 804242141945929700,
+      "in_reply_to_status_id_str": "804242141945929728",
+      "in_reply_to_user_id": 56080508,
+      "in_reply_to_user_id_str": "56080508",
+      "in_reply_to_screen_name": "vedmich",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
