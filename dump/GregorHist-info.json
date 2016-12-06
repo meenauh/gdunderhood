@@ -26,56 +26,46 @@
     }
   },
   "protected": false,
-  "followers_count": 701,
+  "followers_count": 703,
   "friends_count": 28,
-  "listed_count": 17,
+  "listed_count": 16,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 964,
+  "favourites_count": 974,
   "utc_offset": 10800,
   "time_zone": "Minsk",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 4329,
+  "statuses_count": 4347,
   "lang": "en",
   "status": {
-    "created_at": "Mon Dec 05 15:58:20 +0000 2016",
-    "id": 805803500429049900,
-    "id_str": "805803500429049856",
-    "text": "@as_Crazy Продаются в https://t.co/5dkljKWs4E , мы нашему паблишеру при встрече подарили шоколадный мешочек денег =D",
+    "created_at": "Tue Dec 06 17:46:56 +0000 2016",
+    "id": 806193217548992500,
+    "id_str": "806193217548992512",
+    "text": "@So_Evil_Falco Первый раз слышу о тик-так-бум, честно-честно)",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "as_Crazy",
-          "name": "Alexander",
-          "id": 107279965,
-          "id_str": "107279965",
+          "screen_name": "So_Evil_Falco",
+          "name": "Kononov Sergey",
+          "id": 237803261,
+          "id_str": "237803261",
           "indices": [
             0,
-            9
+            14
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/5dkljKWs4E",
-          "expanded_url": "http://chocoart.by/katalog/shokoladnye-barelefy/moya-belarus_101",
-          "display_url": "chocoart.by/katalog/shokol…",
-          "indices": [
-            22,
-            45
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 805802616538206200,
-    "in_reply_to_status_id_str": "805802616538206208",
-    "in_reply_to_user_id": 107279965,
-    "in_reply_to_user_id_str": "107279965",
-    "in_reply_to_screen_name": "as_Crazy",
+    "in_reply_to_status_id": 806188854193623000,
+    "in_reply_to_status_id_str": "806188854193623044",
+    "in_reply_to_user_id": 237803261,
+    "in_reply_to_user_id_str": "237803261",
+    "in_reply_to_screen_name": "So_Evil_Falco",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -85,7 +75,6 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,

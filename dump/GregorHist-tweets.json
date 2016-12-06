@@ -1246,6 +1246,899 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 06 06:36:36 +0000 2016",
+      "id": 806024525964083200,
+      "id_str": "806024525964083200",
+      "text": "А что вы делаете, чтобы ваши коты не мешали вам спать? Я даже бургер ему приготовил, а он все равно всю ночь бегал… https://t.co/v8fy15PLtL",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/v8fy15PLtL",
+            "expanded_url": "https://twitter.com/i/web/status/806024525964083200",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 06 07:04:58 +0000 2016",
+      "id": 806031664426188800,
+      "id_str": "806031664426188800",
+      "text": "@elmortem Совершенно не нужны, никакой пользы от них, один вред. https://t.co/R2eqMlubQL",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "elmortem",
+            "name": "Makar Osokin",
+            "id": 17113331,
+            "id_str": "17113331",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 806031645908340700,
+            "id_str": "806031645908340736",
+            "indices": [
+              65,
+              88
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cy-ZguwXEAALXVh.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cy-ZguwXEAALXVh.jpg",
+            "url": "https://t.co/R2eqMlubQL",
+            "display_url": "pic.twitter.com/R2eqMlubQL",
+            "expanded_url": "https://twitter.com/gdunderhood/status/806031664426188800/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 896,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1530,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 508,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 806031645908340700,
+            "id_str": "806031645908340736",
+            "indices": [
+              65,
+              88
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cy-ZguwXEAALXVh.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cy-ZguwXEAALXVh.jpg",
+            "url": "https://t.co/R2eqMlubQL",
+            "display_url": "pic.twitter.com/R2eqMlubQL",
+            "expanded_url": "https://twitter.com/gdunderhood/status/806031664426188800/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 896,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1530,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 508,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 806030132649611300,
+      "in_reply_to_status_id_str": "806030132649611264",
+      "in_reply_to_user_id": 17113331,
+      "in_reply_to_user_id_str": "17113331",
+      "in_reply_to_screen_name": "elmortem",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 06 07:09:23 +0000 2016",
+      "id": 806032773232394200,
+      "id_str": "806032773232394240",
+      "text": "Паблишер разрешил делиться материалами по нашей новой игре с весьма экспериментальным геймплеем. Сегодня обязательно что-нибудь покажу :3",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 06 09:17:02 +0000 2016",
+      "id": 806064896886603800,
+      "id_str": "806064896886603776",
+      "text": "The last guardian хвалят https://t.co/t07pQsbN4Z Мне кажется, это будет что-то очень трогательное. Этот декабрь богат на интересные релизы.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/t07pQsbN4Z",
+            "expanded_url": "https://dtf.ru/2613-poyavilis-pervye-ocenki-igry-the-last-guardian",
+            "display_url": "dtf.ru/2613-poyavilis…",
+            "indices": [
+              25,
+              48
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 06 09:18:55 +0000 2016",
+      "id": 806065371304366100,
+      "id_str": "806065371304366080",
+      "text": "А тут я рассказывал об истории создания Eon games и наших первых шагах в геймдеве. https://t.co/Jm6CTCr4Dz",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Jm6CTCr4Dz",
+            "expanded_url": "https://vc.ru/p/eon-games",
+            "display_url": "vc.ru/p/eon-games",
+            "indices": [
+              83,
+              106
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 06 10:02:59 +0000 2016",
+      "id": 806076460662407200,
+      "id_str": "806076460662407168",
+      "text": "Наша новая игра - Bombasters! https://t.co/yr595cQVET … Промо-материалы пока сыроватые. Софтлонч планируем в декабр… https://t.co/OvK3lP6n5q",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/yr595cQVET",
+            "expanded_url": "http://novagames.com/ru/games/bombasters",
+            "display_url": "novagames.com/ru/games/bomba…",
+            "indices": [
+              30,
+              53
+            ]
+          },
+          {
+            "url": "https://t.co/OvK3lP6n5q",
+            "expanded_url": "https://twitter.com/i/web/status/806076460662407168",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 06 10:26:44 +0000 2016",
+      "id": 806082441219743700,
+      "id_str": "806082441219743745",
+      "text": "У каждого игрока есть фитиль(=hp), который горит, пока игрок держит бомбу. С помощью карт надо лепить бомбу к игрок… https://t.co/qh5AOys6Ou",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/qh5AOys6Ou",
+            "expanded_url": "https://twitter.com/i/web/status/806082441219743745",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 806080538444439600,
+      "quoted_status_id_str": "806080538444439552",
+      "quoted_status": {
+        "created_at": "Tue Dec 06 10:19:11 +0000 2016",
+        "id": 806080538444439600,
+        "id_str": "806080538444439552",
+        "text": "@gdunderhood я, наверное, туповат. Но вообще не понял когда будет взрыв бомбы (точно неизвестно, да, но не рандом же, всяко?!)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": 806076460662407200,
+        "in_reply_to_status_id_str": "806076460662407168",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 156480778,
+          "id_str": "156480778"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 06 10:28:44 +0000 2016",
+      "id": 806082943240257500,
+      "id_str": "806082943240257536",
+      "text": "@kpower_andrey Сейчас просто фитиль (=hp) не отображается, видеоролик немного устарел)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kpower_andrey",
+            "name": "kpower",
+            "id": 156480778,
+            "id_str": "156480778",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 806080538444439600,
+      "in_reply_to_status_id_str": "806080538444439552",
+      "in_reply_to_user_id": 156480778,
+      "in_reply_to_user_id_str": "156480778",
+      "in_reply_to_screen_name": "kpower_andrey",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 06 11:17:37 +0000 2016",
+      "id": 806095244081201200,
+      "id_str": "806095244081201158",
+      "text": "@So_Evil_Falco Где?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "So_Evil_Falco",
+            "name": "Kononov Sergey",
+            "id": 237803261,
+            "id_str": "237803261",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 806093249760923600,
+      "in_reply_to_status_id_str": "806093249760923648",
+      "in_reply_to_user_id": 237803261,
+      "in_reply_to_user_id_str": "237803261",
+      "in_reply_to_screen_name": "So_Evil_Falco",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 06 12:19:14 +0000 2016",
+      "id": 806110750603432000,
+      "id_str": "806110750603431937",
+      "text": "Идея появилась из детской уличной игры \"горячая картошка\", когда все друг другу мяч бросают, а кто его задержит или уронит - садится в круг.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 06 13:08:44 +0000 2016",
+      "id": 806123208516767700,
+      "id_str": "806123208516767744",
+      "text": "@So_Evil_Falco Точно, мне в нее еще Сергей Гиммельрейх посоветовал поиграть, когда бомбастеров увидел. Спасибо за совет, обязательно гляну.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "So_Evil_Falco",
+            "name": "Kononov Sergey",
+            "id": 237803261,
+            "id_str": "237803261",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 806122019473473500,
+      "in_reply_to_status_id_str": "806122019473473537",
+      "in_reply_to_user_id": 237803261,
+      "in_reply_to_user_id_str": "237803261",
+      "in_reply_to_screen_name": "So_Evil_Falco",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 06 13:53:11 +0000 2016",
+      "id": 806134393882427400,
+      "id_str": "806134393882427392",
+      "text": "Разработка Bombasters началась с прототипа в UE:Blueprints. Закодил наш художник - попробуйте! https://t.co/jCIwZNlxUp",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/jCIwZNlxUp",
+            "expanded_url": "https://www.dropbox.com/s/f77aobj7v85dmat/bomb_prototype.zip?dl=0",
+            "display_url": "dropbox.com/s/f77aobj7v85d…",
+            "indices": [
+              95,
+              118
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 06 13:53:55 +0000 2016",
+      "id": 806134577827823600,
+      "id_str": "806134577827823616",
+      "text": "К слову, тоже использую UE:Blueprints для разработки прототипов по своим концептам. Сам придумал, сам сделал и поиграл. Очень простой язык.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 06 14:23:28 +0000 2016",
+      "id": 806142013418643500,
+      "id_str": "806142013418643456",
+      "text": "Ребятам из Nova Games понравился прототип Bombasters, и в апреле 2016 начали разработку игры. Сейчас она уже почти… https://t.co/2TJQGoyJ1m",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/2TJQGoyJ1m",
+            "expanded_url": "https://twitter.com/i/web/status/806142013418643456",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 806134393882427400,
+      "in_reply_to_status_id_str": "806134393882427392",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 06 14:38:41 +0000 2016",
+      "id": 806145845146112000,
+      "id_str": "806145845146112000",
+      "text": "@So_Evil_Falco Там много лишнего обвеса) Хотя да, горящий по физике фитиль бомбы (в прототипе геймплея) по мнению художника был необходим.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "So_Evil_Falco",
+            "name": "Kononov Sergey",
+            "id": 237803261,
+            "id_str": "237803261",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 806144069844004900,
+      "in_reply_to_status_id_str": "806144069844004864",
+      "in_reply_to_user_id": 237803261,
+      "in_reply_to_user_id_str": "237803261",
+      "in_reply_to_screen_name": "So_Evil_Falco",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 06 15:18:34 +0000 2016",
+      "id": 806155882300112900,
+      "id_str": "806155882300112897",
+      "text": "Регулярно смотрю \"Инфакт\" от Stopgame.ru https://t.co/ACsQNTA4sX , чтобы быть в курсе, что происходит на рынке. А какие новости смотрите вы?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ACsQNTA4sX",
+            "expanded_url": "https://www.youtube.com/watch?v=XYq9kVwQ7pw",
+            "display_url": "youtube.com/watch?v=XYq9kV…",
+            "indices": [
+              41,
+              64
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 06 16:49:42 +0000 2016",
+      "id": 806178817689653200,
+      "id_str": "806178817689653249",
+      "text": "@So_Evil_Falco Когда игрок получает бомбу, он генерит 1 энергию. За энергию можно использовать карты способностей с головоломками.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "So_Evil_Falco",
+            "name": "Kononov Sergey",
+            "id": 237803261,
+            "id_str": "237803261",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 806175447314821100,
+      "in_reply_to_status_id_str": "806175447314821120",
+      "in_reply_to_user_id": 237803261,
+      "in_reply_to_user_id_str": "237803261",
+      "in_reply_to_screen_name": "So_Evil_Falco",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 06 17:46:56 +0000 2016",
+      "id": 806193217548992500,
+      "id_str": "806193217548992512",
+      "text": "@So_Evil_Falco Первый раз слышу о тик-так-бум, честно-честно)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "So_Evil_Falco",
+            "name": "Kononov Sergey",
+            "id": 237803261,
+            "id_str": "237803261",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 806188854193623000,
+      "in_reply_to_status_id_str": "806188854193623044",
+      "in_reply_to_user_id": 237803261,
+      "in_reply_to_user_id_str": "237803261",
+      "in_reply_to_screen_name": "So_Evil_Falco",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
