@@ -3131,6 +3131,1761 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 08 09:14:03 +0000 2016",
+      "id": 806788924869779500,
+      "id_str": "806788924869779456",
+      "text": "@vedmich Мы бы его с ними вряд ли бы доделали.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vedmich",
+            "name": "M475uk4z3",
+            "id": 56080508,
+            "id_str": "56080508",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 806786965215400000,
+      "in_reply_to_status_id_str": "806786965215399936",
+      "in_reply_to_user_id": 56080508,
+      "in_reply_to_user_id_str": "56080508",
+      "in_reply_to_screen_name": "vedmich",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 08 09:14:56 +0000 2016",
+      "id": 806789146886844400,
+      "id_str": "806789146886844416",
+      "text": "@dragosha @vedmich Я тоже оба гримрока прошел, хочу сделать свой, со своим блекджеком и эльфийками.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dragosha",
+            "name": "Igor Suntsev",
+            "id": 89635572,
+            "id_str": "89635572",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "vedmich",
+            "name": "M475uk4z3",
+            "id": 56080508,
+            "id_str": "56080508",
+            "indices": [
+              10,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 806787605400387600,
+      "in_reply_to_status_id_str": "806787605400387584",
+      "in_reply_to_user_id": 89635572,
+      "in_reply_to_user_id_str": "89635572",
+      "in_reply_to_screen_name": "dragosha",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 08 09:37:17 +0000 2016",
+      "id": 806794771901521900,
+      "id_str": "806794771901521920",
+      "text": "Раз уж сегодня зашла речь о концептах игр, можно поговорить о том, кто и как их придумывает. https://t.co/28dJmjg1h5",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 806794725697015800,
+            "id_str": "806794725697015809",
+            "indices": [
+              93,
+              116
+            ],
+            "media_url": "http://pbs.twimg.com/media/CzJPh0fUUAEK3vL.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CzJPh0fUUAEK3vL.jpg",
+            "url": "https://t.co/28dJmjg1h5",
+            "display_url": "pic.twitter.com/28dJmjg1h5",
+            "expanded_url": "https://twitter.com/gdunderhood/status/806794771901521920/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 500,
+                "h": 500,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 500,
+                "h": 500,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 500,
+                "h": 500,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 806794725697015800,
+            "id_str": "806794725697015809",
+            "indices": [
+              93,
+              116
+            ],
+            "media_url": "http://pbs.twimg.com/media/CzJPh0fUUAEK3vL.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CzJPh0fUUAEK3vL.jpg",
+            "url": "https://t.co/28dJmjg1h5",
+            "display_url": "pic.twitter.com/28dJmjg1h5",
+            "expanded_url": "https://twitter.com/gdunderhood/status/806794771901521920/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 500,
+                "h": 500,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 500,
+                "h": 500,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 500,
+                "h": 500,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 08 09:39:14 +0000 2016",
+      "id": 806795262991560700,
+      "id_str": "806795262991560706",
+      "text": "Концепт может начаться с чего угодно: с идеи геймплея, с идеи сеттинга или вообще с чего-то, никаким образом не связанного с играми.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 806794771901521900,
+      "in_reply_to_status_id_str": "806794771901521920",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 08 09:41:56 +0000 2016",
+      "id": 806795939511836700,
+      "id_str": "806795939511836672",
+      "text": "Обычно геймдизайнеры стараются придумывать концепты, отталкиваясь именно от геймплейной идеи. Но где черпать вдохновение для новых механик?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 806795262991560700,
+      "in_reply_to_status_id_str": "806795262991560706",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 08 09:44:37 +0000 2016",
+      "id": 806796615709179900,
+      "id_str": "806796615709179904",
+      "text": "Вот лично мой топ-список: 1. Кастомные карты для warcraft3 2. Сайты с флеш-играми(любимый - https://t.co/zDIBHcqmzz) 3. Науч-поп литература.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/zDIBHcqmzz",
+            "expanded_url": "http://www.newgrounds.com/",
+            "display_url": "newgrounds.com",
+            "indices": [
+              92,
+              115
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 806795939511836700,
+      "in_reply_to_status_id_str": "806795939511836672",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 08 09:49:54 +0000 2016",
+      "id": 806797946209480700,
+      "id_str": "806797946209480704",
+      "text": "А вот, по моему мнению, худшие места для поиска вдохновения: 1. Топ гроссинга iOS. 2. Игры коллег из соседнего дома. 3. Питейные заведения.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 806796615709179900,
+      "in_reply_to_status_id_str": "806796615709179904",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 08 09:51:48 +0000 2016",
+      "id": 806798423064125400,
+      "id_str": "806798423064125442",
+      "text": "Расстраивает, когда молодые разработчики, насмотревшись на гроссинг и наслушавшись докладов успешных коллег, стараются за ними повторять.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 806797946209480700,
+      "in_reply_to_status_id_str": "806797946209480704",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 08 09:53:40 +0000 2016",
+      "id": 806798893849546800,
+      "id_str": "806798893849546752",
+      "text": "На самом деле здесь все как с литературой: все идеи уже были, а новое - хорошо забытое старое. Возможно, VR привнесет новизны в этот цикл =)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 08 09:55:51 +0000 2016",
+      "id": 806799444272255000,
+      "id_str": "806799444272254976",
+      "text": "Выходит без души. Никогда не переубеждаю новичков в геймдеве, когда они приносят странные, но прикольные концепты,… https://t.co/jGDda87ac6",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/jGDda87ac6",
+            "expanded_url": "https://twitter.com/i/web/status/806799444272254976",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 806798423064125400,
+      "quoted_status_id_str": "806798423064125442",
+      "quoted_status": {
+        "created_at": "Thu Dec 08 09:51:48 +0000 2016",
+        "id": 806798423064125400,
+        "id_str": "806798423064125442",
+        "text": "Расстраивает, когда молодые разработчики, насмотревшись на гроссинг и наслушавшись докладов успешных коллег, стараются за ними повторять.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 806797946209480700,
+        "in_reply_to_status_id_str": "806797946209480704",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 747371158832545800,
+          "id_str": "747371158832545792"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 08 09:57:03 +0000 2016",
+      "id": 806799744588619800,
+      "id_str": "806799744588619776",
+      "text": "Я мог бы поставить ее на первое место, но это было бы обманом) Конкретно в моем случае. А так, конечно - науч-поп полезнее всего.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 08 09:59:12 +0000 2016",
+      "id": 806800287834869800,
+      "id_str": "806800287834869760",
+      "text": "@Arvydas_B @_Nevermind Очень меткая аналогия.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Arvydas_B",
+            "name": "Arvy",
+            "id": 1108292779,
+            "id_str": "1108292779",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "_Nevermind",
+            "name": "Nevermind",
+            "id": 17658923,
+            "id_str": "17658923",
+            "indices": [
+              11,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 806799964378533900,
+      "in_reply_to_status_id_str": "806799964378533888",
+      "in_reply_to_user_id": 1108292779,
+      "in_reply_to_user_id_str": "1108292779",
+      "in_reply_to_screen_name": "Arvydas_B",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 08 10:01:49 +0000 2016",
+      "id": 806800945543663600,
+      "id_str": "806800945543663618",
+      "text": "@skeetah Понятия не имею, если честно, Eon games пока в VR не погружались. Только посматриваем в эту сторону.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "skeetah",
+            "name": "Vladimir Baev",
+            "id": 17977407,
+            "id_str": "17977407",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 806800152149135400,
+      "in_reply_to_status_id_str": "806800152149135362",
+      "in_reply_to_user_id": 17977407,
+      "in_reply_to_user_id_str": "17977407",
+      "in_reply_to_screen_name": "skeetah",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 08 10:07:06 +0000 2016",
+      "id": 806802274815086600,
+      "id_str": "806802274815086592",
+      "text": "Пытался отправить вот эту фотографию Ларри на конкурс котов от Royal Canin. Почему-то администратор не пропустил 8( https://t.co/UDu46E5xZu",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 806802206880055300,
+            "id_str": "806802206880055296",
+            "indices": [
+              116,
+              139
+            ],
+            "media_url": "http://pbs.twimg.com/media/CzJWVSEWQAAhxD1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CzJWVSEWQAAhxD1.jpg",
+            "url": "https://t.co/UDu46E5xZu",
+            "display_url": "pic.twitter.com/UDu46E5xZu",
+            "expanded_url": "https://twitter.com/gdunderhood/status/806802274815086592/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 767,
+                "h": 765,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 767,
+                "h": 765,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 678,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 806802206880055300,
+            "id_str": "806802206880055296",
+            "indices": [
+              116,
+              139
+            ],
+            "media_url": "http://pbs.twimg.com/media/CzJWVSEWQAAhxD1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CzJWVSEWQAAhxD1.jpg",
+            "url": "https://t.co/UDu46E5xZu",
+            "display_url": "pic.twitter.com/UDu46E5xZu",
+            "expanded_url": "https://twitter.com/gdunderhood/status/806802274815086592/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 767,
+                "h": 765,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 767,
+                "h": 765,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 678,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 08 10:57:02 +0000 2016",
+      "id": 806814840799068200,
+      "id_str": "806814840799068161",
+      "text": "@retropcan f2p с кучей социалки, много идей с путешествиями по подземельям, в которых твои друзья оставляли заначки и прочее.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "retropcan",
+            "name": "Svyatoslav Torick",
+            "id": 904657574,
+            "id_str": "904657574",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 806812405321711600,
+      "in_reply_to_status_id_str": "806812405321711617",
+      "in_reply_to_user_id": 904657574,
+      "in_reply_to_user_id_str": "904657574",
+      "in_reply_to_screen_name": "retropcan",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 08 11:03:18 +0000 2016",
+      "id": 806816418381631500,
+      "id_str": "806816418381631488",
+      "text": "@_Nevermind @Arvydas_B @vedmich Это просто мой топ-список же. Понятное дело, что лучшее подспорье для концептов - окружающий мир.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_Nevermind",
+            "name": "Nevermind",
+            "id": 17658923,
+            "id_str": "17658923",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "Arvydas_B",
+            "name": "Arvy",
+            "id": 1108292779,
+            "id_str": "1108292779",
+            "indices": [
+              12,
+              22
+            ]
+          },
+          {
+            "screen_name": "vedmich",
+            "name": "M475uk4z3",
+            "id": 56080508,
+            "id_str": "56080508",
+            "indices": [
+              23,
+              31
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 806813043145539600,
+      "in_reply_to_status_id_str": "806813043145539584",
+      "in_reply_to_user_id": 17658923,
+      "in_reply_to_user_id_str": "17658923",
+      "in_reply_to_screen_name": "_Nevermind",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 08 11:22:19 +0000 2016",
+      "id": 806821203231043600,
+      "id_str": "806821203231043584",
+      "text": "Условное форматирование в excel значительно прибавляет наглядности вашим таблицам. Сразу видно, если какие-то значе… https://t.co/dWJju40669",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/dWJju40669",
+            "expanded_url": "https://twitter.com/i/web/status/806821203231043584",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 08 12:20:09 +0000 2016",
+      "id": 806835756178309100,
+      "id_str": "806835756178309121",
+      "text": "Появился вопрос про DoTы в мультиплеерных играх: урон наносится всегда с тиком в секунду или плавно (каждые 30 мс,… https://t.co/lAgivgNH1A",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/lAgivgNH1A",
+            "expanded_url": "https://twitter.com/i/web/status/806835756178309121",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 08 12:40:15 +0000 2016",
+      "id": 806840814903103500,
+      "id_str": "806840814903103488",
+      "text": "@ch3p3 Вопрос не в том, тиками или не тиками (ясно, что тиками), вопрос в том, какие тики лучше: редкие раз в секунду или частые раз в 30мс?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ch3p3",
+            "name": "da voodoo shuffle",
+            "id": 35536226,
+            "id_str": "35536226",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 806837399418523600,
+      "in_reply_to_status_id_str": "806837399418523650",
+      "in_reply_to_user_id": 35536226,
+      "in_reply_to_user_id_str": "35536226",
+      "in_reply_to_screen_name": "ch3p3",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 08 12:47:12 +0000 2016",
+      "id": 806842563638521900,
+      "id_str": "806842563638521856",
+      "text": "Поресерчил немного этот вопрос: в HoTS, LoL и Dota 2 все доты работают с тиком в 1 секунду. С мелкими тиками, навер… https://t.co/Z6zZWJzenm",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Z6zZWJzenm",
+            "expanded_url": "https://twitter.com/i/web/status/806842563638521856",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 806835756178309100,
+      "quoted_status_id_str": "806835756178309121",
+      "quoted_status": {
+        "created_at": "Thu Dec 08 12:20:09 +0000 2016",
+        "id": 806835756178309100,
+        "id_str": "806835756178309121",
+        "text": "Появился вопрос про DoTы в мультиплеерных играх: урон наносится всегда с тиком в секунду или плавно (каждые 30 мс,… https://t.co/lAgivgNH1A",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/lAgivgNH1A",
+              "expanded_url": "https://twitter.com/i/web/status/806835756178309121",
+              "display_url": "twitter.com/i/web/status/8…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 747371158832545800,
+          "id_str": "747371158832545792"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 08 12:59:10 +0000 2016",
+      "id": 806845578235772900,
+      "id_str": "806845578235772928",
+      "text": "@clbagrat Но это скорее не дот, а много быстрых атак. Ульта же у Лешрака раз в ~секунду тикает.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "clbagrat",
+            "name": "Gobedashvili Bagrat",
+            "id": 104419683,
+            "id_str": "104419683",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 806844854714110000,
+      "in_reply_to_status_id_str": "806844854714109952",
+      "in_reply_to_user_id": 104419683,
+      "in_reply_to_user_id_str": "104419683",
+      "in_reply_to_screen_name": "clbagrat",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 08 13:05:06 +0000 2016",
+      "id": 806847068459376600,
+      "id_str": "806847068459376641",
+      "text": "Решили делать с коротким тиком. Программист сказал, что ему без разницы, а плавное уменьшение хп выглядит красивее… https://t.co/II6U3Uwspu",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/II6U3Uwspu",
+            "expanded_url": "https://twitter.com/i/web/status/806847068459376641",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 806835756178309100,
+      "in_reply_to_status_id_str": "806835756178309121",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 08 17:05:25 +0000 2016",
+      "id": 806907545793089500,
+      "id_str": "806907545793089537",
+      "text": "Понравился этот разбор https://t.co/VndSv2GiIy особенно момент про флаги стран на лоадинг-скрине.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/VndSv2GiIy",
+            "expanded_url": "https://dtf.ru/2699-razbor-mobile-legends-ot-vedushchego-geymdizaynera-studii-pixonichttps://dtf.ru/2699-razbor-mobile-legends-ot-vedushchego-geymdizaynera-studii-pixonic",
+            "display_url": "dtf.ru/2699-razbor-mo…",
+            "indices": [
+              23,
+              46
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Dec 09 08:46:12 +0000 2016",
+      "id": 807144301889224700,
+      "id_str": "807144301889224704",
+      "text": "У нас в скайпе есть чатик для геймдизайнеров из Минска, в нем 40 человек и такая аватарка. По делу там говорят редк… https://t.co/0m15k7dPZ0",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/0m15k7dPZ0",
+            "expanded_url": "https://twitter.com/i/web/status/807144301889224704",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Dec 09 09:10:48 +0000 2016",
+      "id": 807150495601139700,
+      "id_str": "807150495601139712",
+      "text": "Приятный сайт с обзорами https://t.co/tVMXHfGAAk Я отправлял туда наши God of Light и Fold the World - сделали хорошие обзоры и бесплатно.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/tVMXHfGAAk",
+            "expanded_url": "http://ipadstory.ru/",
+            "display_url": "ipadstory.ru",
+            "indices": [
+              25,
+              48
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Dec 09 10:30:16 +0000 2016",
+      "id": 807170494243938300,
+      "id_str": "807170494243938305",
+      "text": "Всем начинающим нарративщикам рекомендую к прочтению https://t.co/2pQW8x1E5c - очень полезная книга по писательскому мастерству.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/2pQW8x1E5c",
+            "expanded_url": "http://royallib.com/book/gal_nora/slovo_givoe_i_mertvoe.html",
+            "display_url": "royallib.com/book/gal_nora/…",
+            "indices": [
+              53,
+              76
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Dec 09 10:49:23 +0000 2016",
+      "id": 807175302455631900,
+      "id_str": "807175302455631872",
+      "text": "Немного оффтопа https://t.co/mgmc5yf10M",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/mgmc5yf10M",
+            "expanded_url": "https://www.facebook.com/vasilybogdanov/posts/1345814372137192",
+            "display_url": "facebook.com/vasilybogdanov…",
+            "indices": [
+              16,
+              39
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Fri Dec 09 11:01:07 +0000 2016",
+      "id": 807178256365613000,
+      "id_str": "807178256365613056",
+      "text": "В свое время перечитал все статьи отсюда https://t.co/tRTMUveOwY , многие очень полезные. Часто встречаются неочевидные нюансы.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/tRTMUveOwY",
+            "expanded_url": "http://pisatel.forumbb.ru/viewforum.php?id=10",
+            "display_url": "pisatel.forumbb.ru/viewforum.php?…",
+            "indices": [
+              41,
+              64
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Dec 09 12:17:56 +0000 2016",
+      "id": 807197586906083300,
+      "id_str": "807197586906083329",
+      "text": "В этом году можно без зазрения совести дарить всем плюшевых петухов. Кстати, курицу на Новый Год есть нельзя, как и… https://t.co/Y0B9GHjb8I",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Y0B9GHjb8I",
+            "expanded_url": "https://twitter.com/i/web/status/807197586906083329",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Dec 09 12:20:22 +0000 2016",
+      "id": 807198201849724900,
+      "id_str": "807198201849724929",
+      "text": "Хороший инструмент для создания разветвленных диалогов https://t.co/gRaaeOk136 Правда, разработчики Banner Saga с него перешли на другой.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gRaaeOk136",
+            "expanded_url": "http://www.inklestudios.com/inklewriter/",
+            "display_url": "inklestudios.com/inklewriter/",
+            "indices": [
+              55,
+              78
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Dec 09 12:27:10 +0000 2016",
+      "id": 807199912135970800,
+      "id_str": "807199912135970816",
+      "text": "Шматочек нашего нового офиса. Все делают вид, что заняты работой, а я в поте лица веду твиттер, как и положено труд… https://t.co/4IwipNyvL6",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4IwipNyvL6",
+            "expanded_url": "https://twitter.com/i/web/status/807199912135970816",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Dec 09 12:42:15 +0000 2016",
+      "id": 807203706890580000,
+      "id_str": "807203706890579968",
+      "text": "Небольшой отрывок из чата белорусских геймдизайнеров. https://t.co/AC35A6aaDc",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 807203637520957400,
+            "id_str": "807203637520957442",
+            "indices": [
+              54,
+              77
+            ],
+            "media_url": "http://pbs.twimg.com/media/CzPDbnvXAAI4AyB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CzPDbnvXAAI4AyB.jpg",
+            "url": "https://t.co/AC35A6aaDc",
+            "display_url": "pic.twitter.com/AC35A6aaDc",
+            "expanded_url": "https://twitter.com/gdunderhood/status/807203706890579968/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 544,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 308,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1248,
+                "h": 566,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 807203637520957400,
+            "id_str": "807203637520957442",
+            "indices": [
+              54,
+              77
+            ],
+            "media_url": "http://pbs.twimg.com/media/CzPDbnvXAAI4AyB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CzPDbnvXAAI4AyB.jpg",
+            "url": "https://t.co/AC35A6aaDc",
+            "display_url": "pic.twitter.com/AC35A6aaDc",
+            "expanded_url": "https://twitter.com/gdunderhood/status/807203706890579968/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 544,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 308,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1248,
+                "h": 566,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Dec 09 13:39:11 +0000 2016",
+      "id": 807218033949339600,
+      "id_str": "807218033949339648",
+      "text": "@nodeus Это чтобы соседи не видели, чем программист занимается на самом деле.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nodeus",
+            "name": "nodeus",
+            "id": 13016522,
+            "id_str": "13016522",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 807215821697257500,
+      "in_reply_to_status_id_str": "807215821697257473",
+      "in_reply_to_user_id": 13016522,
+      "in_reply_to_user_id_str": "13016522",
+      "in_reply_to_screen_name": "nodeus",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Dec 10 08:30:46 +0000 2016",
+      "id": 807502805514776600,
+      "id_str": "807502805514776577",
+      "text": "Самый первый фейкскрин Eon Games :3 Это была игра в духе Patapon, где надо было поднимать зомби, ударяя по барабана… https://t.co/iGRtIXj8Oz",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/iGRtIXj8Oz",
+            "expanded_url": "https://twitter.com/i/web/status/807502805514776577",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
