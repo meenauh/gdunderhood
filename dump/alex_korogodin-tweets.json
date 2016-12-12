@@ -1,0 +1,81 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Dec 12 12:09:54 +0000 2016",
+      "id": 808282729532035100,
+      "id_str": "808282729532035072",
+      "text": "https://t.co/tJe4FQelGH\nЗдравствуй читатель. Я - Корогодин Алексей. 7 лет я был геймдизайнером BBMMORPG как ты, но потом схватил VR стрелу.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/tJe4FQelGH",
+            "expanded_url": "http://facebook.com/alfonsocorp",
+            "display_url": "facebook.com/alfonsocorp",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 12 12:21:00 +0000 2016",
+      "id": 808285521713754100,
+      "id_str": "808285521713754112",
+      "text": "Начал я свою карьеру в 2008. Работал в OGGames, 2RealLife, NDA, Nival VR, Luden.io над Nova Online, Carnage, ExGods, Time to be Hero и NDA.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    }
+  ]
+}
