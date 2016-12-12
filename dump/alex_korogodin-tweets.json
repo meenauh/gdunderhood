@@ -76,6 +76,83 @@
       "favorited": false,
       "retweeted": false,
       "lang": "und"
+    },
+    {
+      "created_at": "Mon Dec 12 12:24:51 +0000 2016",
+      "id": 808286490669236200,
+      "id_str": "808286490669236224",
+      "text": "Долго думал, в каком формате провести свою неделю, но коллеги из @GDcuffs настояли на теме VR, в которой я варюсь лишь полгода.\nМ - мода.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "GDcuffs",
+            "name": "Манжеты ГД",
+            "id": 3341695624,
+            "id_str": "3341695624",
+            "indices": [
+              65,
+              73
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 12 12:25:31 +0000 2016",
+      "id": 808286658516947000,
+      "id_str": "808286658516946944",
+      "text": "Я постараюсь акцентировать своё внимание на геймдизайне в VR. Без воды и информационного шума, так присущих ныне этому направлению.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }

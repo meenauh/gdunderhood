@@ -4,18 +4,7 @@
   "name": "Гейм-дизайнер",
   "screen_name": "gdunderhood",
   "location": "Moscow, Russia",
-  "profile_location": {
-    "id": "4303d1afc1e98c37",
-    "url": "https://api.twitter.com/1.1/geo/id/4303d1afc1e98c37.json",
-    "place_type": "unknown",
-    "name": "Moscow, Russia",
-    "full_name": "Moscow, Russia",
-    "country_code": "",
-    "country": "",
-    "contained_within": [],
-    "bounding_box": null,
-    "attributes": {}
-  },
+  "profile_location": null,
   "description": "Коллективный твиттер-аккаунт для гейм-дизайнеров всех мастей: от балансеров до нарративщиков. Новый автор каждую неделю. На этой неделе – @alex_korogodin",
   "url": "https://t.co/lIo0mtT2X0",
   "entities": {
@@ -46,13 +35,13 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 4410,
+  "statuses_count": 4412,
   "lang": "en",
   "status": {
-    "created_at": "Mon Dec 12 12:21:00 +0000 2016",
-    "id": 808285521713754100,
-    "id_str": "808285521713754112",
-    "text": "Начал я свою карьеру в 2008. Работал в OGGames, 2RealLife, NDA, Nival VR, Luden.io над Nova Online, Carnage, ExGods, Time to be Hero и NDA.",
+    "created_at": "Mon Dec 12 12:25:31 +0000 2016",
+    "id": 808286658516947000,
+    "id_str": "808286658516946944",
+    "text": "Я постараюсь акцентировать своё внимание на геймдизайне в VR. Без воды и информационного шума, так присущих ныне этому направлению.",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -72,10 +61,10 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
-    "lang": "und"
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
