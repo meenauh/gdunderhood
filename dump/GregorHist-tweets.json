@@ -4886,6 +4886,162 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sat Dec 10 15:42:26 +0000 2016",
+      "id": 807611441238986800,
+      "id_str": "807611441238986753",
+      "text": "@Ed_Wing Не совсем)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Ed_Wing",
+            "name": "Slava Lukyanenka",
+            "id": 16422171,
+            "id_str": "16422171",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 807516986288832500,
+      "in_reply_to_status_id_str": "807516986288832513",
+      "in_reply_to_user_id": 16422171,
+      "in_reply_to_user_id_str": "16422171",
+      "in_reply_to_screen_name": "Ed_Wing",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Dec 10 15:59:01 +0000 2016",
+      "id": 807615614499962900,
+      "id_str": "807615614499962881",
+      "text": "А как вы обычно создаете себе персонажей в MMORPG? https://t.co/ThAbmZVFSU",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 807615573920251900,
+            "id_str": "807615573920251904",
+            "indices": [
+              51,
+              74
+            ],
+            "media_url": "http://pbs.twimg.com/media/CzU6FeaXAAAMf5N.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CzU6FeaXAAAMf5N.jpg",
+            "url": "https://t.co/ThAbmZVFSU",
+            "display_url": "pic.twitter.com/ThAbmZVFSU",
+            "expanded_url": "https://twitter.com/gdunderhood/status/807615614499962881/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 960,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1280,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 544,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 807615573920251900,
+            "id_str": "807615573920251904",
+            "indices": [
+              51,
+              74
+            ],
+            "media_url": "http://pbs.twimg.com/media/CzU6FeaXAAAMf5N.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CzU6FeaXAAAMf5N.jpg",
+            "url": "https://t.co/ThAbmZVFSU",
+            "display_url": "pic.twitter.com/ThAbmZVFSU",
+            "expanded_url": "https://twitter.com/gdunderhood/status/807615614499962881/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 960,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1280,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 544,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }

@@ -26,36 +26,104 @@
     }
   },
   "protected": false,
-  "followers_count": 701,
+  "followers_count": 703,
   "friends_count": 28,
   "listed_count": 16,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 998,
+  "favourites_count": 999,
   "utc_offset": 10800,
   "time_zone": "Minsk",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 4405,
+  "statuses_count": 4407,
   "lang": "en",
   "status": {
-    "created_at": "Sat Dec 10 08:30:46 +0000 2016",
-    "id": 807502805514776600,
-    "id_str": "807502805514776577",
-    "text": "Самый первый фейкскрин Eon Games :3 Это была игра в духе Patapon, где надо было поднимать зомби, ударяя по барабана… https://t.co/iGRtIXj8Oz",
-    "truncated": true,
+    "created_at": "Sat Dec 10 15:59:01 +0000 2016",
+    "id": 807615614499962900,
+    "id_str": "807615614499962881",
+    "text": "А как вы обычно создаете себе персонажей в MMORPG? https://t.co/ThAbmZVFSU",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/iGRtIXj8Oz",
-          "expanded_url": "https://twitter.com/i/web/status/807502805514776577",
-          "display_url": "twitter.com/i/web/status/8…",
+          "id": 807615573920251900,
+          "id_str": "807615573920251904",
           "indices": [
-            117,
-            140
-          ]
+            51,
+            74
+          ],
+          "media_url": "http://pbs.twimg.com/media/CzU6FeaXAAAMf5N.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CzU6FeaXAAAMf5N.jpg",
+          "url": "https://t.co/ThAbmZVFSU",
+          "display_url": "pic.twitter.com/ThAbmZVFSU",
+          "expanded_url": "https://twitter.com/gdunderhood/status/807615614499962881/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 960,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1280,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 544,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 807615573920251900,
+          "id_str": "807615573920251904",
+          "indices": [
+            51,
+            74
+          ],
+          "media_url": "http://pbs.twimg.com/media/CzU6FeaXAAAMf5N.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CzU6FeaXAAAMf5N.jpg",
+          "url": "https://t.co/ThAbmZVFSU",
+          "display_url": "pic.twitter.com/ThAbmZVFSU",
+          "expanded_url": "https://twitter.com/gdunderhood/status/807615614499962881/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 960,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1280,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 544,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -70,7 +138,7 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
+    "retweet_count": 1,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
