@@ -4,7 +4,18 @@
   "name": "Гейм-дизайнер",
   "screen_name": "gdunderhood",
   "location": "Moscow, Russia",
-  "profile_location": null,
+  "profile_location": {
+    "id": "4303d1afc1e98c37",
+    "url": "https://api.twitter.com/1.1/geo/id/4303d1afc1e98c37.json",
+    "place_type": "unknown",
+    "name": "Moscow, Russia",
+    "full_name": "Moscow, Russia",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
   "description": "Коллективный твиттер-аккаунт для гейм-дизайнеров всех мастей: от балансеров до нарративщиков. Новый автор каждую неделю. На этой неделе – @alex_korogodin",
   "url": "https://t.co/lIo0mtT2X0",
   "entities": {
@@ -26,30 +37,116 @@
     }
   },
   "protected": false,
-  "followers_count": 701,
+  "followers_count": 702,
   "friends_count": 28,
   "listed_count": 16,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 999,
+  "favourites_count": 998,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 4412,
+  "statuses_count": 4436,
   "lang": "en",
   "status": {
-    "created_at": "Mon Dec 12 12:25:31 +0000 2016",
-    "id": 808286658516947000,
-    "id_str": "808286658516946944",
-    "text": "Я постараюсь акцентировать своё внимание на геймдизайне в VR. Без воды и информационного шума, так присущих ныне этому направлению.",
+    "created_at": "Tue Dec 13 00:02:48 +0000 2016",
+    "id": 808462137051988000,
+    "id_str": "808462137051987968",
+    "text": "В удивительное время живём. Теперь писать твитты можно не выходя из #WoW.\nВести андерхуд стало значительно веселее. https://t.co/9bokDfzKC4",
     "truncated": false,
     "entities": {
-      "hashtags": [],
+      "hashtags": [
+        {
+          "text": "WoW",
+          "indices": [
+            68,
+            72
+          ]
+        }
+      ],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [],
+      "media": [
+        {
+          "id": 808462134850056200,
+          "id_str": "808462134850056192",
+          "indices": [
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/Czg8BzoXcAAOk80.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Czg8BzoXcAAOk80.jpg",
+          "url": "https://t.co/9bokDfzKC4",
+          "display_url": "pic.twitter.com/9bokDfzKC4",
+          "expanded_url": "https://twitter.com/gdunderhood/status/808462137051987968/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
     },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "extended_entities": {
+      "media": [
+        {
+          "id": 808462134850056200,
+          "id_str": "808462134850056192",
+          "indices": [
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/Czg8BzoXcAAOk80.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Czg8BzoXcAAOk80.jpg",
+          "url": "https://t.co/9bokDfzKC4",
+          "display_url": "pic.twitter.com/9bokDfzKC4",
+          "expanded_url": "https://twitter.com/gdunderhood/status/808462137051987968/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.WorldofWarcraft.com\" rel=\"nofollow\">World of Warcraft</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -61,9 +158,10 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 2,
+    "favorite_count": 6,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
