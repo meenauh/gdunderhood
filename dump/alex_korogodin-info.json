@@ -37,46 +37,56 @@
     }
   },
   "protected": false,
-  "followers_count": 701,
+  "followers_count": 715,
   "friends_count": 28,
   "listed_count": 16,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 1004,
+  "favourites_count": 1074,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 4490,
+  "statuses_count": 4516,
   "lang": "en",
   "status": {
-    "created_at": "Tue Dec 13 23:19:41 +0000 2016",
-    "id": 808813672768438300,
-    "id_str": "808813672768438272",
-    "text": "@crvlad Возможно, DLC в VR еще никто не делал)",
+    "created_at": "Wed Dec 14 14:19:29 +0000 2016",
+    "id": 809040114055782400,
+    "id_str": "809040114055782400",
+    "text": "@ilviann @Viruzzzkun Ну он, как всегда, \"немного\" переигрывает)",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "crvlad",
-          "name": "Влад",
-          "id": 2800376326,
-          "id_str": "2800376326",
+          "screen_name": "ilviann",
+          "name": "Ilviann Zed",
+          "id": 15579240,
+          "id_str": "15579240",
           "indices": [
             0,
-            7
+            8
+          ]
+        },
+        {
+          "screen_name": "Viruzzzkun",
+          "name": "Viruzzz [GAMBATTE!]",
+          "id": 97211731,
+          "id_str": "97211731",
+          "indices": [
+            9,
+            20
           ]
         }
       ],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 808804072409202700,
-    "in_reply_to_status_id_str": "808804072409202690",
-    "in_reply_to_user_id": 2800376326,
-    "in_reply_to_user_id_str": "2800376326",
-    "in_reply_to_screen_name": "crvlad",
+    "in_reply_to_status_id": 809039843271594000,
+    "in_reply_to_status_id_str": "809039843271593985",
+    "in_reply_to_user_id": 15579240,
+    "in_reply_to_user_id_str": "15579240",
+    "in_reply_to_screen_name": "ilviann",
     "geo": null,
     "coordinates": null,
     "place": null,
