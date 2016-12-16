@@ -37,35 +37,46 @@
     }
   },
   "protected": false,
-  "followers_count": 723,
+  "followers_count": 725,
   "friends_count": 28,
   "listed_count": 16,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 1098,
+  "favourites_count": 1119,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 4552,
+  "statuses_count": 4589,
   "lang": "en",
   "status": {
-    "created_at": "Thu Dec 15 20:33:55 +0000 2016",
-    "id": 809496730844745700,
-    "id_str": "809496730844745728",
-    "text": "Сегодня я рад представить вам своего любимчика.\nДа, конечно у нас бывают разногласия, но на итог мы всегда находим… https://t.co/xQXRYvCgxg",
+    "created_at": "Fri Dec 16 20:35:14 +0000 2016",
+    "id": 809859450236497900,
+    "id_str": "809859450236497922",
+    "text": "Очень удобное и самое футуристичное VR устройство. Жаль контроллеры не огонь.\nВ это воскресение с @brickcrumb посмо… https://t.co/kP8p2M5x6i",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "brickcrumb",
+          "name": "Artyom V.",
+          "id": 199250770,
+          "id_str": "199250770",
+          "indices": [
+            98,
+            109
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/xQXRYvCgxg",
-          "expanded_url": "https://twitter.com/i/web/status/809496730844745728",
+          "url": "https://t.co/kP8p2M5x6i",
+          "expanded_url": "https://twitter.com/i/web/status/809859450236497922",
           "display_url": "twitter.com/i/web/status/8…",
           "indices": [
-            116,
-            139
+            117,
+            140
           ]
         }
       ]
@@ -82,7 +93,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
