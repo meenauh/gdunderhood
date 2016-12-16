@@ -5991,6 +5991,890 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 15 08:20:44 +0000 2016",
+      "id": 809312219192324100,
+      "id_str": "809312219192324096",
+      "text": "@rootools Мы ограничиваемся двумя датчиками, вполне нормально.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rootools",
+            "name": "Anton Bravin",
+            "id": 39984798,
+            "id_str": "39984798",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 809272420741824500,
+      "in_reply_to_status_id_str": "809272420741824513",
+      "in_reply_to_user_id": 39984798,
+      "in_reply_to_user_id_str": "39984798",
+      "in_reply_to_screen_name": "rootools",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 15 09:00:31 +0000 2016",
+      "id": 809322232287731700,
+      "id_str": "809322232287731713",
+      "text": "Редко в Москве выдаются такие деньки.\nА если и выдаются - будьте уверены, это будний день. https://t.co/5GlNcyPqSs",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 809322209122644000,
+            "id_str": "809322209122643968",
+            "indices": [
+              91,
+              114
+            ],
+            "media_url": "http://pbs.twimg.com/media/CztKQt-W8AA9MPi.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CztKQt-W8AA9MPi.jpg",
+            "url": "https://t.co/5GlNcyPqSs",
+            "display_url": "pic.twitter.com/5GlNcyPqSs",
+            "expanded_url": "https://twitter.com/gdunderhood/status/809322232287731713/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1152,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 809322209122644000,
+            "id_str": "809322209122643968",
+            "indices": [
+              91,
+              114
+            ],
+            "media_url": "http://pbs.twimg.com/media/CztKQt-W8AA9MPi.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CztKQt-W8AA9MPi.jpg",
+            "url": "https://t.co/5GlNcyPqSs",
+            "display_url": "pic.twitter.com/5GlNcyPqSs",
+            "expanded_url": "https://twitter.com/gdunderhood/status/809322232287731713/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1152,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 15 09:42:49 +0000 2016",
+      "id": 809332876403679200,
+      "id_str": "809332876403679233",
+      "text": "@brickcrumb Попросил напомнить, что нам нужно еще 60 подписчиков, чтобы задать человеческое название канала.\nhttps://t.co/jyEK9khs4J",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "brickcrumb",
+            "name": "Artyom V.",
+            "id": 199250770,
+            "id_str": "199250770",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/jyEK9khs4J",
+            "expanded_url": "http://youtube.com/channel/UC1GkZH9zMTF4T4n8gO8m1hQ",
+            "display_url": "youtube.com/channel/UC1GkZ…",
+            "indices": [
+              109,
+              132
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 199250770,
+      "in_reply_to_user_id_str": "199250770",
+      "in_reply_to_screen_name": "brickcrumb",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 15 10:55:36 +0000 2016",
+      "id": 809351195823403000,
+      "id_str": "809351195823403008",
+      "text": "Две недели назад образовалась дыра в программе digitalfest.ru - @GDcuffs попросили её закрыть.\n@guiltythree жёг за… https://t.co/dKUOeXO9hD",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "GDcuffs",
+            "name": "Манжеты ГД",
+            "id": 3341695624,
+            "id_str": "3341695624",
+            "indices": [
+              64,
+              72
+            ]
+          },
+          {
+            "screen_name": "guiltythree",
+            "name": "Barisbi Alborov",
+            "id": 1277413980,
+            "id_str": "1277413980",
+            "indices": [
+              95,
+              107
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/dKUOeXO9hD",
+            "expanded_url": "https://twitter.com/i/web/status/809351195823403008",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 15 11:59:03 +0000 2016",
+      "id": 809367162074923000,
+      "id_str": "809367162074923008",
+      "text": "VR, возможно, станет первой платформой, куда ГД будут отбирать и по физическим характеристикам.\nЛюди со слабой вестибуляркой - извините.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 15 12:59:41 +0000 2016",
+      "id": 809382419526783000,
+      "id_str": "809382419526782976",
+      "text": "Фраза, которая должна внушать страх любому дорожащему своей душой ГД - VR Experience.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 15 15:03:43 +0000 2016",
+      "id": 809413635282006000,
+      "id_str": "809413635282006016",
+      "text": "Что вам нужно знать об ожиданиях и реальности, касательно разработки игр в VR на чужом примере. https://t.co/7TPyegOMHW",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 809413405354455000,
+            "id_str": "809413405354455041",
+            "indices": [
+              96,
+              119
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/809413405354455041/pu/img/DZBNT1tb0OwELJwL.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/809413405354455041/pu/img/DZBNT1tb0OwELJwL.jpg",
+            "url": "https://t.co/7TPyegOMHW",
+            "display_url": "pic.twitter.com/7TPyegOMHW",
+            "expanded_url": "https://twitter.com/gdunderhood/status/809413635282006016/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 338,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 576,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 809413405354455000,
+            "id_str": "809413405354455041",
+            "indices": [
+              96,
+              119
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/809413405354455041/pu/img/DZBNT1tb0OwELJwL.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/809413405354455041/pu/img/DZBNT1tb0OwELJwL.jpg",
+            "url": "https://t.co/7TPyegOMHW",
+            "display_url": "pic.twitter.com/7TPyegOMHW",
+            "expanded_url": "https://twitter.com/gdunderhood/status/809413635282006016/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 338,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 576,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 31231,
+              "variants": [
+                {
+                  "content_type": "application/dash+xml",
+                  "url": "https://video.twimg.com/ext_tw_video/809413405354455041/pu/pl/uwM-xmiAGcOaroWI.mpd"
+                },
+                {
+                  "bitrate": 320000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/809413405354455041/pu/vid/320x180/BWjabTVzbYNXqlg-.mp4"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/809413405354455041/pu/pl/uwM-xmiAGcOaroWI.m3u8"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/809413405354455041/pu/vid/640x360/QuOIqXP-RbSIuT_6.mp4"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/809413405354455041/pu/vid/1280x720/TfIYWXgw6JX2vZ9-.mp4"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 15 15:40:02 +0000 2016",
+      "id": 809422774531981300,
+      "id_str": "809422774531981312",
+      "text": "Сегодня был немного разгрузочный день в плане информации, обязательно разбавлю его завтра потоком ГД заметок на самые популярные VR игры!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 15 15:45:59 +0000 2016",
+      "id": 809424274046013400,
+      "id_str": "809424274046013441",
+      "text": "А пока - небольшой опрос.\nТолько честно. Зачем вы делаете игры (если делаете)?\nПоследний пункт для тех, кто сам себя обманывает ^_^",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 15 17:12:25 +0000 2016",
+      "id": 809446024070754300,
+      "id_str": "809446024070754304",
+      "text": "Если вы любите юмор и не падаете в обморок от мата, но по каким-то причинам еще не смотрели stand up Эдди Мёрфи:\nhttps://t.co/FJgcuQuGG4",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/FJgcuQuGG4",
+            "expanded_url": "https://www.youtube.com/watch?v=JtzO_uCHbuI&t=1346s",
+            "display_url": "youtube.com/watch?v=JtzO_u…",
+            "indices": [
+              113,
+              136
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 15 18:26:34 +0000 2016",
+      "id": 809464683954638800,
+      "id_str": "809464683954638848",
+      "text": "Если вы долго и безрезультатно бьётесь над задачей - отвлекитесь, выйдите на улицу, прогуляйтесь. Решение придёт само собой.\nИли нет.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 15 18:28:18 +0000 2016",
+      "id": 809465118631268400,
+      "id_str": "809465118631268353",
+      "text": "@Onegogh PSVR в этом отношении очень гладкий - Sony тупо не пропускают критичный контент.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Onegogh",
+            "name": "Evgeniy Likiy",
+            "id": 39965168,
+            "id_str": "39965168",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 809463163385217000,
+      "in_reply_to_status_id_str": "809463163385217024",
+      "in_reply_to_user_id": 39965168,
+      "in_reply_to_user_id_str": "39965168",
+      "in_reply_to_screen_name": "Onegogh",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 15 18:52:02 +0000 2016",
+      "id": 809471093404733400,
+      "id_str": "809471093404733440",
+      "text": "@NikolayAkulov Сюда подходит пункт \"Чтобы нести радость\", просто в вашем случае вы несёте радость не игрокам, а себе)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NikolayAkulov",
+            "name": "Николай Акулов",
+            "id": 487479465,
+            "id_str": "487479465",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 809469924477284400,
+      "in_reply_to_status_id_str": "809469924477284352",
+      "in_reply_to_user_id": 487479465,
+      "in_reply_to_user_id_str": "487479465",
+      "in_reply_to_screen_name": "NikolayAkulov",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 15 18:55:03 +0000 2016",
+      "id": 809471852255051800,
+      "id_str": "809471852255051776",
+      "text": "А что вы знаете о скидках и акциях? #Spar https://t.co/7Y5SEyHW8j",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Spar",
+            "indices": [
+              36,
+              41
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 809471831350673400,
+            "id_str": "809471831350673408",
+            "indices": [
+              42,
+              65
+            ],
+            "media_url": "http://pbs.twimg.com/media/CzvSV4NXgAASJbF.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CzvSV4NXgAASJbF.jpg",
+            "url": "https://t.co/7Y5SEyHW8j",
+            "display_url": "pic.twitter.com/7Y5SEyHW8j",
+            "expanded_url": "https://twitter.com/gdunderhood/status/809471852255051776/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1152,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 809471831350673400,
+            "id_str": "809471831350673408",
+            "indices": [
+              42,
+              65
+            ],
+            "media_url": "http://pbs.twimg.com/media/CzvSV4NXgAASJbF.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CzvSV4NXgAASJbF.jpg",
+            "url": "https://t.co/7Y5SEyHW8j",
+            "display_url": "pic.twitter.com/7Y5SEyHW8j",
+            "expanded_url": "https://twitter.com/gdunderhood/status/809471852255051776/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1152,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 15 20:33:55 +0000 2016",
+      "id": 809496730844745700,
+      "id_str": "809496730844745728",
+      "text": "Сегодня я рад представить вам своего любимчика.\nДа, конечно у нас бывают разногласия, но на итог мы всегда находим… https://t.co/xQXRYvCgxg",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/xQXRYvCgxg",
+            "expanded_url": "https://twitter.com/i/web/status/809496730844745728",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
