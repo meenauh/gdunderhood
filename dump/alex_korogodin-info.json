@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 723,
+  "followers_count": 721,
   "friends_count": 28,
   "listed_count": 16,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
@@ -46,56 +46,46 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 4651,
+  "statuses_count": 4654,
   "lang": "en",
   "status": {
-    "created_at": "Sun Dec 18 18:10:35 +0000 2016",
-    "id": 810547826170232800,
-    "id_str": "810547826170232832",
-    "text": "@elmortem @brickcrumb Выпадание глаз - не вопрос геймдизайна)\nНо в проводе сейчас можно запутаться и упасть глазом, например, на ладью.",
-    "truncated": false,
+    "created_at": "Sun Dec 18 20:51:17 +0000 2016",
+    "id": 810588265619329000,
+    "id_str": "810588265619329024",
+    "text": "This is it\nНадеюсь, мне удалось разбавить ваши будни на этой неделе. Спасибо за ваше внимание, лайки и шэры.\nНа про… https://t.co/O5loYK50ou",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "elmortem",
-          "name": "Makar Osokin",
-          "id": 17113331,
-          "id_str": "17113331",
+          "url": "https://t.co/O5loYK50ou",
+          "expanded_url": "https://twitter.com/i/web/status/810588265619329024",
+          "display_url": "twitter.com/i/web/status/8…",
           "indices": [
-            0,
-            9
-          ]
-        },
-        {
-          "screen_name": "brickcrumb",
-          "name": "Artyom V.",
-          "id": 199250770,
-          "id_str": "199250770",
-          "indices": [
-            10,
-            21
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 810546911556075500,
-    "in_reply_to_status_id_str": "810546911556075524",
-    "in_reply_to_user_id": 17113331,
-    "in_reply_to_user_id_str": "17113331",
-    "in_reply_to_screen_name": "elmortem",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
