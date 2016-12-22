@@ -3,13 +3,13 @@
   "id_str": "747371158832545792",
   "name": "Гейм-дизайнер",
   "screen_name": "gdunderhood",
-  "location": "Moscow, Russia",
+  "location": "Москва, Россия",
   "profile_location": {
     "id": "4303d1afc1e98c37",
     "url": "https://api.twitter.com/1.1/geo/id/4303d1afc1e98c37.json",
     "place_type": "unknown",
-    "name": "Moscow, Russia",
-    "full_name": "Moscow, Russia",
+    "name": "Москва, Россия",
+    "full_name": "Москва, Россия",
     "country_code": "",
     "country": "",
     "contained_within": [],
@@ -37,28 +37,38 @@
     }
   },
   "protected": false,
-  "followers_count": 728,
+  "followers_count": 734,
   "friends_count": 28,
   "listed_count": 16,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
   "favourites_count": 1145,
   "utc_offset": 10800,
-  "time_zone": "St. Petersburg",
+  "time_zone": "Volgograd",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 4683,
-  "lang": "en",
+  "statuses_count": 4763,
+  "lang": "ru",
   "status": {
-    "created_at": "Wed Dec 21 06:50:00 +0000 2016",
-    "id": 811463714243313700,
-    "id_str": "811463714243313664",
-    "text": "Сегодня продолжим про всякие штуки, которые встречаются в процессе разработки интерактивных книг и ответим на вопросы, которых уже норм)",
-    "truncated": false,
+    "created_at": "Thu Dec 22 07:45:58 +0000 2016",
+    "id": 811840184929108000,
+    "id_str": "811840184929107969",
+    "text": "Обширная тема. Вот свежее выступление нашего Арт-лида с последнего DevGAMM Minsk в помощь и еще подумаю)… https://t.co/V8gxGtLA8J",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/V8gxGtLA8J",
+          "expanded_url": "https://twitter.com/i/web/status/811840184929107969",
+          "display_url": "twitter.com/i/web/status/8…",
+          "indices": [
+            106,
+            129
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -70,11 +80,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 811653144014950400,
+    "quoted_status_id_str": "811653144014950400",
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
