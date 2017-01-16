@@ -1,0 +1,256 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Jan 16 08:43:50 +0000 2017",
+      "id": 820914446725972000,
+      "id_str": "820914446725971968",
+      "text": "Hey guys, I am @aaafrancisc and this week I will be around, talking all sorts of game design topics with you, let's start!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "aaafrancisc",
+            "name": "Francisc A.",
+            "id": 361209832,
+            "id_str": "361209832",
+            "indices": [
+              15,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Jan 16 08:45:59 +0000 2017",
+      "id": 820914987577253900,
+      "id_str": "820914987577253888",
+      "text": "@GDcuffs started to invite foreigners to the @gdunderhood and I was lucky to become the first one! I don't know Russian. Yet! :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "GDcuffs",
+            "name": "Манжеты ГД",
+            "id": 3341695624,
+            "id_str": "3341695624",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Game Designer",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              45,
+              57
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 820914446725972000,
+      "in_reply_to_status_id_str": "820914446725971968",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Jan 16 08:47:33 +0000 2017",
+      "id": 820915382877831200,
+      "id_str": "820915382877831168",
+      "text": "Hey there @vibe_crc, nice to meet you",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vibe_crc",
+            "name": "Sergey Eybog",
+            "id": 96967347,
+            "id_str": "96967347",
+            "indices": [
+              10,
+              19
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 820914781200781300,
+      "in_reply_to_status_id_str": "820914781200781312",
+      "in_reply_to_user_id": 96967347,
+      "in_reply_to_user_id_str": "96967347",
+      "in_reply_to_screen_name": "vibe_crc",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Jan 16 08:50:41 +0000 2017",
+      "id": 820916169116962800,
+      "id_str": "820916169116962816",
+      "text": "Hope you guys had a great end of the year. Nice to see this kind of initiative around, and glad to be part of it!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 820914446725972000,
+      "in_reply_to_status_id_str": "820914446725971968",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Jan 16 08:54:57 +0000 2017",
+      "id": 820917244192587800,
+      "id_str": "820917244192587776",
+      "text": "@vedmich Classic, we all do that -  swears in Russian are quite popular, so I might already know some. :)) Thank you online games!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vedmich",
+            "name": "M475uk4z3",
+            "id": 56080508,
+            "id_str": "56080508",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 820915908277321700,
+      "in_reply_to_status_id_str": "820915908277321728",
+      "in_reply_to_user_id": 56080508,
+      "in_reply_to_user_id_str": "56080508",
+      "in_reply_to_screen_name": "vedmich",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Jan 16 09:02:43 +0000 2017",
+      "id": 820919200055181300,
+      "id_str": "820919200055181312",
+      "text": "Over 7 years in complex game systems, usability, accessibility and UX. I do graphic design and I also do 2D art. Ask me a anything!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 820914446725972000,
+      "in_reply_to_status_id_str": "820914446725971968",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    }
+  ]
+}
