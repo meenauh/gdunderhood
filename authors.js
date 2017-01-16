@@ -2,6 +2,7 @@
 
 export default [
   // , post: false 
+  { username: 'aaafrancisc',    start: '16 Jan 2017', first: '820914446725971968', post: false },
   { username: 'OwlStudiogames', start: '19 Dec 2016', first: '810831118706601984' },
   { username: 'alex_korogodin', start: '12 Dec 2016', first: '808282729532035072' },
   { username: 'GregorHist',     start: '05 Dec 2016', first: '805735081348362240' },
