@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 757,
+  "followers_count": 763,
   "friends_count": 30,
   "listed_count": 16,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
@@ -46,35 +46,48 @@
   "time_zone": "Bucharest",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 4919,
+  "statuses_count": 4936,
   "lang": "en",
   "status": {
-    "created_at": "Mon Jan 16 09:02:43 +0000 2017",
-    "id": 820919200055181300,
-    "id_str": "820919200055181312",
-    "text": "Over 7 years in complex game systems, usability, accessibility and UX. I do graphic design and I also do 2D art. Ask me a anything!",
-    "truncated": false,
+    "created_at": "Tue Jan 17 13:25:06 +0000 2017",
+    "id": 821347616973787100,
+    "id_str": "821347616973787136",
+    "text": "Yes ,but in indie teams, I believe in culture of ownership and the immersion of each member in what his subject is.… https://t.co/FRwU04CoGz",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/FRwU04CoGz",
+          "expanded_url": "https://twitter.com/i/web/status/821347616973787136",
+          "display_url": "twitter.com/i/web/status/8…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 820914446725972000,
-    "in_reply_to_status_id_str": "820914446725971968",
-    "in_reply_to_user_id": 747371158832545800,
-    "in_reply_to_user_id_str": "747371158832545792",
-    "in_reply_to_screen_name": "gdunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 821337369806770200,
+    "quoted_status_id_str": "821337369806770176",
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "en"
   },
   "contributors_enabled": false,
