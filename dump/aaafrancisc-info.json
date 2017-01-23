@@ -37,8 +37,8 @@
     }
   },
   "protected": false,
-  "followers_count": 767,
-  "friends_count": 30,
+  "followers_count": 765,
+  "friends_count": 29,
   "listed_count": 17,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
   "favourites_count": 1147,
@@ -46,33 +46,44 @@
   "time_zone": "Bucharest",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 5030,
+  "statuses_count": 5031,
   "lang": "en",
   "status": {
-    "created_at": "Fri Jan 20 13:39:46 +0000 2017",
-    "id": 822438472397062100,
-    "id_str": "822438472397062144",
-    "text": "Not just in GDDs but also in presentations.",
+    "created_at": "Mon Jan 23 07:41:16 +0000 2017",
+    "id": 823435417852772400,
+    "id_str": "823435417852772352",
+    "text": "This is my twitter — @aaafrancisc, thank you for listening to my gibberish last week! :) Contact me and follow me if you like my face. Cya!",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "aaafrancisc",
+          "name": "Francisc A.",
+          "id": 361209832,
+          "id_str": "361209832",
+          "indices": [
+            21,
+            33
+          ]
+        }
+      ],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 822438343594180600,
-    "in_reply_to_status_id_str": "822438343594180610",
-    "in_reply_to_user_id": 747371158832545800,
-    "in_reply_to_user_id_str": "747371158832545792",
-    "in_reply_to_screen_name": "gdunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "lang": "en"
