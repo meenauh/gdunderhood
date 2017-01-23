@@ -1,0 +1,92 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Jan 23 08:27:33 +0000 2017",
+      "id": 823447064533200900,
+      "id_str": "823447064533200899",
+      "text": "Всем привет! Меня зовут Егор @cateIIo Васильев. Я продюсер, в настоящий момент работаю в Game-insight. До ГИ работал в Nexters.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cateIIo",
+            "name": "Egor Vasilyev",
+            "id": 821580893768810500,
+            "id_str": "821580893768810496",
+            "indices": [
+              29,
+              37
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 23 08:35:19 +0000 2017",
+      "id": 823449019166969900,
+      "id_str": "823449019166969857",
+      "text": "И начать я хочу с рассказа о том, как проходит собеседование в Ubisoft. Много букв, поэтому ФБ https://t.co/4VjZLJXnPU",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4VjZLJXnPU",
+            "expanded_url": "https://www.facebook.com/vasilyev.egor/posts/1289746524418092",
+            "display_url": "facebook.com/vasilyev.egor/…",
+            "indices": [
+              95,
+              118
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
