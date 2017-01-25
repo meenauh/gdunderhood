@@ -87,6 +87,980 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 23 10:14:02 +0000 2017",
+      "id": 823473859039023100,
+      "id_str": "823473859039023106",
+      "text": "Вообще, сегодня хотелось бы поговорить о трудоустройстве, но сперва опрос. Увольняли ли вас когда нибудь с работы (только игровые компании)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 23 14:47:19 +0000 2017",
+      "id": 823542633092022300,
+      "id_str": "823542633092022273",
+      "text": "Между многими игровыми компаниями существуют договоренности о том, чтобы не хантить сотрудников друг у друга.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 23 14:47:42 +0000 2017",
+      "id": 823542730903212000,
+      "id_str": "823542730903212033",
+      "text": "Мне вот кажется, что это деструктивно для индустрии, ибо а) препятствует обмену опытом б) сдерживает рост зарплат https://t.co/zAeGV35XJV",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/zAeGV35XJV",
+            "expanded_url": "https://twitter.com/gdunderhood/status/823542633092022273",
+            "display_url": "twitter.com/gdunderhood/st…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 823542633092022300,
+      "quoted_status_id_str": "823542633092022273",
+      "quoted_status": {
+        "created_at": "Mon Jan 23 14:47:19 +0000 2017",
+        "id": 823542633092022300,
+        "id_str": "823542633092022273",
+        "text": "Между многими игровыми компаниями существуют договоренности о том, чтобы не хантить сотрудников друг у друга.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 747371158832545800,
+          "id_str": "747371158832545792"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 23 15:48:27 +0000 2017",
+      "id": 823558020412166100,
+      "id_str": "823558020412166146",
+      "text": "@InvisibleSpiris где как, видел ситуации, когда человеку отказывали, даже если сам пришел. Сперва будь добр, уволься!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "InvisibleSpiris",
+            "name": "Ярослав  R",
+            "id": 2207946954,
+            "id_str": "2207946954",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 823556916672655400,
+      "in_reply_to_status_id_str": "823556916672655360",
+      "in_reply_to_user_id": 2207946954,
+      "in_reply_to_user_id_str": "2207946954",
+      "in_reply_to_screen_name": "InvisibleSpiris",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 23 16:16:57 +0000 2017",
+      "id": 823565192055451600,
+      "id_str": "823565192055451648",
+      "text": "@Ultrvlnt у меня нет проблем с пониманием зачем это) Я сужу исключительно по себе - для меня переход в ГИ был колоссальным шагом вперед.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Ultrvlnt",
+            "name": "Ilya Eremeyev",
+            "id": 2921919333,
+            "id_str": "2921919333",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 823560142943883300,
+      "in_reply_to_status_id_str": "823560142943883267",
+      "in_reply_to_user_id": 2921919333,
+      "in_reply_to_user_id_str": "2921919333",
+      "in_reply_to_screen_name": "Ultrvlnt",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 23 17:36:33 +0000 2017",
+      "id": 823585223829024800,
+      "id_str": "823585223829024768",
+      "text": "Вообще, маленький совет на основе жизненного опыта - заведите хорошего знакомого HRа. А то мало ли что...)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 23 20:47:10 +0000 2017",
+      "id": 823633193865793500,
+      "id_str": "823633193865793538",
+      "text": "Ладно, первый день ведения твиттера показал, что твиттер вести я не умею",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 24 08:27:29 +0000 2017",
+      "id": 823809434224853000,
+      "id_str": "823809434224852993",
+      "text": "Есть проект с многообразием контента, который вы продаете. Можно увеличить доходность проекта, правильно посчитав цены. Алгоритм следующий.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 24 08:28:28 +0000 2017",
+      "id": 823809680124350500,
+      "id_str": "823809680124350465",
+      "text": "1. Объявляем месяц скидок - продаем ВЕСЬ контент на 30% дешевле.\n2. После этого меряем, как изменился спрос на каждый товар отдельно",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 823809434224853000,
+      "in_reply_to_status_id_str": "823809434224852993",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 24 08:29:25 +0000 2017",
+      "id": 823809921200386000,
+      "id_str": "823809921200386049",
+      "text": "3. Зависимость спроса от цены можно аппроксимировать параболой. У параболы есть максимум - это и будет оптимальная точка.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 823809680124350500,
+      "in_reply_to_status_id_str": "823809680124350465",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 24 08:29:57 +0000 2017",
+      "id": 823810055577468900,
+      "id_str": "823810055577468933",
+      "text": "4. Находим производную получившейся функции. Это дает нам оптимальную цену.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 823809921200386000,
+      "in_reply_to_status_id_str": "823809921200386049",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 24 08:58:12 +0000 2017",
+      "id": 823817164645892100,
+      "id_str": "823817164645892096",
+      "text": "ты не меняешь в тесте инкам игрока по ресурсам, поэтому оптимум будет расчитан исходя из текущего баланса. И речь н… https://t.co/rTjel6Ew46",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/rTjel6Ew46",
+            "expanded_url": "https://twitter.com/i/web/status/823817164645892096",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 823815900520452100,
+      "quoted_status_id_str": "823815900520452096",
+      "quoted_status": {
+        "created_at": "Tue Jan 24 08:53:11 +0000 2017",
+        "id": 823815900520452100,
+        "id_str": "823815900520452096",
+        "text": "@gdunderhood т.е. мы рискуем поиметь +5% к доходам, попутно поломав баланс, а последствия всплывут через недели, снижением LTV и хайпом.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": 823810055577468900,
+        "in_reply_to_status_id_str": "823810055577468933",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 85163927,
+          "id_str": "85163927"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 24 10:08:18 +0000 2017",
+      "id": 823834805179650000,
+      "id_str": "823834805179650048",
+      "text": "RT @luayan: @gdunderhood а при чём тут инкам? Допустим, спрос на меч +5 в 320% выше, чем на топор +6, но цена скачет от баланса, поменяешь…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "luayan",
+            "name": "Илья Туменко",
+            "id": 85163927,
+            "id_str": "85163927",
+            "indices": [
+              3,
+              10
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              12,
+              24
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Jan 24 09:04:40 +0000 2017",
+        "id": 823818792220422100,
+        "id_str": "823818792220422144",
+        "text": "@gdunderhood а при чём тут инкам? Допустим, спрос на меч +5 в 320% выше, чем на топор +6, но цена скачет от баланса, поменяешь – поломаешь.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": 823817164645892100,
+        "in_reply_to_status_id_str": "823817164645892096",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 85163927,
+          "id_str": "85163927"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 24 11:48:11 +0000 2017",
+      "id": 823859943111585800,
+      "id_str": "823859943111585794",
+      "text": "А можешь рассказать чуть подробнее? Какова была причина? https://t.co/yqnH6mq43r",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/yqnH6mq43r",
+            "expanded_url": "https://twitter.com/yesutin/status/823515896517971968",
+            "display_url": "twitter.com/yesutin/status…",
+            "indices": [
+              57,
+              80
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 823515896517972000,
+      "quoted_status_id_str": "823515896517971968",
+      "quoted_status": {
+        "created_at": "Mon Jan 23 13:01:04 +0000 2017",
+        "id": 823515896517972000,
+        "id_str": "823515896517971968",
+        "text": "@gdunderhood @meenauh единожды. Но был такой удар под дых... Вся жизнь кувырком.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "meenauh",
+              "name": "Ilya Ostashko",
+              "id": 368361119,
+              "id_str": "368361119",
+              "indices": [
+                13,
+                21
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 823473859039023100,
+        "in_reply_to_status_id_str": "823473859039023106",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 24561734,
+          "id_str": "24561734"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 24 13:58:30 +0000 2017",
+      "id": 823892739020488700,
+      "id_str": "823892739020488706",
+      "text": "Анна, все верно, надо чтобы скидка была долго, месяц например. Тогда последние перу недель эффект скидки пропадет. https://t.co/Om2RxZZVyb",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Om2RxZZVyb",
+            "expanded_url": "https://twitter.com/freakyzelga/status/823868062499794945",
+            "display_url": "twitter.com/freakyzelga/st…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 823868062499795000,
+      "quoted_status_id_str": "823868062499794945",
+      "quoted_status": {
+        "created_at": "Tue Jan 24 12:20:27 +0000 2017",
+        "id": 823868062499795000,
+        "id_str": "823868062499794945",
+        "text": "@gdunderhood Но ведь наклеечка SALE дает буст к продажам, что делает результаты/метод невалидными",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 823810055577468900,
+        "in_reply_to_status_id_str": "823810055577468933",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 36649013,
+          "id_str": "36649013"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 24 13:59:50 +0000 2017",
+      "id": 823893071553265700,
+      "id_str": "823893071553265664",
+      "text": "Да и наклеечку SALE вешать не стоит)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 823892739020488700,
+      "in_reply_to_status_id_str": "823892739020488706",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 24 16:45:55 +0000 2017",
+      "id": 823934867901743100,
+      "id_str": "823934867901743104",
+      "text": "а вообще, можно не изголяться с математикой, просто то, что покупают редко сделать дороже, то, что часто - дешевле",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 25 07:58:28 +0000 2017",
+      "id": 824164518527926300,
+      "id_str": "824164518527926272",
+      "text": "Часто замечал, что при высокой проходимости туториала (80% и выше), пользователи теряются, не знают что делать и уходят из игры.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 25 07:59:30 +0000 2017",
+      "id": 824164779749154800,
+      "id_str": "824164779749154816",
+      "text": "Это означает, что в туториале есть проблемы с постановкой целей. Игроку не очевидно, как продвигаться в игре, что является мерилом прогресса",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 824164518527926300,
+      "in_reply_to_status_id_str": "824164518527926272",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 25 08:00:20 +0000 2017",
+      "id": 824164988831014900,
+      "id_str": "824164988831014912",
+      "text": "Один из лучших туториалов в этом плане - тутор в Paradise Bay. В нем неоднократно игрока левеапают после выполнения целевого действия.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 824164779749154800,
+      "in_reply_to_status_id_str": "824164779749154816",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }

@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 765,
+  "followers_count": 772,
   "friends_count": 32,
   "listed_count": 17,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
@@ -46,46 +46,35 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 5033,
+  "statuses_count": 5053,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Jan 23 08:35:19 +0000 2017",
-    "id": 823449019166969900,
-    "id_str": "823449019166969857",
-    "text": "И начать я хочу с рассказа о том, как проходит собеседование в Ubisoft. Много букв, поэтому ФБ https://t.co/4VjZLJXnPU",
+    "created_at": "Wed Jan 25 08:00:20 +0000 2017",
+    "id": 824164988831014900,
+    "id_str": "824164988831014912",
+    "text": "Один из лучших туториалов в этом плане - тутор в Paradise Bay. В нем неоднократно игрока левеапают после выполнения целевого действия.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/4VjZLJXnPU",
-          "expanded_url": "https://www.facebook.com/vasilyev.egor/posts/1289746524418092",
-          "display_url": "facebook.com/vasilyev.egor/…",
-          "indices": [
-            95,
-            118
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 824164779749154800,
+    "in_reply_to_status_id_str": "824164779749154816",
+    "in_reply_to_user_id": 747371158832545800,
+    "in_reply_to_user_id_str": "747371158832545792",
+    "in_reply_to_screen_name": "gdunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 6,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
