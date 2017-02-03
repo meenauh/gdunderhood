@@ -5701,6 +5701,327 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 02 15:33:41 +0000 2017",
+      "id": 827178183094972400,
+      "id_str": "827178183094972416",
+      "text": "Да, но ведь усваиваемость опыта часто прямо пропорциональна болезненности шишек :) https://t.co/Ow5qasX5tI",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Ow5qasX5tI",
+            "expanded_url": "https://twitter.com/Katsushir0/status/827152544690487296",
+            "display_url": "twitter.com/Katsushir0/sta…",
+            "indices": [
+              83,
+              106
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 827152544690487300,
+      "quoted_status_id_str": "827152544690487296",
+      "quoted_status": {
+        "created_at": "Thu Feb 02 13:51:49 +0000 2017",
+        "id": 827152544690487300,
+        "id_str": "827152544690487296",
+        "text": "@gdunderhood на самом деле оба варианта хороши, но мой личный опыт показывает, что приходя на НП без опыта шишки больнее, чем на саппорте :)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 827151419736199200,
+        "in_reply_to_status_id_str": "827151419736199170",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 615029171,
+          "id_str": "615029171"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 03 09:22:01 +0000 2017",
+      "id": 827447035884339200,
+      "id_str": "827447035884339200",
+      "text": "А в чем тут принцип? https://t.co/gztby84Q55",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gztby84Q55",
+            "expanded_url": "https://twitter.com/Bashnya_est/status/827409522197196800",
+            "display_url": "twitter.com/Bashnya_est/st…",
+            "indices": [
+              21,
+              44
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 827409522197196800,
+      "quoted_status_id_str": "827409522197196800",
+      "quoted_status": {
+        "created_at": "Fri Feb 03 06:52:57 +0000 2017",
+        "id": 827409522197196800,
+        "id_str": "827409522197196800",
+        "text": "@Kerk @strizhechenko @gdunderhood кому-то стыдно, а кому-то вопрос принципа",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "Kerk",
+              "name": "Роман",
+              "id": 6409872,
+              "id_str": "6409872",
+              "indices": [
+                0,
+                5
+              ]
+            },
+            {
+              "screen_name": "strizhechenko",
+              "name": "Code & Acid",
+              "id": 1033011720,
+              "id_str": "1033011720",
+              "indices": [
+                6,
+                20
+              ]
+            },
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                21,
+                33
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 826726497675247600,
+        "in_reply_to_status_id_str": "826726497675247617",
+        "in_reply_to_user_id": 6409872,
+        "in_reply_to_user_id_str": "6409872",
+        "in_reply_to_screen_name": "Kerk",
+        "user": {
+          "id": 594503814,
+          "id_str": "594503814"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 03 13:53:30 +0000 2017",
+      "id": 827515356898066400,
+      "id_str": "827515356898066433",
+      "text": "Знаете, меня одновременно поразил приступ простуды и завал на работе.\nПоэтому я позорно дезертирую досрочно :(",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 03 13:54:48 +0000 2017",
+      "id": 827515683172970500,
+      "id_str": "827515683172970497",
+      "text": "Всем пока! С вами был @MuchGamesWow\nИ, традиционно, вот мое рабочее место, которое я предусмотрительно сфоткал вчер… https://t.co/0YrEQkWoVW",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MuchGamesWow",
+            "name": "Andrey Panfilov",
+            "id": 824177595042426900,
+            "id_str": "824177595042426880",
+            "indices": [
+              22,
+              35
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/0YrEQkWoVW",
+            "expanded_url": "https://twitter.com/i/web/status/827515683172970497",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 827515356898066400,
+      "in_reply_to_status_id_str": "827515356898066433",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 03 15:27:26 +0000 2017",
+      "id": 827538995924066300,
+      "id_str": "827538995924066305",
+      "text": "Компания, где ты сидишь не в мансарде с возможностью биться головой об стену - не игровая компания вовсе!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }

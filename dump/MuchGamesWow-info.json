@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 783,
+  "followers_count": 786,
   "friends_count": 32,
   "listed_count": 17,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
@@ -46,29 +46,19 @@
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 5182,
+  "statuses_count": 5187,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Feb 02 13:47:20 +0000 2017",
-    "id": 827151419736199200,
-    "id_str": "827151419736199170",
-    "text": "Придется распознавать их самому) Это ценно, потому что на существующих проектах тоже могут быть ошибки, которые ник… https://t.co/G8F4ZUhWpL",
-    "truncated": true,
+    "created_at": "Fri Feb 03 15:27:26 +0000 2017",
+    "id": 827538995924066300,
+    "id_str": "827538995924066305",
+    "text": "Компания, где ты сидишь не в мансарде с возможностью биться головой об стену - не игровая компания вовсе!",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/G8F4ZUhWpL",
-          "expanded_url": "https://twitter.com/i/web/status/827151419736199170",
-          "display_url": "twitter.com/i/web/status/8…",
-          "indices": [
-            117,
-            140
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -80,14 +70,11 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 827124478245212200,
-    "quoted_status_id_str": "827124478245212160",
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
