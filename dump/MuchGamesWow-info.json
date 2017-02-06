@@ -3,19 +3,8 @@
   "id_str": "747371158832545792",
   "name": "Гейм-дизайнер",
   "screen_name": "gdunderhood",
-  "location": "Москва, Россия",
-  "profile_location": {
-    "id": "4303d1afc1e98c37",
-    "url": "https://api.twitter.com/1.1/geo/id/4303d1afc1e98c37.json",
-    "place_type": "unknown",
-    "name": "Москва, Россия",
-    "full_name": "Москва, Россия",
-    "country_code": "",
-    "country": "",
-    "contained_within": [],
-    "bounding_box": null,
-    "attributes": {}
-  },
+  "location": "Moscow, Russia",
+  "profile_location": null,
   "description": "Коллективный твиттер-аккаунт для гейм-дизайнеров всех мастей: от балансеров до нарративщиков. Новый автор каждую неделю. На этой неделе – @MuchGamesWow.",
   "url": "https://t.co/lIo0mtT2X0",
   "entities": {
@@ -37,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 786,
+  "followers_count": 790,
   "friends_count": 32,
   "listed_count": 17,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
@@ -71,8 +60,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 3,
+    "retweet_count": 6,
+    "favorite_count": 6,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
