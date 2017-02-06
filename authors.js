@@ -2,7 +2,7 @@
 
 export default [
   // , post: false
-  { username: 'MuchGamesWow',   start: '30 Jan 2017', first: '825970599898001410', post: false },
+  { username: 'MuchGamesWow',   start: '30 Jan 2017', first: '825970599898001410' },
   { username: 'cateIIo',        start: '23 Jan 2017', first: '823447064533200899' },
   { username: 'aaafrancisc',    start: '16 Jan 2017', first: '820914446725971968' },
   { username: 'OwlStudiogames', start: '19 Dec 2016', first: '810831118706601984' },
