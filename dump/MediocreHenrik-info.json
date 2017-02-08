@@ -46,19 +46,37 @@
   "time_zone": "Stockholm",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 5200,
+  "statuses_count": 5203,
   "lang": "en",
   "status": {
-    "created_at": "Tue Feb 07 15:50:35 +0000 2017",
-    "id": 828994375967445000,
-    "id_str": "828994375967444992",
-    "text": "I can only speak for myself but for some games we made several major content+feature updates, most times there were no measurable benefit",
-    "truncated": false,
+    "created_at": "Wed Feb 08 14:20:43 +0000 2017",
+    "id": 829334147529314300,
+    "id_str": "829334147529314304",
+    "text": "For a while #SmashHit had water physics, floating objects etc. It didn't work well enough but you can still see it,… https://t.co/aC3eiwjxCt",
+    "truncated": true,
     "entities": {
-      "hashtags": [],
+      "hashtags": [
+        {
+          "text": "SmashHit",
+          "indices": [
+            12,
+            21
+          ]
+        }
+      ],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/aC3eiwjxCt",
+          "expanded_url": "https://twitter.com/i/web/status/829334147529314304",
+          "display_url": "twitter.com/i/web/status/8…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -71,10 +89,11 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "retweet_count": 1,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "en"
   },
   "contributors_enabled": false,
