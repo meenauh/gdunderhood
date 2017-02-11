@@ -37,28 +37,53 @@
     }
   },
   "protected": false,
-  "followers_count": 792,
+  "followers_count": 802,
   "friends_count": 32,
   "listed_count": 17,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 1147,
+  "favourites_count": 1148,
   "utc_offset": 3600,
   "time_zone": "Stockholm",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 5206,
+  "statuses_count": 5213,
   "lang": "en",
   "status": {
-    "created_at": "Thu Feb 09 15:45:46 +0000 2017",
-    "id": 829717938068451300,
-    "id_str": "829717938068451329",
-    "text": "I think one of the most difficult aspects of game development is deciding what idea to work on, when to give up and when to keep struggling.",
-    "truncated": false,
+    "created_at": "Sat Feb 11 11:26:42 +0000 2017",
+    "id": 830377518838513700,
+    "id_str": "830377518838513667",
+    "text": "Add extra ♥ with an #easteregg! My faves in our games are the hidden radio ads &amp; songs in #DoesNotCommute. I'm sad… https://t.co/BnZwoQtE8h",
+    "truncated": true,
     "entities": {
-      "hashtags": [],
+      "hashtags": [
+        {
+          "text": "easteregg",
+          "indices": [
+            20,
+            30
+          ]
+        },
+        {
+          "text": "DoesNotCommute",
+          "indices": [
+            94,
+            109
+          ]
+        }
+      ],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/BnZwoQtE8h",
+          "expanded_url": "https://twitter.com/i/web/status/830377518838513667",
+          "display_url": "twitter.com/i/web/status/8…",
+          "indices": [
+            120,
+            143
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -71,10 +96,11 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 2,
+    "retweet_count": 1,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "en"
   },
   "contributors_enabled": false,
