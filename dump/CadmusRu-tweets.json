@@ -1,0 +1,718 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Mar 20 08:57:25 +0000 2017",
+      "id": 843748300633395200,
+      "id_str": "843748300633395200",
+      "text": "Привет. На этой неделе с вами @CadmusRu, Lead gameplay scripter в Larian Studios Санкт-Петербург. Поговорим про всякое :p",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "CadmusRu",
+            "name": "Cadmus",
+            "id": 1909469556,
+            "id_str": "1909469556",
+            "indices": [
+              30,
+              39
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 12,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 20 08:58:03 +0000 2017",
+      "id": 843748460763496400,
+      "id_str": "843748460763496448",
+      "text": "@CadmusRu Не могу загрузить фотографию :| На обеде разберусь.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "CadmusRu",
+            "name": "Cadmus",
+            "id": 1909469556,
+            "id_str": "1909469556",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 843748300633395200,
+      "in_reply_to_status_id_str": "843748300633395200",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 20 09:08:49 +0000 2017",
+      "id": 843751167905730600,
+      "id_str": "843751167905730561",
+      "text": "@CadmusRu Победа! Я не зря получал высшее образование - я могу справиться с веб формой твиттера и из пошаговой инструкцией :D",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "CadmusRu",
+            "name": "Cadmus",
+            "id": 1909469556,
+            "id_str": "1909469556",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 843748460763496400,
+      "in_reply_to_status_id_str": "843748460763496448",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "4303d1afc1e98c37",
+        "url": "https://api.twitter.com/1.1/geo/id/4303d1afc1e98c37.json",
+        "place_type": "city",
+        "name": "Москва",
+        "full_name": "Москва, Россия",
+        "country_code": "RU",
+        "country": "Россия",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                36.8878157,
+                55.4883244
+              ],
+              [
+                37.9674694,
+                55.4883244
+              ],
+              [
+                37.9674694,
+                56.0212511
+              ],
+              [
+                36.8878157,
+                56.0212511
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 20 09:09:25 +0000 2017",
+      "id": 843751318229540900,
+      "id_str": "843751318229540865",
+      "text": "@CadmusRu кстати, про образование в геймдеве поговорим в один из дней",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "CadmusRu",
+            "name": "Cadmus",
+            "id": 1909469556,
+            "id_str": "1909469556",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 843751167905730600,
+      "in_reply_to_status_id_str": "843751167905730561",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "4303d1afc1e98c37",
+        "url": "https://api.twitter.com/1.1/geo/id/4303d1afc1e98c37.json",
+        "place_type": "city",
+        "name": "Москва",
+        "full_name": "Москва, Россия",
+        "country_code": "RU",
+        "country": "Россия",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                36.8878157,
+                55.4883244
+              ],
+              [
+                37.9674694,
+                55.4883244
+              ],
+              [
+                37.9674694,
+                56.0212511
+              ],
+              [
+                36.8878157,
+                56.0212511
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 20 09:26:46 +0000 2017",
+      "id": 843755684961435600,
+      "id_str": "843755684961435652",
+      "text": "@retropcan @CadmusRu Что-то такое будет. Вообще вот план https://t.co/tsB5TPY7AL, вторник и пятница пока под вопросом. Жду предложений :D",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "retropcan",
+            "name": "Svyatoslav Torick",
+            "id": 904657574,
+            "id_str": "904657574",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "CadmusRu",
+            "name": "Cadmus",
+            "id": 1909469556,
+            "id_str": "1909469556",
+            "indices": [
+              11,
+              20
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/tsB5TPY7AL",
+            "expanded_url": "http://take.ms/qO0m5",
+            "display_url": "take.ms/qO0m5",
+            "indices": [
+              57,
+              80
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 843753532335554600,
+      "in_reply_to_status_id_str": "843753532335554561",
+      "in_reply_to_user_id": 904657574,
+      "in_reply_to_user_id_str": "904657574",
+      "in_reply_to_screen_name": "retropcan",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 20 09:39:09 +0000 2017",
+      "id": 843758802063233000,
+      "id_str": "843758802063233025",
+      "text": "Иду по плану – Эссе о себе, часть первая. Вячеслав. 27 лет. Не женат. Для начала, о чем я _не буду_ говорить (cont) https://t.co/a5GhBgRGa4",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/a5GhBgRGa4",
+            "expanded_url": "http://tl.gd/n_1spnhdt",
+            "display_url": "tl.gd/n_1spnhdt",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.twitlonger.com\" rel=\"nofollow\">Twitlonger</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 20 10:57:30 +0000 2017",
+      "id": 843778520249700400,
+      "id_str": "843778520249700352",
+      "text": "Часть вторая. Из первой части стало ясно, что я много чего не знаю (не понятно, зачем пришел тогда :| ). Что (cont) https://t.co/7zPMOvptMs",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/7zPMOvptMs",
+            "expanded_url": "http://tl.gd/n_1spnhhs",
+            "display_url": "tl.gd/n_1spnhhs",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.twitlonger.com\" rel=\"nofollow\">Twitlonger</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 20 11:08:34 +0000 2017",
+      "id": 843781306928513000,
+      "id_str": "843781306928513024",
+      "text": "Часть 2.1 Как получить работу мечты. Не читайте это. Серьезно. Предупреждение: я пишу по шаблону «Как я (cont) https://t.co/VhB3sMTyWI",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/VhB3sMTyWI",
+            "expanded_url": "http://tl.gd/n_1spnhia",
+            "display_url": "tl.gd/n_1spnhia",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.twitlonger.com\" rel=\"nofollow\">Twitlonger</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 20 13:08:29 +0000 2017",
+      "id": 843811482177617900,
+      "id_str": "843811482177617920",
+      "text": "@Illbe94 :O вообще не работает?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Illbe94",
+            "name": "Illbe",
+            "id": 3417233824,
+            "id_str": "3417233824",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 843811083089563600,
+      "in_reply_to_status_id_str": "843811083089563648",
+      "in_reply_to_user_id": 3417233824,
+      "in_reply_to_user_id_str": "3417233824",
+      "in_reply_to_screen_name": "Illbe94",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 20 13:10:54 +0000 2017",
+      "id": 843812090032853000,
+      "id_str": "843812090032852992",
+      "text": "Господа, мне тут написали что твитлонгер забанен в россии :O Это у всех так? Если да, надо придумать куда свои слезливые простыни выкатывать",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 20 14:08:36 +0000 2017",
+      "id": 843826613263519700,
+      "id_str": "843826613263519744",
+      "text": "Часть третья. Немного о студии. Мы недавно публиковали вакансии на DTF и многие с удивлением узнали, что в (cont) https://t.co/2GYkd9h2Nv",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/2GYkd9h2Nv",
+            "expanded_url": "http://tl.gd/n_1spnhtg",
+            "display_url": "tl.gd/n_1spnhtg",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.twitlonger.com\" rel=\"nofollow\">Twitlonger</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 20 14:39:39 +0000 2017",
+      "id": 843834427734220800,
+      "id_str": "843834427734220800",
+      "text": "@DanySterkhov все открытые на данный момент вакансии там, по ссылке.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DanySterkhov",
+            "name": "Dany Sterkhov",
+            "id": 281481886,
+            "id_str": "281481886",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 843833159221497900,
+      "in_reply_to_status_id_str": "843833159221497856",
+      "in_reply_to_user_id": 281481886,
+      "in_reply_to_user_id_str": "281481886",
+      "in_reply_to_screen_name": "DanySterkhov",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 20 17:08:19 +0000 2017",
+      "id": 843871840783257600,
+      "id_str": "843871840783257601",
+      "text": "@meenauh Готово!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "meenauh",
+            "name": "Ilya Ostashko",
+            "id": 368361119,
+            "id_str": "368361119",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 843869859222032400,
+      "in_reply_to_status_id_str": "843869859222032384",
+      "in_reply_to_user_id": 368361119,
+      "in_reply_to_user_id_str": "368361119",
+      "in_reply_to_screen_name": "meenauh",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Mon Mar 20 17:53:51 +0000 2017",
+      "id": 843883297151340500,
+      "id_str": "843883297151340544",
+      "text": "В какую последнюю РПГ вы играли? Может Tyranny или новый Torment? А может Divinity? :) Будете играть в новый Mass Effect?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 20 17:57:46 +0000 2017",
+      "id": 843884285434232800,
+      "id_str": "843884285434232833",
+      "text": "Что в ролевой игре самое важное, чтобы решить играть или нет?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
