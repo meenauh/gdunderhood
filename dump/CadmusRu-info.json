@@ -37,30 +37,40 @@
     }
   },
   "protected": false,
-  "followers_count": 810,
+  "followers_count": 821,
   "friends_count": 36,
   "listed_count": 16,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 1153,
+  "favourites_count": 1156,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 5465,
+  "statuses_count": 5494,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Mar 20 17:57:46 +0000 2017",
-    "id": 843884285434232800,
-    "id_str": "843884285434232833",
-    "text": "Что в ролевой игре самое важное, чтобы решить играть или нет?",
+    "created_at": "Tue Mar 21 18:25:22 +0000 2017",
+    "id": 844253619214082000,
+    "id_str": "844253619214082048",
+    "text": "А вот и материал по теме подъехал! https://t.co/gDjHbp8aMX",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/gDjHbp8aMX",
+          "expanded_url": "https://twitter.com/guiltythree/status/844252504972034048",
+          "display_url": "twitter.com/guiltythree/st…",
+          "indices": [
+            35,
+            58
+          ]
+        }
+      ]
     },
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -70,11 +80,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
+    "is_quote_status": true,
+    "quoted_status_id": 844252504972034000,
+    "quoted_status_id_str": "844252504972034048",
+    "retweet_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
