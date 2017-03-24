@@ -37,40 +37,40 @@
     }
   },
   "protected": false,
-  "followers_count": 821,
+  "followers_count": 834,
   "friends_count": 36,
   "listed_count": 16,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 1156,
+  "favourites_count": 1164,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 5494,
+  "statuses_count": 5535,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Mar 21 18:25:22 +0000 2017",
-    "id": 844253619214082000,
-    "id_str": "844253619214082048",
-    "text": "А вот и материал по теме подъехал! https://t.co/gDjHbp8aMX",
-    "truncated": false,
+    "created_at": "Thu Mar 23 11:19:24 +0000 2017",
+    "id": 844871194851655700,
+    "id_str": "844871194851655681",
+    "text": "Думаю да. Опыт. Но нужно параллельно развиваться, пилить портфолио. Если только жужелиц в админке добавлять то пото… https://t.co/u72WzYm5lu",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/gDjHbp8aMX",
-          "expanded_url": "https://twitter.com/guiltythree/status/844252504972034048",
-          "display_url": "twitter.com/guiltythree/st…",
+          "url": "https://t.co/u72WzYm5lu",
+          "expanded_url": "https://twitter.com/i/web/status/844871194851655681",
+          "display_url": "twitter.com/i/web/status/8…",
           "indices": [
-            35,
-            58
+            117,
+            140
           ]
         }
       ]
     },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -81,10 +81,10 @@
     "place": null,
     "contributors": null,
     "is_quote_status": true,
-    "quoted_status_id": 844252504972034000,
-    "quoted_status_id_str": "844252504972034048",
+    "quoted_status_id": 844815327263281200,
+    "quoted_status_id_str": "844815327263281157",
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
