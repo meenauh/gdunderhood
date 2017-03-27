@@ -1,0 +1,654 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Mar 27 07:05:31 +0000 2017",
+      "id": 846256855336845300,
+      "id_str": "846256855336845312",
+      "text": "Привет! My name is Char &amp; I’m a writer at Larian Studios. I’ll be talking mostly about writing, but I’m happy to ch… https://t.co/AWJ9tKLPQ4",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/AWJ9tKLPQ4",
+            "expanded_url": "https://twitter.com/i/web/status/846256855336845312",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              121,
+              144
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Mar 27 07:06:28 +0000 2017",
+      "id": 846257093040635900,
+      "id_str": "846257093040635904",
+      "text": "Apologies to you all, I can read Russian pretty well, but my writing is quite limited so I will tweet mostly in English this week.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 846256855336845300,
+      "in_reply_to_status_id_str": "846256855336845312",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Mar 27 07:06:55 +0000 2017",
+      "id": 846257208451051500,
+      "id_str": "846257208451051521",
+      "text": "Who am I? I write on Divinity: Original Sin 2 at Larian Studios for three days each week.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 846257093040635900,
+      "in_reply_to_status_id_str": "846257093040635904",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Mar 27 07:07:57 +0000 2017",
+      "id": 846257468531523600,
+      "id_str": "846257468531523584",
+      "text": "I teach narrative and RPGs at Trinity College Dublin (masters in media) &amp; Dublin Institute of Technology (games design degree) for one day.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 846257208451051500,
+      "in_reply_to_status_id_str": "846257208451051521",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Mar 27 07:08:25 +0000 2017",
+      "id": 846257584164278300,
+      "id_str": "846257584164278272",
+      "text": "On the last day of the week, I write for myself. In this time, I work on my fantasy novel, articles, &amp; assorted projects that make me smile.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 846257468531523600,
+      "in_reply_to_status_id_str": "846257468531523584",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Mar 27 07:08:44 +0000 2017",
+      "id": 846257666087424000,
+      "id_str": "846257666087424000",
+      "text": "If you want to know more about me - you can read here: https://t.co/K0S44UKdej",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/K0S44UKdej",
+            "expanded_url": "http://alphachar.com/who-am-i/",
+            "display_url": "alphachar.com/who-am-i/",
+            "indices": [
+              55,
+              78
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 846257584164278300,
+      "in_reply_to_status_id_str": "846257584164278272",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Mar 27 07:10:03 +0000 2017",
+      "id": 846257996309114900,
+      "id_str": "846257996309114880",
+      "text": "I wrote a piece for Хабрахабр on the writing team at Larian Studios a few weeks ago. It’s here for those interested: https://t.co/SAFISiXfoK",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/SAFISiXfoK",
+            "expanded_url": "https://habrahabr.ru/company/larian/blog/323280/",
+            "display_url": "habrahabr.ru/company/larian…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 846257666087424000,
+      "in_reply_to_status_id_str": "846257666087424000",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ro"
+    },
+    {
+      "created_at": "Mon Mar 27 07:10:32 +0000 2017",
+      "id": 846258115070840800,
+      "id_str": "846258115070840832",
+      "text": "The focus for my week will be on writing for games. Writing for games is a lot like just … writing. The hardest part is getting started.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 846257996309114900,
+      "in_reply_to_status_id_str": "846257996309114880",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Mar 27 07:11:43 +0000 2017",
+      "id": 846258414900695000,
+      "id_str": "846258414900695040",
+      "text": "If you want to write for games, this week I’ll take you through starting writing, crafting a narrative game &amp; building a portfolio.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 846258115070840800,
+      "in_reply_to_status_id_str": "846258115070840832",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Mar 27 07:12:26 +0000 2017",
+      "id": 846258595964571600,
+      "id_str": "846258595964571648",
+      "text": "Each day, along with the exercises, I will recommend three things at specific times.\n1. A GDC talk to watch along with your morning tea.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 846258414900695000,
+      "in_reply_to_status_id_str": "846258414900695040",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Mar 27 07:12:55 +0000 2017",
+      "id": 846258717553254400,
+      "id_str": "846258717553254400",
+      "text": "2. A writing prompt to spend 5-10 minutes on at  lunchtime\n3. A narrative game or piece of interactive fiction to play in the evening",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 846258595964571600,
+      "in_reply_to_status_id_str": "846258595964571648",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Mar 27 07:13:26 +0000 2017",
+      "id": 846258848184913900,
+      "id_str": "846258848184913920",
+      "text": "At any time, feel free to ask any questions! I’ll be in work during the day, but I’ll check in during tea break, lunch and evening.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 846258717553254400,
+      "in_reply_to_status_id_str": "846258717553254400",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Mar 27 07:13:48 +0000 2017",
+      "id": 846258937242497000,
+      "id_str": "846258937242497024",
+      "text": "So let’s get started. Today’s exercise is really easy: BUY A NOTEBOOK. You will use this for the exercises for the week ahead.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 846258848184913900,
+      "in_reply_to_status_id_str": "846258848184913920",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Mar 27 07:19:32 +0000 2017",
+      "id": 846260383052709900,
+      "id_str": "846260383052709888",
+      "text": "@Anton91453829 Hahaha! Like an alien @CadmusRu :-D",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Anton91453829",
+            "name": "Anton Shidlovski",
+            "id": 3341751437,
+            "id_str": "3341751437",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "CadmusRu",
+            "name": "Cadmus",
+            "id": 1909469556,
+            "id_str": "1909469556",
+            "indices": [
+              37,
+              46
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 846258938601463800,
+      "in_reply_to_status_id_str": "846258938601463808",
+      "in_reply_to_user_id": 3341751437,
+      "in_reply_to_user_id_str": "3341751437",
+      "in_reply_to_screen_name": "Anton91453829",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Mar 27 07:21:06 +0000 2017",
+      "id": 846260775614398500,
+      "id_str": "846260775614398464",
+      "text": "@Anton91453829 I believe Joyce went to UCD (same as me!), but there is a lot of Joyce studies in Trinity.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Anton91453829",
+            "name": "Anton Shidlovski",
+            "id": 3341751437,
+            "id_str": "3341751437",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 846259469688426500,
+      "in_reply_to_status_id_str": "846259469688426498",
+      "in_reply_to_user_id": 3341751437,
+      "in_reply_to_user_id_str": "3341751437",
+      "in_reply_to_screen_name": "Anton91453829",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Mar 27 07:22:11 +0000 2017",
+      "id": 846261048273457200,
+      "id_str": "846261048273457152",
+      "text": "Ah, good point! Yes, I mean a paper notepad :-) https://t.co/E8tM1oM2pe",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/E8tM1oM2pe",
+            "expanded_url": "https://twitter.com/retropcan/status/846260493513867264",
+            "display_url": "twitter.com/retropcan/stat…",
+            "indices": [
+              48,
+              71
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 846260493513867300,
+      "quoted_status_id_str": "846260493513867264",
+      "quoted_status": {
+        "created_at": "Mon Mar 27 07:19:59 +0000 2017",
+        "id": 846260493513867300,
+        "id_str": "846260493513867264",
+        "text": "@gdunderhood I'd like to clarify, just in case, that by notebook you mean a notepad. Because a notebook in Russian tradition means a laptop",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Game Designer",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": 846258937242497000,
+        "in_reply_to_status_id_str": "846258937242497024",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 904657574,
+          "id_str": "904657574"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    }
+  ]
+}
