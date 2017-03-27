@@ -46,29 +46,19 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 5552,
+  "statuses_count": 5554,
   "lang": "ru",
   "status": {
-    "created_at": "Sun Mar 26 11:11:29 +0000 2017",
-    "id": 845956364937695200,
-    "id_str": "845956364937695232",
-    "text": "Сегодня Larian Санкт-Петербург при поддержке Ulmart проводит первый в России CoderDojo. Будем учить детей делать иг… https://t.co/IR6jcVD8vF",
-    "truncated": true,
+    "created_at": "Sun Mar 26 18:41:19 +0000 2017",
+    "id": 846069571035545600,
+    "id_str": "846069571035545600",
+    "text": "В Манжетах постараюсь в следующие несколько недель опубликовать читабельную компиляцию этой недели. Надеюсь еще початимся, всем пока :D",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/IR6jcVD8vF",
-          "expanded_url": "https://twitter.com/i/web/status/845956364937695232",
-          "display_url": "twitter.com/i/web/status/8…",
-          "indices": [
-            117,
-            140
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "in_reply_to_status_id": null,
@@ -81,11 +71,10 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 2,
+    "retweet_count": 0,
     "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
