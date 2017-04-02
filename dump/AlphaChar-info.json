@@ -26,42 +26,63 @@
     }
   },
   "protected": false,
-  "followers_count": 878,
+  "followers_count": 883,
   "friends_count": 39,
   "listed_count": 17,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 1205,
+  "favourites_count": 1214,
   "utc_offset": 3600,
   "time_zone": "Dublin",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 5759,
+  "statuses_count": 5787,
   "lang": "en",
   "status": {
-    "created_at": "Sat Apr 01 08:33:09 +0000 2017",
-    "id": 848090846453006300,
-    "id_str": "848090846453006336",
-    "text": "Speaking of dialogue, use it! You can make your writing feel more \"human\" simply through using dialogue instead of regular prose.",
+    "created_at": "Sun Apr 02 18:36:02 +0000 2017",
+    "id": 848604954537467900,
+    "id_str": "848604954537467904",
+    "text": "@_ARandom_ @AlphaChar Thank YOU for sharing great stuff with me! I'm now semi-obsessed with N Dybovskiy &amp; dying to play Salt &amp; Sanctuary :-D",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "_ARandom_",
+          "name": "ARandom",
+          "id": 4364907047,
+          "id_str": "4364907047",
+          "indices": [
+            0,
+            10
+          ]
+        },
+        {
+          "screen_name": "AlphaChar",
+          "name": "Char שר Шар",
+          "id": 116042786,
+          "id_str": "116042786",
+          "indices": [
+            11,
+            21
+          ]
+        }
+      ],
       "urls": []
     },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 848604053009465300,
+    "in_reply_to_status_id_str": "848604053009465344",
+    "in_reply_to_user_id": 4364907047,
+    "in_reply_to_user_id_str": "4364907047",
+    "in_reply_to_screen_name": "_ARandom_",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "lang": "en"
