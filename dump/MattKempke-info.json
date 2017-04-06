@@ -37,38 +37,28 @@
     }
   },
   "protected": false,
-  "followers_count": 896,
+  "followers_count": 894,
   "friends_count": 39,
   "listed_count": 17,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 1220,
+  "favourites_count": 1226,
   "utc_offset": 3600,
   "time_zone": "Dublin",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 5797,
+  "statuses_count": 5807,
   "lang": "en",
   "status": {
-    "created_at": "Wed Apr 05 19:55:32 +0000 2017",
-    "id": 849712127984140300,
-    "id_str": "849712127984140289",
-    "text": "This is the game my team and me are working on right now: https://t.co/dNPJscKKcH Let me know what you think.",
+    "created_at": "Thu Apr 06 19:16:49 +0000 2017",
+    "id": 850064771789598700,
+    "id_str": "850064771789598720",
+    "text": "... It starts small and in the end it breaks free and leaves you as an empty husk :) if you are not careful.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/dNPJscKKcH",
-          "expanded_url": "https://www.youtube.com/watch?v=jJYR1RI9SQQ",
-          "display_url": "youtube.com/watch?v=jJYR1R…",
-          "indices": [
-            58,
-            81
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -82,10 +72,9 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 2,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "en"
   },
   "contributors_enabled": false,
