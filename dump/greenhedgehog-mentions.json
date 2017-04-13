@@ -449,6 +449,410 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 12 02:28:29 +0000 2017",
+      "id": 851985341942726700,
+      "id_str": "851985341942726656",
+      "text": "@gdunderhood вспоминается путь Стива Мерецки из Infocom в свободное плавание, только с меньшим размахом: https://t.co/zF2YawPxqu",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/zF2YawPxqu",
+            "expanded_url": "http://www.filfre.net/2017/01/the-spellcasting-series-or-how-much-ernie-eaglebeak-is-too-much-ernie-eaglebeak/",
+            "display_url": "filfre.net/2017/01/the-sp…",
+            "indices": [
+              105,
+              128
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 851892575304908800,
+      "in_reply_to_status_id_str": "851892575304908801",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 229471456,
+        "id_str": "229471456"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 13 10:02:20 +0000 2017",
+      "id": 852461944166645800,
+      "id_str": "852461944166645760",
+      "text": "@gdunderhood Я не особо много могу сказать, ибо в первую очередь независимый программист, а не гд, но... https://t.co/sBe0TNAddv",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 852461929390121000,
+            "id_str": "852461929390120960",
+            "indices": [
+              105,
+              128
+            ],
+            "media_url": "http://pbs.twimg.com/media/C9SNm7XXoAAh1c4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C9SNm7XXoAAh1c4.jpg",
+            "url": "https://t.co/sBe0TNAddv",
+            "display_url": "pic.twitter.com/sBe0TNAddv",
+            "expanded_url": "https://twitter.com/SneakBug8/status/852461944166645760/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 785,
+                "h": 55,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 48,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 785,
+                "h": 55,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 55,
+                "h": 55,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 852461929390121000,
+            "id_str": "852461929390120960",
+            "indices": [
+              105,
+              128
+            ],
+            "media_url": "http://pbs.twimg.com/media/C9SNm7XXoAAh1c4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C9SNm7XXoAAh1c4.jpg",
+            "url": "https://t.co/sBe0TNAddv",
+            "display_url": "pic.twitter.com/sBe0TNAddv",
+            "expanded_url": "https://twitter.com/SneakBug8/status/852461944166645760/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 785,
+                "h": 55,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 48,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 785,
+                "h": 55,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 55,
+                "h": 55,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 852459600934821900,
+      "in_reply_to_status_id_str": "852459600934821888",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 2751577358,
+        "id_str": "2751577358"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 13 10:09:48 +0000 2017",
+      "id": 852463825039355900,
+      "id_str": "852463825039355905",
+      "text": "@gdunderhood Потому что толкового гд-энтузиаста (который станет считать математику) ты вряд-ли найдешь, а вот самос… https://t.co/4g5uHBLt12",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/4g5uHBLt12",
+            "expanded_url": "https://twitter.com/i/web/status/852463825039355905",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 852462601980321800,
+      "in_reply_to_status_id_str": "852462601980321792",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 2751577358,
+        "id_str": "2751577358"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 13 10:28:58 +0000 2017",
+      "id": 852468649952550900,
+      "id_str": "852468649952550912",
+      "text": "@gdunderhood @SneakBug8 Проектирование баланса, особенно в играх с симметричными условиями, напоминает судоку. У те… https://t.co/9SJ09J7o7E",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "SneakBug8",
+            "name": "SneakBug8",
+            "id": 2751577358,
+            "id_str": "2751577358",
+            "indices": [
+              13,
+              23
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/9SJ09J7o7E",
+            "expanded_url": "https://twitter.com/i/web/status/852468649952550912",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 852462601980321800,
+      "in_reply_to_status_id_str": "852462601980321792",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 904657574,
+        "id_str": "904657574"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 13 10:30:05 +0000 2017",
+      "id": 852468930308395000,
+      "id_str": "852468930308395008",
+      "text": "@gdunderhood @SneakBug8 Твоя задача - заполнить пустующее пространство между точками информированными выборами и эм… https://t.co/3GtbFPJmcF",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "SneakBug8",
+            "name": "SneakBug8",
+            "id": 2751577358,
+            "id_str": "2751577358",
+            "indices": [
+              13,
+              23
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/3GtbFPJmcF",
+            "expanded_url": "https://twitter.com/i/web/status/852468930308395008",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 852468649952550900,
+      "in_reply_to_status_id_str": "852468649952550912",
+      "in_reply_to_user_id": 904657574,
+      "in_reply_to_user_id_str": "904657574",
+      "in_reply_to_screen_name": "retropcan",
+      "user": {
+        "id": 904657574,
+        "id_str": "904657574"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 13 10:48:06 +0000 2017",
+      "id": 852473462274895900,
+      "id_str": "852473462274895872",
+      "text": "@gdunderhood Ну работает же =3",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 852472635359469600,
+      "in_reply_to_status_id_str": "852472635359469570",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 2751577358,
+        "id_str": "2751577358"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
