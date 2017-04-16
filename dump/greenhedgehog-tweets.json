@@ -2036,6 +2036,930 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 13 12:42:37 +0000 2017",
+      "id": 852502283099267100,
+      "id_str": "852502283099267072",
+      "text": "@SneakBug8 Кто же спорит. Метод Монте-Карло тоже работает :) А это он по сути и есть.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SneakBug8",
+            "name": "SneakBug8",
+            "id": 2751577358,
+            "id_str": "2751577358",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 852473462274895900,
+      "in_reply_to_status_id_str": "852473462274895872",
+      "in_reply_to_user_id": 2751577358,
+      "in_reply_to_user_id_str": "2751577358",
+      "in_reply_to_screen_name": "SneakBug8",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 13 13:39:03 +0000 2017",
+      "id": 852516485067137000,
+      "id_str": "852516485067137025",
+      "text": "Продолжу тогда задавать вопросы читателям. Как вообще на вас влияет работа? Есть игры, в которых вы видите то, что не видят другие?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 13 13:39:14 +0000 2017",
+      "id": 852516528390123500,
+      "id_str": "852516528390123524",
+      "text": "Или детали, которые явно вводились для исправления ошибок и неудобств? Вроде сетей в «HayDay»?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 852516485067137000,
+      "in_reply_to_status_id_str": "852516485067137025",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 13 13:41:26 +0000 2017",
+      "id": 852517082667286500,
+      "id_str": "852517082667286528",
+      "text": "Ну и заодно, как это влияет на удовольствие от игры? Новые грани, новые детали или «а вокруг станки-станки».",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 852516528390123500,
+      "in_reply_to_status_id_str": "852516528390123524",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 13 14:27:20 +0000 2017",
+      "id": 852528636020314100,
+      "id_str": "852528636020314113",
+      "text": "@PRogozin Зато сразу видно новую нишу для журналистов: «Рецензии игр для разработчиков». И «о чем они думали, вводя эту фишку в игру.»",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "PRogozin",
+            "name": "Pavel Rogozin",
+            "id": 185922207,
+            "id_str": "185922207",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 852526600511991800,
+      "in_reply_to_status_id_str": "852526600511991808",
+      "in_reply_to_user_id": 185922207,
+      "in_reply_to_user_id_str": "185922207",
+      "in_reply_to_screen_name": "PRogozin",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 13 14:30:36 +0000 2017",
+      "id": 852529459215433700,
+      "id_str": "852529459215433729",
+      "text": "@shestovt Вот, кстати, да. У меня примерно тоже самое. Только появляется опасение в однобокости этого восприятия.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "shestovt",
+            "name": "Анатолий Шестов",
+            "id": 446838946,
+            "id_str": "446838946",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 852527483807301600,
+      "in_reply_to_status_id_str": "852527483807301632",
+      "in_reply_to_user_id": 446838946,
+      "in_reply_to_user_id_str": "446838946",
+      "in_reply_to_screen_name": "shestovt",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Apr 14 07:20:01 +0000 2017",
+      "id": 852783487379619800,
+      "id_str": "852783487379619841",
+      "text": "Пятницу я бы хотел посвятить теме «Время Первых». Нет, не фильму. А вещам, которые в играх появились раньше, чем многие думают.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Apr 14 07:23:57 +0000 2017",
+      "id": 852784477138960400,
+      "id_str": "852784477138960384",
+      "text": "Например: «Double Dragon 3» аркадный аппарат, на котором в 1990 году была реализована система (cont) https://t.co/FuKtOZG1U7",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/FuKtOZG1U7",
+            "expanded_url": "http://tl.gd/n_1sppnli",
+            "display_url": "tl.gd/n_1sppnli",
+            "indices": [
+              101,
+              124
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.twitlonger.com\" rel=\"nofollow\">Twitlonger</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Apr 14 07:50:15 +0000 2017",
+      "id": 852791095167639600,
+      "id_str": "852791095167639552",
+      "text": "@retropcan Да, мир тогда еще не был готов к системе доната, согласен.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "retropcan",
+            "name": "Svyatoslav Torick",
+            "id": 904657574,
+            "id_str": "904657574",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 852790147758252000,
+      "in_reply_to_status_id_str": "852790147758252032",
+      "in_reply_to_user_id": 904657574,
+      "in_reply_to_user_id_str": "904657574",
+      "in_reply_to_screen_name": "retropcan",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Apr 14 08:03:35 +0000 2017",
+      "id": 852794449893531600,
+      "id_str": "852794449893531648",
+      "text": "Игра «Maze Wars» считается одной из первых (если не самой первой) игрой в жанре FPS. Хотя по геймплею она (cont) https://t.co/oJX1Ik3m99",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/oJX1Ik3m99",
+            "expanded_url": "http://tl.gd/n_1sppnnt",
+            "display_url": "tl.gd/n_1sppnnt",
+            "indices": [
+              113,
+              136
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.twitlonger.com\" rel=\"nofollow\">Twitlonger</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Apr 14 08:28:10 +0000 2017",
+      "id": 852800634868736000,
+      "id_str": "852800634868736002",
+      "text": "Первая игра от «ID Software» - нелицензионный порт на PC игры «Super Mario Bros 3». Создана она была в 1990 (cont) https://t.co/Qq3h0WvfKa",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Qq3h0WvfKa",
+            "expanded_url": "http://tl.gd/n_1sppnon",
+            "display_url": "tl.gd/n_1sppnon",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.twitlonger.com\" rel=\"nofollow\">Twitlonger</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Apr 14 08:51:01 +0000 2017",
+      "id": 852806385867702300,
+      "id_str": "852806385867702272",
+      "text": "@retropcan Если не ошибаюсь, они её выпустили уже после того, как создали прототип скроллинга.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "retropcan",
+            "name": "Svyatoslav Torick",
+            "id": 904657574,
+            "id_str": "904657574",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 852802114036179000,
+      "in_reply_to_status_id_str": "852802114036178944",
+      "in_reply_to_user_id": 904657574,
+      "in_reply_to_user_id_str": "904657574",
+      "in_reply_to_screen_name": "retropcan",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Apr 14 08:58:40 +0000 2017",
+      "id": 852808311778951200,
+      "id_str": "852808311778951170",
+      "text": "@dmtrlbdv Похоже, что какие-то провайдеры до сих пор его не внесли в список разрешенных.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dmtrlbdv",
+            "name": "Dim ON",
+            "id": 200811057,
+            "id_str": "200811057",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 852801642646749200,
+      "in_reply_to_status_id_str": "852801642646749185",
+      "in_reply_to_user_id": 200811057,
+      "in_reply_to_user_id_str": "200811057",
+      "in_reply_to_screen_name": "dmtrlbdv",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Apr 14 10:29:41 +0000 2017",
+      "id": 852831218454282200,
+      "id_str": "852831218454282240",
+      "text": "А вот еще одна странная штука. Первая. И, пожалуй, единственная в своем роде. Приставка работающая на VHS (cont) https://t.co/9QsOS0Vmpk",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/9QsOS0Vmpk",
+            "expanded_url": "http://tl.gd/n_1sppntn",
+            "display_url": "tl.gd/n_1sppntn",
+            "indices": [
+              113,
+              136
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.twitlonger.com\" rel=\"nofollow\">Twitlonger</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Apr 14 10:40:38 +0000 2017",
+      "id": 852833973394735100,
+      "id_str": "852833973394735107",
+      "text": "@retropcan Ну да, первой игрой на этом движке был «Dangerous Dave in Copyright Infringement» как я и написал. Про CK я такого не говорил :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "retropcan",
+            "name": "Svyatoslav Torick",
+            "id": 904657574,
+            "id_str": "904657574",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 852832653099147300,
+      "in_reply_to_status_id_str": "852832653099147266",
+      "in_reply_to_user_id": 904657574,
+      "in_reply_to_user_id_str": "904657574",
+      "in_reply_to_screen_name": "retropcan",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Apr 14 10:44:13 +0000 2017",
+      "id": 852834875056848900,
+      "id_str": "852834875056848897",
+      "text": "@retropcan «Duck Hunt» еще. Кстати, это вообще была копия электромеханической игры «Nintendo».",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "retropcan",
+            "name": "Svyatoslav Torick",
+            "id": 904657574,
+            "id_str": "904657574",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 852832110972883000,
+      "in_reply_to_status_id_str": "852832110972882944",
+      "in_reply_to_user_id": 904657574,
+      "in_reply_to_user_id_str": "904657574",
+      "in_reply_to_screen_name": "retropcan",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Apr 14 10:46:49 +0000 2017",
+      "id": 852835527455719400,
+      "id_str": "852835527455719424",
+      "text": "@retropcan С такого ракурса - да, можно и так сказать.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "retropcan",
+            "name": "Svyatoslav Torick",
+            "id": 904657574,
+            "id_str": "904657574",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 852835040601886700,
+      "in_reply_to_status_id_str": "852835040601886721",
+      "in_reply_to_user_id": 904657574,
+      "in_reply_to_user_id_str": "904657574",
+      "in_reply_to_screen_name": "retropcan",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Apr 14 12:11:04 +0000 2017",
+      "id": 852856730140778500,
+      "id_str": "852856730140778496",
+      "text": "А вот еще одна забавная штука, которая могла бы кого-то сделать первым летсплеером. Если бы у этого кого-то (cont) https://t.co/dNkbzBO6Ty",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/dNkbzBO6Ty",
+            "expanded_url": "http://tl.gd/n_1sppo5a",
+            "display_url": "tl.gd/n_1sppo5a",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.twitlonger.com\" rel=\"nofollow\">Twitlonger</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Apr 14 13:20:37 +0000 2017",
+      "id": 852874235173384200,
+      "id_str": "852874235173384193",
+      "text": "В 1981 году уже можно было скачивать игры. Точнее, как скачать. Получить из неизвестности, как казалось (cont) https://t.co/qxekhQGPP8",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/qxekhQGPP8",
+            "expanded_url": "http://tl.gd/n_1sppo9f",
+            "display_url": "tl.gd/n_1sppo9f",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.twitlonger.com\" rel=\"nofollow\">Twitlonger</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Apr 14 14:24:07 +0000 2017",
+      "id": 852890213525459000,
+      "id_str": "852890213525458948",
+      "text": "В 1993 году для консоли Sega был создан контроллер для управления телом. Назвалась эта штука «Sega (cont) https://t.co/SedrokGyLS",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/SedrokGyLS",
+            "expanded_url": "http://tl.gd/n_1sppofn",
+            "display_url": "tl.gd/n_1sppofn",
+            "indices": [
+              106,
+              129
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.twitlonger.com\" rel=\"nofollow\">Twitlonger</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Apr 14 15:19:40 +0000 2017",
+      "id": 852904191601373200,
+      "id_str": "852904191601373190",
+      "text": "Ачивки, столь популярные в наши дни, появились аж в 1982 году. И возникли они в играх от фирмы «Activision». (cont) https://t.co/TTLwPk0fOZ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/TTLwPk0fOZ",
+            "expanded_url": "http://tl.gd/n_1sppot8",
+            "display_url": "tl.gd/n_1sppot8",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.twitlonger.com\" rel=\"nofollow\">Twitlonger</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Apr 15 08:58:57 +0000 2017",
+      "id": 853170771912478700,
+      "id_str": "853170771912478724",
+      "text": "Так, на выходных, пообщаться не получится. Поэтому, сразу рабочее место. Работаю я сейчас в основном из дома. Так ч… https://t.co/KXtkKOQmXi",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/KXtkKOQmXi",
+            "expanded_url": "https://twitter.com/i/web/status/853170771912478724",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
