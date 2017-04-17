@@ -2,7 +2,7 @@
 
 export default [
   // , post: false  
-  { username: 'greenhedgehog',  start: '10 Apr 2017', first: '851355614735454208', post: false   },
+  { username: 'greenhedgehog',  start: '10 Apr 2017', first: '851355614735454208' },
   { username: 'MattKempke',     start: '03 Apr 2017', first: '849627046103977986' },
   { username: 'AlphaChar',      start: '27 Mar 2017', first: '846256855336845312' },
   { username: 'CadmusRu',       start: '20 Mar 2017', first: '843748300633395200' },
