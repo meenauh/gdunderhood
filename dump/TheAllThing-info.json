@@ -37,76 +37,76 @@
     }
   },
   "protected": false,
-  "followers_count": 905,
+  "followers_count": 903,
   "friends_count": 40,
   "listed_count": 18,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 1244,
+  "favourites_count": 1247,
   "utc_offset": 3600,
   "time_zone": "Dublin",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 5930,
+  "statuses_count": 5986,
   "lang": "en",
   "status": {
-    "created_at": "Mon Apr 17 19:57:24 +0000 2017",
-    "id": 854061252376703000,
-    "id_str": "854061252376702981",
-    "text": "@EvanBalster @SoundSelf @TheAllThing Sooooooon",
+    "created_at": "Thu Apr 20 08:58:56 +0000 2017",
+    "id": 854982704508612600,
+    "id_str": "854982704508612608",
+    "text": ".@StoneLibrande Talk: https://t.co/MGB4FTEm4U\nSite: https://t.co/eoNkq6m5hw",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "EvanBalster",
-          "name": "Evan Balster",
-          "id": 47533454,
-          "id_str": "47533454",
+          "screen_name": "StoneLibrande",
+          "name": "Stone Librande",
+          "id": 1234784845,
+          "id_str": "1234784845",
           "indices": [
-            0,
-            12
-          ]
-        },
-        {
-          "screen_name": "SoundSelf",
-          "name": "SoundSelf",
-          "id": 1521216534,
-          "id_str": "1521216534",
-          "indices": [
-            13,
-            23
-          ]
-        },
-        {
-          "screen_name": "TheAllThing",
-          "name": "Owen Harris",
-          "id": 155277707,
-          "id_str": "155277707",
-          "indices": [
-            24,
-            36
+            1,
+            15
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/MGB4FTEm4U",
+          "expanded_url": "http://www.gdcvault.com/play/1015305/Designing-Games-for-Game",
+          "display_url": "gdcvault.com/play/1015305/D…",
+          "indices": [
+            22,
+            45
+          ]
+        },
+        {
+          "url": "https://t.co/eoNkq6m5hw",
+          "expanded_url": "http://www.stonetronix.com/",
+          "display_url": "stonetronix.com",
+          "indices": [
+            52,
+            75
+          ]
+        }
+      ]
     },
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 854059363597791200,
-    "in_reply_to_status_id_str": "854059363597791232",
-    "in_reply_to_user_id": 47533454,
-    "in_reply_to_user_id_str": "47533454",
-    "in_reply_to_screen_name": "EvanBalster",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 854982579656806400,
+    "in_reply_to_status_id_str": "854982579656806400",
+    "in_reply_to_user_id": 747371158832545800,
+    "in_reply_to_user_id_str": "747371158832545792",
+    "in_reply_to_screen_name": "gdunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "lang": "und"
+    "possibly_sensitive": false,
+    "lang": "en"
   },
   "contributors_enabled": false,
   "is_translator": false,
