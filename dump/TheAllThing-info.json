@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 903,
+  "followers_count": 902,
   "friends_count": 40,
   "listed_count": 18,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
@@ -46,53 +46,23 @@
   "time_zone": "Dublin",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 5986,
+  "statuses_count": 6004,
   "lang": "en",
   "status": {
-    "created_at": "Thu Apr 20 08:58:56 +0000 2017",
-    "id": 854982704508612600,
-    "id_str": "854982704508612608",
-    "text": ".@StoneLibrande Talk: https://t.co/MGB4FTEm4U\nSite: https://t.co/eoNkq6m5hw",
+    "created_at": "Fri Apr 21 14:44:45 +0000 2017",
+    "id": 855432120839397400,
+    "id_str": "855432120839397376",
+    "text": "I never spent a penny on it, and I had a great time running the events and seeing it grow",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "StoneLibrande",
-          "name": "Stone Librande",
-          "id": 1234784845,
-          "id_str": "1234784845",
-          "indices": [
-            1,
-            15
-          ]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/MGB4FTEm4U",
-          "expanded_url": "http://www.gdcvault.com/play/1015305/Designing-Games-for-Game",
-          "display_url": "gdcvault.com/play/1015305/D…",
-          "indices": [
-            22,
-            45
-          ]
-        },
-        {
-          "url": "https://t.co/eoNkq6m5hw",
-          "expanded_url": "http://www.stonetronix.com/",
-          "display_url": "stonetronix.com",
-          "indices": [
-            52,
-            75
-          ]
-        }
-      ]
+      "user_mentions": [],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 854982579656806400,
-    "in_reply_to_status_id_str": "854982579656806400",
+    "in_reply_to_status_id": 855431994167230500,
+    "in_reply_to_status_id_str": "855431994167230468",
     "in_reply_to_user_id": 747371158832545800,
     "in_reply_to_user_id_str": "747371158832545792",
     "in_reply_to_screen_name": "gdunderhood",
@@ -102,10 +72,9 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "en"
   },
   "contributors_enabled": false,
