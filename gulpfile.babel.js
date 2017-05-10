@@ -154,19 +154,6 @@ task('userpics', () =>
     .pipe(jimp({ resize: { width: 96, height: 96 }}))
     .pipe(dest('dist/images')));
 
-task('current-userpic', () =>
-  head(authors) && src(`dump/images/${head(authors).username}-image*`)
-    .pipe(jimp({ resize: { width: 192, height: 192 }}))
-    .pipe(rename('current-image'))
-    .pipe(dest('dist/images')));
-
-task('current-banner', () =>
-  head(authors) && src(`dump/images/${head(authors).username}-banner*`)
-    .pipe(rename('current-banner'))
-    .pipe(dest('dist/images')));
-
-task('current-media', ['current-userpic', 'current-banner']);
-
 task('css', () =>
   src('css/styles.css')
     .pipe(postcss([
@@ -203,7 +190,7 @@ task('server', () => {
 task('clean', done => rimraf('dist', done));
 
 task('html', ['stats', 'authors', 'index', 'rss', 'md-pages']);
-task('build', done => sequence( 'html', 'css', 'js', 'stats', 'static', 'userpics', 'current-media', done));
+task('build', done => sequence( 'html', 'css', 'js', 'stats', 'static', 'userpics', done));
 
 task('default', done => sequence('clean', 'watch', done));
 
