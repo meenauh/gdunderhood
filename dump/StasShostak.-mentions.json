@@ -8341,6 +8341,114 @@
       "favorited": true,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 14 13:55:36 +0000 2017",
+      "id": 863754674704453600,
+      "id_str": "863754674704453633",
+      "text": "@gdunderhood нет ну мы не просим статьи по 2 часа. а вот небольшие заметки как тут с комментами в самый раз. в твит… https://t.co/5kALr0hbej",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/5kALr0hbej",
+            "expanded_url": "https://twitter.com/i/web/status/863754674704453633",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 863743277643829200,
+      "in_reply_to_status_id_str": "863743277643829248",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 2385865873,
+        "id_str": "2385865873"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 14 13:57:14 +0000 2017",
+      "id": 863755083254820900,
+      "id_str": "863755083254820865",
+      "text": "@gdunderhood естественно это как вы пожелаете ( время все таки не резиновое), не настаиваем и так очень много полез… https://t.co/olWjScYH4q",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/olWjScYH4q",
+            "expanded_url": "https://twitter.com/i/web/status/863755083254820865",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 863743277643829200,
+      "in_reply_to_status_id_str": "863743277643829248",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 2385865873,
+        "id_str": "2385865873"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
