@@ -3,7 +3,7 @@
 export default [
   // , post: false
   { username: 'Die_With_Glory', start: '15 May 2017', first: '864087225264472064', post: false },
-  { username: 'StasShostak',    start: '08 May 2017', first: '861495417594413056' },
+  { username: 'StasShostak.',   start: '08 May 2017', first: '861495417594413056' },
   { username: 'diforus',        start: '01 May 2017', first: '858929636729733120' },
   { username: 'iluf1',          start: '24 Apr 2017', first: '856403571121635328' },
   { username: 'TheAllThing',    start: '17 Apr 2017', first: '853893175517249536' },
