@@ -26,40 +26,108 @@
     }
   },
   "protected": false,
-  "followers_count": 1018,
+  "followers_count": 1017,
   "friends_count": 44,
   "listed_count": 19,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 1351,
+  "favourites_count": 1360,
   "utc_offset": 14400,
   "time_zone": "Baku",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 6670,
+  "statuses_count": 6711,
   "lang": "ru",
   "status": {
-    "created_at": "Mon May 15 18:21:22 +0000 2017",
-    "id": 864183941787529200,
-    "id_str": "864183941787529216",
-    "text": "Про разнообразие декораций не спорю, но они должны быть детализированы и взаимосвязаны. https://t.co/ijxR5Wcp0d",
+    "created_at": "Wed May 17 08:20:59 +0000 2017",
+    "id": 864757626852311000,
+    "id_str": "864757626852311041",
+    "text": "Такой вот в Самаре аэропорт :) https://t.co/j2HhbbmgUP",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/ijxR5Wcp0d",
-          "expanded_url": "https://twitter.com/CadmusRu/status/864183405126311936",
-          "display_url": "twitter.com/CadmusRu/statu…",
+          "id": 864757615233990700,
+          "id_str": "864757615233990656",
           "indices": [
-            88,
-            111
-          ]
+            31,
+            54
+          ],
+          "media_url": "http://pbs.twimg.com/media/DAA8eCjWAAA47xX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DAA8eCjWAAA47xX.jpg",
+          "url": "https://t.co/j2HhbbmgUP",
+          "display_url": "pic.twitter.com/j2HhbbmgUP",
+          "expanded_url": "https://twitter.com/gdunderhood/status/864757626852311041/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "extended_entities": {
+      "media": [
+        {
+          "id": 864757615233990700,
+          "id_str": "864757615233990656",
+          "indices": [
+            31,
+            54
+          ],
+          "media_url": "http://pbs.twimg.com/media/DAA8eCjWAAA47xX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DAA8eCjWAAA47xX.jpg",
+          "url": "https://t.co/j2HhbbmgUP",
+          "display_url": "pic.twitter.com/j2HhbbmgUP",
+          "expanded_url": "https://twitter.com/gdunderhood/status/864757626852311041/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -69,9 +137,7 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 864183405126312000,
-    "quoted_status_id_str": "864183405126311936",
+    "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
