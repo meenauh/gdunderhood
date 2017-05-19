@@ -26,67 +26,65 @@
     }
   },
   "protected": false,
-  "followers_count": 1019,
+  "followers_count": 1023,
   "friends_count": 44,
   "listed_count": 20,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 1365,
+  "favourites_count": 1367,
   "utc_offset": 14400,
   "time_zone": "Baku",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 6736,
+  "statuses_count": 6756,
   "lang": "ru",
   "status": {
-    "created_at": "Thu May 18 15:39:08 +0000 2017",
-    "id": 865230278767390700,
-    "id_str": "865230278767390721",
-    "text": "RT @vedmich: Смазанное, но очень опасное и слегка тизерное селфи с @VKSpaz https://t.co/tT90x8sm4e",
+    "created_at": "Fri May 19 20:50:32 +0000 2017",
+    "id": 865671035072520200,
+    "id_str": "865671035072520192",
+    "text": "RT @kuzmitch_ru: У меня просто нет во меня объяснять это #DevGAMM https://t.co/zDKYeNovFH",
     "truncated": false,
     "entities": {
-      "hashtags": [],
+      "hashtags": [
+        {
+          "text": "DevGAMM",
+          "indices": [
+            57,
+            65
+          ]
+        }
+      ],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "vedmich",
-          "name": "M475uk4z3",
-          "id": 56080508,
-          "id_str": "56080508",
+          "screen_name": "kuzmitch_ru",
+          "name": "Michael Kuzmin",
+          "id": 70695059,
+          "id_str": "70695059",
           "indices": [
             3,
-            11
-          ]
-        },
-        {
-          "screen_name": "VKSpaz",
-          "name": "Vladimir Kovtun",
-          "id": 127288264,
-          "id_str": "127288264",
-          "indices": [
-            67,
-            74
+            15
           ]
         }
       ],
       "urls": [],
       "media": [
         {
-          "id": 865230049045340200,
-          "id_str": "865230049045340161",
+          "id": 865607645310353400,
+          "id_str": "865607645310353410",
           "indices": [
-            75,
-            98
+            66,
+            89
           ],
-          "media_url": "http://pbs.twimg.com/media/DAHqJTpXYAEN7wN.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/DAHqJTpXYAEN7wN.jpg",
-          "url": "https://t.co/tT90x8sm4e",
-          "display_url": "pic.twitter.com/tT90x8sm4e",
-          "expanded_url": "https://twitter.com/vedmich/status/865230058948001792/photo/1",
+          "media_url": "http://pbs.twimg.com/media/DANBkTWWAAINjEd.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DANBkTWWAAINjEd.jpg",
+          "url": "https://t.co/zDKYeNovFH",
+          "display_url": "pic.twitter.com/zDKYeNovFH",
+          "expanded_url": "https://twitter.com/kuzmitch_ru/status/865607657989836800/photo/1",
           "type": "photo",
           "sizes": {
-            "large": {
-              "w": 960,
-              "h": 1280,
+            "medium": {
+              "w": 1200,
+              "h": 900,
               "resize": "fit"
             },
             "thumb": {
@@ -94,43 +92,43 @@
               "h": 150,
               "resize": "crop"
             },
-            "small": {
-              "w": 510,
-              "h": 680,
+            "large": {
+              "w": 1280,
+              "h": 960,
               "resize": "fit"
             },
-            "medium": {
-              "w": 900,
-              "h": 1200,
+            "small": {
+              "w": 680,
+              "h": 510,
               "resize": "fit"
             }
           },
-          "source_status_id": 865230058948001800,
-          "source_status_id_str": "865230058948001792",
-          "source_user_id": 56080508,
-          "source_user_id_str": "56080508"
+          "source_status_id": 865607657989836800,
+          "source_status_id_str": "865607657989836800",
+          "source_user_id": 70695059,
+          "source_user_id_str": "70695059"
         }
       ]
     },
     "extended_entities": {
       "media": [
         {
-          "id": 865230049045340200,
-          "id_str": "865230049045340161",
+          "id": 865607645310353400,
+          "id_str": "865607645310353410",
           "indices": [
-            75,
-            98
+            66,
+            89
           ],
-          "media_url": "http://pbs.twimg.com/media/DAHqJTpXYAEN7wN.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/DAHqJTpXYAEN7wN.jpg",
-          "url": "https://t.co/tT90x8sm4e",
-          "display_url": "pic.twitter.com/tT90x8sm4e",
-          "expanded_url": "https://twitter.com/vedmich/status/865230058948001792/photo/1",
+          "media_url": "http://pbs.twimg.com/media/DANBkTWWAAINjEd.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DANBkTWWAAINjEd.jpg",
+          "url": "https://t.co/zDKYeNovFH",
+          "display_url": "pic.twitter.com/zDKYeNovFH",
+          "expanded_url": "https://twitter.com/kuzmitch_ru/status/865607657989836800/photo/1",
           "type": "photo",
           "sizes": {
-            "large": {
-              "w": 960,
-              "h": 1280,
+            "medium": {
+              "w": 1200,
+              "h": 900,
               "resize": "fit"
             },
             "thumb": {
@@ -138,21 +136,101 @@
               "h": 150,
               "resize": "crop"
             },
-            "small": {
-              "w": 510,
-              "h": 680,
+            "large": {
+              "w": 1280,
+              "h": 960,
               "resize": "fit"
             },
-            "medium": {
-              "w": 900,
-              "h": 1200,
+            "small": {
+              "w": 680,
+              "h": 510,
               "resize": "fit"
             }
           },
-          "source_status_id": 865230058948001800,
-          "source_status_id_str": "865230058948001792",
-          "source_user_id": 56080508,
-          "source_user_id_str": "56080508"
+          "source_status_id": 865607657989836800,
+          "source_status_id_str": "865607657989836800",
+          "source_user_id": 70695059,
+          "source_user_id_str": "70695059"
+        },
+        {
+          "id": 865607645427753000,
+          "id_str": "865607645427752960",
+          "indices": [
+            66,
+            89
+          ],
+          "media_url": "http://pbs.twimg.com/media/DANBkTyVYAAljxI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DANBkTyVYAAljxI.jpg",
+          "url": "https://t.co/zDKYeNovFH",
+          "display_url": "pic.twitter.com/zDKYeNovFH",
+          "expanded_url": "https://twitter.com/kuzmitch_ru/status/865607657989836800/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 865607657989836800,
+          "source_status_id_str": "865607657989836800",
+          "source_user_id": 70695059,
+          "source_user_id_str": "70695059"
+        },
+        {
+          "id": 865607645318844400,
+          "id_str": "865607645318844416",
+          "indices": [
+            66,
+            89
+          ],
+          "media_url": "http://pbs.twimg.com/media/DANBkTYXkAAvqPR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DANBkTYXkAAvqPR.jpg",
+          "url": "https://t.co/zDKYeNovFH",
+          "display_url": "pic.twitter.com/zDKYeNovFH",
+          "expanded_url": "https://twitter.com/kuzmitch_ru/status/865607657989836800/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 901,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 511,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1538,
+              "h": 2048,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 865607657989836800,
+          "source_status_id_str": "865607657989836800",
+          "source_user_id": 70695059,
+          "source_user_id_str": "70695059"
         }
       ]
     },
@@ -167,45 +245,42 @@
     "place": null,
     "contributors": null,
     "retweeted_status": {
-      "created_at": "Thu May 18 15:38:15 +0000 2017",
-      "id": 865230058948001800,
-      "id_str": "865230058948001792",
-      "text": "Смазанное, но очень опасное и слегка тизерное селфи с @VKSpaz https://t.co/tT90x8sm4e",
+      "created_at": "Fri May 19 16:38:42 +0000 2017",
+      "id": 865607657989836800,
+      "id_str": "865607657989836800",
+      "text": "У меня просто нет во меня объяснять это #DevGAMM https://t.co/zDKYeNovFH",
       "truncated": false,
       "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
+        "hashtags": [
           {
-            "screen_name": "VKSpaz",
-            "name": "Vladimir Kovtun",
-            "id": 127288264,
-            "id_str": "127288264",
+            "text": "DevGAMM",
             "indices": [
-              54,
-              61
+              40,
+              48
             ]
           }
         ],
+        "symbols": [],
+        "user_mentions": [],
         "urls": [],
         "media": [
           {
-            "id": 865230049045340200,
-            "id_str": "865230049045340161",
+            "id": 865607645310353400,
+            "id_str": "865607645310353410",
             "indices": [
-              62,
-              85
+              49,
+              72
             ],
-            "media_url": "http://pbs.twimg.com/media/DAHqJTpXYAEN7wN.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DAHqJTpXYAEN7wN.jpg",
-            "url": "https://t.co/tT90x8sm4e",
-            "display_url": "pic.twitter.com/tT90x8sm4e",
-            "expanded_url": "https://twitter.com/vedmich/status/865230058948001792/photo/1",
+            "media_url": "http://pbs.twimg.com/media/DANBkTWWAAINjEd.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DANBkTWWAAINjEd.jpg",
+            "url": "https://t.co/zDKYeNovFH",
+            "display_url": "pic.twitter.com/zDKYeNovFH",
+            "expanded_url": "https://twitter.com/kuzmitch_ru/status/865607657989836800/photo/1",
             "type": "photo",
             "sizes": {
-              "large": {
-                "w": 960,
-                "h": 1280,
+              "medium": {
+                "w": 1200,
+                "h": 900,
                 "resize": "fit"
               },
               "thumb": {
@@ -213,14 +288,14 @@
                 "h": 150,
                 "resize": "crop"
               },
-              "small": {
-                "w": 510,
-                "h": 680,
+              "large": {
+                "w": 1280,
+                "h": 960,
                 "resize": "fit"
               },
-              "medium": {
-                "w": 900,
-                "h": 1200,
+              "small": {
+                "w": 680,
+                "h": 510,
                 "resize": "fit"
               }
             }
@@ -230,22 +305,22 @@
       "extended_entities": {
         "media": [
           {
-            "id": 865230049045340200,
-            "id_str": "865230049045340161",
+            "id": 865607645310353400,
+            "id_str": "865607645310353410",
             "indices": [
-              62,
-              85
+              49,
+              72
             ],
-            "media_url": "http://pbs.twimg.com/media/DAHqJTpXYAEN7wN.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DAHqJTpXYAEN7wN.jpg",
-            "url": "https://t.co/tT90x8sm4e",
-            "display_url": "pic.twitter.com/tT90x8sm4e",
-            "expanded_url": "https://twitter.com/vedmich/status/865230058948001792/photo/1",
+            "media_url": "http://pbs.twimg.com/media/DANBkTWWAAINjEd.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DANBkTWWAAINjEd.jpg",
+            "url": "https://t.co/zDKYeNovFH",
+            "display_url": "pic.twitter.com/zDKYeNovFH",
+            "expanded_url": "https://twitter.com/kuzmitch_ru/status/865607657989836800/photo/1",
             "type": "photo",
             "sizes": {
-              "large": {
-                "w": 960,
-                "h": 1280,
+              "medium": {
+                "w": 1200,
+                "h": 900,
                 "resize": "fit"
               },
               "thumb": {
@@ -253,14 +328,86 @@
                 "h": 150,
                 "resize": "crop"
               },
+              "large": {
+                "w": 1280,
+                "h": 960,
+                "resize": "fit"
+              },
               "small": {
-                "w": 510,
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 865607645427753000,
+            "id_str": "865607645427752960",
+            "indices": [
+              49,
+              72
+            ],
+            "media_url": "http://pbs.twimg.com/media/DANBkTyVYAAljxI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DANBkTyVYAAljxI.jpg",
+            "url": "https://t.co/zDKYeNovFH",
+            "display_url": "pic.twitter.com/zDKYeNovFH",
+            "expanded_url": "https://twitter.com/kuzmitch_ru/status/865607657989836800/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 865607645318844400,
+            "id_str": "865607645318844416",
+            "indices": [
+              49,
+              72
+            ],
+            "media_url": "http://pbs.twimg.com/media/DANBkTYXkAAvqPR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DANBkTYXkAAvqPR.jpg",
+            "url": "https://t.co/zDKYeNovFH",
+            "display_url": "pic.twitter.com/zDKYeNovFH",
+            "expanded_url": "https://twitter.com/kuzmitch_ru/status/865607657989836800/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 901,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 511,
                 "h": 680,
                 "resize": "fit"
               },
-              "medium": {
-                "w": 900,
-                "h": 1200,
+              "large": {
+                "w": 1538,
+                "h": 2048,
                 "resize": "fit"
               }
             }
@@ -278,15 +425,15 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 3,
+      "retweet_count": 13,
+      "favorite_count": 33,
       "favorited": false,
       "retweeted": true,
       "possibly_sensitive": false,
       "lang": "ru"
     },
     "is_quote_status": false,
-    "retweet_count": 1,
+    "retweet_count": 13,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": true,
