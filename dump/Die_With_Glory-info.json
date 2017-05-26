@@ -3,9 +3,9 @@
   "id_str": "747371158832545792",
   "name": "Гейм-дизайнер",
   "screen_name": "gdunderhood",
-  "location": "Самара, Россия",
+  "location": "Харьков, Украина",
   "profile_location": null,
-  "description": "Коллективный твиттер-аккаунт для гейм-дизайнеров всех мастей: от балансеров до нарративщиков. Новый автор каждую неделю. На этой неделе – @Die_With_Glory.",
+  "description": "Коллективный твиттер-аккаунт для гейм-дизайнеров всех мастей: от балансеров до нарративщиков. Новый автор каждую неделю. На этой неделе – @Katsushir0.",
   "url": "https://t.co/lIo0mtT2X0",
   "entities": {
     "url": {
@@ -26,215 +26,51 @@
     }
   },
   "protected": false,
-  "followers_count": 1023,
+  "followers_count": 1017,
   "friends_count": 44,
   "listed_count": 20,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 1367,
-  "utc_offset": 14400,
-  "time_zone": "Baku",
+  "favourites_count": 1439,
+  "utc_offset": 10800,
+  "time_zone": "Kiev",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 6756,
+  "statuses_count": 7053,
   "lang": "ru",
   "status": {
-    "created_at": "Fri May 19 20:50:32 +0000 2017",
-    "id": 865671035072520200,
-    "id_str": "865671035072520192",
-    "text": "RT @kuzmitch_ru: У меня просто нет во меня объяснять это #DevGAMM https://t.co/zDKYeNovFH",
+    "created_at": "Fri May 26 16:09:46 +0000 2017",
+    "id": 868137092769083400,
+    "id_str": "868137092769083392",
+    "text": "Приятно знать, что не зря старался. Спасибо за активность ;) @HarryDemch https://t.co/5GvQg9PfFK",
     "truncated": false,
     "entities": {
-      "hashtags": [
-        {
-          "text": "DevGAMM",
-          "indices": [
-            57,
-            65
-          ]
-        }
-      ],
+      "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "kuzmitch_ru",
-          "name": "Michael Kuzmin",
-          "id": 70695059,
-          "id_str": "70695059",
+          "screen_name": "HarryDemch",
+          "name": "Harry Demch",
+          "id": 3145130794,
+          "id_str": "3145130794",
           "indices": [
-            3,
-            15
+            61,
+            72
           ]
         }
       ],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 865607645310353400,
-          "id_str": "865607645310353410",
+          "url": "https://t.co/5GvQg9PfFK",
+          "expanded_url": "https://twitter.com/HarryDemch/status/868133366109020161",
+          "display_url": "twitter.com/HarryDemch/sta…",
           "indices": [
-            66,
-            89
-          ],
-          "media_url": "http://pbs.twimg.com/media/DANBkTWWAAINjEd.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/DANBkTWWAAINjEd.jpg",
-          "url": "https://t.co/zDKYeNovFH",
-          "display_url": "pic.twitter.com/zDKYeNovFH",
-          "expanded_url": "https://twitter.com/kuzmitch_ru/status/865607657989836800/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 1200,
-              "h": 900,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1280,
-              "h": 960,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 510,
-              "resize": "fit"
-            }
-          },
-          "source_status_id": 865607657989836800,
-          "source_status_id_str": "865607657989836800",
-          "source_user_id": 70695059,
-          "source_user_id_str": "70695059"
+            73,
+            96
+          ]
         }
       ]
     },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 865607645310353400,
-          "id_str": "865607645310353410",
-          "indices": [
-            66,
-            89
-          ],
-          "media_url": "http://pbs.twimg.com/media/DANBkTWWAAINjEd.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/DANBkTWWAAINjEd.jpg",
-          "url": "https://t.co/zDKYeNovFH",
-          "display_url": "pic.twitter.com/zDKYeNovFH",
-          "expanded_url": "https://twitter.com/kuzmitch_ru/status/865607657989836800/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 1200,
-              "h": 900,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1280,
-              "h": 960,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 510,
-              "resize": "fit"
-            }
-          },
-          "source_status_id": 865607657989836800,
-          "source_status_id_str": "865607657989836800",
-          "source_user_id": 70695059,
-          "source_user_id_str": "70695059"
-        },
-        {
-          "id": 865607645427753000,
-          "id_str": "865607645427752960",
-          "indices": [
-            66,
-            89
-          ],
-          "media_url": "http://pbs.twimg.com/media/DANBkTyVYAAljxI.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/DANBkTyVYAAljxI.jpg",
-          "url": "https://t.co/zDKYeNovFH",
-          "display_url": "pic.twitter.com/zDKYeNovFH",
-          "expanded_url": "https://twitter.com/kuzmitch_ru/status/865607657989836800/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 1200,
-              "h": 675,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 383,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1280,
-              "h": 720,
-              "resize": "fit"
-            }
-          },
-          "source_status_id": 865607657989836800,
-          "source_status_id_str": "865607657989836800",
-          "source_user_id": 70695059,
-          "source_user_id_str": "70695059"
-        },
-        {
-          "id": 865607645318844400,
-          "id_str": "865607645318844416",
-          "indices": [
-            66,
-            89
-          ],
-          "media_url": "http://pbs.twimg.com/media/DANBkTYXkAAvqPR.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/DANBkTYXkAAvqPR.jpg",
-          "url": "https://t.co/zDKYeNovFH",
-          "display_url": "pic.twitter.com/zDKYeNovFH",
-          "expanded_url": "https://twitter.com/kuzmitch_ru/status/865607657989836800/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 901,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 511,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1538,
-              "h": 2048,
-              "resize": "fit"
-            }
-          },
-          "source_status_id": 865607657989836800,
-          "source_status_id_str": "865607657989836800",
-          "source_user_id": 70695059,
-          "source_user_id_str": "70695059"
-        }
-      ]
-    },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -244,199 +80,13 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Fri May 19 16:38:42 +0000 2017",
-      "id": 865607657989836800,
-      "id_str": "865607657989836800",
-      "text": "У меня просто нет во меня объяснять это #DevGAMM https://t.co/zDKYeNovFH",
-      "truncated": false,
-      "entities": {
-        "hashtags": [
-          {
-            "text": "DevGAMM",
-            "indices": [
-              40,
-              48
-            ]
-          }
-        ],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [],
-        "media": [
-          {
-            "id": 865607645310353400,
-            "id_str": "865607645310353410",
-            "indices": [
-              49,
-              72
-            ],
-            "media_url": "http://pbs.twimg.com/media/DANBkTWWAAINjEd.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DANBkTWWAAINjEd.jpg",
-            "url": "https://t.co/zDKYeNovFH",
-            "display_url": "pic.twitter.com/zDKYeNovFH",
-            "expanded_url": "https://twitter.com/kuzmitch_ru/status/865607657989836800/photo/1",
-            "type": "photo",
-            "sizes": {
-              "medium": {
-                "w": 1200,
-                "h": 900,
-                "resize": "fit"
-              },
-              "thumb": {
-                "w": 150,
-                "h": 150,
-                "resize": "crop"
-              },
-              "large": {
-                "w": 1280,
-                "h": 960,
-                "resize": "fit"
-              },
-              "small": {
-                "w": 680,
-                "h": 510,
-                "resize": "fit"
-              }
-            }
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "id": 865607645310353400,
-            "id_str": "865607645310353410",
-            "indices": [
-              49,
-              72
-            ],
-            "media_url": "http://pbs.twimg.com/media/DANBkTWWAAINjEd.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DANBkTWWAAINjEd.jpg",
-            "url": "https://t.co/zDKYeNovFH",
-            "display_url": "pic.twitter.com/zDKYeNovFH",
-            "expanded_url": "https://twitter.com/kuzmitch_ru/status/865607657989836800/photo/1",
-            "type": "photo",
-            "sizes": {
-              "medium": {
-                "w": 1200,
-                "h": 900,
-                "resize": "fit"
-              },
-              "thumb": {
-                "w": 150,
-                "h": 150,
-                "resize": "crop"
-              },
-              "large": {
-                "w": 1280,
-                "h": 960,
-                "resize": "fit"
-              },
-              "small": {
-                "w": 680,
-                "h": 510,
-                "resize": "fit"
-              }
-            }
-          },
-          {
-            "id": 865607645427753000,
-            "id_str": "865607645427752960",
-            "indices": [
-              49,
-              72
-            ],
-            "media_url": "http://pbs.twimg.com/media/DANBkTyVYAAljxI.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DANBkTyVYAAljxI.jpg",
-            "url": "https://t.co/zDKYeNovFH",
-            "display_url": "pic.twitter.com/zDKYeNovFH",
-            "expanded_url": "https://twitter.com/kuzmitch_ru/status/865607657989836800/photo/1",
-            "type": "photo",
-            "sizes": {
-              "medium": {
-                "w": 1200,
-                "h": 675,
-                "resize": "fit"
-              },
-              "small": {
-                "w": 680,
-                "h": 383,
-                "resize": "fit"
-              },
-              "thumb": {
-                "w": 150,
-                "h": 150,
-                "resize": "crop"
-              },
-              "large": {
-                "w": 1280,
-                "h": 720,
-                "resize": "fit"
-              }
-            }
-          },
-          {
-            "id": 865607645318844400,
-            "id_str": "865607645318844416",
-            "indices": [
-              49,
-              72
-            ],
-            "media_url": "http://pbs.twimg.com/media/DANBkTYXkAAvqPR.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/DANBkTYXkAAvqPR.jpg",
-            "url": "https://t.co/zDKYeNovFH",
-            "display_url": "pic.twitter.com/zDKYeNovFH",
-            "expanded_url": "https://twitter.com/kuzmitch_ru/status/865607657989836800/photo/1",
-            "type": "photo",
-            "sizes": {
-              "thumb": {
-                "w": 150,
-                "h": 150,
-                "resize": "crop"
-              },
-              "medium": {
-                "w": 901,
-                "h": 1200,
-                "resize": "fit"
-              },
-              "small": {
-                "w": 511,
-                "h": 680,
-                "resize": "fit"
-              },
-              "large": {
-                "w": 1538,
-                "h": 2048,
-                "resize": "fit"
-              }
-            }
-          }
-        ]
-      },
-      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 13,
-      "favorite_count": 33,
-      "favorited": false,
-      "retweeted": true,
-      "possibly_sensitive": false,
-      "lang": "ru"
-    },
-    "is_quote_status": false,
-    "retweet_count": 13,
+    "is_quote_status": true,
+    "quoted_status_id": 868133366109020200,
+    "quoted_status_id_str": "868133366109020161",
+    "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": true,
+    "retweeted": false,
     "possibly_sensitive": false,
     "lang": "ru"
   },
@@ -447,9 +97,9 @@
   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/864082896591749120/Cpab0Ht__normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/864082896591749120/Cpab0Ht__normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/747371158832545792/1494848418",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/866586316003319808/Gwzc7f-f_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/866586316003319808/Gwzc7f-f_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/747371158832545792/1495445589",
   "profile_link_color": "1B95E0",
   "profile_sidebar_border_color": "000000",
   "profile_sidebar_fill_color": "000000",
