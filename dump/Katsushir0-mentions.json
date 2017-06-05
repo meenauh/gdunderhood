@@ -6684,50 +6684,6 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
-    },
-    {
-      "created_at": "Mon May 29 12:49:46 +0000 2017",
-      "id": 869173923602190300,
-      "id_str": "869173923602190336",
-      "text": "@gdunderhood Мне нравится та команда поддержки справа ))",
-      "truncated": false,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "gdunderhood",
-            "name": "Гейм-дизайнер",
-            "id": 747371158832545800,
-            "id_str": "747371158832545792",
-            "indices": [
-              0,
-              12
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "in_reply_to_status_id": 868851538101272600,
-      "in_reply_to_status_id_str": "868851538101272576",
-      "in_reply_to_user_id": 747371158832545800,
-      "in_reply_to_user_id_str": "747371158832545792",
-      "in_reply_to_screen_name": "gdunderhood",
-      "user": {
-        "id": 345834192,
-        "id_str": "345834192"
-      },
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 0,
-      "favorite_count": 0,
-      "favorited": false,
-      "retweeted": false,
-      "lang": "ru"
     }
   ]
 }
