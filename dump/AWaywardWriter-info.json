@@ -1,0 +1,183 @@
+{
+  "id": 747371158832545800,
+  "id_str": "747371158832545792",
+  "name": "Гейм-дизайнер",
+  "screen_name": "gdunderhood",
+  "location": "Санкт-Петербург, Россия",
+  "profile_location": {
+    "id": "a76c0cd7d56c4836",
+    "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
+    "place_type": "unknown",
+    "name": "Санкт-Петербург, Россия",
+    "full_name": "Санкт-Петербург, Россия",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
+  "description": "Коллективный твиттер-аккаунт для гейм-дизайнеров всех мастей: от балансеров до нарративщиков. Новый автор каждую неделю. На этой неделе – @AWaywardWriter",
+  "url": "https://t.co/lIo0mtT2X0",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/lIo0mtT2X0",
+          "expanded_url": "http://gdunderhood.ru/",
+          "display_url": "gdunderhood.ru",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "protected": false,
+  "followers_count": 1018,
+  "friends_count": 44,
+  "listed_count": 20,
+  "created_at": "Mon Jun 27 10:09:04 +0000 2016",
+  "favourites_count": 1455,
+  "utc_offset": 10800,
+  "time_zone": "St. Petersburg",
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 7233,
+  "lang": "ru",
+  "status": {
+    "created_at": "Mon Jun 05 18:50:07 +0000 2017",
+    "id": 871801323884294100,
+    "id_str": "871801323884294146",
+    "text": "К сожалению мы все не адекватные. Завтра постараюсь помочь разобраться в этом. https://t.co/PPwc1qedM4",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 871801163347374100,
+          "id_str": "871801163347374081",
+          "indices": [
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/media/DBlCigAXsAE68ET.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DBlCigAXsAE68ET.jpg",
+          "url": "https://t.co/PPwc1qedM4",
+          "display_url": "pic.twitter.com/PPwc1qedM4",
+          "expanded_url": "https://twitter.com/gdunderhood/status/871801323884294146/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 850,
+              "h": 400,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 320,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 850,
+              "h": 400,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 871801163347374100,
+          "id_str": "871801163347374081",
+          "indices": [
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/media/DBlCigAXsAE68ET.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DBlCigAXsAE68ET.jpg",
+          "url": "https://t.co/PPwc1qedM4",
+          "display_url": "pic.twitter.com/PPwc1qedM4",
+          "expanded_url": "https://twitter.com/gdunderhood/status/871801323884294146/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 850,
+              "h": 400,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 320,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 850,
+              "h": 400,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 871801093155631100,
+    "in_reply_to_status_id_str": "871801093155631104",
+    "in_reply_to_user_id": 747371158832545800,
+    "in_reply_to_user_id_str": "747371158832545792",
+    "in_reply_to_screen_name": "gdunderhood",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ru"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/871647358576185344/50m8dMG4_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/871647358576185344/50m8dMG4_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/747371158832545792/1496657929",
+  "profile_link_color": "1B95E0",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "000000",
+  "profile_text_color": "000000",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none",
+  "suspended": false,
+  "needs_phone_verification": false
+}
