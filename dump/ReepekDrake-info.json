@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 1032,
+  "followers_count": 1038,
   "friends_count": 46,
   "listed_count": 19,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
@@ -46,19 +46,29 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 7793,
+  "statuses_count": 7831,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Jun 23 07:29:21 +0000 2017",
-    "id": 878152984307179500,
-    "id_str": "878152984307179521",
-    "text": "..то можно смело выкидывать ее в помойку, она никому больше не нужна.",
+    "created_at": "Fri Jun 23 20:02:16 +0000 2017",
+    "id": 878342463735214100,
+    "id_str": "878342463735214080",
+    "text": "Сложно и долго и дорого :) Хотя конечно и на такой контент можно найти любителя. https://t.co/Mt5MCpw9GP",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/Mt5MCpw9GP",
+          "expanded_url": "https://twitter.com/adasoft/status/878324559811796992",
+          "display_url": "twitter.com/adasoft/status…",
+          "indices": [
+            81,
+            104
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -70,11 +80,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 878324559811797000,
+    "quoted_status_id_str": "878324559811796992",
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
