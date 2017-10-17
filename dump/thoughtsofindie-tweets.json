@@ -1173,6 +1173,3137 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 12:14:30 +0000 2017",
+      "id": 919899348430975000,
+      "id_str": "919899348430974977",
+      "text": "Около 10 долларов в месяц - приватный репозиторий на гитхабе. Без бэкапов - никуда.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 919898807701332000,
+      "in_reply_to_status_id_str": "919898807701331968",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 12:15:54 +0000 2017",
+      "id": 919899700022693900,
+      "id_str": "919899700022693889",
+      "text": "Недавно я потерял код андроид-порта TribalPass, потому что поленился вынести его в отдельную ветку и решил что и так сойдет. НЕ СОШЛО",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 919899348430975000,
+      "in_reply_to_status_id_str": "919899348430974977",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 12:17:25 +0000 2017",
+      "id": 919900082312482800,
+      "id_str": "919900082312482818",
+      "text": "И самая свежая статья расходов - 150 долларов на keymailer, чтобы самовольно слать ключи ютуберам, которые never asked for this.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 919899700022693900,
+      "in_reply_to_status_id_str": "919899700022693889",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 12:18:30 +0000 2017",
+      "id": 919900355139457000,
+      "id_str": "919900355139457024",
+      "text": "Моя управленческая отчетность выглядит так (картинка в следующем твите): https://t.co/ryQ6UVq0yV",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ryQ6UVq0yV",
+            "expanded_url": "https://twitter.com/DmitriyFourier/status/919899482837454849",
+            "display_url": "twitter.com/DmitriyFourier…",
+            "indices": [
+              73,
+              96
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 919899482837454800,
+      "quoted_status_id_str": "919899482837454849",
+      "quoted_status": {
+        "created_at": "Mon Oct 16 12:15:02 +0000 2017",
+        "id": 919899482837454800,
+        "id_str": "919899482837454849",
+        "text": "@gdunderhood А есть где-то образцы управленческой отчётности. Очень интересно как в инди выглядят Ддс, pnl и баланс.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 919891953592029200,
+        "in_reply_to_status_id_str": "919891953592029184",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 3091304579,
+          "id_str": "3091304579"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 12:18:45 +0000 2017",
+      "id": 919900417940746200,
+      "id_str": "919900417940746240",
+      "text": "https://t.co/XgWOg0Jp98",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 919900402564452400,
+            "id_str": "919900402564452352",
+            "indices": [
+              0,
+              23
+            ],
+            "media_url": "http://pbs.twimg.com/media/DMQkitOX0AAo2FY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DMQkitOX0AAo2FY.jpg",
+            "url": "https://t.co/XgWOg0Jp98",
+            "display_url": "pic.twitter.com/XgWOg0Jp98",
+            "expanded_url": "https://twitter.com/gdunderhood/status/919900417940746240/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 864,
+                "h": 197,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 864,
+                "h": 197,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 155,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 919900402564452400,
+            "id_str": "919900402564452352",
+            "indices": [
+              0,
+              23
+            ],
+            "media_url": "http://pbs.twimg.com/media/DMQkitOX0AAo2FY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DMQkitOX0AAo2FY.jpg",
+            "url": "https://t.co/XgWOg0Jp98",
+            "display_url": "pic.twitter.com/XgWOg0Jp98",
+            "expanded_url": "https://twitter.com/gdunderhood/status/919900417940746240/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 864,
+                "h": 197,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 864,
+                "h": 197,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 155,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 919900355139457000,
+      "in_reply_to_status_id_str": "919900355139457024",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Oct 16 12:19:44 +0000 2017",
+      "id": 919900667824824300,
+      "id_str": "919900667824824320",
+      "text": "Я не люблю сводить колонки с доходами-расходами, мне за счастье просто не забыть сколько ушло, и сколько сейчас на балансе карточки",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 919900417940746200,
+      "in_reply_to_status_id_str": "919900417940746240",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 12:23:01 +0000 2017",
+      "id": 919901493704187900,
+      "id_str": "919901493704187904",
+      "text": "Все индивидуально. Тот же художник может одной компании озвучить рейт 80$/час, а другой 10, потому что разработчик… https://t.co/gFvcVuLti9",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gFvcVuLti9",
+            "expanded_url": "https://twitter.com/i/web/status/919901493704187904",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 919900122280005600,
+      "quoted_status_id_str": "919900122280005632",
+      "quoted_status": {
+        "created_at": "Mon Oct 16 12:17:34 +0000 2017",
+        "id": 919900122280005600,
+        "id_str": "919900122280005632",
+        "text": "@gdunderhood Вернее если с постоянными расходами все примерно понятно, то как быть с переменным? Какие они в геймдеве?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 919899482837454800,
+        "in_reply_to_status_id_str": "919899482837454849",
+        "in_reply_to_user_id": 3091304579,
+        "in_reply_to_user_id_str": "3091304579",
+        "in_reply_to_screen_name": "DmitriyFourier",
+        "user": {
+          "id": 3091304579,
+          "id_str": "3091304579"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 12:25:04 +0000 2017",
+      "id": 919902009628725200,
+      "id_str": "919902009628725253",
+      "text": "2Гб мне уже мало - две игры + гора прототипов, в гите глобальных ограничений я вроде не нашел, только какой-то пото… https://t.co/P5Ypm0C4L7",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/P5Ypm0C4L7",
+            "expanded_url": "https://twitter.com/i/web/status/919902009628725253",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 919900280212394000,
+      "quoted_status_id_str": "919900280212393985",
+      "quoted_status": {
+        "created_at": "Mon Oct 16 12:18:12 +0000 2017",
+        "id": 919900280212394000,
+        "id_str": "919900280212393985",
+        "text": "@gdunderhood Если считать копейки, то битбакет бесплатно прайвит реп дает на 2гб",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 919899348430975000,
+        "in_reply_to_status_id_str": "919899348430974977",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 39984798,
+          "id_str": "39984798"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 12:27:33 +0000 2017",
+      "id": 919902633304973300,
+      "id_str": "919902633304973312",
+      "text": "Тогда звучит интересно. Мне уже лень отменять подписку и пересаживаться на другой сервис, но кому-то может быть оче… https://t.co/vPNoqKuxOn",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/vPNoqKuxOn",
+            "expanded_url": "https://twitter.com/i/web/status/919902633304973312",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 919902240802000900,
+      "quoted_status_id_str": "919902240802000896",
+      "quoted_status": {
+        "created_at": "Mon Oct 16 12:25:59 +0000 2017",
+        "id": 919902240802000900,
+        "id_str": "919902240802000896",
+        "text": "@gdunderhood 2гб на реп, репов может быть сколько угодно + лимит доступа 5 человек на все твои репы.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 919902009628725200,
+        "in_reply_to_status_id_str": "919902009628725253",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 39984798,
+          "id_str": "39984798"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 12:29:10 +0000 2017",
+      "id": 919903038739025900,
+      "id_str": "919903038739025920",
+      "text": "Может я не совсем понял термины, но для меня расход на арт был одноразовым. Мы за месяц сделали все модели, и дальш… https://t.co/8S1TtQ5N5r",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8S1TtQ5N5r",
+            "expanded_url": "https://twitter.com/i/web/status/919903038739025920",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 919902559648800800,
+      "quoted_status_id_str": "919902559648800769",
+      "quoted_status": {
+        "created_at": "Mon Oct 16 12:27:15 +0000 2017",
+        "id": 919902559648800800,
+        "id_str": "919902559648800769",
+        "text": "@gdunderhood Но расходы на художников же не зависят от выручки. Если нанять больше художников вырастет ли выручка?… https://t.co/MAoV7A9P6p",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/MAoV7A9P6p",
+              "expanded_url": "https://twitter.com/i/web/status/919902559648800769",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 919901493704187900,
+        "in_reply_to_status_id_str": "919901493704187904",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 3091304579,
+          "id_str": "3091304579"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 12:30:29 +0000 2017",
+      "id": 919903370500083700,
+      "id_str": "919903370500083718",
+      "text": "@_fysx_ да, коммита не было, я просто вытащил копию проекта в другую папку и делал изменения для порта там.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_fysx_",
+            "name": "Yuriy Baukin",
+            "id": 56738827,
+            "id_str": "56738827",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 919902611788238800,
+      "in_reply_to_status_id_str": "919902611788238848",
+      "in_reply_to_user_id": 56738827,
+      "in_reply_to_user_id_str": "56738827",
+      "in_reply_to_screen_name": "_fysx_",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 12:31:27 +0000 2017",
+      "id": 919903614545645600,
+      "id_str": "919903614545645569",
+      "text": "Тогда это вопрос не ко мне, потому что роста выручки у меня не наблюдалось с самого дня релиза Tribal Pass год наза… https://t.co/n0dm9zzbfv",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/n0dm9zzbfv",
+            "expanded_url": "https://twitter.com/i/web/status/919903614545645569",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 919902834879029200,
+      "quoted_status_id_str": "919902834879029251",
+      "quoted_status": {
+        "created_at": "Mon Oct 16 12:28:21 +0000 2017",
+        "id": 919902834879029200,
+        "id_str": "919902834879029251",
+        "text": "@gdunderhood Это я к тому, что переменные расходы те, которые меняются с ростом выручки.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 919902559648800800,
+        "in_reply_to_status_id_str": "919902559648800769",
+        "in_reply_to_user_id": 3091304579,
+        "in_reply_to_user_id_str": "3091304579",
+        "in_reply_to_screen_name": "DmitriyFourier",
+        "user": {
+          "id": 3091304579,
+          "id_str": "3091304579"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 12:32:20 +0000 2017",
+      "id": 919903838018199600,
+      "id_str": "919903838018199558",
+      "text": "Заводить свой сервер - для меня кошмар из той же серии, что код шейдеров самому с нуля писать :) https://t.co/14yEHDNO43",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/14yEHDNO43",
+            "expanded_url": "https://twitter.com/Oreolek/status/919902779572879360",
+            "display_url": "twitter.com/Oreolek/status…",
+            "indices": [
+              97,
+              120
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 919902779572879400,
+      "quoted_status_id_str": "919902779572879360",
+      "quoted_status": {
+        "created_at": "Mon Oct 16 12:28:08 +0000 2017",
+        "id": 919902779572879400,
+        "id_str": "919902779572879360",
+        "text": "@rootools @gdunderhood Если уж считать, то за &lt;$30 в год можно взять сервер и поставить туда сайт с доменом и какой-нибудь Gogs.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "rootools",
+              "name": "Anton Bravin",
+              "id": 39984798,
+              "id_str": "39984798",
+              "indices": [
+                0,
+                9
+              ]
+            },
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                10,
+                22
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": 919900280212394000,
+        "in_reply_to_status_id_str": "919900280212393985",
+        "in_reply_to_user_id": 39984798,
+        "in_reply_to_user_id_str": "39984798",
+        "in_reply_to_screen_name": "rootools",
+        "user": {
+          "id": 229471456,
+          "id_str": "229471456"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 12:33:06 +0000 2017",
+      "id": 919904029362262000,
+      "id_str": "919904029362262018",
+      "text": "RT @DmitriyFourier: @gdunderhood Ну вот расход на арт и производство это постоянные расходы. Переменные скорее всего появляются на этапе ди…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DmitriyFourier",
+            "name": "Dmitriy Fourier",
+            "id": 3091304579,
+            "id_str": "3091304579",
+            "indices": [
+              3,
+              18
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              20,
+              32
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Oct 16 12:30:18 +0000 2017",
+        "id": 919903323775488000,
+        "id_str": "919903323775488000",
+        "text": "@gdunderhood Ну вот расход на арт и производство это постоянные расходы. Переменные скорее всего появляются на этапе дистрибуции и продаж.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 919903038739025900,
+        "in_reply_to_status_id_str": "919903038739025920",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 3091304579,
+          "id_str": "3091304579"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 12:33:13 +0000 2017",
+      "id": 919904059771048000,
+      "id_str": "919904059771047936",
+      "text": "RT @DmitriyFourier: @gdunderhood Или расходы на саппортов. Предполагаю что чем больше продаж (выручки) тем больше приходится тратить на под…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DmitriyFourier",
+            "name": "Dmitriy Fourier",
+            "id": 3091304579,
+            "id_str": "3091304579",
+            "indices": [
+              3,
+              18
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              20,
+              32
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Oct 16 12:31:05 +0000 2017",
+        "id": 919903522807787500,
+        "id_str": "919903522807787520",
+        "text": "@gdunderhood Или расходы на саппортов. Предполагаю что чем больше продаж (выручки) тем больше приходится тратить на поддержку игроков.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 919903114228006900,
+        "in_reply_to_status_id_str": "919903114228006912",
+        "in_reply_to_user_id": 3091304579,
+        "in_reply_to_user_id_str": "3091304579",
+        "in_reply_to_screen_name": "DmitriyFourier",
+        "user": {
+          "id": 3091304579,
+          "id_str": "3091304579"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 12:34:02 +0000 2017",
+      "id": 919904265212178400,
+      "id_str": "919904265212178432",
+      "text": "Да, пока в случае с моими играми - релизнул и забыл, остается разве что багфикс, добавление локализаций и порты на… https://t.co/RWE9dmgHtq",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/RWE9dmgHtq",
+            "expanded_url": "https://twitter.com/i/web/status/919904265212178432",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 919903672338997200,
+      "quoted_status_id_str": "919903672338997249",
+      "quoted_status": {
+        "created_at": "Mon Oct 16 12:31:41 +0000 2017",
+        "id": 919903672338997200,
+        "id_str": "919903672338997249",
+        "text": "@gdunderhood Впрочем не думаю, что проблема с последующим саппортом — типична для инди и требует серьезных затрат.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 919903522807787500,
+        "in_reply_to_status_id_str": "919903522807787520",
+        "in_reply_to_user_id": 3091304579,
+        "in_reply_to_user_id_str": "3091304579",
+        "in_reply_to_screen_name": "DmitriyFourier",
+        "user": {
+          "id": 3091304579,
+          "id_str": "3091304579"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 13:04:36 +0000 2017",
+      "id": 919911957209272300,
+      "id_str": "919911957209272321",
+      "text": "RT @tricky_fat_cat: @DmitriyFourier @gdunderhood Не надо применять стандарты студий на одиночек или малые студии. Расходы на арт постоянны,…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tricky_fat_cat",
+            "name": "Artyom Volkov",
+            "id": 102768548,
+            "id_str": "102768548",
+            "indices": [
+              3,
+              18
+            ]
+          },
+          {
+            "screen_name": "DmitriyFourier",
+            "name": "Dmitriy Fourier",
+            "id": 3091304579,
+            "id_str": "3091304579",
+            "indices": [
+              20,
+              35
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              36,
+              48
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Oct 16 13:03:38 +0000 2017",
+        "id": 919911716057739300,
+        "id_str": "919911716057739264",
+        "text": "@DmitriyFourier @gdunderhood Не надо применять стандарты студий на одиночек или малые студии. Расходы на арт постоя… https://t.co/r2ouPiVdCQ",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "DmitriyFourier",
+              "name": "Dmitriy Fourier",
+              "id": 3091304579,
+              "id_str": "3091304579",
+              "indices": [
+                0,
+                15
+              ]
+            },
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                16,
+                28
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/r2ouPiVdCQ",
+              "expanded_url": "https://twitter.com/i/web/status/919911716057739264",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": 919903323775488000,
+        "in_reply_to_status_id_str": "919903323775488000",
+        "in_reply_to_user_id": 3091304579,
+        "in_reply_to_user_id_str": "3091304579",
+        "in_reply_to_screen_name": "DmitriyFourier",
+        "user": {
+          "id": 102768548,
+          "id_str": "102768548"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 13:04:40 +0000 2017",
+      "id": 919911973747413000,
+      "id_str": "919911973747412994",
+      "text": "RT @tricky_fat_cat: @DmitriyFourier @gdunderhood А в итоге арт - это одноразовые траты, сделал весь необходимый арт и идёшь дальше.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tricky_fat_cat",
+            "name": "Artyom Volkov",
+            "id": 102768548,
+            "id_str": "102768548",
+            "indices": [
+              3,
+              18
+            ]
+          },
+          {
+            "screen_name": "DmitriyFourier",
+            "name": "Dmitriy Fourier",
+            "id": 3091304579,
+            "id_str": "3091304579",
+            "indices": [
+              20,
+              35
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              36,
+              48
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Oct 16 13:04:20 +0000 2017",
+        "id": 919911889991237600,
+        "id_str": "919911889991237634",
+        "text": "@DmitriyFourier @gdunderhood А в итоге арт - это одноразовые траты, сделал весь необходимый арт и идёшь дальше.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "DmitriyFourier",
+              "name": "Dmitriy Fourier",
+              "id": 3091304579,
+              "id_str": "3091304579",
+              "indices": [
+                0,
+                15
+              ]
+            },
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                16,
+                28
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": 919911716057739300,
+        "in_reply_to_status_id_str": "919911716057739264",
+        "in_reply_to_user_id": 102768548,
+        "in_reply_to_user_id_str": "102768548",
+        "in_reply_to_screen_name": "tricky_fat_cat",
+        "user": {
+          "id": 102768548,
+          "id_str": "102768548"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 13:18:27 +0000 2017",
+      "id": 919915441115541500,
+      "id_str": "919915441115541504",
+      "text": "RT @DmitriyFourier: @tricky_fat_cat @gdunderhood Одноразовый расход или многоразовый не важно. Важна их связь с выручкой. Если с увеличение…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DmitriyFourier",
+            "name": "Dmitriy Fourier",
+            "id": 3091304579,
+            "id_str": "3091304579",
+            "indices": [
+              3,
+              18
+            ]
+          },
+          {
+            "screen_name": "tricky_fat_cat",
+            "name": "Artyom Volkov",
+            "id": 102768548,
+            "id_str": "102768548",
+            "indices": [
+              20,
+              35
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              36,
+              48
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Oct 16 13:06:57 +0000 2017",
+        "id": 919912551017861100,
+        "id_str": "919912551017861120",
+        "text": "@tricky_fat_cat @gdunderhood Одноразовый расход или многоразовый не важно. Важна их связь с выручкой. Если с увелич… https://t.co/LZGnI0YOe9",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "tricky_fat_cat",
+              "name": "Artyom Volkov",
+              "id": 102768548,
+              "id_str": "102768548",
+              "indices": [
+                0,
+                15
+              ]
+            },
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                16,
+                28
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/LZGnI0YOe9",
+              "expanded_url": "https://twitter.com/i/web/status/919912551017861120",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 919911716057739300,
+        "in_reply_to_status_id_str": "919911716057739264",
+        "in_reply_to_user_id": 102768548,
+        "in_reply_to_user_id_str": "102768548",
+        "in_reply_to_screen_name": "tricky_fat_cat",
+        "user": {
+          "id": 3091304579,
+          "id_str": "3091304579"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 13:19:50 +0000 2017",
+      "id": 919915793256730600,
+      "id_str": "919915793256730624",
+      "text": "RT @DmitriyFourier: @tricky_fat_cat @gdunderhood Исключение расходы на рекламу. Их довольно часто относят к переменным. Хотя  это постоянны…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DmitriyFourier",
+            "name": "Dmitriy Fourier",
+            "id": 3091304579,
+            "id_str": "3091304579",
+            "indices": [
+              3,
+              18
+            ]
+          },
+          {
+            "screen_name": "tricky_fat_cat",
+            "name": "Artyom Volkov",
+            "id": 102768548,
+            "id_str": "102768548",
+            "indices": [
+              20,
+              35
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              36,
+              48
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Oct 16 13:08:00 +0000 2017",
+        "id": 919912813312782300,
+        "id_str": "919912813312782336",
+        "text": "@tricky_fat_cat @gdunderhood Исключение расходы на рекламу. Их довольно часто относят к переменным. Хотя  это постоянный расход.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "tricky_fat_cat",
+              "name": "Artyom Volkov",
+              "id": 102768548,
+              "id_str": "102768548",
+              "indices": [
+                0,
+                15
+              ]
+            },
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                16,
+                28
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 919912551017861100,
+        "in_reply_to_status_id_str": "919912551017861120",
+        "in_reply_to_user_id": 3091304579,
+        "in_reply_to_user_id_str": "3091304579",
+        "in_reply_to_screen_name": "DmitriyFourier",
+        "user": {
+          "id": 3091304579,
+          "id_str": "3091304579"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 13:21:03 +0000 2017",
+      "id": 919916097209536500,
+      "id_str": "919916097209536512",
+      "text": "Я бы сказал наоборот - если у меня вырастет выручка, возможно я больше денег вложу в арт. https://t.co/ogUgKL57bA",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ogUgKL57bA",
+            "expanded_url": "https://twitter.com/tricky_fat_cat/status/919915681122004992",
+            "display_url": "twitter.com/tricky_fat_cat…",
+            "indices": [
+              90,
+              113
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 919915681122005000,
+      "quoted_status_id_str": "919915681122004992",
+      "quoted_status": {
+        "created_at": "Mon Oct 16 13:19:24 +0000 2017",
+        "id": 919915681122005000,
+        "id_str": "919915681122004992",
+        "text": "@DmitriyFourier @gdunderhood От количества арта выручка не растёт никак, растут расходы на игру.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "DmitriyFourier",
+              "name": "Dmitriy Fourier",
+              "id": 3091304579,
+              "id_str": "3091304579",
+              "indices": [
+                0,
+                15
+              ]
+            },
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                16,
+                28
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": 919912551017861100,
+        "in_reply_to_status_id_str": "919912551017861120",
+        "in_reply_to_user_id": 3091304579,
+        "in_reply_to_user_id_str": "3091304579",
+        "in_reply_to_screen_name": "DmitriyFourier",
+        "user": {
+          "id": 102768548,
+          "id_str": "102768548"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 13:24:41 +0000 2017",
+      "id": 919917012146679800,
+      "id_str": "919917012146679809",
+      "text": "Я почти так и сделал, но не выдержал и немножко все-таки на арт потратил :) или время человека-оркестра все равно с… https://t.co/XkMqsGGxvq",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/XkMqsGGxvq",
+            "expanded_url": "https://twitter.com/i/web/status/919917012146679809",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 919916574399713300,
+      "quoted_status_id_str": "919916574399713280",
+      "quoted_status": {
+        "created_at": "Mon Oct 16 13:22:57 +0000 2017",
+        "id": 919916574399713300,
+        "id_str": "919916574399713280",
+        "text": "@gdunderhood Это допустимо. Но это не делает расходы на арт переменными. Можно ли вообще отказаться от арта сохранив выручку?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 919916097209536500,
+        "in_reply_to_status_id_str": "919916097209536512",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 3091304579,
+          "id_str": "3091304579"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 14:03:59 +0000 2017",
+      "id": 919926902986506200,
+      "id_str": "919926902986506245",
+      "text": "Я пока не в полной мере осознаю эту тему, но возможно она многим поможет трезвее оценивать свои силы с затратами на… https://t.co/Mg0BnJJ7Bn",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Mg0BnJJ7Bn",
+            "expanded_url": "https://twitter.com/i/web/status/919926902986506245",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 919919905125945300,
+      "quoted_status_id_str": "919919905125945345",
+      "quoted_status": {
+        "created_at": "Mon Oct 16 13:36:11 +0000 2017",
+        "id": 919919905125945300,
+        "id_str": "919919905125945345",
+        "text": "@gdunderhood Я всё-таки попробую на неделе добраться и написать пост, про то, какие расходы признавать переменными,… https://t.co/DbFyOu8kY3",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/DbFyOu8kY3",
+              "expanded_url": "https://twitter.com/i/web/status/919919905125945345",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 919917012146679800,
+        "in_reply_to_status_id_str": "919917012146679809",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 3091304579,
+          "id_str": "3091304579"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 14:05:13 +0000 2017",
+      "id": 919927211695722500,
+      "id_str": "919927211695722497",
+      "text": "Давай это масштабно обсудим в среду, я соберу и подготовлю побольше инфы, вкратце - не совсем то, что многие ожидаю… https://t.co/49kCW7I4rA",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/49kCW7I4rA",
+            "expanded_url": "https://twitter.com/i/web/status/919927211695722497",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 919920434149290000,
+      "quoted_status_id_str": "919920434149289985",
+      "quoted_status": {
+        "created_at": "Mon Oct 16 13:38:17 +0000 2017",
+        "id": 919920434149290000,
+        "id_str": "919920434149289985",
+        "text": "@gdunderhood Каков твой вердикт по keymailer?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 919900082312482800,
+        "in_reply_to_status_id_str": "919900082312482818",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 235058800,
+          "id_str": "235058800"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 14:10:32 +0000 2017",
+      "id": 919928551494778900,
+      "id_str": "919928551494778881",
+      "text": "Наверняка очень актуально для средне-крупных команд с офисом и юр.лицом, но как инди-одиночка я пока никуда не спеш… https://t.co/3qOFrUEYvt",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/3qOFrUEYvt",
+            "expanded_url": "https://twitter.com/i/web/status/919928551494778881",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 919927903604834300,
+      "quoted_status_id_str": "919927903604834305",
+      "quoted_status": {
+        "created_at": "Mon Oct 16 14:07:58 +0000 2017",
+        "id": 919927903604834300,
+        "id_str": "919927903604834305",
+        "text": "@gdunderhood Кстати пока говорим о финансах. Тут материал был про то как перемещать игровую компанию за рубеж. https://t.co/Z9wizsy1hu",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/Z9wizsy1hu",
+              "expanded_url": "http://www.gamedev.ru/industry/articles/escape_russia_howto",
+              "display_url": "gamedev.ru/industry/artic…",
+              "indices": [
+                111,
+                134
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 919926902986506200,
+        "in_reply_to_status_id_str": "919926902986506245",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 3091304579,
+          "id_str": "3091304579"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 14:11:52 +0000 2017",
+      "id": 919928887546662900,
+      "id_str": "919928887546662912",
+      "text": "В Украине я могу рисковать и разрабатывать игру со средними затратами на жизнь в районе 600 долларов в месяц, как ИП.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 919928551494778900,
+      "in_reply_to_status_id_str": "919928551494778881",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 14:15:45 +0000 2017",
+      "id": 919929861141139500,
+      "id_str": "919929861141139459",
+      "text": "Никакие поблажки в налогах в Латвии и т.д., которые будут после релиза, не сравнятся с такими низкими затратами, пока я делаю игру.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 919928887546662900,
+      "in_reply_to_status_id_str": "919928887546662912",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 14:16:50 +0000 2017",
+      "id": 919930136996335600,
+      "id_str": "919930136996335617",
+      "text": "Другой вопрос, если у меня команда, желание получить инвестиции и гранты и готовность рисковать по-крупному - тогда туда.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 919929861141139500,
+      "in_reply_to_status_id_str": "919929861141139459",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 14:19:01 +0000 2017",
+      "id": 919930684281679900,
+      "id_str": "919930684281679872",
+      "text": "В целом, при моих масштабах, меня полностью устраивает налогообложение и возможность вести дела с зарубежными партнерами в Украине.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 919930136996335600,
+      "in_reply_to_status_id_str": "919930136996335617",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 14:20:19 +0000 2017",
+      "id": 919931011189919700,
+      "id_str": "919931011189919745",
+      "text": "Единственное, чего я опасаюсь - ответственность ИП личным имуществом. Рано или поздно нужно будет переходить в другой юридический статус.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 919930684281679900,
+      "in_reply_to_status_id_str": "919930684281679872",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 14:47:49 +0000 2017",
+      "id": 919937932953350100,
+      "id_str": "919937932953350144",
+      "text": "Скажем, у кого-то возник приступ эпилепсии во время игры в мою игру, а я не предупреждал, что в ней есть вспышки. https://t.co/rKRHtHHN5D",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/rKRHtHHN5D",
+            "expanded_url": "https://twitter.com/sergebat/status/919935797842927618",
+            "display_url": "twitter.com/sergebat/statu…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 919935797842927600,
+      "quoted_status_id_str": "919935797842927618",
+      "quoted_status": {
+        "created_at": "Mon Oct 16 14:39:20 +0000 2017",
+        "id": 919935797842927600,
+        "id_str": "919935797842927618",
+        "text": "@gdunderhood &gt; ответственность ИП личным имуществом\n\nА перед кем и с какой вероятностью она может возникнуть у укра… https://t.co/sQ4IUP3A0X",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/sQ4IUP3A0X",
+              "expanded_url": "https://twitter.com/i/web/status/919935797842927618",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                120,
+                143
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 919931011189919700,
+        "in_reply_to_status_id_str": "919931011189919745",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 187886046,
+          "id_str": "187886046"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 14:49:23 +0000 2017",
+      "id": 919938326211317800,
+      "id_str": "919938326211317760",
+      "text": "Человек захочет меня засудить (и я буду морально на его стороне). Если я компания, я могу выплатить какую-то сумму и объявить банкротство",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 919937932953350100,
+      "in_reply_to_status_id_str": "919937932953350144",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 14:49:58 +0000 2017",
+      "id": 919938473313923100,
+      "id_str": "919938473313923072",
+      "text": "Если эта сумма - все что было на балансе компании. Если я ИП, то чтобы выплатить все, я должен буду продать машину, дом, ноутбук и т.д.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 919938326211317800,
+      "in_reply_to_status_id_str": "919938326211317760",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 14:50:31 +0000 2017",
+      "id": 919938613483360300,
+      "id_str": "919938613483360256",
+      "text": "Скорее всего это очень неточное сравнение, но насколько я знаю, дела обстоят примерно так.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 919938473313923100,
+      "in_reply_to_status_id_str": "919938473313923072",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 14:58:18 +0000 2017",
+      "id": 919940573091508200,
+      "id_str": "919940573091508224",
+      "text": "RT @sergebat: @gdunderhood примерно так, но разница не так существенна, как ее себе представляют: \n\nhttps://t.co/VCdk3Y4KYc",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sergebat",
+            "name": "Sergey Batishchev",
+            "id": 187886046,
+            "id_str": "187886046",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              14,
+              26
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/VCdk3Y4KYc",
+            "expanded_url": "https://en.wikipedia.org/wiki/Piercing_the_corporate_veil",
+            "display_url": "en.wikipedia.org/wiki/Piercing_…",
+            "indices": [
+              100,
+              123
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Oct 16 14:56:42 +0000 2017",
+        "id": 919940168416747500,
+        "id_str": "919940168416747520",
+        "text": "@gdunderhood примерно так, но разница не так существенна, как ее себе представляют: \n\nhttps://t.co/VCdk3Y4KYc",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/VCdk3Y4KYc",
+              "expanded_url": "https://en.wikipedia.org/wiki/Piercing_the_corporate_veil",
+              "display_url": "en.wikipedia.org/wiki/Piercing_…",
+              "indices": [
+                86,
+                109
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 919938613483360300,
+        "in_reply_to_status_id_str": "919938613483360256",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 187886046,
+          "id_str": "187886046"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 15:22:30 +0000 2017",
+      "id": 919946662868635600,
+      "id_str": "919946662868635648",
+      "text": "RT @DmitriyFourier: @gdunderhood Страх этот надуманный, если конечно вы сознательно не собираетесь допустить такой поворот событий, что при…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DmitriyFourier",
+            "name": "Dmitriy Fourier",
+            "id": 3091304579,
+            "id_str": "3091304579",
+            "indices": [
+              3,
+              18
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              20,
+              32
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Oct 16 15:18:27 +0000 2017",
+        "id": 919945642495094800,
+        "id_str": "919945642495094784",
+        "text": "@gdunderhood Страх этот надуманный, если конечно вы сознательно не собираетесь допустить такой поворот событий, что… https://t.co/g2mrDyIQuc",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/g2mrDyIQuc",
+              "expanded_url": "https://twitter.com/i/web/status/919945642495094784",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 919931011189919700,
+        "in_reply_to_status_id_str": "919931011189919745",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 3091304579,
+          "id_str": "3091304579"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": true,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 15:22:33 +0000 2017",
+      "id": 919946674100998100,
+      "id_str": "919946674100998147",
+      "text": "RT @DmitriyFourier: @gdunderhood Как правило к ситуациям, когда отвечаешь своим имуществом возникают не за один день. Т.е. реально есть все…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DmitriyFourier",
+            "name": "Dmitriy Fourier",
+            "id": 3091304579,
+            "id_str": "3091304579",
+            "indices": [
+              3,
+              18
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              20,
+              32
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Oct 16 15:19:58 +0000 2017",
+        "id": 919946023837028400,
+        "id_str": "919946023837028352",
+        "text": "@gdunderhood Как правило к ситуациям, когда отвечаешь своим имуществом возникают не за один день. Т.е. реально есть… https://t.co/ZelYcgXF2r",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/ZelYcgXF2r",
+              "expanded_url": "https://twitter.com/i/web/status/919946023837028352",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 919945642495094800,
+        "in_reply_to_status_id_str": "919945642495094784",
+        "in_reply_to_user_id": 3091304579,
+        "in_reply_to_user_id_str": "3091304579",
+        "in_reply_to_screen_name": "DmitriyFourier",
+        "user": {
+          "id": 3091304579,
+          "id_str": "3091304579"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 15:59:09 +0000 2017",
+      "id": 919955884490592300,
+      "id_str": "919955884490592256",
+      "text": "@durbekgd В среду препарируем кеймейлер подробно :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "durbekgd",
+            "name": "Durbek",
+            "id": 3286119438,
+            "id_str": "3286119438",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 919955402124677100,
+      "in_reply_to_status_id_str": "919955402124677121",
+      "in_reply_to_user_id": 3286119438,
+      "in_reply_to_user_id_str": "3286119438",
+      "in_reply_to_screen_name": "durbekgd",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 16:16:30 +0000 2017",
+      "id": 919960250702286800,
+      "id_str": "919960250702286848",
+      "text": "Можно опровергать все что мной сказано, а я буду ретвитить и неловко оправдываться https://t.co/hFU0Bsfj7K",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/hFU0Bsfj7K",
+            "expanded_url": "https://twitter.com/crashy512/status/919959027953668096",
+            "display_url": "twitter.com/crashy512/stat…",
+            "indices": [
+              83,
+              106
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 919959027953668100,
+      "quoted_status_id_str": "919959027953668096",
+      "quoted_status": {
+        "created_at": "Mon Oct 16 16:11:38 +0000 2017",
+        "id": 919959027953668100,
+        "id_str": "919959027953668096",
+        "text": "@gdunderhood Где дизлайк ставить?:)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 919846318620729300,
+        "in_reply_to_status_id_str": "919846318620729345",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 608323715,
+          "id_str": "608323715"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 16 16:24:39 +0000 2017",
+      "id": 919962301163126800,
+      "id_str": "919962301163126790",
+      "text": "Ретвичу единственное высказывание, которое я понял в этом умном треде про учёт, разверните-почитайте там, если чувс… https://t.co/b0iOybPccJ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/b0iOybPccJ",
+            "expanded_url": "https://twitter.com/i/web/status/919962301163126790",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 919961228835000300,
+      "quoted_status_id_str": "919961228835000321",
+      "quoted_status": {
+        "created_at": "Mon Oct 16 16:20:23 +0000 2017",
+        "id": 919961228835000300,
+        "id_str": "919961228835000321",
+        "text": "@MaximNuriev @gdunderhood Внедрять учёт ради учёта — пустая трата времени.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "MaximNuriev",
+              "name": "Maxim",
+              "id": 488668831,
+              "id_str": "488668831",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                13,
+                25
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 919961139357933600,
+        "in_reply_to_status_id_str": "919961139357933578",
+        "in_reply_to_user_id": 3091304579,
+        "in_reply_to_user_id_str": "3091304579",
+        "in_reply_to_screen_name": "DmitriyFourier",
+        "user": {
+          "id": 3091304579,
+          "id_str": "3091304579"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
