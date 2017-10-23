@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 1125,
+  "followers_count": 1127,
   "friends_count": 46,
   "listed_count": 21,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
@@ -46,26 +46,37 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 8021,
+  "statuses_count": 8033,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Oct 23 13:27:49 +0000 2017",
-    "id": 922454515558879200,
-    "id_str": "922454515558879233",
-    "text": "Кто наиболее точно отгадает о чём пойдет речь в этот день (и отпишется в комментарии), получит в конце недели подарок - Satellite Reign",
+    "created_at": "Mon Oct 23 17:08:49 +0000 2017",
+    "id": 922510132977774600,
+    "id_str": "922510132977774592",
+    "text": "@gameplay_iyface Приравняем это к \"Идеи to Аналитика\" :)",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "gameplay_iyface",
+          "name": "Твой царь",
+          "id": 797549789198041100,
+          "id_str": "797549789198041089",
+          "indices": [
+            0,
+            16
+          ]
+        }
+      ],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 922454369089609700,
-    "in_reply_to_status_id_str": "922454369089609729",
-    "in_reply_to_user_id": 747371158832545800,
-    "in_reply_to_user_id_str": "747371158832545792",
-    "in_reply_to_screen_name": "gdunderhood",
+    "in_reply_to_status_id": 922509766852784100,
+    "in_reply_to_status_id_str": "922509766852784129",
+    "in_reply_to_user_id": 797549789198041100,
+    "in_reply_to_user_id_str": "797549789198041089",
+    "in_reply_to_screen_name": "gameplay_iyface",
     "geo": null,
     "coordinates": null,
     "place": null,
