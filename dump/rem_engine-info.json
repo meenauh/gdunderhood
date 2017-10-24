@@ -37,46 +37,126 @@
     }
   },
   "protected": false,
-  "followers_count": 1127,
+  "followers_count": 1132,
   "friends_count": 46,
   "listed_count": 21,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 1481,
+  "favourites_count": 1484,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 8033,
+  "statuses_count": 8046,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Oct 23 17:08:49 +0000 2017",
-    "id": 922510132977774600,
-    "id_str": "922510132977774592",
-    "text": "@gameplay_iyface Приравняем это к \"Идеи to Аналитика\" :)",
+    "created_at": "Tue Oct 24 18:19:47 +0000 2017",
+    "id": 922890378642120700,
+    "id_str": "922890378642120705",
+    "text": "Вдохновений на вечер:\nAngel's Egg by Tokuma Shoten (1985) https://t.co/fSTr9a06nt",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [],
+      "media": [
         {
-          "screen_name": "gameplay_iyface",
-          "name": "Твой царь",
-          "id": 797549789198041100,
-          "id_str": "797549789198041089",
+          "id": 922890170277523500,
+          "id_str": "922890170277523462",
           "indices": [
-            0,
-            16
-          ]
+            58,
+            81
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/DM7DuF4XcAYQQTe.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DM7DuF4XcAYQQTe.jpg",
+          "url": "https://t.co/fSTr9a06nt",
+          "display_url": "pic.twitter.com/fSTr9a06nt",
+          "expanded_url": "https://twitter.com/gdunderhood/status/922890378642120705/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 190,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 500,
+              "h": 280,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 500,
+              "h": 280,
+              "resize": "fit"
+            }
+          }
         }
-      ],
-      "urls": []
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 922890170277523500,
+          "id_str": "922890170277523462",
+          "indices": [
+            58,
+            81
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/DM7DuF4XcAYQQTe.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DM7DuF4XcAYQQTe.jpg",
+          "url": "https://t.co/fSTr9a06nt",
+          "display_url": "pic.twitter.com/fSTr9a06nt",
+          "expanded_url": "https://twitter.com/gdunderhood/status/922890378642120705/photo/1",
+          "type": "animated_gif",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 190,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 500,
+              "h": 280,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 500,
+              "h": 280,
+              "resize": "fit"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              25,
+              14
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/DM7DuF4XcAYQQTe.mp4"
+              }
+            ]
+          }
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 922509766852784100,
-    "in_reply_to_status_id_str": "922509766852784129",
-    "in_reply_to_user_id": 797549789198041100,
-    "in_reply_to_user_id_str": "797549789198041089",
-    "in_reply_to_screen_name": "gameplay_iyface",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -86,7 +166,8 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "possibly_sensitive": false,
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
