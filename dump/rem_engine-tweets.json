@@ -1857,6 +1857,631 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "und"
+    },
+    {
+      "created_at": "Wed Oct 25 07:44:37 +0000 2017",
+      "id": 923092922261758000,
+      "id_str": "923092922261757952",
+      "text": "Кстати, вчера вышла Destiny 2 на ПК.\nк слову, Bungie это единственная компания где я видел вакансии Narrative Director, Gameplay Director",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Oct 25 07:55:07 +0000 2017",
+      "id": 923095565260517400,
+      "id_str": "923095565260517376",
+      "text": "Настольжи дня:\nДавайте вспомним любимую команду в играх.\nСвою обязательно в ответы)\n\nНачну с Planescape: Torment https://t.co/dhONZgMQaW",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 923095242789851100,
+            "id_str": "923095242789851136",
+            "indices": [
+              113,
+              136
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/DM9-O4hXkAAclqq.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DM9-O4hXkAAclqq.jpg",
+            "url": "https://t.co/dhONZgMQaW",
+            "display_url": "pic.twitter.com/dhONZgMQaW",
+            "expanded_url": "https://twitter.com/gdunderhood/status/923095565260517376/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 470,
+                "h": 160,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 116,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 470,
+                "h": 160,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 923095242789851100,
+            "id_str": "923095242789851136",
+            "indices": [
+              113,
+              136
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/DM9-O4hXkAAclqq.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DM9-O4hXkAAclqq.jpg",
+            "url": "https://t.co/dhONZgMQaW",
+            "display_url": "pic.twitter.com/dhONZgMQaW",
+            "expanded_url": "https://twitter.com/gdunderhood/status/923095565260517376/photo/1",
+            "type": "animated_gif",
+            "sizes": {
+              "medium": {
+                "w": 470,
+                "h": 160,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 116,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 470,
+                "h": 160,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                47,
+                16
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/tweet_video/DM9-O4hXkAAclqq.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 25 07:57:58 +0000 2017",
+      "id": 923096281039425500,
+      "id_str": "923096281039425536",
+      "text": "Очень хорошая проекция персонажа Nameless One, как менеджера проекта. Бессмертный специалист, который хочет закрыть… https://t.co/k2TFRD9VNP",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/k2TFRD9VNP",
+            "expanded_url": "https://twitter.com/i/web/status/923096281039425536",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 923095565260517400,
+      "quoted_status_id_str": "923095565260517376",
+      "quoted_status": {
+        "created_at": "Wed Oct 25 07:55:07 +0000 2017",
+        "id": 923095565260517400,
+        "id_str": "923095565260517376",
+        "text": "Настольжи дня:\nДавайте вспомним любимую команду в играх.\nСвою обязательно в ответы)\n\nНачну с Planescape: Torment https://t.co/dhONZgMQaW",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 923095242789851100,
+              "id_str": "923095242789851136",
+              "indices": [
+                113,
+                136
+              ],
+              "media_url": "http://pbs.twimg.com/tweet_video_thumb/DM9-O4hXkAAclqq.jpg",
+              "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DM9-O4hXkAAclqq.jpg",
+              "url": "https://t.co/dhONZgMQaW",
+              "display_url": "pic.twitter.com/dhONZgMQaW",
+              "expanded_url": "https://twitter.com/gdunderhood/status/923095565260517376/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 470,
+                  "h": 160,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 116,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 470,
+                  "h": 160,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 923095242789851100,
+              "id_str": "923095242789851136",
+              "indices": [
+                113,
+                136
+              ],
+              "media_url": "http://pbs.twimg.com/tweet_video_thumb/DM9-O4hXkAAclqq.jpg",
+              "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DM9-O4hXkAAclqq.jpg",
+              "url": "https://t.co/dhONZgMQaW",
+              "display_url": "pic.twitter.com/dhONZgMQaW",
+              "expanded_url": "https://twitter.com/gdunderhood/status/923095565260517376/photo/1",
+              "type": "animated_gif",
+              "sizes": {
+                "medium": {
+                  "w": 470,
+                  "h": 160,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 116,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 470,
+                  "h": 160,
+                  "resize": "fit"
+                }
+              },
+              "video_info": {
+                "aspect_ratio": [
+                  47,
+                  16
+                ],
+                "variants": [
+                  {
+                    "bitrate": 0,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/tweet_video/DM9-O4hXkAAclqq.mp4"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 747371158832545800,
+          "id_str": "747371158832545792"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 25 09:43:01 +0000 2017",
+      "id": 923122719197159400,
+      "id_str": "923122719197159425",
+      "text": "@Bungie банит перманентно всех в Destiny 2, кто использует следующие программы: OBS, Xsplit, Discord, Mumble, Fraps и ряд других. Аккуратней",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Bungie",
+            "name": "Bungie",
+            "id": 26280712,
+            "id_str": "26280712",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 923092922261758000,
+      "in_reply_to_status_id_str": "923092922261757952",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 25 14:33:56 +0000 2017",
+      "id": 923195930584797200,
+      "id_str": "923195930584797184",
+      "text": "Опрос дня:\nКакой подход разработки игрового продукта у Вас чаще используется?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 25 15:14:33 +0000 2017",
+      "id": 923206151025635300,
+      "id_str": "923206151025635328",
+      "text": "Про итеративный и каскадный подход, я бы вам хотел порекомендовать перевод моего любимого Шрайбера у Аус Хестов:\nhttps://t.co/j8Bmhm7Wgs",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/j8Bmhm7Wgs",
+            "expanded_url": "http://aushestov.ru/%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-2-%D0%B3%D0%B5%D0%B9%D0%BC-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B8-%D1%81/",
+            "display_url": "aushestov.ru/%D0%BB%D0%B5%D…",
+            "indices": [
+              113,
+              136
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 25 15:43:34 +0000 2017",
+      "id": 923213453808095200,
+      "id_str": "923213453808095233",
+      "text": "@_Nevermind Лучше тогда уж \"Как-то оно само разработалось\" :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_Nevermind",
+            "name": "Nevermind",
+            "id": 17658923,
+            "id_str": "17658923",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 923209125663780900,
+      "in_reply_to_status_id_str": "923209125663780872",
+      "in_reply_to_user_id": 17658923,
+      "in_reply_to_user_id_str": "17658923",
+      "in_reply_to_screen_name": "_Nevermind",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 25 15:47:23 +0000 2017",
+      "id": 923214414123282400,
+      "id_str": "923214414123282434",
+      "text": "@caerlyKD Именно!) в переводе моего любимого Анатолия Шестова (@shestovt) Не влезло в tw :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "caerlyKD",
+            "name": "Caerly",
+            "id": 1560841333,
+            "id_str": "1560841333",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "shestovt",
+            "name": "Анатолий Шестов",
+            "id": 446838946,
+            "id_str": "446838946",
+            "indices": [
+              63,
+              72
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 923213856645812200,
+      "in_reply_to_status_id_str": "923213856645812225",
+      "in_reply_to_user_id": 1560841333,
+      "in_reply_to_user_id_str": "1560841333",
+      "in_reply_to_screen_name": "caerlyKD",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 25 16:04:42 +0000 2017",
+      "id": 923218772382564400,
+      "id_str": "923218772382564352",
+      "text": "Завтра будет \"Проектная документация и GPM Tools\", хочу заранее прорекламировать, условно бесплатную ИС для gpm: https://t.co/UkaCn6Yrws",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/UkaCn6Yrws",
+            "expanded_url": "http://hacknplan.com",
+            "display_url": "hacknplan.com",
+            "indices": [
+              113,
+              136
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 25 16:05:51 +0000 2017",
+      "id": 923219061986775000,
+      "id_str": "923219061986775041",
+      "text": "Более подробно ИС рассмотрим в субботу на теме \"Управление проектом для Indie\"",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 923218772382564400,
+      "in_reply_to_status_id_str": "923218772382564352",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
