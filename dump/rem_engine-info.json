@@ -46,19 +46,29 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 8062,
+  "statuses_count": 8068,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Oct 27 14:36:23 +0000 2017",
-    "id": 923921321137983500,
-    "id_str": "923921321137983489",
-    "text": "Дополнительный опрос:\nЗа какой период отчетность для Вас наиболее эффективна?",
+    "created_at": "Sun Oct 29 19:46:27 +0000 2017",
+    "id": 924724128648704000,
+    "id_str": "924724128648704000",
+    "text": "Напоследок небольшой тизер \"Wait, Life is Beautiful\", ближайший indie релиз, где я занял нишу в разработке:\nhttps://t.co/EaPzMmQnhe",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/EaPzMmQnhe",
+          "expanded_url": "http://youtu.be/aKslVGD4Pc8",
+          "display_url": "youtu.be/aKslVGD4Pc8",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -75,6 +85,7 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
