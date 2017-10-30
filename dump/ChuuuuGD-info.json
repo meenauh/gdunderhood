@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 1137,
+  "followers_count": 1142,
   "friends_count": 46,
   "listed_count": 21,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
@@ -35,22 +35,33 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 8072,
+  "statuses_count": 8086,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Oct 30 09:42:52 +0000 2017",
-    "id": 924934619186847700,
-    "id_str": "924934619186847744",
-    "text": "Бигфиш после нового года сократил траты на это направление вдвое, а буквально на днях мне сказали о прекращении фин… https://t.co/ZNzhPcBBnz",
+    "created_at": "Mon Oct 30 18:29:04 +0000 2017",
+    "id": 925067043229007900,
+    "id_str": "925067043229007872",
+    "text": "@Luxorix Рано или поздно провальный проект загнётся. И утащит с собой ГД. Потому что его вряд ли переведут на успеш… https://t.co/2aahkgEVg8",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "Luxorix",
+          "name": "Luxorix Games",
+          "id": 235058800,
+          "id_str": "235058800",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/ZNzhPcBBnz",
-          "expanded_url": "https://twitter.com/i/web/status/924934619186847744",
+          "url": "https://t.co/2aahkgEVg8",
+          "expanded_url": "https://twitter.com/i/web/status/925067043229007872",
           "display_url": "twitter.com/i/web/status/9…",
           "indices": [
             117,
@@ -59,24 +70,21 @@
         }
       ]
     },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 925052608317976600,
+    "in_reply_to_status_id_str": "925052608317976577",
+    "in_reply_to_user_id": 235058800,
+    "in_reply_to_user_id_str": "235058800",
+    "in_reply_to_screen_name": "Luxorix",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 924934130315481100,
-    "quoted_status_id_str": "924934130315481088",
+    "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
