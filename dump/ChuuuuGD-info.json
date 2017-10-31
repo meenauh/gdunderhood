@@ -4,7 +4,18 @@
   "name": "Гейм-дизайнер",
   "screen_name": "gdunderhood",
   "location": "Украина",
-  "profile_location": null,
+  "profile_location": {
+    "id": "084d0d0155787e9d",
+    "url": "https://api.twitter.com/1.1/geo/id/084d0d0155787e9d.json",
+    "place_type": "unknown",
+    "name": "Украина",
+    "full_name": "Украина",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
   "description": "Коллективный твиттер-аккаунт для гейм-дизайнеров всех мастей: от балансеров до нарративщиков. Новый автор каждую неделю. На этой неделе – @ChuuuuGD",
   "url": "https://t.co/lIo0mtT2X0",
   "entities": {
@@ -26,63 +37,42 @@
     }
   },
   "protected": false,
-  "followers_count": 1142,
+  "followers_count": 1144,
   "friends_count": 46,
   "listed_count": 21,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 1490,
+  "favourites_count": 1491,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 8086,
+  "statuses_count": 8111,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Oct 30 18:29:04 +0000 2017",
-    "id": 925067043229007900,
-    "id_str": "925067043229007872",
-    "text": "@Luxorix Рано или поздно провальный проект загнётся. И утащит с собой ГД. Потому что его вряд ли переведут на успеш… https://t.co/2aahkgEVg8",
-    "truncated": true,
+    "created_at": "Tue Oct 31 16:59:25 +0000 2017",
+    "id": 925406867605647400,
+    "id_str": "925406867605647362",
+    "text": "Меня печалит то, что я не знаю, как нанимать хорошего гд. Но меня успокаивает то, что никто этого не знает.",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "Luxorix",
-          "name": "Luxorix Games",
-          "id": 235058800,
-          "id_str": "235058800",
-          "indices": [
-            0,
-            8
-          ]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/2aahkgEVg8",
-          "expanded_url": "https://twitter.com/i/web/status/925067043229007872",
-          "display_url": "twitter.com/i/web/status/9…",
-          "indices": [
-            117,
-            140
-          ]
-        }
-      ]
+      "user_mentions": [],
+      "urls": []
     },
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 925052608317976600,
-    "in_reply_to_status_id_str": "925052608317976577",
-    "in_reply_to_user_id": 235058800,
-    "in_reply_to_user_id_str": "235058800",
-    "in_reply_to_screen_name": "Luxorix",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
