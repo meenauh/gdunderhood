@@ -1,0 +1,2308 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Nov 06 09:32:25 +0000 2017",
+      "id": 927468706363510800,
+      "id_str": "927468706363510784",
+      "text": "Всем привет! Наша маленькая радиостанция продолжает свое вещание, и на этой неделе в гостях Алиса @Ellie_Goldshire, нарративный фрилансер.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Ellie_Goldshire",
+            "name": "Элли Е.Фокк",
+            "id": 351090979,
+            "id_str": "351090979",
+            "indices": [
+              98,
+              114
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 09:33:33 +0000 2017",
+      "id": 927468990468968400,
+      "id_str": "927468990468968448",
+      "text": "Будем говорить о ментальном здоровье, удаленной работе и как выжить при этом без дополнительных платежей, смс и регистрации.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 09:46:59 +0000 2017",
+      "id": 927472369966383100,
+      "id_str": "927472369966383104",
+      "text": "@tricky_fat_cat Воу воу, это потягивает на разговор на конец недели!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tricky_fat_cat",
+            "name": "Artyom Volkov",
+            "id": 102768548,
+            "id_str": "102768548",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 927471360347078700,
+      "in_reply_to_status_id_str": "927471360347078657",
+      "in_reply_to_user_id": 102768548,
+      "in_reply_to_user_id_str": "102768548",
+      "in_reply_to_screen_name": "tricky_fat_cat",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 09:57:42 +0000 2017",
+      "id": 927475066677420000,
+      "id_str": "927475066677420033",
+      "text": "Пожалуй, стоит сначала немного больше рассказать о себе.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 10:23:34 +0000 2017",
+      "id": 927481578435039200,
+      "id_str": "927481578435039232",
+      "text": "Кто такая Элли? Элли - геймдизайнер, в индустрии с 2012 года. Со временем осознала, что нарратив - мой бро, и ушла в специализацию.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 927475066677420000,
+      "in_reply_to_status_id_str": "927475066677420033",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 10:25:37 +0000 2017",
+      "id": 927482091448733700,
+      "id_str": "927482091448733696",
+      "text": "Тогда же окончательно осознала, что фултайм - тоже не мой бро, и предпочла фриланс кухонным печенькам :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 927481578435039200,
+      "in_reply_to_status_id_str": "927481578435039232",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 10:30:43 +0000 2017",
+      "id": 927483376587636700,
+      "id_str": "927483376587636738",
+      "text": "В последнее время сотрудничаю с ProtoScenery (машу ручкой @aprotasenya), и хочу Вам сказать, что таки если вы фрилансер, это - хорошая идея.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "aprotasenya",
+            "name": "ProtoSasha",
+            "id": 229789877,
+            "id_str": "229789877",
+            "indices": [
+              58,
+              70
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 927482091448733700,
+      "in_reply_to_status_id_str": "927482091448733696",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 10:31:09 +0000 2017",
+      "id": 927483486717579300,
+      "id_str": "927483486717579264",
+      "text": "@progamer_ru Вот-вот, именно об этом. :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "progamer_ru",
+            "name": "FrostBite 🏁",
+            "id": 369075063,
+            "id_str": "369075063",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 927482939629297700,
+      "in_reply_to_status_id_str": "927482939629297666",
+      "in_reply_to_user_id": 369075063,
+      "in_reply_to_user_id_str": "369075063",
+      "in_reply_to_screen_name": "progamer_ru",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 10:38:02 +0000 2017",
+      "id": 927485216620449800,
+      "id_str": "927485216620449792",
+      "text": "@tricky_fat_cat @aprotasenya Да, именно.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tricky_fat_cat",
+            "name": "Artyom Volkov",
+            "id": 102768548,
+            "id_str": "102768548",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "aprotasenya",
+            "name": "ProtoSasha",
+            "id": 229789877,
+            "id_str": "229789877",
+            "indices": [
+              16,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 927483537682464800,
+      "in_reply_to_status_id_str": "927483537682464768",
+      "in_reply_to_user_id": 102768548,
+      "in_reply_to_user_id_str": "102768548",
+      "in_reply_to_screen_name": "tricky_fat_cat",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 10:48:27 +0000 2017",
+      "id": 927487838127566800,
+      "id_str": "927487838127566848",
+      "text": "@aprotasenya *опечаточка, там ProtaScenery, посыпаю голову пеплом.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "aprotasenya",
+            "name": "ProtoSasha",
+            "id": 229789877,
+            "id_str": "229789877",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 927483376587636700,
+      "in_reply_to_status_id_str": "927483376587636738",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 11:29:59 +0000 2017",
+      "id": 927498293797630000,
+      "id_str": "927498293797629952",
+      "text": "А теперь вернемся к теме. Как я грозилась ранее, начнем с ментального здоровья (а еще о том, как важно себя любить).",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 11:30:25 +0000 2017",
+      "id": 927498400081248300,
+      "id_str": "927498400081248256",
+      "text": "Самые ожидаемые вопросы - зачем и что об этом говорить? Нам бы фишечек подвезти. Инфы инсайдерской.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 927498293797630000,
+      "in_reply_to_status_id_str": "927498293797629952",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 11:30:41 +0000 2017",
+      "id": 927498467056013300,
+      "id_str": "927498467056013312",
+      "text": "Но тут я врываюсь с этим неожиданным тредом, чтобы напомнить о негласных рисках разработки.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 927498400081248300,
+      "in_reply_to_status_id_str": "927498400081248256",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 11:32:14 +0000 2017",
+      "id": 927498857633669100,
+      "id_str": "927498857633669121",
+      "text": "Врядли для кого-то здесь секрет, что эта индустрия - одна из самых непредсказуемых и стрессовых.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 927498467056013300,
+      "in_reply_to_status_id_str": "927498467056013312",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 11:32:41 +0000 2017",
+      "id": 927498971353944000,
+      "id_str": "927498971353944064",
+      "text": "Геймдев вознаграждает (морально и финансово), но многого требует взамен.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 927498857633669100,
+      "in_reply_to_status_id_str": "927498857633669121",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 11:33:12 +0000 2017",
+      "id": 927499100978909200,
+      "id_str": "927499100978909184",
+      "text": "@tricky_fat_cat Я так и знала, что надо было ставить котика на аватарку!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tricky_fat_cat",
+            "name": "Artyom Volkov",
+            "id": 102768548,
+            "id_str": "102768548",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 927498920737026000,
+      "in_reply_to_status_id_str": "927498920737026048",
+      "in_reply_to_user_id": 102768548,
+      "in_reply_to_user_id_str": "102768548",
+      "in_reply_to_screen_name": "tricky_fat_cat",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 11:35:18 +0000 2017",
+      "id": 927499627930226700,
+      "id_str": "927499627930226688",
+      "text": "Это индустрия развлечений, и в то же время сотни и тысячи людей в индустрии срываются, выгорают, зарабатывают неврозы, депрессию.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 927498971353944000,
+      "in_reply_to_status_id_str": "927498971353944064",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 11:35:57 +0000 2017",
+      "id": 927499793332621300,
+      "id_str": "927499793332621312",
+      "text": "Вы даже удивитесь, сколько таких. Потому что все молчат. Что неудивительно, потому что у нас о таком говорить не принято.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 927499627930226700,
+      "in_reply_to_status_id_str": "927499627930226688",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 11:40:37 +0000 2017",
+      "id": 927500966739443700,
+      "id_str": "927500966739443712",
+      "text": "Между тем, говорить надо, потому что что? Правильно. Разработка должна приносить удовольствие. А какое удовольствие, когда все тлен и азаза.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 927499793332621300,
+      "in_reply_to_status_id_str": "927499793332621312",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 11:43:33 +0000 2017",
+      "id": 927501705805254700,
+      "id_str": "927501705805254656",
+      "text": "Именно так обычно и происходит. И часто это не два года без выходных, а четыре, пять... Иногда еще и с пет-проджект… https://t.co/FKI2rknkid",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/FKI2rknkid",
+            "expanded_url": "https://twitter.com/i/web/status/927501705805254656",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 927501303462486000,
+      "quoted_status_id_str": "927501303462486016",
+      "quoted_status": {
+        "created_at": "Mon Nov 06 11:41:57 +0000 2017",
+        "id": 927501303462486000,
+        "id_str": "927501303462486016",
+        "text": "@gdunderhood Ну дык в геймдеве популярный нарратив это наоборот :\"я работал(а) два года без выходных по 14 часов в день\"",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 927499793332621300,
+        "in_reply_to_status_id_str": "927499793332621312",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 991226479,
+          "id_str": "991226479"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 11:47:21 +0000 2017",
+      "id": 927502662232395800,
+      "id_str": "927502662232395781",
+      "text": "Добавьте еще кранчи, непрофильных инвесторов и далее по списку.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 927501705805254700,
+      "in_reply_to_status_id_str": "927501705805254656",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 11:48:42 +0000 2017",
+      "id": 927503003766140900,
+      "id_str": "927503003766140928",
+      "text": "@skeetah Держись, кадет, это только начало.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "skeetah",
+            "name": "mr. november",
+            "id": 17977407,
+            "id_str": "17977407",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 927501481129009200,
+      "in_reply_to_status_id_str": "927501481129009152",
+      "in_reply_to_user_id": 17977407,
+      "in_reply_to_user_id_str": "17977407",
+      "in_reply_to_screen_name": "skeetah",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 12:03:53 +0000 2017",
+      "id": 927506822067556400,
+      "id_str": "927506822067556353",
+      "text": "@gypsy_erin Как видишь, это посибуру. :) \nПозже на неделе копну немного и эту тему.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gypsy_erin",
+            "name": "Alice Gurska",
+            "id": 145394320,
+            "id_str": "145394320",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 927483475044786200,
+      "in_reply_to_status_id_str": "927483475044786176",
+      "in_reply_to_user_id": 145394320,
+      "in_reply_to_user_id_str": "145394320",
+      "in_reply_to_screen_name": "gypsy_erin",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 12:10:27 +0000 2017",
+      "id": 927508474237513700,
+      "id_str": "927508474237513728",
+      "text": "Пока я не пробила на слезу еще десяток читателей, давайте разберемся в понятиях.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 12:12:48 +0000 2017",
+      "id": 927509068637405200,
+      "id_str": "927509068637405184",
+      "text": "Что значит ментальное здоровье? Во-первых, то же, что и здоровье психическое. Значит ли, что человек псих? Нет, не значит.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 927508474237513700,
+      "in_reply_to_status_id_str": "927508474237513728",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 12:16:42 +0000 2017",
+      "id": 927510047399268400,
+      "id_str": "927510047399268354",
+      "text": "Совершенно правильный и очевидный ответ. И при этом это то, на что мы обычно забиваем. https://t.co/tZxC25c59z",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/tZxC25c59z",
+            "expanded_url": "https://twitter.com/mindbokeh/status/927509556372131841",
+            "display_url": "twitter.com/mindbokeh/stat…",
+            "indices": [
+              87,
+              110
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 927509556372131800,
+      "quoted_status_id_str": "927509556372131841",
+      "quoted_status": {
+        "created_at": "Mon Nov 06 12:14:45 +0000 2017",
+        "id": 927509556372131800,
+        "id_str": "927509556372131841",
+        "text": "@gdunderhood душевное здоровье же)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 927509068637405200,
+        "in_reply_to_status_id_str": "927509068637405184",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 181437912,
+          "id_str": "181437912"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 12:17:22 +0000 2017",
+      "id": 927510215070765000,
+      "id_str": "927510215070765056",
+      "text": "И если с обычным здоровьем человек еще почешется, здесь шансов куда меньше.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 927510047399268400,
+      "in_reply_to_status_id_str": "927510047399268354",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 12:19:47 +0000 2017",
+      "id": 927510822594732000,
+      "id_str": "927510822594732032",
+      "text": "Хотя как бы дико это ни звучало, именно проблемы с душевным здоровьем часто оказываются серьезнее.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 927510215070765000,
+      "in_reply_to_status_id_str": "927510215070765056",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 12:20:15 +0000 2017",
+      "id": 927510943516545000,
+      "id_str": "927510943516545027",
+      "text": "С какими проблемами чаще всего сталкиваются в индустрии?\nВыгорание, невроз, депрессия. Их больше, но на слух попадают в первую очередь эти.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 927509068637405200,
+      "in_reply_to_status_id_str": "927509068637405184",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 12:25:57 +0000 2017",
+      "id": 927512375489638400,
+      "id_str": "927512375489638401",
+      "text": "И что характерно, вычислить человека с проблемой вам врядли удастся.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 927510943516545000,
+      "in_reply_to_status_id_str": "927510943516545027",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 12:26:23 +0000 2017",
+      "id": 927512486680645600,
+      "id_str": "927512486680645633",
+      "text": "Чаще всего это социопаты-хайлевелы, которые мимикрируют под социально адаптированных людей лучше, чем сами социально адаптированные.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 927512375489638400,
+      "in_reply_to_status_id_str": "927512375489638401",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 12:28:07 +0000 2017",
+      "id": 927512923081191400,
+      "id_str": "927512923081191424",
+      "text": "Очень важный комментарий, который опередил мои же слова.\nДушевное здоровье разработчика важно не только для человек… https://t.co/o7ET01WljX",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/o7ET01WljX",
+            "expanded_url": "https://twitter.com/i/web/status/927512923081191424",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 927512062326136800,
+      "quoted_status_id_str": "927512062326136832",
+      "quoted_status": {
+        "created_at": "Mon Nov 06 12:24:42 +0000 2017",
+        "id": 927512062326136800,
+        "id_str": "927512062326136832",
+        "text": "@gdunderhood очень важно понимать, что от этого старает и игра. код становится хуже, механики скучнее, а проверки к… https://t.co/r0EvVkdXSf",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/r0EvVkdXSf",
+              "expanded_url": "https://twitter.com/i/web/status/927512062326136832",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 927510822594732000,
+        "in_reply_to_status_id_str": "927510822594732032",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 181437912,
+          "id_str": "181437912"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 12:29:12 +0000 2017",
+      "id": 927513193290846200,
+      "id_str": "927513193290846209",
+      "text": "И таких, поверьте, большинство. Почти столько же, сколько тех, кто твердит себе, что \"со мной все нормально, просто… https://t.co/ZDWeVBqncJ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ZDWeVBqncJ",
+            "expanded_url": "https://twitter.com/i/web/status/927513193290846209",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 927512617765269500,
+      "quoted_status_id_str": "927512617765269504",
+      "quoted_status": {
+        "created_at": "Mon Nov 06 12:26:55 +0000 2017",
+        "id": 927512617765269500,
+        "id_str": "927512617765269504",
+        "text": "@gdunderhood Или просто молчат о своих проблемах в тряпочку.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 927512486680645600,
+        "in_reply_to_status_id_str": "927512486680645633",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 102768548,
+          "id_str": "102768548"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 12:34:33 +0000 2017",
+      "id": 927514541126312000,
+      "id_str": "927514541126311939",
+      "text": "И да, и нет. Как верно заметил @mindbokeh, это подходит не для всех, и для некоторых интровертов подобный досуг мож… https://t.co/HC8otx3BUp",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mindbokeh",
+            "name": "(ﾉ◕ヮ◕)ﾉ*",
+            "id": 181437912,
+            "id_str": "181437912",
+            "indices": [
+              31,
+              41
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/HC8otx3BUp",
+            "expanded_url": "https://twitter.com/i/web/status/927514541126311939",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 927513672238460900,
+      "quoted_status_id_str": "927513672238460928",
+      "quoted_status": {
+        "created_at": "Mon Nov 06 12:31:06 +0000 2017",
+        "id": 927513672238460900,
+        "id_str": "927513672238460928",
+        "text": "@gdunderhood А надо просто устраивать моменты общего отдыха и досуга, чтобы реально отдыхали в дружественной обстановке!",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 927513193290846200,
+        "in_reply_to_status_id_str": "927513193290846209",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 102768548,
+          "id_str": "102768548"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 12:37:02 +0000 2017",
+      "id": 927515164596981800,
+      "id_str": "927515164596981760",
+      "text": "До определенной степени это так. Важная составляющая душевного здоровья - отдача и мотивация. Она неравномерна на р… https://t.co/F4uIVrUneq",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/F4uIVrUneq",
+            "expanded_url": "https://twitter.com/i/web/status/927515164596981760",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 927514034852843500,
+      "quoted_status_id_str": "927514034852843520",
+      "quoted_status": {
+        "created_at": "Mon Nov 06 12:32:32 +0000 2017",
+        "id": 927514034852843500,
+        "id_str": "927514034852843520",
+        "text": "@gdunderhood Представляю себе инди, который заботится о ментальном здоровье. Самоотдача (а иногда саморазрушение) —… https://t.co/cYLZm5efGk",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/cYLZm5efGk",
+              "expanded_url": "https://twitter.com/i/web/status/927514034852843520",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 927512923081191400,
+        "in_reply_to_status_id_str": "927512923081191424",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 288855484,
+          "id_str": "288855484"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 12:39:01 +0000 2017",
+      "id": 927515664117575700,
+      "id_str": "927515664117575680",
+      "text": "Во-первых, я сама из таких. Это не является ни предметом гордости,ни чем-то, что стоит скрывать.\nВо-вторых, личное… https://t.co/H4ANnga69t",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/H4ANnga69t",
+            "expanded_url": "https://twitter.com/i/web/status/927515664117575680",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 927514176372736000,
+      "quoted_status_id_str": "927514176372736000",
+      "quoted_status": {
+        "created_at": "Mon Nov 06 12:33:06 +0000 2017",
+        "id": 927514176372736000,
+        "id_str": "927514176372736000",
+        "text": "@gdunderhood И как же вы узнали о них, если они молчат?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 927513193290846200,
+        "in_reply_to_status_id_str": "927513193290846209",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 769585531453861900,
+          "id_str": "769585531453861888"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 12:40:20 +0000 2017",
+      "id": 927515994448330800,
+      "id_str": "927515994448330753",
+      "text": "Я знаю ребят, которые практикуют это и в рудеве, но отношение к этому вопросу у нас все равно остается слишком пред… https://t.co/esAHxWnrs9",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/esAHxWnrs9",
+            "expanded_url": "https://twitter.com/i/web/status/927515994448330753",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 927514907498737700,
+      "quoted_status_id_str": "927514907498737665",
+      "quoted_status": {
+        "created_at": "Mon Nov 06 12:36:00 +0000 2017",
+        "id": 927514907498737700,
+        "id_str": "927514907498737665",
+        "text": "@gdunderhood @mindbokeh в западных крупных компаниях обычно есть штатный психотерапевт",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "mindbokeh",
+              "name": "(ﾉ◕ヮ◕)ﾉ*",
+              "id": 181437912,
+              "id_str": "181437912",
+              "indices": [
+                13,
+                23
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 927514541126312000,
+        "in_reply_to_status_id_str": "927514541126311939",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 336085298,
+          "id_str": "336085298"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 12:42:10 +0000 2017",
+      "id": 927516457805721600,
+      "id_str": "927516457805721601",
+      "text": "Хороший вопрос.\n1. Это сложно. Одна из негативных особенностей депрессии - низкий запас энергии и неспособность кон… https://t.co/66bbsC93yw",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/66bbsC93yw",
+            "expanded_url": "https://twitter.com/i/web/status/927516457805721601",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 927516109632364500,
+      "quoted_status_id_str": "927516109632364544",
+      "quoted_status": {
+        "created_at": "Mon Nov 06 12:40:47 +0000 2017",
+        "id": 927516109632364500,
+        "id_str": "927516109632364544",
+        "text": "@gdunderhood ...жду раскрытия темы \"какие разлады добавляет работа на фрилансе помимо уже заработанных на фултайме\" :3",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 927502662232395800,
+        "in_reply_to_status_id_str": "927502662232395781",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 4364907047,
+          "id_str": "4364907047"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 12:44:26 +0000 2017",
+      "id": 927517028851871700,
+      "id_str": "927517028851871745",
+      "text": "@tricky_fat_cat @_ARandom_ Опровержено)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tricky_fat_cat",
+            "name": "Artyom Volkov",
+            "id": 102768548,
+            "id_str": "102768548",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "_ARandom_",
+            "name": "ARandom",
+            "id": 4364907047,
+            "id_str": "4364907047",
+            "indices": [
+              16,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 927516248581296100,
+      "in_reply_to_status_id_str": "927516248581296133",
+      "in_reply_to_user_id": 102768548,
+      "in_reply_to_user_id_str": "102768548",
+      "in_reply_to_screen_name": "tricky_fat_cat",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 12:52:40 +0000 2017",
+      "id": 927519098162090000,
+      "id_str": "927519098162089985",
+      "text": "2. Гиперответственность. Фрилансер - человек, который должен постоянно находиться на связи, чтобы выжить.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 927516457805721600,
+      "in_reply_to_status_id_str": "927516457805721601",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 13:00:34 +0000 2017",
+      "id": 927521088552226800,
+      "id_str": "927521088552226816",
+      "text": "@tricky_fat_cat @_ARandom_ Выпить можно и на фрилансе без вреда работе, если подходить к этому с умом и понимать, зачем ты это делаешь.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tricky_fat_cat",
+            "name": "Artyom Volkov",
+            "id": 102768548,
+            "id_str": "102768548",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "_ARandom_",
+            "name": "ARandom",
+            "id": 4364907047,
+            "id_str": "4364907047",
+            "indices": [
+              16,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 927518412057792500,
+      "in_reply_to_status_id_str": "927518412057792514",
+      "in_reply_to_user_id": 102768548,
+      "in_reply_to_user_id_str": "102768548",
+      "in_reply_to_screen_name": "tricky_fat_cat",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 13:04:34 +0000 2017",
+      "id": 927522094002425900,
+      "id_str": "927522094002425857",
+      "text": "@tricky_fat_cat @_ARandom_ Нет, вот \"пить, чтоб нервишки успокоить\", - подход как раз неправильный. Так ты сам себя… https://t.co/p1bjuGElyq",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tricky_fat_cat",
+            "name": "Artyom Volkov",
+            "id": 102768548,
+            "id_str": "102768548",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "_ARandom_",
+            "name": "ARandom",
+            "id": 4364907047,
+            "id_str": "4364907047",
+            "indices": [
+              16,
+              26
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/p1bjuGElyq",
+            "expanded_url": "https://twitter.com/i/web/status/927522094002425857",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 927521294303842300,
+      "in_reply_to_status_id_str": "927521294303842304",
+      "in_reply_to_user_id": 102768548,
+      "in_reply_to_user_id_str": "102768548",
+      "in_reply_to_screen_name": "tricky_fat_cat",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 13:05:59 +0000 2017",
+      "id": 927522452934152200,
+      "id_str": "927522452934152193",
+      "text": "@tricky_fat_cat @_ARandom_ Нет вреда в том, чтобы выбраться выпить с друзьями, чтобы отметить релиз, праздник или п… https://t.co/qIDp2tFG27",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tricky_fat_cat",
+            "name": "Artyom Volkov",
+            "id": 102768548,
+            "id_str": "102768548",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "_ARandom_",
+            "name": "ARandom",
+            "id": 4364907047,
+            "id_str": "4364907047",
+            "indices": [
+              16,
+              26
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/qIDp2tFG27",
+            "expanded_url": "https://twitter.com/i/web/status/927522452934152193",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 927522094002425900,
+      "in_reply_to_status_id_str": "927522094002425857",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 13:11:00 +0000 2017",
+      "id": 927523712127131600,
+      "id_str": "927523712127131648",
+      "text": "@tricky_fat_cat @_ARandom_ Следует искать себе новые удовольствия, пробовать и находить для себя что-то новое. Сове… https://t.co/Xxk3FrJFXq",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tricky_fat_cat",
+            "name": "Artyom Volkov",
+            "id": 102768548,
+            "id_str": "102768548",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "_ARandom_",
+            "name": "ARandom",
+            "id": 4364907047,
+            "id_str": "4364907047",
+            "indices": [
+              16,
+              26
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Xxk3FrJFXq",
+            "expanded_url": "https://twitter.com/i/web/status/927523712127131648",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 927522301230403600,
+      "in_reply_to_status_id_str": "927522301230403585",
+      "in_reply_to_user_id": 102768548,
+      "in_reply_to_user_id_str": "102768548",
+      "in_reply_to_screen_name": "tricky_fat_cat",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 13:11:35 +0000 2017",
+      "id": 927523859829608400,
+      "id_str": "927523859829608448",
+      "text": "@tricky_fat_cat @_ARandom_ Интроверсия не исключает социализации - меняется только подход к ней и ее воприятие.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tricky_fat_cat",
+            "name": "Artyom Volkov",
+            "id": 102768548,
+            "id_str": "102768548",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "_ARandom_",
+            "name": "ARandom",
+            "id": 4364907047,
+            "id_str": "4364907047",
+            "indices": [
+              16,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 927522647897989100,
+      "in_reply_to_status_id_str": "927522647897989121",
+      "in_reply_to_user_id": 102768548,
+      "in_reply_to_user_id_str": "102768548",
+      "in_reply_to_screen_name": "tricky_fat_cat",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
