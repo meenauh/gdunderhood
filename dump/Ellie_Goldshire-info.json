@@ -37,195 +37,55 @@
     }
   },
   "protected": false,
-  "followers_count": 1187,
+  "followers_count": 1194,
   "friends_count": 46,
-  "listed_count": 22,
+  "listed_count": 23,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 1555,
+  "favourites_count": 1570,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 8561,
+  "statuses_count": 8599,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Nov 09 18:30:35 +0000 2017",
-    "id": 928691302249660400,
-    "id_str": "928691302249660417",
-    "text": "RT @TriggerCap: @gdunderhood @Ed_Wing @aprotasenya @GreyAku @NatanAndRipley прошу прощения, что влезаю, но, кажется, не стоит ограничиватьс…",
+    "created_at": "Fri Nov 10 17:57:21 +0000 2017",
+    "id": 929045325859446800,
+    "id_str": "929045325859446784",
+    "text": "@tricky_fat_cat Тот самый \"обслуживающий персонал\", который следит за работой ИИ/нейросети и вручную полишит результат.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "TriggerCap",
-          "name": "эмиссар горгонитов",
-          "id": 510832164,
-          "id_str": "510832164",
+          "screen_name": "tricky_fat_cat",
+          "name": "Artyom Volkov",
+          "id": 102768548,
+          "id_str": "102768548",
           "indices": [
-            3,
-            14
-          ]
-        },
-        {
-          "screen_name": "gdunderhood",
-          "name": "Гейм-дизайнер",
-          "id": 747371158832545800,
-          "id_str": "747371158832545792",
-          "indices": [
-            16,
-            28
-          ]
-        },
-        {
-          "screen_name": "Ed_Wing",
-          "name": "Slava Lukyanenka",
-          "id": 16422171,
-          "id_str": "16422171",
-          "indices": [
-            29,
-            37
-          ]
-        },
-        {
-          "screen_name": "aprotasenya",
-          "name": "ProtoSasha",
-          "id": 229789877,
-          "id_str": "229789877",
-          "indices": [
-            38,
-            50
-          ]
-        },
-        {
-          "screen_name": "GreyAku",
-          "name": "Aku",
-          "id": 46357404,
-          "id_str": "46357404",
-          "indices": [
-            51,
-            59
-          ]
-        },
-        {
-          "screen_name": "NatanAndRipley",
-          "name": "Королева Автосборки",
-          "id": 1966365996,
-          "id_str": "1966365996",
-          "indices": [
-            60,
-            75
+            0,
+            15
           ]
         }
       ],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 929045010032545800,
+    "in_reply_to_status_id_str": "929045010032545792",
+    "in_reply_to_user_id": 747371158832545800,
+    "in_reply_to_user_id_str": "747371158832545792",
+    "in_reply_to_screen_name": "gdunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Thu Nov 09 17:42:01 +0000 2017",
-      "id": 928679080534380500,
-      "id_str": "928679080534380546",
-      "text": "@gdunderhood @Ed_Wing @aprotasenya @GreyAku @NatanAndRipley прошу прощения, что влезаю, но, кажется, не стоит огран… https://t.co/c3g3SMc9JV",
-      "truncated": true,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "gdunderhood",
-            "name": "Гейм-дизайнер",
-            "id": 747371158832545800,
-            "id_str": "747371158832545792",
-            "indices": [
-              0,
-              12
-            ]
-          },
-          {
-            "screen_name": "Ed_Wing",
-            "name": "Slava Lukyanenka",
-            "id": 16422171,
-            "id_str": "16422171",
-            "indices": [
-              13,
-              21
-            ]
-          },
-          {
-            "screen_name": "aprotasenya",
-            "name": "ProtoSasha",
-            "id": 229789877,
-            "id_str": "229789877",
-            "indices": [
-              22,
-              34
-            ]
-          },
-          {
-            "screen_name": "GreyAku",
-            "name": "Aku",
-            "id": 46357404,
-            "id_str": "46357404",
-            "indices": [
-              35,
-              43
-            ]
-          },
-          {
-            "screen_name": "NatanAndRipley",
-            "name": "Королева Автосборки",
-            "id": 1966365996,
-            "id_str": "1966365996",
-            "indices": [
-              44,
-              59
-            ]
-          }
-        ],
-        "urls": [
-          {
-            "url": "https://t.co/c3g3SMc9JV",
-            "expanded_url": "https://twitter.com/i/web/status/928679080534380546",
-            "display_url": "twitter.com/i/web/status/9…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
-      },
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "in_reply_to_status_id": 928672482084536300,
-      "in_reply_to_status_id_str": "928672482084536320",
-      "in_reply_to_user_id": 747371158832545800,
-      "in_reply_to_user_id_str": "747371158832545792",
-      "in_reply_to_screen_name": "gdunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 3,
-      "favorited": true,
-      "retweeted": true,
-      "lang": "ru"
-    },
     "is_quote_status": false,
-    "retweet_count": 1,
+    "retweet_count": 0,
     "favorite_count": 0,
-    "favorited": true,
-    "retweeted": true,
+    "favorited": false,
+    "retweeted": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
