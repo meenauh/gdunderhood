@@ -21750,6 +21750,4584 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 10 20:32:54 +0000 2017",
+      "id": 929084471697080300,
+      "id_str": "929084471697080320",
+      "text": "@gdunderhood @tricky_fat_cat тьфу, Себранта. https://t.co/g1KwldMiS3",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "tricky_fat_cat",
+            "name": "Artyom Volkov",
+            "id": 102768548,
+            "id_str": "102768548",
+            "indices": [
+              13,
+              28
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/g1KwldMiS3",
+            "expanded_url": "https://telegram.me/techsparks",
+            "display_url": "telegram.me/techsparks",
+            "indices": [
+              45,
+              68
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 929053121736773600,
+      "in_reply_to_status_id_str": "929053121736773632",
+      "in_reply_to_user_id": 28778259,
+      "in_reply_to_user_id_str": "28778259",
+      "in_reply_to_screen_name": "antonzaitsev",
+      "user": {
+        "id": 28778259,
+        "id_str": "28778259"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 09:23:30 +0000 2017",
+      "id": 929278398811254800,
+      "id_str": "929278398811254784",
+      "text": "@gdunderhood Отлично!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 929276513366761500,
+      "in_reply_to_status_id_str": "929276513366761472",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 219725619,
+        "id_str": "219725619"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 09:34:51 +0000 2017",
+      "id": 929281255232897000,
+      "id_str": "929281255232897024",
+      "text": "@gdunderhood Я тоже ворвусь, рецепт для суперленивых.\n1. Филе грудки индейки (или курицы) или другая часть индейки… https://t.co/DPEaFMD2xT",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/DPEaFMD2xT",
+            "expanded_url": "https://twitter.com/i/web/status/929281255232897024",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 929280276047462400,
+      "in_reply_to_status_id_str": "929280276047462400",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 102768548,
+        "id_str": "102768548"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 09:39:02 +0000 2017",
+      "id": 929282310943510500,
+      "id_str": "929282310943510528",
+      "text": "@gdunderhood По своему опыту могу сказать, что лучший набор фрилансера/холостяка это:\n1) Пароварка - хороша для гар… https://t.co/rpO4sBExov",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/rpO4sBExov",
+            "expanded_url": "https://twitter.com/i/web/status/929282310943510528",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 929281621311750100,
+      "in_reply_to_status_id_str": "929281621311750144",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 102768548,
+        "id_str": "102768548"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 09:39:36 +0000 2017",
+      "id": 929282453801402400,
+      "id_str": "929282453801402368",
+      "text": "@gdunderhood А как же вельмени?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 929282295378382800,
+      "in_reply_to_status_id_str": "929282295378382848",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 102768548,
+        "id_str": "102768548"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 09:41:45 +0000 2017",
+      "id": 929282993784533000,
+      "id_str": "929282993784532993",
+      "text": "@gdunderhood Хороший полфабрикат можно купить, но надо знать места и перепробовать кучу.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 929282752280694800,
+      "in_reply_to_status_id_str": "929282752280694784",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 102768548,
+        "id_str": "102768548"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 09:51:29 +0000 2017",
+      "id": 929285442557694000,
+      "id_str": "929285442557693952",
+      "text": "@gdunderhood Я не подписывался на фудблог 🤔",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 929281621311750100,
+      "in_reply_to_status_id_str": "929281621311750144",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 359548015,
+        "id_str": "359548015"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 10:18:27 +0000 2017",
+      "id": 929292230229135400,
+      "id_str": "929292230229135360",
+      "text": "@tricky_fat_cat @gdunderhood Херасе завтрак!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tricky_fat_cat",
+            "name": "Artyom Volkov",
+            "id": 102768548,
+            "id_str": "102768548",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              16,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 929282453801402400,
+      "in_reply_to_status_id_str": "929282453801402368",
+      "in_reply_to_user_id": 102768548,
+      "in_reply_to_user_id_str": "102768548",
+      "in_reply_to_screen_name": "tricky_fat_cat",
+      "user": {
+        "id": 229789877,
+        "id_str": "229789877"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 10:19:19 +0000 2017",
+      "id": 929292445728280600,
+      "id_str": "929292445728280576",
+      "text": "@aprotasenya @gdunderhood А что не так? Я на завтрак и “кислые” щи ел.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "aprotasenya",
+            "name": "ProtoSasha",
+            "id": 229789877,
+            "id_str": "229789877",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              13,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 929292230229135400,
+      "in_reply_to_status_id_str": "929292230229135360",
+      "in_reply_to_user_id": 229789877,
+      "in_reply_to_user_id_str": "229789877",
+      "in_reply_to_screen_name": "aprotasenya",
+      "user": {
+        "id": 102768548,
+        "id_str": "102768548"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 10:19:54 +0000 2017",
+      "id": 929292594420633600,
+      "id_str": "929292594420633601",
+      "text": "@aprotasenya @tricky_fat_cat @gdunderhood Погодите, пельмени НА ЗАВТРАК?!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "aprotasenya",
+            "name": "ProtoSasha",
+            "id": 229789877,
+            "id_str": "229789877",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "tricky_fat_cat",
+            "name": "Artyom Volkov",
+            "id": 102768548,
+            "id_str": "102768548",
+            "indices": [
+              13,
+              28
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              29,
+              41
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 929292230229135400,
+      "in_reply_to_status_id_str": "929292230229135360",
+      "in_reply_to_user_id": 229789877,
+      "in_reply_to_user_id_str": "229789877",
+      "in_reply_to_screen_name": "aprotasenya",
+      "user": {
+        "id": 351090979,
+        "id_str": "351090979"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 10:20:13 +0000 2017",
+      "id": 929292674338869200,
+      "id_str": "929292674338869248",
+      "text": "@Ellie_Goldshire @aprotasenya @gdunderhood А что?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Ellie_Goldshire",
+            "name": "Элли Е.Фокк",
+            "id": 351090979,
+            "id_str": "351090979",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "aprotasenya",
+            "name": "ProtoSasha",
+            "id": 229789877,
+            "id_str": "229789877",
+            "indices": [
+              17,
+              29
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              30,
+              42
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 929292594420633600,
+      "in_reply_to_status_id_str": "929292594420633601",
+      "in_reply_to_user_id": 351090979,
+      "in_reply_to_user_id_str": "351090979",
+      "in_reply_to_screen_name": "Ellie_Goldshire",
+      "user": {
+        "id": 102768548,
+        "id_str": "102768548"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 10:24:09 +0000 2017",
+      "id": 929293664706269200,
+      "id_str": "929293664706269184",
+      "text": "@gdunderhood Призываю в тред @StasShostak. Плюс этим интересовался @YarKravtsov",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "StasShostak",
+            "name": "Stas Shostak",
+            "id": 2333212574,
+            "id_str": "2333212574",
+            "indices": [
+              29,
+              41
+            ]
+          },
+          {
+            "screen_name": "YarKravtsov",
+            "name": "Yaroslav Kravtsov",
+            "id": 2248341073,
+            "id_str": "2248341073",
+            "indices": [
+              67,
+              79
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 929276513366761500,
+      "in_reply_to_status_id_str": "929276513366761472",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 229789877,
+        "id_str": "229789877"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 10:24:14 +0000 2017",
+      "id": 929293683719131100,
+      "id_str": "929293683719131136",
+      "text": "@tricky_fat_cat @Ellie_Goldshire @aprotasenya @gdunderhood А с пивасом?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tricky_fat_cat",
+            "name": "Artyom Volkov",
+            "id": 102768548,
+            "id_str": "102768548",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "Ellie_Goldshire",
+            "name": "Элли Е.Фокк",
+            "id": 351090979,
+            "id_str": "351090979",
+            "indices": [
+              16,
+              32
+            ]
+          },
+          {
+            "screen_name": "aprotasenya",
+            "name": "ProtoSasha",
+            "id": 229789877,
+            "id_str": "229789877",
+            "indices": [
+              33,
+              45
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              46,
+              58
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 929292674338869200,
+      "in_reply_to_status_id_str": "929292674338869248",
+      "in_reply_to_user_id": 102768548,
+      "in_reply_to_user_id_str": "102768548",
+      "in_reply_to_screen_name": "tricky_fat_cat",
+      "user": {
+        "id": 17977407,
+        "id_str": "17977407"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 10:24:34 +0000 2017",
+      "id": 929293768620216300,
+      "id_str": "929293768620216320",
+      "text": "На прошлой неделе в @gdunderhood был кладезь пословиц и поговорок про геймдев, на этой неделе - достаточно внезапны… https://t.co/nN2ufpCX4x",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              20,
+              32
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/nN2ufpCX4x",
+            "expanded_url": "https://twitter.com/i/web/status/929293768620216320",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 757992634061295600,
+        "id_str": "757992634061295616"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 10:24:48 +0000 2017",
+      "id": 929293827768123400,
+      "id_str": "929293827768123392",
+      "text": "@skeetah @Ellie_Goldshire @aprotasenya @gdunderhood С чаем!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "skeetah",
+            "name": "mr. november",
+            "id": 17977407,
+            "id_str": "17977407",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "Ellie_Goldshire",
+            "name": "Элли Е.Фокк",
+            "id": 351090979,
+            "id_str": "351090979",
+            "indices": [
+              9,
+              25
+            ]
+          },
+          {
+            "screen_name": "aprotasenya",
+            "name": "ProtoSasha",
+            "id": 229789877,
+            "id_str": "229789877",
+            "indices": [
+              26,
+              38
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              39,
+              51
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 929293683719131100,
+      "in_reply_to_status_id_str": "929293683719131136",
+      "in_reply_to_user_id": 17977407,
+      "in_reply_to_user_id_str": "17977407",
+      "in_reply_to_screen_name": "skeetah",
+      "user": {
+        "id": 102768548,
+        "id_str": "102768548"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 10:25:16 +0000 2017",
+      "id": 929293943405244400,
+      "id_str": "929293943405244416",
+      "text": "@tricky_fat_cat @Ellie_Goldshire @aprotasenya @gdunderhood Ньюфаг!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tricky_fat_cat",
+            "name": "Artyom Volkov",
+            "id": 102768548,
+            "id_str": "102768548",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "Ellie_Goldshire",
+            "name": "Элли Е.Фокк",
+            "id": 351090979,
+            "id_str": "351090979",
+            "indices": [
+              16,
+              32
+            ]
+          },
+          {
+            "screen_name": "aprotasenya",
+            "name": "ProtoSasha",
+            "id": 229789877,
+            "id_str": "229789877",
+            "indices": [
+              33,
+              45
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              46,
+              58
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 929293827768123400,
+      "in_reply_to_status_id_str": "929293827768123392",
+      "in_reply_to_user_id": 102768548,
+      "in_reply_to_user_id_str": "102768548",
+      "in_reply_to_screen_name": "tricky_fat_cat",
+      "user": {
+        "id": 17977407,
+        "id_str": "17977407"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 10:26:16 +0000 2017",
+      "id": 929294196418236400,
+      "id_str": "929294196418236417",
+      "text": "@skeetah @Ellie_Goldshire @aprotasenya @gdunderhood Я пиво люблю в барах пить с друзьями",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "skeetah",
+            "name": "mr. november",
+            "id": 17977407,
+            "id_str": "17977407",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "Ellie_Goldshire",
+            "name": "Элли Е.Фокк",
+            "id": 351090979,
+            "id_str": "351090979",
+            "indices": [
+              9,
+              25
+            ]
+          },
+          {
+            "screen_name": "aprotasenya",
+            "name": "ProtoSasha",
+            "id": 229789877,
+            "id_str": "229789877",
+            "indices": [
+              26,
+              38
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              39,
+              51
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 929293943405244400,
+      "in_reply_to_status_id_str": "929293943405244416",
+      "in_reply_to_user_id": 17977407,
+      "in_reply_to_user_id_str": "17977407",
+      "in_reply_to_screen_name": "skeetah",
+      "user": {
+        "id": 102768548,
+        "id_str": "102768548"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 10:45:00 +0000 2017",
+      "id": 929298912493621200,
+      "id_str": "929298912493621254",
+      "text": "@aprotasenya @gdunderhood @YarKravtsov Я скажу только одно слово - мультиварка.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "aprotasenya",
+            "name": "ProtoSasha",
+            "id": 229789877,
+            "id_str": "229789877",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              13,
+              25
+            ]
+          },
+          {
+            "screen_name": "YarKravtsov",
+            "name": "Yaroslav Kravtsov",
+            "id": 2248341073,
+            "id_str": "2248341073",
+            "indices": [
+              26,
+              38
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 929293664706269200,
+      "in_reply_to_status_id_str": "929293664706269184",
+      "in_reply_to_user_id": 229789877,
+      "in_reply_to_user_id_str": "229789877",
+      "in_reply_to_screen_name": "aprotasenya",
+      "user": {
+        "id": 2333212574,
+        "id_str": "2333212574"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 10:56:32 +0000 2017",
+      "id": 929301811189682200,
+      "id_str": "929301811189682177",
+      "text": "@gdunderhood Я знал, что этот андерхуд в итоге придёт к рецептам",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 929281621311750100,
+      "in_reply_to_status_id_str": "929281621311750144",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 1586144827,
+        "id_str": "1586144827"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 11:25:25 +0000 2017",
+      "id": 929309082288353300,
+      "id_str": "929309082288353281",
+      "text": "@gdunderhood мне рассказывали про 8 вопросов синопсиса https://t.co/3AcqkRXmN9",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 929309075023769600,
+            "id_str": "929309075023769600",
+            "indices": [
+              55,
+              78
+            ],
+            "media_url": "http://pbs.twimg.com/media/DOWRrhdWsAAbZmG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DOWRrhdWsAAbZmG.jpg",
+            "url": "https://t.co/3AcqkRXmN9",
+            "display_url": "pic.twitter.com/3AcqkRXmN9",
+            "expanded_url": "https://twitter.com/luvjungle/status/929309082288353281/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1080,
+                "h": 787,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1080,
+                "h": 787,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 496,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 929309075023769600,
+            "id_str": "929309075023769600",
+            "indices": [
+              55,
+              78
+            ],
+            "media_url": "http://pbs.twimg.com/media/DOWRrhdWsAAbZmG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DOWRrhdWsAAbZmG.jpg",
+            "url": "https://t.co/3AcqkRXmN9",
+            "display_url": "pic.twitter.com/3AcqkRXmN9",
+            "expanded_url": "https://twitter.com/luvjungle/status/929309082288353281/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1080,
+                "h": 787,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1080,
+                "h": 787,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 496,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 929289345932189700,
+      "in_reply_to_status_id_str": "929289345932189701",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 298443976,
+        "id_str": "298443976"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 8,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 11:31:08 +0000 2017",
+      "id": 929310521689600000,
+      "id_str": "929310521689600000",
+      "text": "@gdunderhood Желательно 1-2. Получается обычно 2-4. 🙂",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 929289390144344000,
+      "in_reply_to_status_id_str": "929289390144344065",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 229789877,
+        "id_str": "229789877"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 11:33:58 +0000 2017",
+      "id": 929311232942895100,
+      "id_str": "929311232942895104",
+      "text": "@gdunderhood Аппрув, @AWaywardWriter? @QueenDramatizer? @guiltythree? @IlGlaz? @Narratorika?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "AWaywardWriter",
+            "name": "Evgeni Puzankov",
+            "id": 1636468334,
+            "id_str": "1636468334",
+            "indices": [
+              21,
+              36
+            ]
+          },
+          {
+            "screen_name": "QueenDramatizer",
+            "name": "QueenDramatizer",
+            "id": 2325783763,
+            "id_str": "2325783763",
+            "indices": [
+              38,
+              54
+            ]
+          },
+          {
+            "screen_name": "guiltythree",
+            "name": "Barisbi Alborov",
+            "id": 1277413980,
+            "id_str": "1277413980",
+            "indices": [
+              56,
+              68
+            ]
+          },
+          {
+            "screen_name": "IlGlaz",
+            "name": "Ilya Glazkov",
+            "id": 1368979002,
+            "id_str": "1368979002",
+            "indices": [
+              70,
+              77
+            ]
+          },
+          {
+            "screen_name": "Narratorika",
+            "name": "Narratorika",
+            "id": 3225242841,
+            "id_str": "3225242841",
+            "indices": [
+              79,
+              91
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 929304507888095200,
+      "in_reply_to_status_id_str": "929304507888095233",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 229789877,
+        "id_str": "229789877"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Sat Nov 11 11:35:04 +0000 2017",
+      "id": 929311508877795300,
+      "id_str": "929311508877795328",
+      "text": "@aprotasenya @gdunderhood @QueenDramatizer @guiltythree @IlGlaz @Narratorika Йап. С такого плана все начинается.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "aprotasenya",
+            "name": "ProtoSasha",
+            "id": 229789877,
+            "id_str": "229789877",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              13,
+              25
+            ]
+          },
+          {
+            "screen_name": "QueenDramatizer",
+            "name": "QueenDramatizer",
+            "id": 2325783763,
+            "id_str": "2325783763",
+            "indices": [
+              26,
+              42
+            ]
+          },
+          {
+            "screen_name": "guiltythree",
+            "name": "Barisbi Alborov",
+            "id": 1277413980,
+            "id_str": "1277413980",
+            "indices": [
+              43,
+              55
+            ]
+          },
+          {
+            "screen_name": "IlGlaz",
+            "name": "Ilya Glazkov",
+            "id": 1368979002,
+            "id_str": "1368979002",
+            "indices": [
+              56,
+              63
+            ]
+          },
+          {
+            "screen_name": "Narratorika",
+            "name": "Narratorika",
+            "id": 3225242841,
+            "id_str": "3225242841",
+            "indices": [
+              64,
+              76
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 929311232942895100,
+      "in_reply_to_status_id_str": "929311232942895104",
+      "in_reply_to_user_id": 229789877,
+      "in_reply_to_user_id_str": "229789877",
+      "in_reply_to_screen_name": "aprotasenya",
+      "user": {
+        "id": 1636468334,
+        "id_str": "1636468334"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 11:53:44 +0000 2017",
+      "id": 929316209606234100,
+      "id_str": "929316209606234113",
+      "text": "@gdunderhood @aprotasenya 1 страница ок.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "aprotasenya",
+            "name": "ProtoSasha",
+            "id": 229789877,
+            "id_str": "229789877",
+            "indices": [
+              13,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 929314746582622200,
+      "in_reply_to_status_id_str": "929314746582622208",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 102768548,
+        "id_str": "102768548"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 11:58:02 +0000 2017",
+      "id": 929317289522024400,
+      "id_str": "929317289522024456",
+      "text": "@tricky_fat_cat @gdunderhood @aprotasenya у меня есть синопсисы энгри бёрдс и sc2: wol и оба на 2 страницы. На… https://t.co/7ReDuzlpxM",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tricky_fat_cat",
+            "name": "Artyom Volkov",
+            "id": 102768548,
+            "id_str": "102768548",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              16,
+              28
+            ]
+          },
+          {
+            "screen_name": "aprotasenya",
+            "name": "ProtoSasha",
+            "id": 229789877,
+            "id_str": "229789877",
+            "indices": [
+              29,
+              41
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/7ReDuzlpxM",
+            "expanded_url": "https://twitter.com/i/web/status/929317289522024456",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 929316209606234100,
+      "in_reply_to_status_id_str": "929316209606234113",
+      "in_reply_to_user_id": 102768548,
+      "in_reply_to_user_id_str": "102768548",
+      "in_reply_to_screen_name": "tricky_fat_cat",
+      "user": {
+        "id": 298443976,
+        "id_str": "298443976"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 11:58:04 +0000 2017",
+      "id": 929317296820183000,
+      "id_str": "929317296820183040",
+      "text": "@gdunderhood @aprotasenya @QueenDramatizer @guiltythree @IlGlaz @Narratorika Так все проекты разные. Синопсис + поэ… https://t.co/jDf9rsFj4p",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "aprotasenya",
+            "name": "ProtoSasha",
+            "id": 229789877,
+            "id_str": "229789877",
+            "indices": [
+              13,
+              25
+            ]
+          },
+          {
+            "screen_name": "QueenDramatizer",
+            "name": "QueenDramatizer",
+            "id": 2325783763,
+            "id_str": "2325783763",
+            "indices": [
+              26,
+              42
+            ]
+          },
+          {
+            "screen_name": "guiltythree",
+            "name": "Barisbi Alborov",
+            "id": 1277413980,
+            "id_str": "1277413980",
+            "indices": [
+              43,
+              55
+            ]
+          },
+          {
+            "screen_name": "IlGlaz",
+            "name": "Ilya Glazkov",
+            "id": 1368979002,
+            "id_str": "1368979002",
+            "indices": [
+              56,
+              63
+            ]
+          },
+          {
+            "screen_name": "Narratorika",
+            "name": "Narratorika",
+            "id": 3225242841,
+            "id_str": "3225242841",
+            "indices": [
+              64,
+              76
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/jDf9rsFj4p",
+            "expanded_url": "https://twitter.com/i/web/status/929317296820183040",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 929314565678161900,
+      "in_reply_to_status_id_str": "929314565678161920",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 1636468334,
+        "id_str": "1636468334"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 12:08:37 +0000 2017",
+      "id": 929319953307709400,
+      "id_str": "929319953307709440",
+      "text": "@gdunderhood Каков основной игровой процесс, только костяк.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 929318724083114000,
+      "in_reply_to_status_id_str": "929318724083113984",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 102768548,
+        "id_str": "102768548"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 12:09:36 +0000 2017",
+      "id": 929320200905904100,
+      "id_str": "929320200905904129",
+      "text": "@gdunderhood @AWaywardWriter @aprotasenya @QueenDramatizer @guiltythree @Narratorika On a personal note: перед напи… https://t.co/ONhMLzzt8A",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "AWaywardWriter",
+            "name": "Evgeni Puzankov",
+            "id": 1636468334,
+            "id_str": "1636468334",
+            "indices": [
+              13,
+              28
+            ]
+          },
+          {
+            "screen_name": "aprotasenya",
+            "name": "ProtoSasha",
+            "id": 229789877,
+            "id_str": "229789877",
+            "indices": [
+              29,
+              41
+            ]
+          },
+          {
+            "screen_name": "QueenDramatizer",
+            "name": "QueenDramatizer",
+            "id": 2325783763,
+            "id_str": "2325783763",
+            "indices": [
+              42,
+              58
+            ]
+          },
+          {
+            "screen_name": "guiltythree",
+            "name": "Barisbi Alborov",
+            "id": 1277413980,
+            "id_str": "1277413980",
+            "indices": [
+              59,
+              71
+            ]
+          },
+          {
+            "screen_name": "Narratorika",
+            "name": "Narratorika",
+            "id": 3225242841,
+            "id_str": "3225242841",
+            "indices": [
+              72,
+              84
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ONhMLzzt8A",
+            "expanded_url": "https://twitter.com/i/web/status/929320200905904129",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+      "in_reply_to_status_id": 929314565678161900,
+      "in_reply_to_status_id_str": "929314565678161920",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 1368979002,
+        "id_str": "1368979002"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 12:09:57 +0000 2017",
+      "id": 929320288336138200,
+      "id_str": "929320288336138241",
+      "text": "@luvjungle @tricky_fat_cat @gdunderhood А что в синопсисе Angry Birds? Сюжета же там, вроде, толком нет? Или я неправильно играл?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "luvjungle",
+            "name": "A Hideo Kojima Game",
+            "id": 298443976,
+            "id_str": "298443976",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "tricky_fat_cat",
+            "name": "Artyom Volkov",
+            "id": 102768548,
+            "id_str": "102768548",
+            "indices": [
+              11,
+              26
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              27,
+              39
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 929317289522024400,
+      "in_reply_to_status_id_str": "929317289522024456",
+      "in_reply_to_user_id": 298443976,
+      "in_reply_to_user_id_str": "298443976",
+      "in_reply_to_screen_name": "luvjungle",
+      "user": {
+        "id": 229789877,
+        "id_str": "229789877"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 12:11:15 +0000 2017",
+      "id": 929320616154497000,
+      "id_str": "929320616154497024",
+      "text": "@aprotasenya @tricky_fat_cat @gdunderhood да сам в шоке https://t.co/ZDDeOkZTvm",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "aprotasenya",
+            "name": "ProtoSasha",
+            "id": 229789877,
+            "id_str": "229789877",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "tricky_fat_cat",
+            "name": "Artyom Volkov",
+            "id": 102768548,
+            "id_str": "102768548",
+            "indices": [
+              13,
+              28
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              29,
+              41
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ZDDeOkZTvm",
+            "expanded_url": "https://drive.google.com/file/d/1G-ZUDv0ZhQ7FDDB8C0Qeuz7VdXSGayb2/view?usp=drivesdk",
+            "display_url": "drive.google.com/file/d/1G-ZUDv…",
+            "indices": [
+              56,
+              79
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 929320288336138200,
+      "in_reply_to_status_id_str": "929320288336138241",
+      "in_reply_to_user_id": 229789877,
+      "in_reply_to_user_id_str": "229789877",
+      "in_reply_to_screen_name": "aprotasenya",
+      "user": {
+        "id": 298443976,
+        "id_str": "298443976"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 12:12:29 +0000 2017",
+      "id": 929320928189866000,
+      "id_str": "929320928189865984",
+      "text": "@gdunderhood @AWaywardWriter @aprotasenya @QueenDramatizer @guiltythree @Narratorika ...я предпочитаю взять и оформ… https://t.co/cywQOShbdJ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "AWaywardWriter",
+            "name": "Evgeni Puzankov",
+            "id": 1636468334,
+            "id_str": "1636468334",
+            "indices": [
+              13,
+              28
+            ]
+          },
+          {
+            "screen_name": "aprotasenya",
+            "name": "ProtoSasha",
+            "id": 229789877,
+            "id_str": "229789877",
+            "indices": [
+              29,
+              41
+            ]
+          },
+          {
+            "screen_name": "QueenDramatizer",
+            "name": "QueenDramatizer",
+            "id": 2325783763,
+            "id_str": "2325783763",
+            "indices": [
+              42,
+              58
+            ]
+          },
+          {
+            "screen_name": "guiltythree",
+            "name": "Barisbi Alborov",
+            "id": 1277413980,
+            "id_str": "1277413980",
+            "indices": [
+              59,
+              71
+            ]
+          },
+          {
+            "screen_name": "Narratorika",
+            "name": "Narratorika",
+            "id": 3225242841,
+            "id_str": "3225242841",
+            "indices": [
+              72,
+              84
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/cywQOShbdJ",
+            "expanded_url": "https://twitter.com/i/web/status/929320928189865984",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+      "in_reply_to_status_id": 929320200905904100,
+      "in_reply_to_status_id_str": "929320200905904129",
+      "in_reply_to_user_id": 1368979002,
+      "in_reply_to_user_id_str": "1368979002",
+      "in_reply_to_screen_name": "IlGlaz",
+      "user": {
+        "id": 1368979002,
+        "id_str": "1368979002"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 12:12:58 +0000 2017",
+      "id": 929321047983132700,
+      "id_str": "929321047983132672",
+      "text": "@gdunderhood That won't cut it.\n\n1) Puzzle Adventure аля Monkey Island.\n2) Mass Effect 2\n3) Rogue-like аля например… https://t.co/zngZI0wJka",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/zngZI0wJka",
+            "expanded_url": "https://twitter.com/i/web/status/929321047983132672",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 929318887853887500,
+      "in_reply_to_status_id_str": "929318887853887488",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 1636468334,
+        "id_str": "1636468334"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Sat Nov 11 12:13:39 +0000 2017",
+      "id": 929321220386017300,
+      "id_str": "929321220386017281",
+      "text": "@IlGlaz @gdunderhood @aprotasenya @QueenDramatizer @guiltythree @Narratorika Логлайн кстати да. Но я обычно использ… https://t.co/GgHiX0afUT",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "IlGlaz",
+            "name": "Ilya Glazkov",
+            "id": 1368979002,
+            "id_str": "1368979002",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              8,
+              20
+            ]
+          },
+          {
+            "screen_name": "aprotasenya",
+            "name": "ProtoSasha",
+            "id": 229789877,
+            "id_str": "229789877",
+            "indices": [
+              21,
+              33
+            ]
+          },
+          {
+            "screen_name": "QueenDramatizer",
+            "name": "QueenDramatizer",
+            "id": 2325783763,
+            "id_str": "2325783763",
+            "indices": [
+              34,
+              50
+            ]
+          },
+          {
+            "screen_name": "guiltythree",
+            "name": "Barisbi Alborov",
+            "id": 1277413980,
+            "id_str": "1277413980",
+            "indices": [
+              51,
+              63
+            ]
+          },
+          {
+            "screen_name": "Narratorika",
+            "name": "Narratorika",
+            "id": 3225242841,
+            "id_str": "3225242841",
+            "indices": [
+              64,
+              76
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/GgHiX0afUT",
+            "expanded_url": "https://twitter.com/i/web/status/929321220386017281",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 929320928189866000,
+      "in_reply_to_status_id_str": "929320928189865984",
+      "in_reply_to_user_id": 1368979002,
+      "in_reply_to_user_id_str": "1368979002",
+      "in_reply_to_screen_name": "IlGlaz",
+      "user": {
+        "id": 1636468334,
+        "id_str": "1636468334"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 12:15:13 +0000 2017",
+      "id": 929321612868014100,
+      "id_str": "929321612868014080",
+      "text": "@gdunderhood @IlGlaz @aprotasenya @QueenDramatizer @guiltythree @Narratorika Он бесценен для PR и маркетинга.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "IlGlaz",
+            "name": "Ilya Glazkov",
+            "id": 1368979002,
+            "id_str": "1368979002",
+            "indices": [
+              13,
+              20
+            ]
+          },
+          {
+            "screen_name": "aprotasenya",
+            "name": "ProtoSasha",
+            "id": 229789877,
+            "id_str": "229789877",
+            "indices": [
+              21,
+              33
+            ]
+          },
+          {
+            "screen_name": "QueenDramatizer",
+            "name": "QueenDramatizer",
+            "id": 2325783763,
+            "id_str": "2325783763",
+            "indices": [
+              34,
+              50
+            ]
+          },
+          {
+            "screen_name": "guiltythree",
+            "name": "Barisbi Alborov",
+            "id": 1277413980,
+            "id_str": "1277413980",
+            "indices": [
+              51,
+              63
+            ]
+          },
+          {
+            "screen_name": "Narratorika",
+            "name": "Narratorika",
+            "id": 3225242841,
+            "id_str": "3225242841",
+            "indices": [
+              64,
+              76
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 929321388523032600,
+      "in_reply_to_status_id_str": "929321388523032578",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 1636468334,
+        "id_str": "1636468334"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 12:15:33 +0000 2017",
+      "id": 929321696464646100,
+      "id_str": "929321696464646145",
+      "text": "@gdunderhood @IlGlaz @AWaywardWriter @aprotasenya @guiltythree @Narratorika ну, у нас своя специфика - как у сериал… https://t.co/ubQMawwdxJ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "IlGlaz",
+            "name": "Ilya Glazkov",
+            "id": 1368979002,
+            "id_str": "1368979002",
+            "indices": [
+              13,
+              20
+            ]
+          },
+          {
+            "screen_name": "AWaywardWriter",
+            "name": "Evgeni Puzankov",
+            "id": 1636468334,
+            "id_str": "1636468334",
+            "indices": [
+              21,
+              36
+            ]
+          },
+          {
+            "screen_name": "aprotasenya",
+            "name": "ProtoSasha",
+            "id": 229789877,
+            "id_str": "229789877",
+            "indices": [
+              37,
+              49
+            ]
+          },
+          {
+            "screen_name": "guiltythree",
+            "name": "Barisbi Alborov",
+            "id": 1277413980,
+            "id_str": "1277413980",
+            "indices": [
+              50,
+              62
+            ]
+          },
+          {
+            "screen_name": "Narratorika",
+            "name": "Narratorika",
+            "id": 3225242841,
+            "id_str": "3225242841",
+            "indices": [
+              63,
+              75
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ubQMawwdxJ",
+            "expanded_url": "https://twitter.com/i/web/status/929321696464646145",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 929321388523032600,
+      "in_reply_to_status_id_str": "929321388523032578",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 2325783763,
+        "id_str": "2325783763"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 12:16:21 +0000 2017",
+      "id": 929321899796164600,
+      "id_str": "929321899796164608",
+      "text": "@AWaywardWriter @gdunderhood @aprotasenya @QueenDramatizer @guiltythree @Narratorika Пагубные твиттерские привычки… https://t.co/6P8XwhQYrl",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AWaywardWriter",
+            "name": "Evgeni Puzankov",
+            "id": 1636468334,
+            "id_str": "1636468334",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              16,
+              28
+            ]
+          },
+          {
+            "screen_name": "aprotasenya",
+            "name": "ProtoSasha",
+            "id": 229789877,
+            "id_str": "229789877",
+            "indices": [
+              29,
+              41
+            ]
+          },
+          {
+            "screen_name": "QueenDramatizer",
+            "name": "QueenDramatizer",
+            "id": 2325783763,
+            "id_str": "2325783763",
+            "indices": [
+              42,
+              58
+            ]
+          },
+          {
+            "screen_name": "guiltythree",
+            "name": "Barisbi Alborov",
+            "id": 1277413980,
+            "id_str": "1277413980",
+            "indices": [
+              59,
+              71
+            ]
+          },
+          {
+            "screen_name": "Narratorika",
+            "name": "Narratorika",
+            "id": 3225242841,
+            "id_str": "3225242841",
+            "indices": [
+              72,
+              84
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/6P8XwhQYrl",
+            "expanded_url": "https://twitter.com/i/web/status/929321899796164608",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+      "in_reply_to_status_id": 929321220386017300,
+      "in_reply_to_status_id_str": "929321220386017281",
+      "in_reply_to_user_id": 1636468334,
+      "in_reply_to_user_id_str": "1636468334",
+      "in_reply_to_screen_name": "AWaywardWriter",
+      "user": {
+        "id": 1368979002,
+        "id_str": "1368979002"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 12:17:12 +0000 2017",
+      "id": 929322112539594800,
+      "id_str": "929322112539594752",
+      "text": "@IlGlaz @gdunderhood @aprotasenya @QueenDramatizer @guiltythree @Narratorika И арбитрарный гайдлайн не писать репли… https://t.co/alpLjwXw5x",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "IlGlaz",
+            "name": "Ilya Glazkov",
+            "id": 1368979002,
+            "id_str": "1368979002",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              8,
+              20
+            ]
+          },
+          {
+            "screen_name": "aprotasenya",
+            "name": "ProtoSasha",
+            "id": 229789877,
+            "id_str": "229789877",
+            "indices": [
+              21,
+              33
+            ]
+          },
+          {
+            "screen_name": "QueenDramatizer",
+            "name": "QueenDramatizer",
+            "id": 2325783763,
+            "id_str": "2325783763",
+            "indices": [
+              34,
+              50
+            ]
+          },
+          {
+            "screen_name": "guiltythree",
+            "name": "Barisbi Alborov",
+            "id": 1277413980,
+            "id_str": "1277413980",
+            "indices": [
+              51,
+              63
+            ]
+          },
+          {
+            "screen_name": "Narratorika",
+            "name": "Narratorika",
+            "id": 3225242841,
+            "id_str": "3225242841",
+            "indices": [
+              64,
+              76
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/alpLjwXw5x",
+            "expanded_url": "https://twitter.com/i/web/status/929322112539594752",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 929321899796164600,
+      "in_reply_to_status_id_str": "929321899796164608",
+      "in_reply_to_user_id": 1368979002,
+      "in_reply_to_user_id_str": "1368979002",
+      "in_reply_to_screen_name": "IlGlaz",
+      "user": {
+        "id": 1636468334,
+        "id_str": "1636468334"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 12:17:30 +0000 2017",
+      "id": 929322190205521900,
+      "id_str": "929322190205521920",
+      "text": "@gdunderhood Овсянка, заваренная кипятком + банка тунца = идеальный завтрак/обед с точки зрения белков, жиров и угл… https://t.co/u5CcikgnpT",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/u5CcikgnpT",
+            "expanded_url": "https://twitter.com/i/web/status/929322190205521920",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 929285247488929800,
+      "in_reply_to_status_id_str": "929285247488929792",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 2325783763,
+        "id_str": "2325783763"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 12:18:50 +0000 2017",
+      "id": 929322524231512000,
+      "id_str": "929322524231512065",
+      "text": "@QueenDramatizer @gdunderhood @IlGlaz @aprotasenya @guiltythree @Narratorika 1) Синопсис Сезона\n2) Поэпизодник Сезо… https://t.co/bZFBhnGqbL",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "QueenDramatizer",
+            "name": "QueenDramatizer",
+            "id": 2325783763,
+            "id_str": "2325783763",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              17,
+              29
+            ]
+          },
+          {
+            "screen_name": "IlGlaz",
+            "name": "Ilya Glazkov",
+            "id": 1368979002,
+            "id_str": "1368979002",
+            "indices": [
+              30,
+              37
+            ]
+          },
+          {
+            "screen_name": "aprotasenya",
+            "name": "ProtoSasha",
+            "id": 229789877,
+            "id_str": "229789877",
+            "indices": [
+              38,
+              50
+            ]
+          },
+          {
+            "screen_name": "guiltythree",
+            "name": "Barisbi Alborov",
+            "id": 1277413980,
+            "id_str": "1277413980",
+            "indices": [
+              51,
+              63
+            ]
+          },
+          {
+            "screen_name": "Narratorika",
+            "name": "Narratorika",
+            "id": 3225242841,
+            "id_str": "3225242841",
+            "indices": [
+              64,
+              76
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/bZFBhnGqbL",
+            "expanded_url": "https://twitter.com/i/web/status/929322524231512065",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 929321696464646100,
+      "in_reply_to_status_id_str": "929321696464646145",
+      "in_reply_to_user_id": 2325783763,
+      "in_reply_to_user_id_str": "2325783763",
+      "in_reply_to_screen_name": "QueenDramatizer",
+      "user": {
+        "id": 1636468334,
+        "id_str": "1636468334"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 12:21:54 +0000 2017",
+      "id": 929323298378395600,
+      "id_str": "929323298378395648",
+      "text": "@AWaywardWriter @gdunderhood @IlGlaz @aprotasenya @guiltythree @Narratorika Вообще нет. Ты сам писал сериалы когда-то? Кажется нет.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AWaywardWriter",
+            "name": "Evgeni Puzankov",
+            "id": 1636468334,
+            "id_str": "1636468334",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              16,
+              28
+            ]
+          },
+          {
+            "screen_name": "IlGlaz",
+            "name": "Ilya Glazkov",
+            "id": 1368979002,
+            "id_str": "1368979002",
+            "indices": [
+              29,
+              36
+            ]
+          },
+          {
+            "screen_name": "aprotasenya",
+            "name": "ProtoSasha",
+            "id": 229789877,
+            "id_str": "229789877",
+            "indices": [
+              37,
+              49
+            ]
+          },
+          {
+            "screen_name": "guiltythree",
+            "name": "Barisbi Alborov",
+            "id": 1277413980,
+            "id_str": "1277413980",
+            "indices": [
+              50,
+              62
+            ]
+          },
+          {
+            "screen_name": "Narratorika",
+            "name": "Narratorika",
+            "id": 3225242841,
+            "id_str": "3225242841",
+            "indices": [
+              63,
+              75
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 929322524231512000,
+      "in_reply_to_status_id_str": "929322524231512065",
+      "in_reply_to_user_id": 1636468334,
+      "in_reply_to_user_id_str": "1636468334",
+      "in_reply_to_screen_name": "AWaywardWriter",
+      "user": {
+        "id": 2325783763,
+        "id_str": "2325783763"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 12:23:04 +0000 2017",
+      "id": 929323589265915900,
+      "id_str": "929323589265915904",
+      "text": "@QueenDramatizer @gdunderhood @IlGlaz @aprotasenya @guiltythree @Narratorika Duh. От того и спрашиваю. Распиши чуть… https://t.co/XtaBMQ2on5",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "QueenDramatizer",
+            "name": "QueenDramatizer",
+            "id": 2325783763,
+            "id_str": "2325783763",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              17,
+              29
+            ]
+          },
+          {
+            "screen_name": "IlGlaz",
+            "name": "Ilya Glazkov",
+            "id": 1368979002,
+            "id_str": "1368979002",
+            "indices": [
+              30,
+              37
+            ]
+          },
+          {
+            "screen_name": "aprotasenya",
+            "name": "ProtoSasha",
+            "id": 229789877,
+            "id_str": "229789877",
+            "indices": [
+              38,
+              50
+            ]
+          },
+          {
+            "screen_name": "guiltythree",
+            "name": "Barisbi Alborov",
+            "id": 1277413980,
+            "id_str": "1277413980",
+            "indices": [
+              51,
+              63
+            ]
+          },
+          {
+            "screen_name": "Narratorika",
+            "name": "Narratorika",
+            "id": 3225242841,
+            "id_str": "3225242841",
+            "indices": [
+              64,
+              76
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/XtaBMQ2on5",
+            "expanded_url": "https://twitter.com/i/web/status/929323589265915904",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 929323298378395600,
+      "in_reply_to_status_id_str": "929323298378395648",
+      "in_reply_to_user_id": 2325783763,
+      "in_reply_to_user_id_str": "2325783763",
+      "in_reply_to_screen_name": "QueenDramatizer",
+      "user": {
+        "id": 1636468334,
+        "id_str": "1636468334"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Sat Nov 11 12:23:34 +0000 2017",
+      "id": 929323714751197200,
+      "id_str": "929323714751197184",
+      "text": "@AWaywardWriter @gdunderhood @IlGlaz @aprotasenya @guiltythree @Narratorika Если ты производишь контент сериями, то… https://t.co/UmJeO6G8nJ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AWaywardWriter",
+            "name": "Evgeni Puzankov",
+            "id": 1636468334,
+            "id_str": "1636468334",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              16,
+              28
+            ]
+          },
+          {
+            "screen_name": "IlGlaz",
+            "name": "Ilya Glazkov",
+            "id": 1368979002,
+            "id_str": "1368979002",
+            "indices": [
+              29,
+              36
+            ]
+          },
+          {
+            "screen_name": "aprotasenya",
+            "name": "ProtoSasha",
+            "id": 229789877,
+            "id_str": "229789877",
+            "indices": [
+              37,
+              49
+            ]
+          },
+          {
+            "screen_name": "guiltythree",
+            "name": "Barisbi Alborov",
+            "id": 1277413980,
+            "id_str": "1277413980",
+            "indices": [
+              50,
+              62
+            ]
+          },
+          {
+            "screen_name": "Narratorika",
+            "name": "Narratorika",
+            "id": 3225242841,
+            "id_str": "3225242841",
+            "indices": [
+              63,
+              75
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/UmJeO6G8nJ",
+            "expanded_url": "https://twitter.com/i/web/status/929323714751197184",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 929322524231512000,
+      "in_reply_to_status_id_str": "929322524231512065",
+      "in_reply_to_user_id": 1636468334,
+      "in_reply_to_user_id_str": "1636468334",
+      "in_reply_to_screen_name": "AWaywardWriter",
+      "user": {
+        "id": 2325783763,
+        "id_str": "2325783763"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 12:24:55 +0000 2017",
+      "id": 929324054045249500,
+      "id_str": "929324054045249536",
+      "text": "@StasShostak @aprotasenya @gdunderhood У меня два слова против - мыть мультиварку",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "StasShostak",
+            "name": "Stas Shostak",
+            "id": 2333212574,
+            "id_str": "2333212574",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "aprotasenya",
+            "name": "ProtoSasha",
+            "id": 229789877,
+            "id_str": "229789877",
+            "indices": [
+              13,
+              25
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              26,
+              38
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 929298912493621200,
+      "in_reply_to_status_id_str": "929298912493621254",
+      "in_reply_to_user_id": 2333212574,
+      "in_reply_to_user_id_str": "2333212574",
+      "in_reply_to_screen_name": "StasShostak",
+      "user": {
+        "id": 2248341073,
+        "id_str": "2248341073"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 12:25:13 +0000 2017",
+      "id": 929324128934428700,
+      "id_str": "929324128934428672",
+      "text": "@AWaywardWriter @gdunderhood @IlGlaz @aprotasenya @guiltythree @Narratorika потому, что пока ты допишешь серию 1 ст… https://t.co/So36DpiezB",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AWaywardWriter",
+            "name": "Evgeni Puzankov",
+            "id": 1636468334,
+            "id_str": "1636468334",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              16,
+              28
+            ]
+          },
+          {
+            "screen_name": "IlGlaz",
+            "name": "Ilya Glazkov",
+            "id": 1368979002,
+            "id_str": "1368979002",
+            "indices": [
+              29,
+              36
+            ]
+          },
+          {
+            "screen_name": "aprotasenya",
+            "name": "ProtoSasha",
+            "id": 229789877,
+            "id_str": "229789877",
+            "indices": [
+              37,
+              49
+            ]
+          },
+          {
+            "screen_name": "guiltythree",
+            "name": "Barisbi Alborov",
+            "id": 1277413980,
+            "id_str": "1277413980",
+            "indices": [
+              50,
+              62
+            ]
+          },
+          {
+            "screen_name": "Narratorika",
+            "name": "Narratorika",
+            "id": 3225242841,
+            "id_str": "3225242841",
+            "indices": [
+              63,
+              75
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/So36DpiezB",
+            "expanded_url": "https://twitter.com/i/web/status/929324128934428672",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 929323714751197200,
+      "in_reply_to_status_id_str": "929323714751197184",
+      "in_reply_to_user_id": 2325783763,
+      "in_reply_to_user_id_str": "2325783763",
+      "in_reply_to_screen_name": "QueenDramatizer",
+      "user": {
+        "id": 2325783763,
+        "id_str": "2325783763"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 12:36:39 +0000 2017",
+      "id": 929327010031263700,
+      "id_str": "929327010031263746",
+      "text": "@gdunderhood Почему ты используешь эти цифры? Если добраться до дна логики 140 символов, то она разбивается к чертя… https://t.co/IIV9mgpPWR",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/IIV9mgpPWR",
+            "expanded_url": "https://twitter.com/i/web/status/929327010031263746",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 929326259263496200,
+      "in_reply_to_status_id_str": "929326259263496195",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 1636468334,
+        "id_str": "1636468334"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 12:42:53 +0000 2017",
+      "id": 929328579019669500,
+      "id_str": "929328579019669505",
+      "text": "@AWaywardWriter @QueenDramatizer @gdunderhood @IlGlaz @guiltythree @Narratorika Взоржано!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AWaywardWriter",
+            "name": "Evgeni Puzankov",
+            "id": 1636468334,
+            "id_str": "1636468334",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "QueenDramatizer",
+            "name": "QueenDramatizer",
+            "id": 2325783763,
+            "id_str": "2325783763",
+            "indices": [
+              16,
+              32
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              33,
+              45
+            ]
+          },
+          {
+            "screen_name": "IlGlaz",
+            "name": "Ilya Glazkov",
+            "id": 1368979002,
+            "id_str": "1368979002",
+            "indices": [
+              46,
+              53
+            ]
+          },
+          {
+            "screen_name": "guiltythree",
+            "name": "Barisbi Alborov",
+            "id": 1277413980,
+            "id_str": "1277413980",
+            "indices": [
+              54,
+              66
+            ]
+          },
+          {
+            "screen_name": "Narratorika",
+            "name": "Narratorika",
+            "id": 3225242841,
+            "id_str": "3225242841",
+            "indices": [
+              67,
+              79
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 929322524231512000,
+      "in_reply_to_status_id_str": "929322524231512065",
+      "in_reply_to_user_id": 1636468334,
+      "in_reply_to_user_id_str": "1636468334",
+      "in_reply_to_screen_name": "AWaywardWriter",
+      "user": {
+        "id": 229789877,
+        "id_str": "229789877"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 12:46:03 +0000 2017",
+      "id": 929329372141678600,
+      "id_str": "929329372141678593",
+      "text": "@YarKravtsov @StasShostak @aprotasenya @gdunderhood По этому пароварка + электронный гриль",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "YarKravtsov",
+            "name": "Yaroslav Kravtsov",
+            "id": 2248341073,
+            "id_str": "2248341073",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "StasShostak",
+            "name": "Stas Shostak",
+            "id": 2333212574,
+            "id_str": "2333212574",
+            "indices": [
+              13,
+              25
+            ]
+          },
+          {
+            "screen_name": "aprotasenya",
+            "name": "ProtoSasha",
+            "id": 229789877,
+            "id_str": "229789877",
+            "indices": [
+              26,
+              38
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              39,
+              51
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 929324054045249500,
+      "in_reply_to_status_id_str": "929324054045249536",
+      "in_reply_to_user_id": 2248341073,
+      "in_reply_to_user_id_str": "2248341073",
+      "in_reply_to_screen_name": "YarKravtsov",
+      "user": {
+        "id": 102768548,
+        "id_str": "102768548"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 12:51:45 +0000 2017",
+      "id": 929330809110179800,
+      "id_str": "929330809110179840",
+      "text": "@tricky_fat_cat @YarKravtsov @aprotasenya @gdunderhood возможно я свинья, но я за полтора года не понял, чем мытье… https://t.co/7lYI0w3ClH",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tricky_fat_cat",
+            "name": "Artyom Volkov",
+            "id": 102768548,
+            "id_str": "102768548",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "YarKravtsov",
+            "name": "Yaroslav Kravtsov",
+            "id": 2248341073,
+            "id_str": "2248341073",
+            "indices": [
+              16,
+              28
+            ]
+          },
+          {
+            "screen_name": "aprotasenya",
+            "name": "ProtoSasha",
+            "id": 229789877,
+            "id_str": "229789877",
+            "indices": [
+              29,
+              41
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              42,
+              54
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/7lYI0w3ClH",
+            "expanded_url": "https://twitter.com/i/web/status/929330809110179840",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 929329372141678600,
+      "in_reply_to_status_id_str": "929329372141678593",
+      "in_reply_to_user_id": 102768548,
+      "in_reply_to_user_id_str": "102768548",
+      "in_reply_to_screen_name": "tricky_fat_cat",
+      "user": {
+        "id": 2333212574,
+        "id_str": "2333212574"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 13:01:15 +0000 2017",
+      "id": 929333198596788200,
+      "id_str": "929333198596788224",
+      "text": "@gdunderhood 140 символов для меня слишком много. Мне нравится короткие реплики до 7-8 слов с редкими вкраплениями… https://t.co/7aRRMSrYnZ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/7aRRMSrYnZ",
+            "expanded_url": "https://twitter.com/i/web/status/929333198596788224",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 929327941598707700,
+      "in_reply_to_status_id_str": "929327941598707713",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 1636468334,
+        "id_str": "1636468334"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 14:07:46 +0000 2017",
+      "id": 929349938332528600,
+      "id_str": "929349938332528641",
+      "text": "@gdunderhood Ну, могу сказать, что они популярны там, где продаются. Например, Huel - в UK (да, у него будут пробле… https://t.co/WZGZEXFHL5",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/WZGZEXFHL5",
+            "expanded_url": "https://twitter.com/i/web/status/929349938332528641",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 929348363740500000,
+      "in_reply_to_status_id_str": "929348363740499971",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 2325783763,
+        "id_str": "2325783763"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 14:08:41 +0000 2017",
+      "id": 929350171238060000,
+      "id_str": "929350171238060032",
+      "text": "@gdunderhood у нас большая часть офиса, включая меня, использует его уже больше года вместо завтрака или обеда. Оче… https://t.co/3vu9fWtglS",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/3vu9fWtglS",
+            "expanded_url": "https://twitter.com/i/web/status/929350171238060032",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 929349938332528600,
+      "in_reply_to_status_id_str": "929349938332528641",
+      "in_reply_to_user_id": 2325783763,
+      "in_reply_to_user_id_str": "2325783763",
+      "in_reply_to_screen_name": "QueenDramatizer",
+      "user": {
+        "id": 2325783763,
+        "id_str": "2325783763"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 14:10:25 +0000 2017",
+      "id": 929350605033918500,
+      "id_str": "929350605033918464",
+      "text": "@gdunderhood Huel достаточно текстурный (как жидкая халва), но если разводить его с бананом или кофе - вообще отлич… https://t.co/3pBuxFdOl3",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/3pBuxFdOl3",
+            "expanded_url": "https://twitter.com/i/web/status/929350605033918464",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 929350171238060000,
+      "in_reply_to_status_id_str": "929350171238060032",
+      "in_reply_to_user_id": 2325783763,
+      "in_reply_to_user_id_str": "2325783763",
+      "in_reply_to_screen_name": "QueenDramatizer",
+      "user": {
+        "id": 2325783763,
+        "id_str": "2325783763"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 14:10:52 +0000 2017",
+      "id": 929350719634845700,
+      "id_str": "929350719634845701",
+      "text": "@gdunderhood @StasShostak @tricky_fat_cat @YarKravtsov Не уверен, что этот внутренний котел от мультиварки можно мы… https://t.co/N7BWAbdFhl",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "StasShostak",
+            "name": "Stas Shostak",
+            "id": 2333212574,
+            "id_str": "2333212574",
+            "indices": [
+              13,
+              25
+            ]
+          },
+          {
+            "screen_name": "tricky_fat_cat",
+            "name": "Artyom Volkov",
+            "id": 102768548,
+            "id_str": "102768548",
+            "indices": [
+              26,
+              41
+            ]
+          },
+          {
+            "screen_name": "YarKravtsov",
+            "name": "Yaroslav Kravtsov",
+            "id": 2248341073,
+            "id_str": "2248341073",
+            "indices": [
+              42,
+              54
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/N7BWAbdFhl",
+            "expanded_url": "https://twitter.com/i/web/status/929350719634845701",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 929344419861614600,
+      "in_reply_to_status_id_str": "929344419861614592",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 229789877,
+        "id_str": "229789877"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 14:24:46 +0000 2017",
+      "id": 929354218288410600,
+      "id_str": "929354218288410624",
+      "text": "@gdunderhood Помидоры можно подержать на сковороде пока не выпарится влага (и не сварится пастп), в конце добавить… https://t.co/9oR1TgLeTg",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/9oR1TgLeTg",
+            "expanded_url": "https://twitter.com/i/web/status/929354218288410624",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 929277713977880600,
+      "in_reply_to_status_id_str": "929277713977880576",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 163000393,
+        "id_str": "163000393"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 14:25:32 +0000 2017",
+      "id": 929354409871540200,
+      "id_str": "929354409871540224",
+      "text": "@gdunderhood Заправлять можно и пасту, и гречку, и рис, и как гарнир есть. А молотый чеснок в любом магазине среди специй",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 929354218288410600,
+      "in_reply_to_status_id_str": "929354218288410624",
+      "in_reply_to_user_id": 163000393,
+      "in_reply_to_user_id_str": "163000393",
+      "in_reply_to_screen_name": "Germesiya",
+      "user": {
+        "id": 163000393,
+        "id_str": "163000393"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 14:28:38 +0000 2017",
+      "id": 929355191094333400,
+      "id_str": "929355191094333442",
+      "text": "@gdunderhood Килька в томатном соусе с руколлой верхом на черном хлебе быстро делается и очень вкусно",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 929280276047462400,
+      "in_reply_to_status_id_str": "929280276047462400",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 163000393,
+        "id_str": "163000393"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 14:33:04 +0000 2017",
+      "id": 929356304736497700,
+      "id_str": "929356304736497664",
+      "text": "@aprotasenya @gdunderhood @StasShostak @tricky_fat_cat @YarKravtsov мою в посудомойке и все хорошо с ним",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "aprotasenya",
+            "name": "ProtoSasha",
+            "id": 229789877,
+            "id_str": "229789877",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              13,
+              25
+            ]
+          },
+          {
+            "screen_name": "StasShostak",
+            "name": "Stas Shostak",
+            "id": 2333212574,
+            "id_str": "2333212574",
+            "indices": [
+              26,
+              38
+            ]
+          },
+          {
+            "screen_name": "tricky_fat_cat",
+            "name": "Artyom Volkov",
+            "id": 102768548,
+            "id_str": "102768548",
+            "indices": [
+              39,
+              54
+            ]
+          },
+          {
+            "screen_name": "YarKravtsov",
+            "name": "Yaroslav Kravtsov",
+            "id": 2248341073,
+            "id_str": "2248341073",
+            "indices": [
+              55,
+              67
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 929350719634845700,
+      "in_reply_to_status_id_str": "929350719634845701",
+      "in_reply_to_user_id": 229789877,
+      "in_reply_to_user_id_str": "229789877",
+      "in_reply_to_screen_name": "aprotasenya",
+      "user": {
+        "id": 298443976,
+        "id_str": "298443976"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 14:56:56 +0000 2017",
+      "id": 929362310266851300,
+      "id_str": "929362310266851328",
+      "text": "@gdunderhood Пожалуйста. Из всех вещей этого века - это лучший шаг к киберпанку. Особенно шикарно для тех, кто стре… https://t.co/TGdEYUHQW2",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/TGdEYUHQW2",
+            "expanded_url": "https://twitter.com/i/web/status/929362310266851328",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 929353575003762700,
+      "in_reply_to_status_id_str": "929353575003762688",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 2325783763,
+        "id_str": "2325783763"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 15:18:07 +0000 2017",
+      "id": 929367641214595100,
+      "id_str": "929367641214595076",
+      "text": "@gdunderhood @QueenDramatizer Как недавний адпет (хотя не сильно фанатичный) дополню.\nСтоимость ~2$/порция, и порци… https://t.co/oEiwJuGrdD",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "QueenDramatizer",
+            "name": "QueenDramatizer",
+            "id": 2325783763,
+            "id_str": "2325783763",
+            "indices": [
+              13,
+              29
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/oEiwJuGrdD",
+            "expanded_url": "https://twitter.com/i/web/status/929367641214595076",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 929353160577216500,
+      "in_reply_to_status_id_str": "929353160577216512",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 172384725,
+        "id_str": "172384725"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 15:19:04 +0000 2017",
+      "id": 929367882240274400,
+      "id_str": "929367882240274432",
+      "text": "@Xorboo @gdunderhood &gt; и порций надо 5 в день (500ккал/порция)\nну, это если ты хуелом единым",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Xorboo",
+            "name": "Kirill Korepanov",
+            "id": 172384725,
+            "id_str": "172384725",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              8,
+              20
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 929367641214595100,
+      "in_reply_to_status_id_str": "929367641214595076",
+      "in_reply_to_user_id": 172384725,
+      "in_reply_to_user_id_str": "172384725",
+      "in_reply_to_screen_name": "Xorboo",
+      "user": {
+        "id": 2325783763,
+        "id_str": "2325783763"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 15:33:43 +0000 2017",
+      "id": 929371567385120800,
+      "id_str": "929371567385120769",
+      "text": "@QueenDramatizer @gdunderhood Да, как замена, например, завтрака он подходит. Просто некоторые могут воспринимать с… https://t.co/S79Rr9lIS9",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "QueenDramatizer",
+            "name": "QueenDramatizer",
+            "id": 2325783763,
+            "id_str": "2325783763",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              17,
+              29
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/S79Rr9lIS9",
+            "expanded_url": "https://twitter.com/i/web/status/929371567385120769",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 929367882240274400,
+      "in_reply_to_status_id_str": "929367882240274432",
+      "in_reply_to_user_id": 2325783763,
+      "in_reply_to_user_id_str": "2325783763",
+      "in_reply_to_screen_name": "QueenDramatizer",
+      "user": {
+        "id": 172384725,
+        "id_str": "172384725"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 16:22:13 +0000 2017",
+      "id": 929383773866569700,
+      "id_str": "929383773866569728",
+      "text": "@gdunderhood А почему ты ещё не замужем?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 929280276047462400,
+      "in_reply_to_status_id_str": "929280276047462400",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 904657574,
+        "id_str": "904657574"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 16:31:30 +0000 2017",
+      "id": 929386109750169600,
+      "id_str": "929386109750169600",
+      "text": "@gdunderhood — на этой неделе превратился в коллективный блог о кулинарии и психологии. Ну зато разнообразие :-) https://t.co/Ii2sQrGYDC",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Ii2sQrGYDC",
+            "expanded_url": "https://twitter.com/gdunderhood/status/929280276047462400",
+            "display_url": "twitter.com/gdunderhood/st…",
+            "indices": [
+              113,
+              136
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 3091304579,
+        "id_str": "3091304579"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 929280276047462400,
+      "quoted_status_id_str": "929280276047462400",
+      "quoted_status": {
+        "created_at": "Sat Nov 11 09:30:57 +0000 2017",
+        "id": 929280276047462400,
+        "id_str": "929280276047462400",
+        "text": "Тоже из намазок получше мазика: мягкий сыр (напр.,фету) + сок и цедра лимона + соль + перец. Всегда при желании мож… https://t.co/mjkUFeG4a7",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/mjkUFeG4a7",
+              "expanded_url": "https://twitter.com/i/web/status/929280276047462400",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 929279174442963000,
+        "in_reply_to_status_id_str": "929279174442962944",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 747371158832545800,
+          "id_str": "747371158832545792"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 18:19:25 +0000 2017",
+      "id": 929413268493557800,
+      "id_str": "929413268493557760",
+      "text": "@gdunderhood догадаетесь почему сегодня я до вас не докапываюсь?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 929410737814036500,
+      "in_reply_to_status_id_str": "929410737814036481",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 46357404,
+        "id_str": "46357404"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 11 18:51:44 +0000 2017",
+      "id": 929421401659977700,
+      "id_str": "929421401659977728",
+      "text": "@gdunderhood Нет, потому что сегодня вам явно есть что сказать благодаря опыту :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 929413491139674100,
+      "in_reply_to_status_id_str": "929413491139674112",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 46357404,
+        "id_str": "46357404"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
