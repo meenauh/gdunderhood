@@ -37,46 +37,45 @@
     }
   },
   "protected": false,
-  "followers_count": 1195,
+  "followers_count": 1196,
   "friends_count": 46,
-  "listed_count": 23,
+  "listed_count": 24,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
   "favourites_count": 1602,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 8685,
+  "statuses_count": 8692,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Nov 11 18:20:18 +0000 2017",
-    "id": 929413491139674100,
-    "id_str": "929413491139674112",
-    "text": "@GreyAku М-ммм... Все любят поесть? :3",
-    "truncated": false,
+    "created_at": "Sun Nov 12 10:01:36 +0000 2017",
+    "id": 929650375854051300,
+    "id_str": "929650375854051328",
+    "text": "Большая часть экспозиции мира здесь происходит как раз за счет второстепенных повествовательных элементов: сеттинга… https://t.co/45khEX3QH5",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "GreyAku",
-          "name": "Aku",
-          "id": 46357404,
-          "id_str": "46357404",
+          "url": "https://t.co/45khEX3QH5",
+          "expanded_url": "https://twitter.com/i/web/status/929650375854051328",
+          "display_url": "twitter.com/i/web/status/9…",
           "indices": [
-            0,
-            8
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 929413268493557800,
-    "in_reply_to_status_id_str": "929413268493557760",
-    "in_reply_to_user_id": 46357404,
-    "in_reply_to_user_id_str": "46357404",
-    "in_reply_to_screen_name": "GreyAku",
+    "in_reply_to_status_id": 929650295235334100,
+    "in_reply_to_status_id_str": "929650295235334145",
+    "in_reply_to_user_id": 747371158832545800,
+    "in_reply_to_user_id_str": "747371158832545792",
+    "in_reply_to_screen_name": "gdunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
