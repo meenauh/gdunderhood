@@ -1,0 +1,377 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Nov 13 09:31:16 +0000 2017",
+      "id": 930005131298590700,
+      "id_str": "930005131298590720",
+      "text": "Всем привет! Наша радиостанция продолжает свое вещание, и на этой неделе в гостях Антон @a_severianov , продюсер Gameloft - Asphalt 8",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "a_severianov",
+            "name": "Anton Severianov",
+            "id": 915957233313296400,
+            "id_str": "915957233313296389",
+            "indices": [
+              88,
+              101
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 13 09:44:37 +0000 2017",
+      "id": 930008490491498500,
+      "id_str": "930008490491498496",
+      "text": "Сегодня я познакомлю вас с задачами и обязанностями продюсера на мобильном ААА проекте. Часть процессов уникальны д… https://t.co/tUTti4cKyf",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/tUTti4cKyf",
+            "expanded_url": "https://twitter.com/i/web/status/930008490491498496",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 13 09:47:52 +0000 2017",
+      "id": 930009306992439300,
+      "id_str": "930009306992439296",
+      "text": "Помимо первого дня, на неделе, мы обсудим такие вопросы: практические кейсы в продакшене, работа с рисками и работа с фидбеком.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 13 09:49:43 +0000 2017",
+      "id": 930009773306712000,
+      "id_str": "930009773306712064",
+      "text": "И, конечно, если вас интересует любой вопрос связанный с продакшеном мобильных игр или с игровой индустрией вцелом… https://t.co/rAnD638xhO",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/rAnD638xhO",
+            "expanded_url": "https://twitter.com/i/web/status/930009773306712064",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 13 10:03:58 +0000 2017",
+      "id": 930013359650562000,
+      "id_str": "930013359650562048",
+      "text": "Начнём с традиции. Моё рабочее место https://t.co/FC7MpmeG13",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 930012494030147600,
+            "id_str": "930012494030147584",
+            "indices": [
+              37,
+              60
+            ],
+            "media_url": "http://pbs.twimg.com/media/DOgRb5dXkAA-PXM.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DOgRb5dXkAA-PXM.jpg",
+            "url": "https://t.co/FC7MpmeG13",
+            "display_url": "pic.twitter.com/FC7MpmeG13",
+            "expanded_url": "https://twitter.com/gdunderhood/status/930013359650562048/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 930012494030147600,
+            "id_str": "930012494030147584",
+            "indices": [
+              37,
+              60
+            ],
+            "media_url": "http://pbs.twimg.com/media/DOgRb5dXkAA-PXM.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DOgRb5dXkAA-PXM.jpg",
+            "url": "https://t.co/FC7MpmeG13",
+            "display_url": "pic.twitter.com/FC7MpmeG13",
+            "expanded_url": "https://twitter.com/gdunderhood/status/930013359650562048/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 13 10:07:34 +0000 2017",
+      "id": 930014264416497700,
+      "id_str": "930014264416497664",
+      "text": "@HarryDemch Обязательно! В кейсах продакшена. Коммуникация - обязателньая и неотъемлемая часть разработки. Очень ча… https://t.co/5lS1VJgaDh",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "HarryDemch",
+            "name": "Harry Demch",
+            "id": 3145130794,
+            "id_str": "3145130794",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/5lS1VJgaDh",
+            "expanded_url": "https://twitter.com/i/web/status/930014264416497664",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 930012386123186200,
+      "in_reply_to_status_id_str": "930012386123186176",
+      "in_reply_to_user_id": 3145130794,
+      "in_reply_to_user_id_str": "3145130794",
+      "in_reply_to_screen_name": "HarryDemch",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 13 10:18:36 +0000 2017",
+      "id": 930017043222581200,
+      "id_str": "930017043222581248",
+      "text": "@vibe_crc ON THE EEEEDGE",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vibe_crc",
+            "name": "Sergey Eybog",
+            "id": 96967347,
+            "id_str": "96967347",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 930016533207797800,
+      "in_reply_to_status_id_str": "930016533207797760",
+      "in_reply_to_user_id": 96967347,
+      "in_reply_to_user_id_str": "96967347",
+      "in_reply_to_screen_name": "vibe_crc",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    }
+  ]
+}
