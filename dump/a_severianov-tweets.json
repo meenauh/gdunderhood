@@ -6062,6 +6062,952 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 15 20:03:38 +0000 2017",
+      "id": 930889045575598100,
+      "id_str": "930889045575598082",
+      "text": "@x_GS_x Сработает. Один минус - время. Но вариант рабочий, мне нравится",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "x_GS_x",
+            "name": "AlexGaidukov",
+            "id": 108345880,
+            "id_str": "108345880",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 930865073387647000,
+      "in_reply_to_status_id_str": "930865073387646976",
+      "in_reply_to_user_id": 108345880,
+      "in_reply_to_user_id_str": "108345880",
+      "in_reply_to_screen_name": "x_GS_x",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 15 20:05:58 +0000 2017",
+      "id": 930889633906462700,
+      "id_str": "930889633906462720",
+      "text": "@shestovt Веду к тому, что это непрямые показатели. Мб это квест плохой, а персонаж тут не при чем? Мб в балансе пр… https://t.co/mzyzncEH7O",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "shestovt",
+            "name": "Анатолий Шестов",
+            "id": 446838946,
+            "id_str": "446838946",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/mzyzncEH7O",
+            "expanded_url": "https://twitter.com/i/web/status/930889633906462720",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 930872645956104200,
+      "in_reply_to_status_id_str": "930872645956104192",
+      "in_reply_to_user_id": 446838946,
+      "in_reply_to_user_id_str": "446838946",
+      "in_reply_to_screen_name": "shestovt",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 15 20:06:49 +0000 2017",
+      "id": 930889849476960300,
+      "id_str": "930889849476960257",
+      "text": "@shestovt Эту проблему лучше решить на стадии разработки, т.к. визуальная часть всего-то одного перса вряд ли уже б… https://t.co/wIqS9WRWjR",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "shestovt",
+            "name": "Анатолий Шестов",
+            "id": 446838946,
+            "id_str": "446838946",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/wIqS9WRWjR",
+            "expanded_url": "https://twitter.com/i/web/status/930889849476960257",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 930872645956104200,
+      "in_reply_to_status_id_str": "930872645956104192",
+      "in_reply_to_user_id": 446838946,
+      "in_reply_to_user_id_str": "446838946",
+      "in_reply_to_screen_name": "shestovt",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 15 20:27:34 +0000 2017",
+      "id": 930895071054127100,
+      "id_str": "930895071054127105",
+      "text": "@shestovt Это рабочий момент. Ссора - когда тарелки бьют, здесь рабочее обсуждение. Не стоит пренебрегать свежим взглядом со стороны",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "shestovt",
+            "name": "Анатолий Шестов",
+            "id": 446838946,
+            "id_str": "446838946",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 930873495822757900,
+      "in_reply_to_status_id_str": "930873495822757889",
+      "in_reply_to_user_id": 446838946,
+      "in_reply_to_user_id_str": "446838946",
+      "in_reply_to_screen_name": "shestovt",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 15 20:28:24 +0000 2017",
+      "id": 930895277535440900,
+      "id_str": "930895277535440898",
+      "text": "Круто. И комьюнити услышано и решение принято! https://t.co/nwjEYxooBb",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/nwjEYxooBb",
+            "expanded_url": "https://twitter.com/shestovt/status/930873177131180033",
+            "display_url": "twitter.com/shestovt/statu…",
+            "indices": [
+              47,
+              70
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 930873177131180000,
+      "quoted_status_id_str": "930873177131180033",
+      "quoted_status": {
+        "created_at": "Wed Nov 15 19:00:34 +0000 2017",
+        "id": 930873177131180000,
+        "id_str": "930873177131180033",
+        "text": "@gdunderhood По комьюнити - либо банальное \"какой вариант больше нравится\", либо более конкретное \"какой из вариант… https://t.co/NB6JQUrpT6",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/NB6JQUrpT6",
+              "expanded_url": "https://twitter.com/i/web/status/930873177131180033",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 930862867473223700,
+        "in_reply_to_status_id_str": "930862867473223686",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 446838946,
+          "id_str": "446838946"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 15 20:29:39 +0000 2017",
+      "id": 930895592754237400,
+      "id_str": "930895592754237440",
+      "text": "@x_GS_x Вопрос эффективности. Если можно решить вопрос быстрее и без потери качества, будет больше времени на другие крутые штуки-дрюки :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "x_GS_x",
+            "name": "AlexGaidukov",
+            "id": 108345880,
+            "id_str": "108345880",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 930889963620786200,
+      "in_reply_to_status_id_str": "930889963620786177",
+      "in_reply_to_user_id": 108345880,
+      "in_reply_to_user_id_str": "108345880",
+      "in_reply_to_screen_name": "x_GS_x",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 15 21:04:57 +0000 2017",
+      "id": 930904476386582500,
+      "id_str": "930904476386582528",
+      "text": "@shestovt \"Вообще вынос сора из избы\", я так понимаю, ты имел в виду \"спора\", я прочел, как \"ссоры\". \n\nСвежий взгля… https://t.co/UyfwBLPC2v",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "shestovt",
+            "name": "Анатолий Шестов",
+            "id": 446838946,
+            "id_str": "446838946",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/UyfwBLPC2v",
+            "expanded_url": "https://twitter.com/i/web/status/930904476386582528",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 930901667863842800,
+      "in_reply_to_status_id_str": "930901667863842818",
+      "in_reply_to_user_id": 446838946,
+      "in_reply_to_user_id_str": "446838946",
+      "in_reply_to_screen_name": "shestovt",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 15 22:36:42 +0000 2017",
+      "id": 930927567863013400,
+      "id_str": "930927567863013376",
+      "text": "Довольны ли вы уровнем фидбэков, которые вы получаете?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 15 22:43:18 +0000 2017",
+      "id": 930929227129638900,
+      "id_str": "930929227129638912",
+      "text": "Рассмотрим следующую ситуацию: Вы - ГД. Ваш пропозал, который описывал базовую механику монетизационной фичи, всем… https://t.co/xVo7GLp3nu",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/xVo7GLp3nu",
+            "expanded_url": "https://twitter.com/i/web/status/930929227129638912",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 15 22:44:09 +0000 2017",
+      "id": 930929441387278300,
+      "id_str": "930929441387278341",
+      "text": "Как вернуться на путь истинный? Какие действия предпримите?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 930929227129638900,
+      "in_reply_to_status_id_str": "930929227129638912",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 16 15:27:46 +0000 2017",
+      "id": 931182010026070000,
+      "id_str": "931182010026070016",
+      "text": "Приношу извинения за сегодняшнюю тишину. Дел навалилось. \n\nПоактивничаем ближе к вечеру :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 16 17:31:22 +0000 2017",
+      "id": 931213114539995100,
+      "id_str": "931213114539995137",
+      "text": "Сегодня мы немного подробнее поговорим о рисках. \n\nКак я говорил, риски закладывать нужно всегда.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 16 17:38:33 +0000 2017",
+      "id": 931214923530735600,
+      "id_str": "931214923530735618",
+      "text": "Я выделяю 2 вида рисков: явные и неявные. \n\nЯвные - которые обсуждаются и рассматриваются в ходе обсуждения. Могут… https://t.co/PoSNqUElCw",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/PoSNqUElCw",
+            "expanded_url": "https://twitter.com/i/web/status/931214923530735618",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 16 17:39:57 +0000 2017",
+      "id": 931215276082978800,
+      "id_str": "931215276082978816",
+      "text": "Неявные риски можно долго рассматривать и продумывать, но существует обычное правило в народе - 20%. На любой самый… https://t.co/hhZWgcolO2",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/hhZWgcolO2",
+            "expanded_url": "https://twitter.com/i/web/status/931215276082978816",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 16 17:41:36 +0000 2017",
+      "id": 931215691339976700,
+      "id_str": "931215691339976704",
+      "text": "Почему именно 20? Это усредненное значение, которое включает в себя типичные жизненные проблемы: болячки, семейные… https://t.co/8CPWnbWYAQ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8CPWnbWYAQ",
+            "expanded_url": "https://twitter.com/i/web/status/931215691339976704",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 931215276082978800,
+      "in_reply_to_status_id_str": "931215276082978816",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 16 17:43:07 +0000 2017",
+      "id": 931216073596325900,
+      "id_str": "931216073596325888",
+      "text": "Явные риски. Здесь всё сложнее. Стоит отменить, что работа с этими рисками невероятно подробно расписана в разных м… https://t.co/tKenJqkqdg",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/tKenJqkqdg",
+            "expanded_url": "https://twitter.com/i/web/status/931216073596325888",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 16 17:45:11 +0000 2017",
+      "id": 931216593178300400,
+      "id_str": "931216593178300418",
+      "text": "Профит был не соизмерим с затраченными усилиями на их сортировку, менеджмент и проверку. Разбивка по категориям и п… https://t.co/5PMCOkxhmI",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/5PMCOkxhmI",
+            "expanded_url": "https://twitter.com/i/web/status/931216593178300418",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 931216073596325900,
+      "in_reply_to_status_id_str": "931216073596325888",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 16 17:47:10 +0000 2017",
+      "id": 931217092027838500,
+      "id_str": "931217092027838464",
+      "text": "Путем проб и ошибок, пришёл к такой форме работы: если у нас имеется явный риск, мы обсуждаем его со специалистом и… https://t.co/1yeklCgUJ5",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/1yeklCgUJ5",
+            "expanded_url": "https://twitter.com/i/web/status/931217092027838464",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 931216593178300400,
+      "in_reply_to_status_id_str": "931216593178300418",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 16 17:48:08 +0000 2017",
+      "id": 931217335536537600,
+      "id_str": "931217335536537603",
+      "text": "В подавляющем большинстве случаев, явные риски с низкой критичностью не вылазили за 20%, выделенные на неявные.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 931217092027838500,
+      "in_reply_to_status_id_str": "931217092027838464",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 16 18:03:57 +0000 2017",
+      "id": 931221317327773700,
+      "id_str": "931221317327773697",
+      "text": "Минорные изменения в предпоследнюю версию. Да что там может случиться, ну? Всего пару цен изменили. \n\nОбычно такое… https://t.co/lOMMijn4Bx",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/lOMMijn4Bx",
+            "expanded_url": "https://twitter.com/i/web/status/931221317327773697",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 16 18:13:41 +0000 2017",
+      "id": 931223766310572000,
+      "id_str": "931223766310572032",
+      "text": "Забить на риски = просрать все полимеры. \n\nНа каждой стадии у вас будет ощущение, что всё идет не так ,как запланир… https://t.co/cklb4G6Xux",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/cklb4G6Xux",
+            "expanded_url": "https://twitter.com/i/web/status/931223766310572032",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }

@@ -26,42 +26,31 @@
     }
   },
   "protected": false,
-  "followers_count": 1212,
+  "followers_count": 1213,
   "friends_count": 46,
   "listed_count": 24,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 1609,
+  "favourites_count": 1610,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 8812,
+  "statuses_count": 8833,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Nov 15 18:23:44 +0000 2017",
-    "id": 930863904330305500,
-    "id_str": "930863904330305538",
-    "text": "@Luxorix Размять мозг - всегда полезно :) Для этого мы тут и общаемся.\n\nСлучались спорные ситуации, когда сам не мо… https://t.co/XVDlqSIXxo",
+    "created_at": "Thu Nov 16 18:13:41 +0000 2017",
+    "id": 931223766310572000,
+    "id_str": "931223766310572032",
+    "text": "Забить на риски = просрать все полимеры. \n\nНа каждой стадии у вас будет ощущение, что всё идет не так ,как запланир… https://t.co/cklb4G6Xux",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "Luxorix",
-          "name": "Luxorix Games",
-          "id": 235058800,
-          "id_str": "235058800",
-          "indices": [
-            0,
-            8
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/XVDlqSIXxo",
-          "expanded_url": "https://twitter.com/i/web/status/930863904330305538",
+          "url": "https://t.co/cklb4G6Xux",
+          "expanded_url": "https://twitter.com/i/web/status/931223766310572032",
           "display_url": "twitter.com/i/web/status/9…",
           "indices": [
             117,
@@ -71,11 +60,11 @@
       ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 930863090123423700,
-    "in_reply_to_status_id_str": "930863090123423744",
-    "in_reply_to_user_id": 235058800,
-    "in_reply_to_user_id_str": "235058800",
-    "in_reply_to_screen_name": "Luxorix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
