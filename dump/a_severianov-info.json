@@ -35,43 +35,33 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 8833,
+  "statuses_count": 8841,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Nov 16 18:13:41 +0000 2017",
-    "id": 931223766310572000,
-    "id_str": "931223766310572032",
-    "text": "Забить на риски = просрать все полимеры. \n\nНа каждой стадии у вас будет ощущение, что всё идет не так ,как запланир… https://t.co/cklb4G6Xux",
-    "truncated": true,
+    "created_at": "Fri Nov 17 17:09:58 +0000 2017",
+    "id": 931570119498747900,
+    "id_str": "931570119498747906",
+    "text": "У меня - отзывы игроков. Не важно положительные или негативные. Видеть, что огромное количество людей заботит ваша игра - непередаваемо!",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/cklb4G6Xux",
-          "expanded_url": "https://twitter.com/i/web/status/931223766310572032",
-          "display_url": "twitter.com/i/web/status/9…",
-          "indices": [
-            117,
-            140
-          ]
-        }
-      ]
+      "urls": []
     },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+    "in_reply_to_status_id": 931568976685162500,
+    "in_reply_to_status_id_str": "931568976685162496",
+    "in_reply_to_user_id": 747371158832545800,
+    "in_reply_to_user_id_str": "747371158832545792",
+    "in_reply_to_screen_name": "gdunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
