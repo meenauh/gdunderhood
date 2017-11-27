@@ -1,0 +1,102 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Nov 27 13:59:35 +0000 2017",
+      "id": 935146085772857300,
+      "id_str": "935146085772857344",
+      "text": "Алоха! Бразды правления этим шикарным аккаунтом на этой неделе попали мне в руки. Whoiswho: я - Паршенцев Олег, осн… https://t.co/GHGRMtV3mL",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/GHGRMtV3mL",
+            "expanded_url": "https://twitter.com/i/web/status/935146085772857344",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 27 14:14:24 +0000 2017",
+      "id": 935149814249087000,
+      "id_str": "935149814249086976",
+      "text": "Немного об @ArmaturGames : наша команда всегда делала аутсорс для различных игровых проектов и нам не всегда нравил… https://t.co/Ww9c0QbJgZ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ArmaturGames",
+            "name": "Armatur Games",
+            "id": 2985876856,
+            "id_str": "2985876856",
+            "indices": [
+              11,
+              24
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Ww9c0QbJgZ",
+            "expanded_url": "https://twitter.com/i/web/status/935149814249086976",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
