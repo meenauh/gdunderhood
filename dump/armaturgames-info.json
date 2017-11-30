@@ -4,18 +4,7 @@
   "name": "Гейм-дизайнер",
   "screen_name": "gdunderhood",
   "location": "Москва, Россия",
-  "profile_location": {
-    "id": "4303d1afc1e98c37",
-    "url": "https://api.twitter.com/1.1/geo/id/4303d1afc1e98c37.json",
-    "place_type": "unknown",
-    "name": "Москва, Россия",
-    "full_name": "Москва, Россия",
-    "country_code": "",
-    "country": "",
-    "contained_within": [],
-    "bounding_box": null,
-    "attributes": {}
-  },
+  "profile_location": null,
   "description": "Коллективный твиттер-аккаунт для гейм-дизайнеров всех мастей: от балансеров до нарративщиков. Новый автор каждую неделю. На этой неделе – Олег из @ArmaturGames",
   "url": "https://t.co/lIo0mtT2X0",
   "entities": {
@@ -37,56 +26,148 @@
     }
   },
   "protected": false,
-  "followers_count": 1251,
+  "followers_count": 1250,
   "friends_count": 46,
   "listed_count": 25,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 1664,
+  "favourites_count": 1698,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 8960,
+  "statuses_count": 8969,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Nov 29 13:42:17 +0000 2017",
-    "id": 935866509104205800,
-    "id_str": "935866509104205824",
-    "text": "@alprog_ Спасибо что поделились!",
+    "created_at": "Thu Nov 30 12:09:30 +0000 2017",
+    "id": 936205546935455700,
+    "id_str": "936205546935455744",
+    "text": "@x_GS_x  https://t.co/eONYoaxu39",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "alprog_",
-          "name": "Александр Тужик",
-          "id": 288855484,
-          "id_str": "288855484",
+          "screen_name": "x_GS_x",
+          "name": "AlexGaidukov",
+          "id": 108345880,
+          "id_str": "108345880",
           "indices": [
             0,
-            8
+            7
           ]
         }
       ],
-      "urls": []
+      "urls": [],
+      "media": [
+        {
+          "id": 936205228013244400,
+          "id_str": "936205228013244416",
+          "indices": [
+            9,
+            32
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/DP4RsdSX0AAI7Ga.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DP4RsdSX0AAI7Ga.jpg",
+          "url": "https://t.co/eONYoaxu39",
+          "display_url": "pic.twitter.com/eONYoaxu39",
+          "expanded_url": "https://twitter.com/gdunderhood/status/936205546935455744/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 482,
+              "h": 362,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 482,
+              "h": 362,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 482,
+              "h": 362,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 936205228013244400,
+          "id_str": "936205228013244416",
+          "indices": [
+            9,
+            32
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/DP4RsdSX0AAI7Ga.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DP4RsdSX0AAI7Ga.jpg",
+          "url": "https://t.co/eONYoaxu39",
+          "display_url": "pic.twitter.com/eONYoaxu39",
+          "expanded_url": "https://twitter.com/gdunderhood/status/936205546935455744/photo/1",
+          "type": "animated_gif",
+          "sizes": {
+            "large": {
+              "w": 482,
+              "h": 362,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 482,
+              "h": 362,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 482,
+              "h": 362,
+              "resize": "fit"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              241,
+              181
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/DP4RsdSX0AAI7Ga.mp4"
+              }
+            ]
+          }
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 935841463237337100,
-    "in_reply_to_status_id_str": "935841463237337088",
-    "in_reply_to_user_id": 288855484,
-    "in_reply_to_user_id_str": "288855484",
-    "in_reply_to_screen_name": "alprog_",
+    "in_reply_to_status_id": 936199733483397100,
+    "in_reply_to_status_id_str": "936199733483397120",
+    "in_reply_to_user_id": 108345880,
+    "in_reply_to_user_id_str": "108345880",
+    "in_reply_to_screen_name": "x_GS_x",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "possibly_sensitive": false,
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
