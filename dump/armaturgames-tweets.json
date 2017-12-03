@@ -5257,6 +5257,791 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "und"
+    },
+    {
+      "created_at": "Sun Dec 03 08:42:06 +0000 2017",
+      "id": 937240515824767000,
+      "id_str": "937240515824766977",
+      "text": "И точно! Сеттинг в свое время покорил! Мало что может сравниться с ощущением управления отрядом здоровых боевых маш… https://t.co/efr9IA0781",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/efr9IA0781",
+            "expanded_url": "https://twitter.com/i/web/status/937240515824766977",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 936903959398137900,
+      "quoted_status_id_str": "936903959398137856",
+      "quoted_status": {
+        "created_at": "Sat Dec 02 10:24:45 +0000 2017",
+        "id": 936903959398137900,
+        "id_str": "936903959398137856",
+        "text": "@gdunderhood Не знаю, что это за магия, но я только что вспомнила название одной из любимых игр детства, которую пы… https://t.co/Hyp1qIzzrw",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/Hyp1qIzzrw",
+              "expanded_url": "https://twitter.com/i/web/status/936903959398137856",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 936902952249303000,
+        "in_reply_to_status_id_str": "936902952249303040",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 351090979,
+          "id_str": "351090979"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 03 08:43:19 +0000 2017",
+      "id": 937240821157584900,
+      "id_str": "937240821157584897",
+      "text": "Это он и был. Опасно в выходные разводить такой хардкорный срач напрямую :) https://t.co/bcodeWFXtt",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/bcodeWFXtt",
+            "expanded_url": "https://twitter.com/and_r3w/status/936929506907918337",
+            "display_url": "twitter.com/and_r3w/status…",
+            "indices": [
+              76,
+              99
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 936929506907918300,
+      "quoted_status_id_str": "936929506907918337",
+      "quoted_status": {
+        "created_at": "Sat Dec 02 12:06:16 +0000 2017",
+        "id": 936929506907918300,
+        "id_str": "936929506907918337",
+        "text": "@gdunderhood 👏 Ждем",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 936901802263318500,
+        "in_reply_to_status_id_str": "936901802263318529",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 35002857,
+          "id_str": "35002857"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 03 08:44:54 +0000 2017",
+      "id": 937241220027441200,
+      "id_str": "937241220027441152",
+      "text": "Сразу вспоминается голосование на линче девгамма :) https://t.co/JPu1207Osv",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/JPu1207Osv",
+            "expanded_url": "https://twitter.com/tricky_fat_cat/status/936960007870078977",
+            "display_url": "twitter.com/tricky_fat_cat…",
+            "indices": [
+              52,
+              75
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 936960007870079000,
+      "quoted_status_id_str": "936960007870078977",
+      "quoted_status": {
+        "created_at": "Sat Dec 02 14:07:28 +0000 2017",
+        "id": 936960007870079000,
+        "id_str": "936960007870078977",
+        "text": "@gdunderhood КТО НЕ ЛЮБИТ КОТИКОВ!? https://t.co/IcfNQzNsOJ",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 936959999552737300,
+              "id_str": "936959999552737280",
+              "indices": [
+                36,
+                59
+              ],
+              "media_url": "http://pbs.twimg.com/media/DQDAJ8YXUAAm4lc.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DQDAJ8YXUAAm4lc.jpg",
+              "url": "https://t.co/IcfNQzNsOJ",
+              "display_url": "pic.twitter.com/IcfNQzNsOJ",
+              "expanded_url": "https://twitter.com/tricky_fat_cat/status/936960007870078977/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 803,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 455,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1600,
+                  "h": 1071,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 936959999552737300,
+              "id_str": "936959999552737280",
+              "indices": [
+                36,
+                59
+              ],
+              "media_url": "http://pbs.twimg.com/media/DQDAJ8YXUAAm4lc.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DQDAJ8YXUAAm4lc.jpg",
+              "url": "https://t.co/IcfNQzNsOJ",
+              "display_url": "pic.twitter.com/IcfNQzNsOJ",
+              "expanded_url": "https://twitter.com/tricky_fat_cat/status/936960007870078977/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 803,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 455,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1600,
+                  "h": 1071,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 936901802263318500,
+        "in_reply_to_status_id_str": "936901802263318529",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 102768548,
+          "id_str": "102768548"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 03 09:05:19 +0000 2017",
+      "id": 937246357265551400,
+      "id_str": "937246357265551360",
+      "text": "Хотя Dungeon Keeper на мой взгляд имеет более оригинальную механику, в Theme Hospital я провел намного больше време… https://t.co/1xF9PHlreX",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/1xF9PHlreX",
+            "expanded_url": "https://twitter.com/i/web/status/937246357265551360",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 937034457789423600,
+      "quoted_status_id_str": "937034457789423616",
+      "quoted_status": {
+        "created_at": "Sat Dec 02 19:03:18 +0000 2017",
+        "id": 937034457789423600,
+        "id_str": "937034457789423616",
+        "text": "@gdunderhood Старый Буллфрог: Theme Hospital &amp; Dungeon Keeper",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 936902952249303000,
+        "in_reply_to_status_id_str": "936902952249303040",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 2370952651,
+          "id_str": "2370952651"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "und"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 03 12:41:47 +0000 2017",
+      "id": 937300832885854200,
+      "id_str": "937300832885854208",
+      "text": "На вкус и цвет одни враги. Каждая из перечисленных игр по своему уникальна, а что кому больше нравится это уже дело… https://t.co/Qr4tYl2iu5",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Qr4tYl2iu5",
+            "expanded_url": "https://twitter.com/i/web/status/937300832885854208",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 937252537933189100,
+      "quoted_status_id_str": "937252537933189120",
+      "quoted_status": {
+        "created_at": "Sun Dec 03 09:29:53 +0000 2017",
+        "id": 937252537933189100,
+        "id_str": "937252537933189120",
+        "text": "@gdunderhood Игр как Theme Hospintal много всегда выходило :) А вот таких, как Dungeon Keeper, Populus и Gene Wars - нет :)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 937246357265551400,
+        "in_reply_to_status_id_str": "937246357265551360",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 1324485577,
+          "id_str": "1324485577"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "und"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 03 12:46:15 +0000 2017",
+      "id": 937301956862890000,
+      "id_str": "937301956862889984",
+      "text": "У меня тот же случай. Все таки я большой фанат тайкунов типа больнички. https://t.co/BOLJK55JZj",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/BOLJK55JZj",
+            "expanded_url": "https://twitter.com/troo_baah_door/status/937261257282981888",
+            "display_url": "twitter.com/troo_baah_door…",
+            "indices": [
+              72,
+              95
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 937261257282981900,
+      "quoted_status_id_str": "937261257282981888",
+      "quoted_status": {
+        "created_at": "Sun Dec 03 10:04:31 +0000 2017",
+        "id": 937261257282981900,
+        "id_str": "937261257282981888",
+        "text": "@gdunderhood Согласен. Кипер, при всей его крутизне и  инновативности, проходился раз и этого хватало. А в Больницу… https://t.co/Svy1HS5Jmn",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/Svy1HS5Jmn",
+              "expanded_url": "https://twitter.com/i/web/status/937261257282981888",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 937246357265551400,
+        "in_reply_to_status_id_str": "937246357265551360",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 2370952651,
+          "id_str": "2370952651"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 03 17:52:55 +0000 2017",
+      "id": 937379134115901400,
+      "id_str": "937379134115901442",
+      "text": "Ну и по традиции последнее чем я с вами поделюсь - фото моего рабочего стола. https://t.co/uSR9mcjJ1m",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 937379054482837500,
+            "id_str": "937379054482837505",
+            "indices": [
+              78,
+              101
+            ],
+            "media_url": "http://pbs.twimg.com/media/DQI9SJpXUAEkh_l.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DQI9SJpXUAEkh_l.jpg",
+            "url": "https://t.co/uSR9mcjJ1m",
+            "display_url": "pic.twitter.com/uSR9mcjJ1m",
+            "expanded_url": "https://twitter.com/gdunderhood/status/937379134115901442/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 960,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 937379054482837500,
+            "id_str": "937379054482837505",
+            "indices": [
+              78,
+              101
+            ],
+            "media_url": "http://pbs.twimg.com/media/DQI9SJpXUAEkh_l.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DQI9SJpXUAEkh_l.jpg",
+            "url": "https://t.co/uSR9mcjJ1m",
+            "display_url": "pic.twitter.com/uSR9mcjJ1m",
+            "expanded_url": "https://twitter.com/gdunderhood/status/937379134115901442/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 960,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 03 17:54:00 +0000 2017",
+      "id": 937379405504147500,
+      "id_str": "937379405504147457",
+      "text": "На этом я с вами прощаюсь. Спасибо за общение - это была чудная неделя Успехов в геймдеве, любите котиков!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }

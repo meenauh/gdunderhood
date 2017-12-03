@@ -41,144 +41,41 @@
   "friends_count": 46,
   "listed_count": 25,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 1702,
+  "favourites_count": 1717,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 8974,
+  "statuses_count": 8982,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Dec 02 10:23:55 +0000 2017",
-    "id": 936903748781162500,
-    "id_str": "936903748781162496",
-    "text": "@Ellie_Goldshire  https://t.co/B320hdwXI0",
+    "created_at": "Sun Dec 03 17:54:00 +0000 2017",
+    "id": 937379405504147500,
+    "id_str": "937379405504147457",
+    "text": "На этом я с вами прощаюсь. Спасибо за общение - это была чудная неделя Успехов в геймдеве, любите котиков!",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "Ellie_Goldshire",
-          "name": "Элли Е.Фокк",
-          "id": 351090979,
-          "id_str": "351090979",
-          "indices": [
-            0,
-            16
-          ]
-        }
-      ],
-      "urls": [],
-      "media": [
-        {
-          "id": 936903732171751400,
-          "id_str": "936903732171751424",
-          "indices": [
-            18,
-            41
-          ],
-          "media_url": "http://pbs.twimg.com/tweet_video_thumb/DQCM-wDVwAAt80s.jpg",
-          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DQCM-wDVwAAt80s.jpg",
-          "url": "https://t.co/B320hdwXI0",
-          "display_url": "pic.twitter.com/B320hdwXI0",
-          "expanded_url": "https://twitter.com/gdunderhood/status/936903748781162496/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 498,
-              "h": 276,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 498,
-              "h": 276,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 498,
-              "h": 276,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 936903732171751400,
-          "id_str": "936903732171751424",
-          "indices": [
-            18,
-            41
-          ],
-          "media_url": "http://pbs.twimg.com/tweet_video_thumb/DQCM-wDVwAAt80s.jpg",
-          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DQCM-wDVwAAt80s.jpg",
-          "url": "https://t.co/B320hdwXI0",
-          "display_url": "pic.twitter.com/B320hdwXI0",
-          "expanded_url": "https://twitter.com/gdunderhood/status/936903748781162496/photo/1",
-          "type": "animated_gif",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 498,
-              "h": 276,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 498,
-              "h": 276,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 498,
-              "h": 276,
-              "resize": "fit"
-            }
-          },
-          "video_info": {
-            "aspect_ratio": [
-              83,
-              46
-            ],
-            "variants": [
-              {
-                "bitrate": 0,
-                "content_type": "video/mp4",
-                "url": "https://video.twimg.com/tweet_video/DQCM-wDVwAAt80s.mp4"
-              }
-            ]
-          }
-        }
-      ]
+      "user_mentions": [],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 936901944316084200,
-    "in_reply_to_status_id_str": "936901944316084224",
-    "in_reply_to_user_id": 351090979,
-    "in_reply_to_user_id_str": "351090979",
-    "in_reply_to_screen_name": "Ellie_Goldshire",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "und"
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
