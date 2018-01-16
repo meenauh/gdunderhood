@@ -26,50 +26,56 @@
     }
   },
   "protected": false,
-  "followers_count": 1499,
+  "followers_count": 1548,
   "friends_count": 47,
   "listed_count": 27,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 1902,
+  "favourites_count": 1909,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 9471,
+  "statuses_count": 9536,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Jan 15 14:43:56 +0000 2018",
-    "id": 952914250774786000,
-    "id_str": "952914250774786048",
-    "text": "#yarjam #ConceptFair https://t.co/UAL7BN8r09",
+    "created_at": "Tue Jan 16 21:12:29 +0000 2018",
+    "id": 953374420323721200,
+    "id_str": "953374420323721216",
+    "text": "RT @Aerigalle: @gdunderhood я написала что-то, похожее на дневник главного героя этой игры: https://t.co/7k4yY3jq6Y",
     "truncated": false,
     "entities": {
-      "hashtags": [
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
         {
-          "text": "yarjam",
+          "screen_name": "Aerigalle",
+          "name": "Oriona",
+          "id": 336085298,
+          "id_str": "336085298",
           "indices": [
-            0,
-            7
+            3,
+            13
           ]
         },
         {
-          "text": "ConceptFair",
+          "screen_name": "gdunderhood",
+          "name": "Гейм-дизайнер",
+          "id": 747371158832545800,
+          "id_str": "747371158832545792",
           "indices": [
-            8,
-            20
+            15,
+            27
           ]
         }
       ],
-      "symbols": [],
-      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/UAL7BN8r09",
-          "expanded_url": "https://twitter.com/vkozulya/status/952912561736945664",
-          "display_url": "twitter.com/vkozulya/statu…",
+          "url": "https://t.co/7k4yY3jq6Y",
+          "expanded_url": "https://docs.google.com/document/d/1Pi8Dyejv-Bwnknpd0WtuwD_zTkC1lH9gQQf-P6p7jM4/edit?usp=sharing",
+          "display_url": "docs.google.com/document/d/1Pi…",
           "indices": [
-            21,
-            44
+            92,
+            115
           ]
         }
       ]
@@ -84,15 +90,64 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 952912561736945700,
-    "quoted_status_id_str": "952912561736945664",
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Tue Jan 16 21:11:05 +0000 2018",
+      "id": 953374069096927200,
+      "id_str": "953374069096927232",
+      "text": "@gdunderhood я написала что-то, похожее на дневник главного героя этой игры: https://t.co/7k4yY3jq6Y",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/7k4yY3jq6Y",
+            "expanded_url": "https://docs.google.com/document/d/1Pi8Dyejv-Bwnknpd0WtuwD_zTkC1lH9gQQf-P6p7jM4/edit?usp=sharing",
+            "display_url": "docs.google.com/document/d/1Pi…",
+            "indices": [
+              77,
+              100
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 953361936082702300,
+      "in_reply_to_status_id_str": "953361936082702337",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
     "possibly_sensitive": false,
-    "lang": "und"
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
