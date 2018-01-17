@@ -26,56 +26,35 @@
     }
   },
   "protected": false,
-  "followers_count": 1548,
+  "followers_count": 1549,
   "friends_count": 47,
   "listed_count": 27,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 1909,
+  "favourites_count": 1910,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 9536,
+  "statuses_count": 9541,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Jan 16 21:12:29 +0000 2018",
-    "id": 953374420323721200,
-    "id_str": "953374420323721216",
-    "text": "RT @Aerigalle: @gdunderhood я написала что-то, похожее на дневник главного героя этой игры: https://t.co/7k4yY3jq6Y",
-    "truncated": false,
+    "created_at": "Tue Jan 16 23:34:45 +0000 2018",
+    "id": 953410224651669500,
+    "id_str": "953410224651669504",
+    "text": "Музыки мало не бывает. Нужны:\n- Главная тема\n- Тема в космосе\n- Набор тем для прогулок по планетам\n\nЧтобы сайфай из… https://t.co/ZlAXBlaDQo",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "Aerigalle",
-          "name": "Oriona",
-          "id": 336085298,
-          "id_str": "336085298",
-          "indices": [
-            3,
-            13
-          ]
-        },
-        {
-          "screen_name": "gdunderhood",
-          "name": "Гейм-дизайнер",
-          "id": 747371158832545800,
-          "id_str": "747371158832545792",
-          "indices": [
-            15,
-            27
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/7k4yY3jq6Y",
-          "expanded_url": "https://docs.google.com/document/d/1Pi8Dyejv-Bwnknpd0WtuwD_zTkC1lH9gQQf-P6p7jM4/edit?usp=sharing",
-          "display_url": "docs.google.com/document/d/1Pi…",
+          "url": "https://t.co/ZlAXBlaDQo",
+          "expanded_url": "https://twitter.com/i/web/status/953410224651669504",
+          "display_url": "twitter.com/i/web/status/9…",
           "indices": [
-            92,
-            115
+            117,
+            140
           ]
         }
       ]
@@ -90,62 +69,13 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Tue Jan 16 21:11:05 +0000 2018",
-      "id": 953374069096927200,
-      "id_str": "953374069096927232",
-      "text": "@gdunderhood я написала что-то, похожее на дневник главного героя этой игры: https://t.co/7k4yY3jq6Y",
-      "truncated": false,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "gdunderhood",
-            "name": "Гейм-дизайнер",
-            "id": 747371158832545800,
-            "id_str": "747371158832545792",
-            "indices": [
-              0,
-              12
-            ]
-          }
-        ],
-        "urls": [
-          {
-            "url": "https://t.co/7k4yY3jq6Y",
-            "expanded_url": "https://docs.google.com/document/d/1Pi8Dyejv-Bwnknpd0WtuwD_zTkC1lH9gQQf-P6p7jM4/edit?usp=sharing",
-            "display_url": "docs.google.com/document/d/1Pi…",
-            "indices": [
-              77,
-              100
-            ]
-          }
-        ]
-      },
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "in_reply_to_status_id": 953361936082702300,
-      "in_reply_to_status_id_str": "953361936082702337",
-      "in_reply_to_user_id": 747371158832545800,
-      "in_reply_to_user_id_str": "747371158832545792",
-      "in_reply_to_screen_name": "gdunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 2,
-      "favorited": false,
-      "retweeted": true,
-      "possibly_sensitive": false,
-      "lang": "ru"
-    },
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
+    "is_quote_status": true,
+    "quoted_status_id": 953402538224701400,
+    "quoted_status_id_str": "953402538224701440",
+    "retweet_count": 0,
+    "favorite_count": 2,
     "favorited": false,
-    "retweeted": true,
+    "retweeted": false,
     "possibly_sensitive": false,
     "lang": "ru"
   },
