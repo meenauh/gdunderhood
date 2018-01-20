@@ -26,39 +26,46 @@
     }
   },
   "protected": false,
-  "followers_count": 1585,
-  "friends_count": 48,
+  "followers_count": 1594,
+  "friends_count": 49,
   "listed_count": 27,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 1939,
+  "favourites_count": 1944,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 9733,
+  "statuses_count": 9813,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Jan 19 15:13:14 +0000 2018",
-    "id": 954371174712139800,
-    "id_str": "954371174712139776",
-    "text": "RT @vedmich: Запустили новый формат блиц-интервью с известными (и не очень) гейм-дизайнерами. Зацените пилот с Тайлером Сигманом, разработч…",
+    "created_at": "Sat Jan 20 15:58:05 +0000 2018",
+    "id": 954744849596592100,
+    "id_str": "954744849596592128",
+    "text": "Начал стрим, в котором хочу доделать игровую экономику и навести лоск. Это будет последний стрим на #yarjam\nhttps://t.co/bG8XNkswVF",
     "truncated": false,
     "entities": {
-      "hashtags": [],
-      "symbols": [],
-      "user_mentions": [
+      "hashtags": [
         {
-          "screen_name": "vedmich",
-          "name": "Matsukaze",
-          "id": 56080508,
-          "id_str": "56080508",
+          "text": "yarjam",
           "indices": [
-            3,
-            11
+            100,
+            107
           ]
         }
       ],
-      "urls": []
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/bG8XNkswVF",
+          "expanded_url": "https://www.youtube.com/watch?v=ZAo-zDh-Qjs",
+          "display_url": "youtube.com/watch?v=ZAo-zD…",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -70,51 +77,12 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Fri Jan 19 14:11:58 +0000 2018",
-      "id": 954355757956378600,
-      "id_str": "954355757956378624",
-      "text": "Запустили новый формат блиц-интервью с известными (и не очень) гейм-дизайнерами. Зацените пилот с Тайлером Сигманом… https://t.co/A9P5X5s0eW",
-      "truncated": true,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/A9P5X5s0eW",
-            "expanded_url": "https://twitter.com/i/web/status/954355757956378624",
-            "display_url": "twitter.com/i/web/status/9…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
-      },
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 5,
-      "favorite_count": 11,
-      "favorited": false,
-      "retweeted": true,
-      "possibly_sensitive": false,
-      "lang": "ru"
-    },
     "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 0,
+    "retweet_count": 1,
+    "favorite_count": 2,
     "favorited": false,
-    "retweeted": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
