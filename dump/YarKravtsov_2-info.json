@@ -30,40 +30,108 @@
   "friends_count": 49,
   "listed_count": 27,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 1944,
+  "favourites_count": 1950,
   "utc_offset": 10800,
   "time_zone": "Moscow",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 9813,
+  "statuses_count": 9850,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Jan 20 15:58:05 +0000 2018",
-    "id": 954744849596592100,
-    "id_str": "954744849596592128",
-    "text": "Начал стрим, в котором хочу доделать игровую экономику и навести лоск. Это будет последний стрим на #yarjam\nhttps://t.co/bG8XNkswVF",
+    "created_at": "Sun Jan 21 19:06:34 +0000 2018",
+    "id": 955154671357874200,
+    "id_str": "955154671357874177",
+    "text": "Из лички, с разрешения автора. #yarjam https://t.co/eWsOiTZ6E3",
     "truncated": false,
     "entities": {
       "hashtags": [
         {
           "text": "yarjam",
           "indices": [
-            100,
-            107
+            31,
+            38
           ]
         }
       ],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/bG8XNkswVF",
-          "expanded_url": "https://www.youtube.com/watch?v=ZAo-zDh-Qjs",
-          "display_url": "youtube.com/watch?v=ZAo-zD…",
+          "id": 955154450049617900,
+          "id_str": "955154450049617920",
           "indices": [
-            108,
-            131
-          ]
+            39,
+            62
+          ],
+          "media_url": "http://pbs.twimg.com/media/DUFj6WTXUAA9VnC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DUFj6WTXUAA9VnC.jpg",
+          "url": "https://t.co/eWsOiTZ6E3",
+          "display_url": "pic.twitter.com/eWsOiTZ6E3",
+          "expanded_url": "https://twitter.com/gdunderhood/status/955154671357874177/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 541,
+              "h": 117,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 541,
+              "h": 117,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 117,
+              "h": 117,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 541,
+              "h": 117,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 955154450049617900,
+          "id_str": "955154450049617920",
+          "indices": [
+            39,
+            62
+          ],
+          "media_url": "http://pbs.twimg.com/media/DUFj6WTXUAA9VnC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DUFj6WTXUAA9VnC.jpg",
+          "url": "https://t.co/eWsOiTZ6E3",
+          "display_url": "pic.twitter.com/eWsOiTZ6E3",
+          "expanded_url": "https://twitter.com/gdunderhood/status/955154671357874177/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 541,
+              "h": 117,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 541,
+              "h": 117,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 117,
+              "h": 117,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 541,
+              "h": 117,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -78,8 +146,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 2,
+    "retweet_count": 0,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,

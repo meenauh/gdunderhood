@@ -27170,6 +27170,3444 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jan 20 19:35:57 +0000 2018",
+      "id": 954799678142459900,
+      "id_str": "954799678142459904",
+      "text": "@alexlit_double Есть такое, да. Я думаю о варианте удаленного обучения и #yarjam - это обкатка одной из таких идей.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "yarjam",
+            "indices": [
+              73,
+              80
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "alexlit_double",
+            "name": "La Li Lu Le Lo Lit",
+            "id": 757992634061295600,
+            "id_str": "757992634061295616",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 954758061339668500,
+      "in_reply_to_status_id_str": "954758061339668481",
+      "in_reply_to_user_id": 757992634061295600,
+      "in_reply_to_user_id_str": "757992634061295616",
+      "in_reply_to_screen_name": "alexlit_double",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jan 20 19:38:14 +0000 2018",
+      "id": 954800255324819500,
+      "id_str": "954800255324819457",
+      "text": "@sergiyseriy Студентов надо расхватывать на втором курсе, пока они ещё учатся и сами ещё не присмотрели себе место.… https://t.co/4mz6rYZGvi",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sergiyseriy",
+            "name": "Sergey Volkov",
+            "id": 102119245,
+            "id_str": "102119245",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/4mz6rYZGvi",
+            "expanded_url": "https://twitter.com/i/web/status/954800255324819457",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 954773530947801100,
+      "in_reply_to_status_id_str": "954773530947801089",
+      "in_reply_to_user_id": 102119245,
+      "in_reply_to_user_id_str": "102119245",
+      "in_reply_to_screen_name": "sergiyseriy",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jan 20 19:40:00 +0000 2018",
+      "id": 954800698608189400,
+      "id_str": "954800698608189441",
+      "text": "@North1605 Не, я дневник не трогал. Мне как раз удобно, что ты занимаешься дневником и я могу сосредоточится на других механиках.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "North1605",
+            "name": "Sergey Verentsov",
+            "id": 152711993,
+            "id_str": "152711993",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 954748459667656700,
+      "in_reply_to_status_id_str": "954748459667656704",
+      "in_reply_to_user_id": 152711993,
+      "in_reply_to_user_id_str": "152711993",
+      "in_reply_to_screen_name": "North1605",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jan 20 19:41:03 +0000 2018",
+      "id": 954800960588648400,
+      "id_str": "954800960588648448",
+      "text": "@Aerigalle Скорее всего нет. Завтра у меня мало времени свободно, а столько всего нужно сделать.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Aerigalle",
+            "name": "Oriona",
+            "id": 336085298,
+            "id_str": "336085298",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 954747015895965700,
+      "in_reply_to_status_id_str": "954747015895965697",
+      "in_reply_to_user_id": 336085298,
+      "in_reply_to_user_id_str": "336085298",
+      "in_reply_to_screen_name": "Aerigalle",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jan 20 19:53:42 +0000 2018",
+      "id": 954804146200248300,
+      "id_str": "954804146200248320",
+      "text": "RT @kutuzovblog: Начал стримчик почти как @gdunderhood, но не про космос 🙃\nСпасибо @YarKravtsov, что вдохновил на такое!\n#gamedev #indiedev…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "gamedev",
+            "indices": [
+              121,
+              129
+            ]
+          },
+          {
+            "text": "indiedev",
+            "indices": [
+              130,
+              139
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kutuzovblog",
+            "name": "Ktzv",
+            "id": 353992182,
+            "id_str": "353992182",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              42,
+              54
+            ]
+          },
+          {
+            "screen_name": "YarKravtsov",
+            "name": "Yaroslav Kravtsov",
+            "id": 2248341073,
+            "id_str": "2248341073",
+            "indices": [
+              83,
+              95
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sat Jan 20 19:49:06 +0000 2018",
+        "id": 954802986810781700,
+        "id_str": "954802986810781696",
+        "text": "Начал стримчик почти как @gdunderhood, но не про космос 🙃\nСпасибо @YarKravtsov, что вдохновил на такое!\n#gamedev… https://t.co/Nrjl7LGitr",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "gamedev",
+              "indices": [
+                104,
+                112
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                25,
+                37
+              ]
+            },
+            {
+              "screen_name": "YarKravtsov",
+              "name": "Yaroslav Kravtsov",
+              "id": 2248341073,
+              "id_str": "2248341073",
+              "indices": [
+                66,
+                78
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/Nrjl7LGitr",
+              "expanded_url": "https://twitter.com/i/web/status/954802986810781696",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                114,
+                137
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 353992182,
+          "id_str": "353992182"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jan 20 20:54:10 +0000 2018",
+      "id": 954819363550449700,
+      "id_str": "954819363550449665",
+      "text": "Типичный геймер https://t.co/IVgeO3JHgX",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/IVgeO3JHgX",
+            "expanded_url": "https://twitter.com/PDLComics/status/954426085923463169",
+            "display_url": "twitter.com/PDLComics/stat…",
+            "indices": [
+              16,
+              39
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 954426085923463200,
+      "quoted_status_id_str": "954426085923463169",
+      "quoted_status": {
+        "created_at": "Fri Jan 19 18:51:25 +0000 2018",
+        "id": 954426085923463200,
+        "id_str": "954426085923463169",
+        "text": "challenge https://t.co/mhKEYnu20A https://t.co/znoyt0AMzd",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/mhKEYnu20A",
+              "expanded_url": "http://www.poorlydrawnlines.com/comic/challenge/",
+              "display_url": "poorlydrawnlines.com/comic/challeng…",
+              "indices": [
+                10,
+                33
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 954425898106740700,
+              "id_str": "954425898106740736",
+              "indices": [
+                34,
+                57
+              ],
+              "media_url": "http://pbs.twimg.com/media/DT7NTC0V4AA0M5I.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DT7NTC0V4AA0M5I.jpg",
+              "url": "https://t.co/znoyt0AMzd",
+              "display_url": "pic.twitter.com/znoyt0AMzd",
+              "expanded_url": "https://twitter.com/PDLComics/status/954426085923463169/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 389,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 700,
+                  "h": 400,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 700,
+                  "h": 400,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 954425898106740700,
+              "id_str": "954425898106740736",
+              "indices": [
+                34,
+                57
+              ],
+              "media_url": "http://pbs.twimg.com/media/DT7NTC0V4AA0M5I.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DT7NTC0V4AA0M5I.jpg",
+              "url": "https://t.co/znoyt0AMzd",
+              "display_url": "pic.twitter.com/znoyt0AMzd",
+              "expanded_url": "https://twitter.com/PDLComics/status/954426085923463169/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 389,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 700,
+                  "h": 400,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 700,
+                  "h": 400,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 193570988,
+          "id_str": "193570988"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 830,
+        "favorite_count": 2444,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jan 20 23:07:12 +0000 2018",
+      "id": 954852843147661300,
+      "id_str": "954852843147661312",
+      "text": "RT @sanngris: Впервые копаюсь с UV-разверткой. Чего не сделаешь ради игры?\n@gdunderhood #yarjam",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "yarjam",
+            "indices": [
+              88,
+              95
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sanngris",
+            "name": "Lolita Sanngris",
+            "id": 235531778,
+            "id_str": "235531778",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              75,
+              87
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sat Jan 20 21:42:41 +0000 2018",
+        "id": 954831572162707500,
+        "id_str": "954831572162707456",
+        "text": "Впервые копаюсь с UV-разверткой. Чего не сделаешь ради игры?\n@gdunderhood #yarjam",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "yarjam",
+              "indices": [
+                74,
+                81
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                61,
+                73
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 235531778,
+          "id_str": "235531778"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jan 20 23:07:25 +0000 2018",
+      "id": 954852894485999600,
+      "id_str": "954852894485999616",
+      "text": "RT @n_feofentov: @gdunderhood Закоммитил механику Ноутбуков. В них можно хранить любой текст: дневники, записи, книги и т.п. Записи из них…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "n_feofentov",
+            "name": "Nick Feofentov",
+            "id": 863140673691820000,
+            "id_str": "863140673691820033",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              17,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sat Jan 20 23:04:00 +0000 2018",
+        "id": 954852037522583600,
+        "id_str": "954852037522583555",
+        "text": "@gdunderhood Закоммитил механику Ноутбуков. В них можно хранить любой текст: дневники, записи, книги и т.п. Записи… https://t.co/13rxX2ufim",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/13rxX2ufim",
+              "expanded_url": "https://twitter.com/i/web/status/954852037522583555",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 863140673691820000,
+          "id_str": "863140673691820033"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jan 20 23:09:27 +0000 2018",
+      "id": 954853406715400200,
+      "id_str": "954853406715400192",
+      "text": "Залил магазин с покупкой апгрейдов. И расходуемое топливо тоже залил. Теперь цикл экономики замкнулся. Но надо тюни… https://t.co/StfuBuAJpO",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/StfuBuAJpO",
+            "expanded_url": "https://twitter.com/i/web/status/954853406715400192",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jan 20 23:10:12 +0000 2018",
+      "id": 954853596620886000,
+      "id_str": "954853596620886018",
+      "text": "Кстати, сейчас в игре 12 планет. С ними сборка версии уже не такая быстрая, как была в начале. Похоже придется оста… https://t.co/ATkI6Z9sg4",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ATkI6Z9sg4",
+            "expanded_url": "https://twitter.com/i/web/status/954853596620886018",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 21 07:53:50 +0000 2018",
+      "id": 954985374304096300,
+      "id_str": "954985374304096256",
+      "text": "@x_GS_x Уже и помню &gt;__&lt; Примерно также, как вставляли модели самолетов, если видел этот стрим. \n1. достаешь префаб… https://t.co/uTtLPNw3bY",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "x_GS_x",
+            "name": "AlexGaidukov",
+            "id": 108345880,
+            "id_str": "108345880",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/uTtLPNw3bY",
+            "expanded_url": "https://twitter.com/i/web/status/954985374304096256",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              123,
+              146
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 954921227537322000,
+      "in_reply_to_status_id_str": "954921227537321984",
+      "in_reply_to_user_id": 108345880,
+      "in_reply_to_user_id_str": "108345880",
+      "in_reply_to_screen_name": "x_GS_x",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 21 07:54:22 +0000 2018",
+      "id": 954985509188767700,
+      "id_str": "954985509188767744",
+      "text": "RT @Leto_GameD: На моей планете уже можно жить! Там есть свинина с биткоинами и баллоны с кислородом. Милости просим) \n@gdunderhood https:/…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Leto_GameD",
+            "name": "Nikita",
+            "id": 849557713478701000,
+            "id_str": "849557713478701056",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              119,
+              131
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Jan 21 02:02:49 +0000 2018",
+        "id": 954897035752337400,
+        "id_str": "954897035752337408",
+        "text": "На моей планете уже можно жить! Там есть свинина с биткоинами и баллоны с кислородом. Милости просим) \n@gdunderhood https://t.co/JN3T3Jf8AC",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                103,
+                115
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 954894366270738400,
+              "id_str": "954894366270738434",
+              "indices": [
+                116,
+                139
+              ],
+              "media_url": "http://pbs.twimg.com/media/DUB3XeuW0AI1nrF.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DUB3XeuW0AI1nrF.jpg",
+              "url": "https://t.co/JN3T3Jf8AC",
+              "display_url": "pic.twitter.com/JN3T3Jf8AC",
+              "expanded_url": "https://twitter.com/Leto_GameD/status/954897035752337408/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1920,
+                  "h": 1080,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 954894366270738400,
+              "id_str": "954894366270738434",
+              "indices": [
+                116,
+                139
+              ],
+              "media_url": "http://pbs.twimg.com/media/DUB3XeuW0AI1nrF.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DUB3XeuW0AI1nrF.jpg",
+              "url": "https://t.co/JN3T3Jf8AC",
+              "display_url": "pic.twitter.com/JN3T3Jf8AC",
+              "expanded_url": "https://twitter.com/Leto_GameD/status/954897035752337408/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1920,
+                  "h": 1080,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 954894625755615200,
+              "id_str": "954894625755615232",
+              "indices": [
+                116,
+                139
+              ],
+              "media_url": "http://pbs.twimg.com/media/DUB3mlYX0AAnYg6.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DUB3mlYX0AAnYg6.jpg",
+              "url": "https://t.co/JN3T3Jf8AC",
+              "display_url": "pic.twitter.com/JN3T3Jf8AC",
+              "expanded_url": "https://twitter.com/Leto_GameD/status/954897035752337408/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1920,
+                  "h": 1080,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 954895869853257700,
+              "id_str": "954895869853257728",
+              "indices": [
+                116,
+                139
+              ],
+              "media_url": "http://pbs.twimg.com/media/DUB4vAAXUAAwXP3.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DUB4vAAXUAAwXP3.jpg",
+              "url": "https://t.co/JN3T3Jf8AC",
+              "display_url": "pic.twitter.com/JN3T3Jf8AC",
+              "expanded_url": "https://twitter.com/Leto_GameD/status/954897035752337408/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1920,
+                  "h": 1080,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 954896938666811400,
+              "id_str": "954896938666811392",
+              "indices": [
+                116,
+                139
+              ],
+              "media_url": "http://pbs.twimg.com/media/DUB5tNpX4AAYGem.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DUB5tNpX4AAYGem.jpg",
+              "url": "https://t.co/JN3T3Jf8AC",
+              "display_url": "pic.twitter.com/JN3T3Jf8AC",
+              "expanded_url": "https://twitter.com/Leto_GameD/status/954897035752337408/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1920,
+                  "h": 1080,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 849557713478701000,
+          "id_str": "849557713478701056"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 21 08:07:04 +0000 2018",
+      "id": 954988702870179800,
+      "id_str": "954988702870179840",
+      "text": "Меня сегодня первую половину дня не будет, так что вы сами по себе. Есть немного работы, которую важно сделать за с… https://t.co/gjOz6E76AF",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gjOz6E76AF",
+            "expanded_url": "https://twitter.com/i/web/status/954988702870179840",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 21 08:07:04 +0000 2018",
+      "id": 954988704396906500,
+      "id_str": "954988704396906496",
+      "text": "@n_feofentov за тобой самое важное - модель персонажа. Её нужно не только замоделить, но вставить в игру и подключи… https://t.co/B3AEIQrCcv",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "n_feofentov",
+            "name": "Nick Feofentov",
+            "id": 863140673691820000,
+            "id_str": "863140673691820033",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/B3AEIQrCcv",
+            "expanded_url": "https://twitter.com/i/web/status/954988704396906496",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 954988702870179800,
+      "in_reply_to_status_id_str": "954988702870179840",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 21 08:07:05 +0000 2018",
+      "id": 954988706112426000,
+      "id_str": "954988706112425984",
+      "text": "У нас много префабов планет, у которых нет своей модели. Нужно наделать пачку моделей и подключить их к тем префаба… https://t.co/QL0QRkef73",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/QL0QRkef73",
+            "expanded_url": "https://twitter.com/i/web/status/954988706112425984",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 954988704396906500,
+      "in_reply_to_status_id_str": "954988704396906496",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 21 08:07:05 +0000 2018",
+      "id": 954988707597246500,
+      "id_str": "954988707597246464",
+      "text": "У нас не собирается билд. Много карт с ошибкой \"TerrainData is missing splat texture 2.\", которая видна в консоли п… https://t.co/NNWqClGgTV",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/NNWqClGgTV",
+            "expanded_url": "https://twitter.com/i/web/status/954988707597246464",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 954988706112426000,
+      "in_reply_to_status_id_str": "954988706112425984",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 21 08:07:05 +0000 2018",
+      "id": 954988708977086500,
+      "id_str": "954988708977086465",
+      "text": "Возможно есть ещё проблемы, мешающие билду собраться. Буду признателен, если кто-то покопает эту тему. А то сборка… https://t.co/cPj1ktgbwk",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/cPj1ktgbwk",
+            "expanded_url": "https://twitter.com/i/web/status/954988708977086465",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 954988707597246500,
+      "in_reply_to_status_id_str": "954988707597246464",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 21 08:07:06 +0000 2018",
+      "id": 954988710361288700,
+      "id_str": "954988710361288704",
+      "text": "Нужно собрать интерфейс по концепту и ассетам от @Lina_Morroz Для этого нужно сначала забрать у неё весь необходимый арт.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Lina_Morroz",
+            "name": "Lina Morroz",
+            "id": 102990044,
+            "id_str": "102990044",
+            "indices": [
+              49,
+              61
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 954988708977086500,
+      "in_reply_to_status_id_str": "954988708977086465",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 21 08:07:06 +0000 2018",
+      "id": 954988711627903000,
+      "id_str": "954988711627902978",
+      "text": "Авторы планет, напомню, что вы можете добавить на свои планеты массовой расстановкой свиней и кислородные балоны. Э… https://t.co/ZY0VBNa8QW",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ZY0VBNa8QW",
+            "expanded_url": "https://twitter.com/i/web/status/954988711627902978",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 954988710361288700,
+      "in_reply_to_status_id_str": "954988710361288704",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 21 08:07:06 +0000 2018",
+      "id": 954988713142050800,
+      "id_str": "954988713142050816",
+      "text": "Ещё нужно облагородить интерфейсы дневника и магазина.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 954988711627903000,
+      "in_reply_to_status_id_str": "954988711627902978",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 21 08:07:07 +0000 2018",
+      "id": 954988714438070300,
+      "id_str": "954988714438070274",
+      "text": "И сделать, чтобы в титрах собственно текст с титрами ехал вверх. Сам текст я заполню позже, пока можно туда что-ниб… https://t.co/SaR7Ctw67d",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/SaR7Ctw67d",
+            "expanded_url": "https://twitter.com/i/web/status/954988714438070274",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 954988713142050800,
+      "in_reply_to_status_id_str": "954988713142050816",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 21 08:07:07 +0000 2018",
+      "id": 954988715738325000,
+      "id_str": "954988715738324992",
+      "text": "Всё, погнали!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 954988714438070300,
+      "in_reply_to_status_id_str": "954988714438070274",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 21 08:11:19 +0000 2018",
+      "id": 954989774200242200,
+      "id_str": "954989774200242176",
+      "text": "RT @_Nevermind: @gdunderhood По-моему эта книга в тему! https://t.co/vmfMEyCxmr",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_Nevermind",
+            "name": "Nevermind",
+            "id": 17658923,
+            "id_str": "17658923",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              16,
+              28
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/vmfMEyCxmr",
+            "expanded_url": "https://twitter.com/McFunkypants/status/954569495854510080",
+            "display_url": "twitter.com/McFunkypants/s…",
+            "indices": [
+              56,
+              79
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Jan 21 08:08:36 +0000 2018",
+        "id": 954989088746197000,
+        "id_str": "954989088746196992",
+        "text": "@gdunderhood По-моему эта книга в тему! https://t.co/vmfMEyCxmr",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/vmfMEyCxmr",
+              "expanded_url": "https://twitter.com/McFunkypants/status/954569495854510080",
+              "display_url": "twitter.com/McFunkypants/s…",
+              "indices": [
+                40,
+                63
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 17658923,
+          "id_str": "17658923"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 954569495854510100,
+        "quoted_status_id_str": "954569495854510080",
+        "quoted_status": {
+          "created_at": "Sat Jan 20 04:21:17 +0000 2018",
+          "id": 954569495854510100,
+          "id_str": "954569495854510080",
+          "text": "look at this beauty!!!!!!!!!!!!!!!!!!!!!!!!! I am so excited to put it on my bookshelf alongside the other two - a… https://t.co/WHKkBUIf0M",
+          "truncated": true,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/WHKkBUIf0M",
+                "expanded_url": "https://twitter.com/i/web/status/954569495854510080",
+                "display_url": "twitter.com/i/web/status/9…",
+                "indices": [
+                  116,
+                  139
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "user": {
+            "id": 192969516,
+            "id_str": "192969516"
+          },
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 12,
+          "favorite_count": 54,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "retweet_count": 1,
+        "favorite_count": 6,
+        "favorited": true,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "quoted_status_id": 954569495854510100,
+      "quoted_status_id_str": "954569495854510080",
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 21 08:51:38 +0000 2018",
+      "id": 954999919722598400,
+      "id_str": "954999919722598400",
+      "text": "@Leto_GameD  https://t.co/QXwAce2Enk",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Leto_GameD",
+            "name": "Nikita",
+            "id": 849557713478701000,
+            "id_str": "849557713478701056",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 954999906527273000,
+            "id_str": "954999906527272961",
+            "indices": [
+              13,
+              36
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/DUDXWu0W4AEb6cq.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DUDXWu0W4AEb6cq.jpg",
+            "url": "https://t.co/QXwAce2Enk",
+            "display_url": "pic.twitter.com/QXwAce2Enk",
+            "expanded_url": "https://twitter.com/gdunderhood/status/954999919722598400/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 400,
+                "h": 224,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 400,
+                "h": 224,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 400,
+                "h": 224,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 954999906527273000,
+            "id_str": "954999906527272961",
+            "indices": [
+              13,
+              36
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/DUDXWu0W4AEb6cq.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DUDXWu0W4AEb6cq.jpg",
+            "url": "https://t.co/QXwAce2Enk",
+            "display_url": "pic.twitter.com/QXwAce2Enk",
+            "expanded_url": "https://twitter.com/gdunderhood/status/954999919722598400/photo/1",
+            "type": "animated_gif",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 400,
+                "h": 224,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 400,
+                "h": 224,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 400,
+                "h": 224,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                25,
+                14
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/tweet_video/DUDXWu0W4AEb6cq.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 954993023162683400,
+      "in_reply_to_status_id_str": "954993023162683394",
+      "in_reply_to_user_id": 849557713478701000,
+      "in_reply_to_user_id_str": "849557713478701056",
+      "in_reply_to_screen_name": "Leto_GameD",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Sun Jan 21 08:52:12 +0000 2018",
+      "id": 955000060059816000,
+      "id_str": "955000060059815936",
+      "text": "@Leto_GameD И еще можно воксельню модель торговой станции",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Leto_GameD",
+            "name": "Nikita",
+            "id": 849557713478701000,
+            "id_str": "849557713478701056",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 954999919722598400,
+      "in_reply_to_status_id_str": "954999919722598400",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 21 12:34:54 +0000 2018",
+      "id": 955056104693731300,
+      "id_str": "955056104693731334",
+      "text": "RT @Ellie_Goldshire: Ребята, все, кто принимает участие в #yarjam @gdunderhood, я бесконечно вас уважаю и восхищаюсь вами. Вы - крутые.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "yarjam",
+            "indices": [
+              58,
+              65
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Ellie_Goldshire",
+            "name": "Элли Е.Фокк",
+            "id": 351090979,
+            "id_str": "351090979",
+            "indices": [
+              3,
+              19
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              66,
+              78
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Jan 21 12:17:00 +0000 2018",
+        "id": 955051600757784600,
+        "id_str": "955051600757784576",
+        "text": "Ребята, все, кто принимает участие в #yarjam @gdunderhood, я бесконечно вас уважаю и восхищаюсь вами. Вы - крутые.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "yarjam",
+              "indices": [
+                37,
+                44
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                45,
+                57
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 351090979,
+          "id_str": "351090979"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 11,
+        "favorited": true,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 21 12:35:03 +0000 2018",
+      "id": 955056146183700500,
+      "id_str": "955056146183700487",
+      "text": "RT @Leto_GameD: Создал 3D модельки для некоторых планет и добавил их на карту мира. Если кто из владельцев планет захочет их изменить, я то…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Leto_GameD",
+            "name": "Nikita",
+            "id": 849557713478701000,
+            "id_str": "849557713478701056",
+            "indices": [
+              3,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Jan 21 12:02:57 +0000 2018",
+        "id": 955048067182587900,
+        "id_str": "955048067182587905",
+        "text": "Создал 3D модельки для некоторых планет и добавил их на карту мира. Если кто из владельцев планет захочет их измени… https://t.co/tK9x3Hlq8g",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/tK9x3Hlq8g",
+              "expanded_url": "https://twitter.com/i/web/status/955048067182587905",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 849557713478701000,
+          "id_str": "849557713478701056"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 5,
+        "favorited": true,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 21 16:30:37 +0000 2018",
+      "id": 955115426723323900,
+      "id_str": "955115426723323904",
+      "text": "RT @sanngris: Допилила пролог. Боюсь, на последнюю картинку меня не хватит. Предлагаю совместить последние записи с титрами на фоне космоса…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sanngris",
+            "name": "Lolita Sanngris",
+            "id": 235531778,
+            "id_str": "235531778",
+            "indices": [
+              3,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Jan 21 15:35:46 +0000 2018",
+        "id": 955101622883029000,
+        "id_str": "955101622883028993",
+        "text": "Допилила пролог. Боюсь, на последнюю картинку меня не хватит. Предлагаю совместить последние записи с титрами на фо… https://t.co/Nt5KgKR3wG",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/Nt5KgKR3wG",
+              "expanded_url": "https://twitter.com/i/web/status/955101622883028993",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 235531778,
+          "id_str": "235531778"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 15,
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 21 17:50:15 +0000 2018",
+      "id": 955135468613591000,
+      "id_str": "955135468613591045",
+      "text": "RT @Leto_GameD: Еще одна планетка и космическая станция)\n@gdunderhood  #yarjam https://t.co/8LhQsClWy1",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "yarjam",
+            "indices": [
+              71,
+              78
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Leto_GameD",
+            "name": "Nikita",
+            "id": 849557713478701000,
+            "id_str": "849557713478701056",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              57,
+              69
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 955129040469446700,
+            "id_str": "955129040469446657",
+            "indices": [
+              79,
+              102
+            ],
+            "media_url": "http://pbs.twimg.com/media/DUFMzUPXUAEstB4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DUFMzUPXUAEstB4.jpg",
+            "url": "https://t.co/8LhQsClWy1",
+            "display_url": "pic.twitter.com/8LhQsClWy1",
+            "expanded_url": "https://twitter.com/Leto_GameD/status/955129306321182720/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1920,
+                "h": 1080,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 955129306321182700,
+            "source_status_id_str": "955129306321182720",
+            "source_user_id": 849557713478701000,
+            "source_user_id_str": "849557713478701056"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 955129040469446700,
+            "id_str": "955129040469446657",
+            "indices": [
+              79,
+              102
+            ],
+            "media_url": "http://pbs.twimg.com/media/DUFMzUPXUAEstB4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DUFMzUPXUAEstB4.jpg",
+            "url": "https://t.co/8LhQsClWy1",
+            "display_url": "pic.twitter.com/8LhQsClWy1",
+            "expanded_url": "https://twitter.com/Leto_GameD/status/955129306321182720/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1920,
+                "h": 1080,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 955129306321182700,
+            "source_status_id_str": "955129306321182720",
+            "source_user_id": 849557713478701000,
+            "source_user_id_str": "849557713478701056"
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Jan 21 17:25:46 +0000 2018",
+        "id": 955129306321182700,
+        "id_str": "955129306321182720",
+        "text": "Еще одна планетка и космическая станция)\n@gdunderhood  #yarjam https://t.co/8LhQsClWy1",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "yarjam",
+              "indices": [
+                55,
+                62
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                41,
+                53
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 955129040469446700,
+              "id_str": "955129040469446657",
+              "indices": [
+                63,
+                86
+              ],
+              "media_url": "http://pbs.twimg.com/media/DUFMzUPXUAEstB4.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DUFMzUPXUAEstB4.jpg",
+              "url": "https://t.co/8LhQsClWy1",
+              "display_url": "pic.twitter.com/8LhQsClWy1",
+              "expanded_url": "https://twitter.com/Leto_GameD/status/955129306321182720/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1920,
+                  "h": 1080,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 955129040469446700,
+              "id_str": "955129040469446657",
+              "indices": [
+                63,
+                86
+              ],
+              "media_url": "http://pbs.twimg.com/media/DUFMzUPXUAEstB4.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DUFMzUPXUAEstB4.jpg",
+              "url": "https://t.co/8LhQsClWy1",
+              "display_url": "pic.twitter.com/8LhQsClWy1",
+              "expanded_url": "https://twitter.com/Leto_GameD/status/955129306321182720/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1920,
+                  "h": 1080,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 849557713478701000,
+          "id_str": "849557713478701056"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 21 17:52:04 +0000 2018",
+      "id": 955135924442226700,
+      "id_str": "955135924442226688",
+      "text": "Так. Я наконец-то снова тут. Сейчас обновлю проект, займусь тем, что осталось и буду готовить его к сборке.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 21 17:57:38 +0000 2018",
+      "id": 955137326929367000,
+      "id_str": "955137326929367040",
+      "text": "@sanngris Не. Силы мои иссякли, а впереди ещё дофига работы. Так что заливаю в себя кофе и тихо, молча всё довожу т… https://t.co/wWVMBXm9vz",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sanngris",
+            "name": "Lolita Sanngris",
+            "id": 235531778,
+            "id_str": "235531778",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/wWVMBXm9vz",
+            "expanded_url": "https://twitter.com/i/web/status/955137326929367040",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 955136888058384400,
+      "in_reply_to_status_id_str": "955136888058384384",
+      "in_reply_to_user_id": 235531778,
+      "in_reply_to_user_id_str": "235531778",
+      "in_reply_to_screen_name": "sanngris",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 21 18:08:41 +0000 2018",
+      "id": 955140104380612600,
+      "id_str": "955140104380612608",
+      "text": "Кстати, идея на будущее: стримы написания дизайнерской документации https://t.co/V9SF2uCzXn",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/V9SF2uCzXn",
+            "expanded_url": "https://twitter.com/Aerigalle/status/955139138386358272",
+            "display_url": "twitter.com/Aerigalle/stat…",
+            "indices": [
+              68,
+              91
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 955139138386358300,
+      "quoted_status_id_str": "955139138386358272",
+      "quoted_status": {
+        "created_at": "Sun Jan 21 18:04:50 +0000 2018",
+        "id": 955139138386358300,
+        "id_str": "955139138386358272",
+        "text": "@sanngris @gdunderhood спасибо @gdunderhood \nи всем, кто включился!\nя местами даже чуток всплакнула от милоты, что… https://t.co/8rbBogPUET",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "sanngris",
+              "name": "Lolita Sanngris",
+              "id": 235531778,
+              "id_str": "235531778",
+              "indices": [
+                0,
+                9
+              ]
+            },
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                10,
+                22
+              ]
+            },
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                31,
+                43
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/8rbBogPUET",
+              "expanded_url": "https://twitter.com/i/web/status/955139138386358272",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 955137644786339800,
+        "in_reply_to_status_id_str": "955137644786339841",
+        "in_reply_to_user_id": 235531778,
+        "in_reply_to_user_id_str": "235531778",
+        "in_reply_to_screen_name": "sanngris",
+        "user": {
+          "id": 336085298,
+          "id_str": "336085298"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 21 18:27:48 +0000 2018",
+      "id": 955144915167703000,
+      "id_str": "955144915167703040",
+      "text": "@n_feofentov Ок, я посмотрю что можно сделать",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "n_feofentov",
+            "name": "Nick Feofentov",
+            "id": 863140673691820000,
+            "id_str": "863140673691820033",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 955142406558703600,
+      "in_reply_to_status_id_str": "955142406558703616",
+      "in_reply_to_user_id": 863140673691820000,
+      "in_reply_to_user_id_str": "863140673691820033",
+      "in_reply_to_screen_name": "n_feofentov",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 21 18:46:15 +0000 2018",
+      "id": 955149560246136800,
+      "id_str": "955149560246136833",
+      "text": "@Leto_GameD У меня также. Скоро и до этого интерфейса доберусь.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Leto_GameD",
+            "name": "Nikita",
+            "id": 849557713478701000,
+            "id_str": "849557713478701056",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 955148058211311600,
+      "in_reply_to_status_id_str": "955148058211311616",
+      "in_reply_to_user_id": 849557713478701000,
+      "in_reply_to_user_id_str": "849557713478701056",
+      "in_reply_to_screen_name": "Leto_GameD",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 21 18:46:48 +0000 2018",
+      "id": 955149697437585400,
+      "id_str": "955149697437585408",
+      "text": "RT @Lina_Morroz: #yarjam интерфейсы активно меняются и верстаются теперь все выглядит немного иначе https://t.co/udx0K8Ljj4",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "yarjam",
+            "indices": [
+              17,
+              24
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Lina_Morroz",
+            "name": "Lina Morroz",
+            "id": 102990044,
+            "id_str": "102990044",
+            "indices": [
+              3,
+              15
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 955147223389515800,
+            "id_str": "955147223389515776",
+            "indices": [
+              100,
+              123
+            ],
+            "media_url": "http://pbs.twimg.com/media/DUFdVs5VMAAkBxE.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DUFdVs5VMAAkBxE.jpg",
+            "url": "https://t.co/udx0K8Ljj4",
+            "display_url": "pic.twitter.com/udx0K8Ljj4",
+            "expanded_url": "https://twitter.com/Lina_Morroz/status/955147297624489984/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1920,
+                "h": 1080,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 955147297624490000,
+            "source_status_id_str": "955147297624489984",
+            "source_user_id": 102990044,
+            "source_user_id_str": "102990044"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 955147223389515800,
+            "id_str": "955147223389515776",
+            "indices": [
+              100,
+              123
+            ],
+            "media_url": "http://pbs.twimg.com/media/DUFdVs5VMAAkBxE.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DUFdVs5VMAAkBxE.jpg",
+            "url": "https://t.co/udx0K8Ljj4",
+            "display_url": "pic.twitter.com/udx0K8Ljj4",
+            "expanded_url": "https://twitter.com/Lina_Morroz/status/955147297624489984/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1920,
+                "h": 1080,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 955147297624490000,
+            "source_status_id_str": "955147297624489984",
+            "source_user_id": 102990044,
+            "source_user_id_str": "102990044"
+          },
+          {
+            "id": 955147223385260000,
+            "id_str": "955147223385260034",
+            "indices": [
+              100,
+              123
+            ],
+            "media_url": "http://pbs.twimg.com/media/DUFdVs4UQAIVzgE.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DUFdVs4UQAIVzgE.jpg",
+            "url": "https://t.co/udx0K8Ljj4",
+            "display_url": "pic.twitter.com/udx0K8Ljj4",
+            "expanded_url": "https://twitter.com/Lina_Morroz/status/955147297624489984/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1942,
+                "h": 1091,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 382,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 674,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 955147297624490000,
+            "source_status_id_str": "955147297624489984",
+            "source_user_id": 102990044,
+            "source_user_id_str": "102990044"
+          },
+          {
+            "id": 955147223381061600,
+            "id_str": "955147223381061632",
+            "indices": [
+              100,
+              123
+            ],
+            "media_url": "http://pbs.twimg.com/media/DUFdVs3UMAAGcP3.png",
+            "media_url_https": "https://pbs.twimg.com/media/DUFdVs3UMAAGcP3.png",
+            "url": "https://t.co/udx0K8Ljj4",
+            "display_url": "pic.twitter.com/udx0K8Ljj4",
+            "expanded_url": "https://twitter.com/Lina_Morroz/status/955147297624489984/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1944,
+                "h": 1094,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            },
+            "source_status_id": 955147297624490000,
+            "source_status_id_str": "955147297624489984",
+            "source_user_id": 102990044,
+            "source_user_id_str": "102990044"
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Jan 21 18:37:16 +0000 2018",
+        "id": 955147297624490000,
+        "id_str": "955147297624489984",
+        "text": "#yarjam интерфейсы активно меняются и верстаются теперь все выглядит немного иначе https://t.co/udx0K8Ljj4",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "yarjam",
+              "indices": [
+                0,
+                7
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 955147223389515800,
+              "id_str": "955147223389515776",
+              "indices": [
+                83,
+                106
+              ],
+              "media_url": "http://pbs.twimg.com/media/DUFdVs5VMAAkBxE.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DUFdVs5VMAAkBxE.jpg",
+              "url": "https://t.co/udx0K8Ljj4",
+              "display_url": "pic.twitter.com/udx0K8Ljj4",
+              "expanded_url": "https://twitter.com/Lina_Morroz/status/955147297624489984/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1920,
+                  "h": 1080,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 955147223389515800,
+              "id_str": "955147223389515776",
+              "indices": [
+                83,
+                106
+              ],
+              "media_url": "http://pbs.twimg.com/media/DUFdVs5VMAAkBxE.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DUFdVs5VMAAkBxE.jpg",
+              "url": "https://t.co/udx0K8Ljj4",
+              "display_url": "pic.twitter.com/udx0K8Ljj4",
+              "expanded_url": "https://twitter.com/Lina_Morroz/status/955147297624489984/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1920,
+                  "h": 1080,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 955147223385260000,
+              "id_str": "955147223385260034",
+              "indices": [
+                83,
+                106
+              ],
+              "media_url": "http://pbs.twimg.com/media/DUFdVs4UQAIVzgE.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DUFdVs4UQAIVzgE.jpg",
+              "url": "https://t.co/udx0K8Ljj4",
+              "display_url": "pic.twitter.com/udx0K8Ljj4",
+              "expanded_url": "https://twitter.com/Lina_Morroz/status/955147297624489984/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1942,
+                  "h": 1091,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 382,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 674,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 955147223381061600,
+              "id_str": "955147223381061632",
+              "indices": [
+                83,
+                106
+              ],
+              "media_url": "http://pbs.twimg.com/media/DUFdVs3UMAAGcP3.png",
+              "media_url_https": "https://pbs.twimg.com/media/DUFdVs3UMAAGcP3.png",
+              "url": "https://t.co/udx0K8Ljj4",
+              "display_url": "pic.twitter.com/udx0K8Ljj4",
+              "expanded_url": "https://twitter.com/Lina_Morroz/status/955147297624489984/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1944,
+                  "h": 1094,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 102990044,
+          "id_str": "102990044"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 21 19:03:53 +0000 2018",
+      "id": 955153997169594400,
+      "id_str": "955153997169594369",
+      "text": "RT @n_feofentov: @gdunderhood Включил пересчет нормалей при импорте персонажа для сглаживания. Попробую покрутить параметры материалов. htt…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "n_feofentov",
+            "name": "Nick Feofentov",
+            "id": 863140673691820000,
+            "id_str": "863140673691820033",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              17,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Jan 21 19:02:50 +0000 2018",
+        "id": 955153732769079300,
+        "id_str": "955153732769079297",
+        "text": "@gdunderhood Включил пересчет нормалей при импорте персонажа для сглаживания. Попробую покрутить параметры материал… https://t.co/ar9UwAXYgD",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/ar9UwAXYgD",
+              "expanded_url": "https://twitter.com/i/web/status/955153732769079297",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 863140673691820000,
+          "id_str": "863140673691820033"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 21 19:06:34 +0000 2018",
+      "id": 955154671357874200,
+      "id_str": "955154671357874177",
+      "text": "Из лички, с разрешения автора. #yarjam https://t.co/eWsOiTZ6E3",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "yarjam",
+            "indices": [
+              31,
+              38
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 955154450049617900,
+            "id_str": "955154450049617920",
+            "indices": [
+              39,
+              62
+            ],
+            "media_url": "http://pbs.twimg.com/media/DUFj6WTXUAA9VnC.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DUFj6WTXUAA9VnC.jpg",
+            "url": "https://t.co/eWsOiTZ6E3",
+            "display_url": "pic.twitter.com/eWsOiTZ6E3",
+            "expanded_url": "https://twitter.com/gdunderhood/status/955154671357874177/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 541,
+                "h": 117,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 541,
+                "h": 117,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 117,
+                "h": 117,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 541,
+                "h": 117,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 955154450049617900,
+            "id_str": "955154450049617920",
+            "indices": [
+              39,
+              62
+            ],
+            "media_url": "http://pbs.twimg.com/media/DUFj6WTXUAA9VnC.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DUFj6WTXUAA9VnC.jpg",
+            "url": "https://t.co/eWsOiTZ6E3",
+            "display_url": "pic.twitter.com/eWsOiTZ6E3",
+            "expanded_url": "https://twitter.com/gdunderhood/status/955154671357874177/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 541,
+                "h": 117,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 541,
+                "h": 117,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 117,
+                "h": 117,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 541,
+                "h": 117,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
