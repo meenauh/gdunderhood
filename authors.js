@@ -2,7 +2,7 @@
 
 export default [
   // , post: false 
-  { username: 'YarKravtsov_2',    start: '15 Jan 2018', first: '952826394077220864', post: false },
+  { username: 'YarKravtsov_2',    start: '15 Jan 2018', first: '952826394077220864' },
   { username: 'linxxa',           start: '25 Dec 2017', first: '945221215140175873' },
   { username: 'armaturgames',     start: '27 Nov 2017', first: '935146085772857344' },
   { username: 'blackballgm',      start: '20 Nov 2017', first: '932523280573124608' },
