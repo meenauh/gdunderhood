@@ -37870,6 +37870,865 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 21 19:32:58 +0000 2018",
+      "id": 955161316662153200,
+      "id_str": "955161316662153217",
+      "text": "@gdunderhood svn приболел? https://t.co/Vvy1ZyerV6",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 955161305807237100,
+            "id_str": "955161305807237120",
+            "indices": [
+              27,
+              50
+            ],
+            "media_url": "http://pbs.twimg.com/media/DUFqJZ_WsAAfS4I.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DUFqJZ_WsAAfS4I.jpg",
+            "url": "https://t.co/Vvy1ZyerV6",
+            "display_url": "pic.twitter.com/Vvy1ZyerV6",
+            "expanded_url": "https://twitter.com/North1605/status/955161316662153217/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 652,
+                "h": 302,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 652,
+                "h": 302,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 652,
+                "h": 302,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 955161305807237100,
+            "id_str": "955161305807237120",
+            "indices": [
+              27,
+              50
+            ],
+            "media_url": "http://pbs.twimg.com/media/DUFqJZ_WsAAfS4I.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DUFqJZ_WsAAfS4I.jpg",
+            "url": "https://t.co/Vvy1ZyerV6",
+            "display_url": "pic.twitter.com/Vvy1ZyerV6",
+            "expanded_url": "https://twitter.com/North1605/status/955161316662153217/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 652,
+                "h": 302,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 652,
+                "h": 302,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 652,
+                "h": 302,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 152711993,
+        "id_str": "152711993"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Sun Jan 21 19:47:36 +0000 2018",
+      "id": 955164997604298800,
+      "id_str": "955164997604298754",
+      "text": "@sanngris @gdunderhood Шикарно!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sanngris",
+            "name": "Lolita Sanngris",
+            "id": 235531778,
+            "id_str": "235531778",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              10,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 955101622883029000,
+      "in_reply_to_status_id_str": "955101622883028993",
+      "in_reply_to_user_id": 235531778,
+      "in_reply_to_user_id_str": "235531778",
+      "in_reply_to_screen_name": "sanngris",
+      "user": {
+        "id": 3145130794,
+        "id_str": "3145130794"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 21 19:57:00 +0000 2018",
+      "id": 955167365393731600,
+      "id_str": "955167365393731584",
+      "text": "@gdunderhood #yarjam как человек, который апдейтит проект сейчас в поезде мобильным интернетом, хочу спасибо огромн… https://t.co/uE5sYTdgjo",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "yarjam",
+            "indices": [
+              13,
+              20
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/uE5sYTdgjo",
+            "expanded_url": "https://twitter.com/i/web/status/955167365393731584",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 152711993,
+        "id_str": "152711993"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 21 20:26:08 +0000 2018",
+      "id": 955174697011990500,
+      "id_str": "955174697011990529",
+      "text": "@gdunderhood Я придумал это позавчера) Была бы круто посмотреть!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 955140104380612600,
+      "in_reply_to_status_id_str": "955140104380612608",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 353992182,
+        "id_str": "353992182"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 21 20:27:40 +0000 2018",
+      "id": 955175080602030100,
+      "id_str": "955175080602030080",
+      "text": "@gdunderhood А если я удалю неиспользуемые ассеты, при апдейте они не загрузятся обратно?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 955173703033196500,
+      "in_reply_to_status_id_str": "955173703033196547",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 863140673691820000,
+        "id_str": "863140673691820033"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 21 20:41:37 +0000 2018",
+      "id": 955178592723525600,
+      "id_str": "955178592723525632",
+      "text": "@gdunderhood А почему происходит game over в космосе если ты летаешь больше 30 секунд без посадки? Я проверял - пираты не валят.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 955173703033196500,
+      "in_reply_to_status_id_str": "955173703033196547",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 849557713478701000,
+        "id_str": "849557713478701056"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 21 20:47:42 +0000 2018",
+      "id": 955180121849319400,
+      "id_str": "955180121849319424",
+      "text": "@gdunderhood Точняк блин. Ещё один момент. Если активировать маяк , улететь с планеты , а потом вернуться , то маяк… https://t.co/nI2k3Um9fO",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/nI2k3Um9fO",
+            "expanded_url": "https://twitter.com/i/web/status/955180121849319424",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 955179361027674100,
+      "in_reply_to_status_id_str": "955179361027674114",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 849557713478701000,
+        "id_str": "849557713478701056"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 21 20:51:21 +0000 2018",
+      "id": 955181040368275500,
+      "id_str": "955181040368275456",
+      "text": "@gdunderhood Эх, было очень круто. Не хотелось бы, чтоб это заканчивалось (",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 955179744785559600,
+      "in_reply_to_status_id_str": "955179744785559552",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 849557713478701000,
+        "id_str": "849557713478701056"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 21 20:54:52 +0000 2018",
+      "id": 955181928335933400,
+      "id_str": "955181928335933442",
+      "text": "@gdunderhood Если спросят, почему персонажа зовут как пирата, при этом он постоянно ноющий археолог, который спасае… https://t.co/CvEy02cAmT",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/CvEy02cAmT",
+            "expanded_url": "https://twitter.com/i/web/status/955181928335933442",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 2319187242,
+        "id_str": "2319187242"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 21 20:58:18 +0000 2018",
+      "id": 955182791850897400,
+      "id_str": "955182791850897412",
+      "text": "Here the latest build that we did during #yarjam week on @gdunderhood\nhttps://t.co/acvI0jTRN4 https://t.co/ClsAr5sLg9",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "yarjam",
+            "indices": [
+              41,
+              48
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              57,
+              69
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/acvI0jTRN4",
+            "expanded_url": "https://www.dropbox.com/s/euqqldrp1544oet/yarjam_latestbuild.zip?dl=0",
+            "display_url": "dropbox.com/s/euqqldrp1544…",
+            "indices": [
+              70,
+              93
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 955182751304618000,
+            "id_str": "955182751304617984",
+            "indices": [
+              94,
+              117
+            ],
+            "media_url": "http://pbs.twimg.com/media/DUF9pssXkAAhLkD.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DUF9pssXkAAhLkD.jpg",
+            "url": "https://t.co/ClsAr5sLg9",
+            "display_url": "pic.twitter.com/ClsAr5sLg9",
+            "expanded_url": "https://twitter.com/gdunderhood/status/955182791850897412/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 382,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 865,
+                "h": 486,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 865,
+                "h": 486,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 955182751304618000,
+            "id_str": "955182751304617984",
+            "indices": [
+              94,
+              117
+            ],
+            "media_url": "http://pbs.twimg.com/media/DUF9pssXkAAhLkD.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DUF9pssXkAAhLkD.jpg",
+            "url": "https://t.co/ClsAr5sLg9",
+            "display_url": "pic.twitter.com/ClsAr5sLg9",
+            "expanded_url": "https://twitter.com/gdunderhood/status/955182791850897412/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 382,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 865,
+                "h": 486,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 865,
+                "h": 486,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Jan 21 21:04:37 +0000 2018",
+      "id": 955184382662332400,
+      "id_str": "955184382662332416",
+      "text": "Закончилась моя неделя на @gdunderhood, но #yarjam не закончен, пока есть что коммитить. Для дальнейшего общения со… https://t.co/OiwYMwBJSH",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "yarjam",
+            "indices": [
+              43,
+              50
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              26,
+              38
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/OiwYMwBJSH",
+            "expanded_url": "https://twitter.com/i/web/status/955184382662332416",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2248341073,
+        "id_str": "2248341073"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 21 21:31:18 +0000 2018",
+      "id": 955191093980749800,
+      "id_str": "955191093980749824",
+      "text": "@gdunderhood Было восхитительно! Идея с джемом шикарная! Спасибо!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 955183165215256600,
+      "in_reply_to_status_id_str": "955183165215256576",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 3145130794,
+        "id_str": "3145130794"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 21 21:31:59 +0000 2018",
+      "id": 955191265737560000,
+      "id_str": "955191265737560064",
+      "text": "@gdunderhood Также огромнейшее спасибо всем, кто принял хотя бы малейшее участие в джеме! Вы супер!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 955191093980749800,
+      "in_reply_to_status_id_str": "955191093980749824",
+      "in_reply_to_user_id": 3145130794,
+      "in_reply_to_user_id_str": "3145130794",
+      "in_reply_to_screen_name": "HarryDemch",
+      "user": {
+        "id": 3145130794,
+        "id_str": "3145130794"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 22 00:18:22 +0000 2018",
+      "id": 955233139730808800,
+      "id_str": "955233139730808832",
+      "text": "@gdunderhood Какое разрешение монитора?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 955183133871263700,
+      "in_reply_to_status_id_str": "955183133871263745",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 2863688441,
+        "id_str": "2863688441"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
