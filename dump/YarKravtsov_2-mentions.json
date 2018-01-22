@@ -38729,6 +38729,393 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 22 01:37:51 +0000 2018",
+      "id": 955253141066453000,
+      "id_str": "955253141066452998",
+      "text": "Мне напомнили, что @luayan тоже делал игру на своей неделе в @gdunderhood. Забавно, у него в опросе про сеттинг дру… https://t.co/q6gIUa0BII",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "luayan",
+            "name": "Илья Туменко",
+            "id": 85163927,
+            "id_str": "85163927",
+            "indices": [
+              19,
+              26
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              61,
+              73
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/q6gIUa0BII",
+            "expanded_url": "https://twitter.com/i/web/status/955253141066452998",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2248341073,
+        "id_str": "2248341073"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 768012095883468800,
+      "quoted_status_id_str": "768012095883468800",
+      "quoted_status": {
+        "created_at": "Tue Aug 23 09:08:47 +0000 2016",
+        "id": 768012095883468800,
+        "id_str": "768012095883468800",
+        "text": "Выбираем СЕТТИНГ нашей инди-игры:",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 747371158832545800,
+          "id_str": "747371158832545792"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 22 02:44:23 +0000 2018",
+      "id": 955269887542231000,
+      "id_str": "955269887542231040",
+      "text": "@n_feofentov @gdunderhood Надо удалить и закоммитить, тогда наоборот все заберут новую версию без них.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "n_feofentov",
+            "name": "Nick Feofentov",
+            "id": 863140673691820000,
+            "id_str": "863140673691820033",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              13,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 955175080602030100,
+      "in_reply_to_status_id_str": "955175080602030080",
+      "in_reply_to_user_id": 863140673691820000,
+      "in_reply_to_user_id_str": "863140673691820033",
+      "in_reply_to_screen_name": "n_feofentov",
+      "user": {
+        "id": 710179047913951200,
+        "id_str": "710179047913951234"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 22 02:55:31 +0000 2018",
+      "id": 955272689035501600,
+      "id_str": "955272689035501569",
+      "text": "@YarKravtsov @gdunderhood Сходство есть, но есть и разница: \n«давайте творить с коммьюнити» — это пиар-ход;\nа «я по… https://t.co/prGweyMTcq",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "YarKravtsov",
+            "name": "Yaroslav Kravtsov",
+            "id": 2248341073,
+            "id_str": "2248341073",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              13,
+              25
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/prGweyMTcq",
+            "expanded_url": "https://twitter.com/i/web/status/955272689035501569",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 955253141066453000,
+      "in_reply_to_status_id_str": "955253141066452998",
+      "in_reply_to_user_id": 2248341073,
+      "in_reply_to_user_id_str": "2248341073",
+      "in_reply_to_screen_name": "YarKravtsov",
+      "user": {
+        "id": 85163927,
+        "id_str": "85163927"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 22 02:57:17 +0000 2018",
+      "id": 955273131148668900,
+      "id_str": "955273131148668933",
+      "text": "@YarKravtsov @gdunderhood ➔ но, по-честноку, дело не только в формате, от меня там отписывались с первого часа, так… https://t.co/mE1kOiFVCh",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "YarKravtsov",
+            "name": "Yaroslav Kravtsov",
+            "id": 2248341073,
+            "id_str": "2248341073",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              13,
+              25
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/mE1kOiFVCh",
+            "expanded_url": "https://twitter.com/i/web/status/955273131148668933",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 955272689035501600,
+      "in_reply_to_status_id_str": "955272689035501569",
+      "in_reply_to_user_id": 85163927,
+      "in_reply_to_user_id_str": "85163927",
+      "in_reply_to_screen_name": "luayan",
+      "user": {
+        "id": 85163927,
+        "id_str": "85163927"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 22 04:05:45 +0000 2018",
+      "id": 955290360720347100,
+      "id_str": "955290360720347136",
+      "text": "@YarKravtsov @gdunderhood Только наблюдал, но в группу вступил. Пока не знаю зачем. 😁",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "YarKravtsov",
+            "name": "Yaroslav Kravtsov",
+            "id": 2248341073,
+            "id_str": "2248341073",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              13,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 955184382662332400,
+      "in_reply_to_status_id_str": "955184382662332416",
+      "in_reply_to_user_id": 2248341073,
+      "in_reply_to_user_id_str": "2248341073",
+      "in_reply_to_screen_name": "YarKravtsov",
+      "user": {
+        "id": 4861236220,
+        "id_str": "4861236220"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 22 06:09:38 +0000 2018",
+      "id": 955321539964137500,
+      "id_str": "955321539964137473",
+      "text": "Больше всего понравилось, что #yarjam привлек разных людей к разработке. У нас были композиторы, сценаристы, художн… https://t.co/LEi23FMrGm",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "yarjam",
+            "indices": [
+              30,
+              37
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/LEi23FMrGm",
+            "expanded_url": "https://twitter.com/i/web/status/955321539964137473",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 90845050,
+        "id_str": "90845050"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
