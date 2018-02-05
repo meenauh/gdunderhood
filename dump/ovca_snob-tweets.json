@@ -1,0 +1,915 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Feb 05 05:46:27 +0000 2018",
+      "id": 960389135167930400,
+      "id_str": "960389135167930368",
+      "text": "Всем привет! \nМеня зовут Ася, я геймдизайнер. В данный момент работаю на проекте @sayriadventure.\nДо геймдева довол… https://t.co/zUJvESJPsB",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sayriadventure",
+            "name": "Sayri Adventure",
+            "id": 802266543484792800,
+            "id_str": "802266543484792832",
+            "indices": [
+              81,
+              96
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/zUJvESJPsB",
+            "expanded_url": "https://twitter.com/i/web/status/960389135167930368",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 22,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 05 05:46:28 +0000 2018",
+      "id": 960389138523471900,
+      "id_str": "960389138523471873",
+      "text": "Примерный план на неделю:\nПН - Разработка ПО vs Игр - сходства и различия\nВТ - Скиллы и тулзы из смежных обсластей… https://t.co/xHAeZ9orQh",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/xHAeZ9orQh",
+            "expanded_url": "https://twitter.com/i/web/status/960389138523471873",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 960389135167930400,
+      "in_reply_to_status_id_str": "960389135167930368",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 05 05:46:29 +0000 2018",
+      "id": 960389141010657300,
+      "id_str": "960389141010657281",
+      "text": "В процессе скорректируем план в зависимости от интереса. Начнем во второй половине дня :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 960389138523471900,
+      "in_reply_to_status_id_str": "960389138523471873",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 05 06:55:27 +0000 2018",
+      "id": 960406498630254600,
+      "id_str": "960406498630254592",
+      "text": "@kutuzovblog Привет! Отлично :) Участие в дискусии тоже всячески приветствуется:)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kutuzovblog",
+            "name": "Ktzv",
+            "id": 353992182,
+            "id_str": "353992182",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 960404327218151400,
+      "in_reply_to_status_id_str": "960404327218151424",
+      "in_reply_to_user_id": 353992182,
+      "in_reply_to_user_id_str": "353992182",
+      "in_reply_to_screen_name": "kutuzovblog",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 05 10:55:12 +0000 2018",
+      "id": 960466834582483000,
+      "id_str": "960466834582482946",
+      "text": "Начнем потихонечку про сходства:)\n1. Первое - довольно скучное и очевидное: Компьютерная игра - это разновидность П… https://t.co/T645GGgxS2",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/T645GGgxS2",
+            "expanded_url": "https://twitter.com/i/web/status/960466834582482946",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 05 10:55:13 +0000 2018",
+      "id": 960466837384314900,
+      "id_str": "960466837384314880",
+      "text": "2. Методологии разработки сейчас достаточно схожи - многие игры, как и многое современное ПО разрабатываются по гиб… https://t.co/0VLqC0fDBO",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/0VLqC0fDBO",
+            "expanded_url": "https://twitter.com/i/web/status/960466837384314880",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 960466834582483000,
+      "in_reply_to_status_id_str": "960466834582482946",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 05 10:55:13 +0000 2018",
+      "id": 960466840076955600,
+      "id_str": "960466840076955649",
+      "text": "3. С позиции бизнес-аналитика методики ведения проектной документации также схожи. Разработка ПО начинается с ТЗ. Р… https://t.co/fbkXue3Z0K",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/fbkXue3Z0K",
+            "expanded_url": "https://twitter.com/i/web/status/960466840076955649",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 960466837384314900,
+      "in_reply_to_status_id_str": "960466837384314880",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 05 10:55:14 +0000 2018",
+      "id": 960466842652311600,
+      "id_str": "960466842652311552",
+      "text": "4. Чтобы получить ТЗ, бизнес-аналитик проводит анализ рынка конкурентов, разбирает функционал имеющихся на рынке пр… https://t.co/EGDNmXoDNw",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/EGDNmXoDNw",
+            "expanded_url": "https://twitter.com/i/web/status/960466842652311552",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 960466840076955600,
+      "in_reply_to_status_id_str": "960466840076955649",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 05 10:55:15 +0000 2018",
+      "id": 960466845265350700,
+      "id_str": "960466845265350658",
+      "text": "5. Подтверждение происходит после анализа и определения ЦА. Проводятся опросы и исследования. Составляется портрет… https://t.co/sermFQPYSW",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/sermFQPYSW",
+            "expanded_url": "https://twitter.com/i/web/status/960466845265350658",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 960466842652311600,
+      "in_reply_to_status_id_str": "960466842652311552",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 05 10:55:15 +0000 2018",
+      "id": 960466847920353300,
+      "id_str": "960466847920353280",
+      "text": "6. При написании нового концепта игры также проводится анализ рынка и потенциальной ЦА. Выбирается сеттинг, подбира… https://t.co/8umqqfPECu",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8umqqfPECu",
+            "expanded_url": "https://twitter.com/i/web/status/960466847920353280",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 960466845265350700,
+      "in_reply_to_status_id_str": "960466845265350658",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 05 10:55:16 +0000 2018",
+      "id": 960466850650796000,
+      "id_str": "960466850650796032",
+      "text": "7. Одним словом, многие крупные сущности процессов в смежных областях схожи, хоть чаще всего и не знают об этом :)… https://t.co/JJFFlO5hjD",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/JJFFlO5hjD",
+            "expanded_url": "https://twitter.com/i/web/status/960466850650796032",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 960466847920353300,
+      "in_reply_to_status_id_str": "960466847920353280",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 05 10:57:57 +0000 2018",
+      "id": 960467526697144300,
+      "id_str": "960467526697144320",
+      "text": "8. Одних только аналитиков - великое множество :) Иногда одинаково называемые должности имеют совершенно разный спи… https://t.co/LvizraeMm5",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/LvizraeMm5",
+            "expanded_url": "https://twitter.com/i/web/status/960467526697144320",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 960466850650796000,
+      "in_reply_to_status_id_str": "960466850650796032",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 05 11:02:41 +0000 2018",
+      "id": 960468717602664400,
+      "id_str": "960468717602664450",
+      "text": "9. Есть, к примеру, аналитик, который пишет ТЗ (чаще всего называется бизнес или продуктовый). А есть (и тоже анали… https://t.co/r1JAJIlHrP",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/r1JAJIlHrP",
+            "expanded_url": "https://twitter.com/i/web/status/960468717602664450",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 960467526697144300,
+      "in_reply_to_status_id_str": "960467526697144320",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 05 11:02:42 +0000 2018",
+      "id": 960468720295424000,
+      "id_str": "960468720295424000",
+      "text": "10. Обязанности геймдизайнера тоже сильно разнятся в зависимости от проекта. Но есть специалисты, которым повезло е… https://t.co/GMQ67Idris",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/GMQ67Idris",
+            "expanded_url": "https://twitter.com/i/web/status/960468720295424000",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 960468717602664400,
+      "in_reply_to_status_id_str": "960468717602664450",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 05 11:07:16 +0000 2018",
+      "id": 960469872307191800,
+      "id_str": "960469872307191809",
+      "text": "11. Еще одно сходство - отсутствие как такового общепринятого стандарта в образования и сертификации. Чтоб было бы… https://t.co/c12TzeElCM",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/c12TzeElCM",
+            "expanded_url": "https://twitter.com/i/web/status/960469872307191809",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 960468720295424000,
+      "in_reply_to_status_id_str": "960468720295424000",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 05 11:07:17 +0000 2018",
+      "id": 960469875301916700,
+      "id_str": "960469875301916672",
+      "text": "12. С геймдизайнерами примерно та же тема. Много курсов очень разного наполнения и качества, есть высшее образовани… https://t.co/uinNGHOO4f",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uinNGHOO4f",
+            "expanded_url": "https://twitter.com/i/web/status/960469875301916672",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 960469872307191800,
+      "in_reply_to_status_id_str": "960469872307191809",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 05 11:07:18 +0000 2018",
+      "id": 960469877944344600,
+      "id_str": "960469877944344576",
+      "text": "13. Ну и еще одно сходство, кроме шуток - в разработке ПО тоже есть \"инди\" :) Я бы так назвала разработчиков мобиль… https://t.co/0GgSl5aOi2",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/0GgSl5aOi2",
+            "expanded_url": "https://twitter.com/i/web/status/960469877944344576",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 960469875301916700,
+      "in_reply_to_status_id_str": "960469875301916672",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 05 11:07:18 +0000 2018",
+      "id": 960469880620204000,
+      "id_str": "960469880620204033",
+      "text": "Пока со сходствами все, через часок-другой продолжим про различия :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 960469877944344600,
+      "in_reply_to_status_id_str": "960469877944344576",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 05 11:08:38 +0000 2018",
+      "id": 960470213266321400,
+      "id_str": "960470213266321409",
+      "text": "@vkozulya @sayriadventure Привет... фронтендер Козуля :) Рада знакомству :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vkozulya",
+            "name": "Фронтендер Козуля",
+            "id": 497743143,
+            "id_str": "497743143",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "sayriadventure",
+            "name": "Sayri Adventure",
+            "id": 802266543484792800,
+            "id_str": "802266543484792832",
+            "indices": [
+              10,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 960464940787257300,
+      "in_reply_to_status_id_str": "960464940787257344",
+      "in_reply_to_user_id": 497743143,
+      "in_reply_to_user_id_str": "497743143",
+      "in_reply_to_screen_name": "vkozulya",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 05 11:10:57 +0000 2018",
+      "id": 960470796157136900,
+      "id_str": "960470796157136896",
+      "text": "Да, тоже заметила, что на западе более четкое разделение. И, кстати, в геймдизайнерской специализации тоже, я про э… https://t.co/2PNf3XE1AS",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/2PNf3XE1AS",
+            "expanded_url": "https://twitter.com/i/web/status/960470796157136896",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 960469018028200000,
+      "quoted_status_id_str": "960469018028199937",
+      "quoted_status": {
+        "created_at": "Mon Feb 05 11:03:53 +0000 2018",
+        "id": 960469018028200000,
+        "id_str": "960469018028199937",
+        "text": "@gdunderhood С левел дизайном более мнее понятно на западе, там есть чёткие требования и обязаности к таким спецам.:)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 960468720295424000,
+        "in_reply_to_status_id_str": "960468720295424000",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 102768548,
+          "id_str": "102768548"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
