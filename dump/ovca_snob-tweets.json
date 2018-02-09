@@ -4584,6 +4584,3120 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 07 13:59:50 +0000 2018",
+      "id": 961238072179400700,
+      "id_str": "961238072179400706",
+      "text": "RT @HarryDemch: @u_djinno @gdunderhood Спасибо за ответ!\nК сожалению, туториал хоть и объясняет общие принципы и основы, но не показывает п…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "HarryDemch",
+            "name": "Harry Demch",
+            "id": 3145130794,
+            "id_str": "3145130794",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "u_djinno",
+            "name": "Eugene Mitchell",
+            "id": 940838143112212500,
+            "id_str": "940838143112212480",
+            "indices": [
+              16,
+              25
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              26,
+              38
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Feb 07 13:41:12 +0000 2018",
+        "id": 961233387074842600,
+        "id_str": "961233387074842625",
+        "text": "@u_djinno @gdunderhood Спасибо за ответ!\nК сожалению, туториал хоть и объясняет общие принципы и основы, но не пока… https://t.co/jaQsNYtzvK",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "u_djinno",
+              "name": "Eugene Mitchell",
+              "id": 940838143112212500,
+              "id_str": "940838143112212480",
+              "indices": [
+                0,
+                9
+              ]
+            },
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                10,
+                22
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/jaQsNYtzvK",
+              "expanded_url": "https://twitter.com/i/web/status/961233387074842625",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 961196435755749400,
+        "in_reply_to_status_id_str": "961196435755749376",
+        "in_reply_to_user_id": 940838143112212500,
+        "in_reply_to_user_id_str": "940838143112212480",
+        "in_reply_to_screen_name": "u_djinno",
+        "user": {
+          "id": 3145130794,
+          "id_str": "3145130794"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 07 13:59:53 +0000 2018",
+      "id": 961238086976880600,
+      "id_str": "961238086976880640",
+      "text": "RT @u_djinno: @HarryDemch @gdunderhood Мне зашло потому что я до этой программы писал все в таблицу. Сейчас я пишу в текст доке, а в драфте…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "u_djinno",
+            "name": "Eugene Mitchell",
+            "id": 940838143112212500,
+            "id_str": "940838143112212480",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "HarryDemch",
+            "name": "Harry Demch",
+            "id": 3145130794,
+            "id_str": "3145130794",
+            "indices": [
+              14,
+              25
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              26,
+              38
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Feb 07 13:57:51 +0000 2018",
+        "id": 961237574982434800,
+        "id_str": "961237574982434816",
+        "text": "@HarryDemch @gdunderhood Мне зашло потому что я до этой программы писал все в таблицу. Сейчас я пишу в текст доке,… https://t.co/jVONjUseoZ",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "HarryDemch",
+              "name": "Harry Demch",
+              "id": 3145130794,
+              "id_str": "3145130794",
+              "indices": [
+                0,
+                11
+              ]
+            },
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                12,
+                24
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/jVONjUseoZ",
+              "expanded_url": "https://twitter.com/i/web/status/961237574982434816",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 961233387074842600,
+        "in_reply_to_status_id_str": "961233387074842625",
+        "in_reply_to_user_id": 3145130794,
+        "in_reply_to_user_id_str": "3145130794",
+        "in_reply_to_screen_name": "HarryDemch",
+        "user": {
+          "id": 940838143112212500,
+          "id_str": "940838143112212480"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 07 14:03:38 +0000 2018",
+      "id": 961239031118901200,
+      "id_str": "961239031118901248",
+      "text": "9. Еще я сделала карточки с набором паттернов игровых механик для анализа и декомпозиции по материалам доклада Серг… https://t.co/hnMrAo3ZoY",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/hnMrAo3ZoY",
+            "expanded_url": "https://twitter.com/i/web/status/961239031118901248",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 961212413151387600,
+      "in_reply_to_status_id_str": "961212413151387649",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 14,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 07 15:15:33 +0000 2018",
+      "id": 961257128932425700,
+      "id_str": "961257128932425728",
+      "text": "О, а теперь мы еще и знаем автора :) Здорово :) https://t.co/OerZNXJ04n",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/OerZNXJ04n",
+            "expanded_url": "https://twitter.com/Felegz/status/961244408711663617",
+            "display_url": "twitter.com/Felegz/status/…",
+            "indices": [
+              48,
+              71
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 961244408711663600,
+      "quoted_status_id_str": "961244408711663617",
+      "quoted_status": {
+        "created_at": "Wed Feb 07 14:25:00 +0000 2018",
+        "id": 961244408711663600,
+        "id_str": "961244408711663617",
+        "text": "я сделяль ^^ https://t.co/jraAguzJ3c",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/jraAguzJ3c",
+              "expanded_url": "https://twitter.com/gdunderhood/status/961209952822902784",
+              "display_url": "twitter.com/gdunderhood/st…",
+              "indices": [
+                13,
+                36
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 53078384,
+          "id_str": "53078384"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 961209952822902800,
+        "quoted_status_id_str": "961209952822902784",
+        "retweet_count": 0,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 07 15:26:25 +0000 2018",
+      "id": 961259863161503700,
+      "id_str": "961259863161503744",
+      "text": "У меня есть еще два аналоговых инструмента, про которые уже не успеваю сегодня рассказать, поэтому перенесем их на… https://t.co/ycwXCSWo29",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ycwXCSWo29",
+            "expanded_url": "https://twitter.com/i/web/status/961259863161503744",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 08 05:15:15 +0000 2018",
+      "id": 961468446876713000,
+      "id_str": "961468446876712962",
+      "text": "Выглядят довольно симпатично. Еще два тулза для прототипирования в копилку :) https://t.co/xYQ9B3qw6p",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/xYQ9B3qw6p",
+            "expanded_url": "https://twitter.com/sevr7gina/status/961279432055980033",
+            "display_url": "twitter.com/sevr7gina/stat…",
+            "indices": [
+              78,
+              101
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 961279432055980000,
+      "quoted_status_id_str": "961279432055980033",
+      "quoted_status": {
+        "created_at": "Wed Feb 07 16:44:10 +0000 2018",
+        "id": 961279432055980000,
+        "id_str": "961279432055980033",
+        "text": "@gdunderhood Мы перешли с бальзамика на figma и invision",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 960885253589033000,
+        "in_reply_to_status_id_str": "960885253589032960",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 732905773483892700,
+          "id_str": "732905773483892736"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 08 08:10:49 +0000 2018",
+      "id": 961512628962013200,
+      "id_str": "961512628962013184",
+      "text": "1. Итак, первый артефакт - Кубики Историй. В основном наборе их 9, есть еще расширения на разные тематики, в каждом… https://t.co/9KN2CcZdwm",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/9KN2CcZdwm",
+            "expanded_url": "https://twitter.com/i/web/status/961512628962013184",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 15,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 08 08:10:51 +0000 2018",
+      "id": 961512637212192800,
+      "id_str": "961512637212192769",
+      "text": "2. Отлично помогают расшевелить фантазию, можно играть в компании и подмечать, как по-разному все интерпретируют од… https://t.co/07qt8h96gd",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/07qt8h96gd",
+            "expanded_url": "https://twitter.com/i/web/status/961512637212192769",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 961512628962013200,
+      "in_reply_to_status_id_str": "961512628962013184",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 08 08:10:52 +0000 2018",
+      "id": 961512639896563700,
+      "id_str": "961512639896563712",
+      "text": "3. Предлагаю в качестве упражнения сыграть и придумать историю по 9 кубикам на одной из фото, но усложнить задачу :… https://t.co/EVoelmhMTF",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/EVoelmhMTF",
+            "expanded_url": "https://twitter.com/i/web/status/961512639896563712",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 961512637212192800,
+      "in_reply_to_status_id_str": "961512637212192769",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 13,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 08 08:41:01 +0000 2018",
+      "id": 961520228050980900,
+      "id_str": "961520228050980865",
+      "text": "Первый шедевр :) По-моему, прекрасно вообще)) Особенно оконцовка порадовала)) Спасибо 👍 https://t.co/sxYBwXaF7s",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/sxYBwXaF7s",
+            "expanded_url": "https://twitter.com/kleshney/status/961517281120485377",
+            "display_url": "twitter.com/kleshney/statu…",
+            "indices": [
+              88,
+              111
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 961517281120485400,
+      "quoted_status_id_str": "961517281120485377",
+      "quoted_status": {
+        "created_at": "Thu Feb 08 08:29:18 +0000 2018",
+        "id": 961517281120485400,
+        "id_str": "961517281120485377",
+        "text": "@gdunderhood В вигваме спала скво Во. Внезапно на нее приземлилась черепаха, спускавшаяся на парашюте. Во как-будто… https://t.co/Y5RkAUJmXV",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/Y5RkAUJmXV",
+              "expanded_url": "https://twitter.com/i/web/status/961517281120485377",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 961512639896563700,
+        "in_reply_to_status_id_str": "961512639896563712",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 280136554,
+          "id_str": "280136554"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 08 08:48:22 +0000 2018",
+      "id": 961522077164433400,
+      "id_str": "961522077164433408",
+      "text": "Сайфай! Начинаем развивать жанровое разнообразие :) https://t.co/PM1CU468Sv",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/PM1CU468Sv",
+            "expanded_url": "https://twitter.com/n_feofentov/status/961520843321987072",
+            "display_url": "twitter.com/n_feofentov/st…",
+            "indices": [
+              52,
+              75
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 961520843321987100,
+      "quoted_status_id_str": "961520843321987072",
+      "quoted_status": {
+        "created_at": "Thu Feb 08 08:43:27 +0000 2018",
+        "id": 961520843321987100,
+        "id_str": "961520843321987072",
+        "text": "@gdunderhood [Земля] будущего. Герой, нарушив закон (весы), попадает в тюрьму (скважина).\nОн идёт на сделку: его [I… https://t.co/9bizpqhYMS",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/9bizpqhYMS",
+              "expanded_url": "https://twitter.com/i/web/status/961520843321987072",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 961512639896563700,
+        "in_reply_to_status_id_str": "961512639896563712",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 863140673691820000,
+          "id_str": "863140673691820033"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 08 08:51:02 +0000 2018",
+      "id": 961522750132166700,
+      "id_str": "961522750132166656",
+      "text": "Так-так, у нас тут в тред ворвался посланник из будущего с рекламой :) Подробности будут? :) https://t.co/MzwwbnWkb5",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/MzwwbnWkb5",
+            "expanded_url": "https://twitter.com/iWozik/status/961519237830533120",
+            "display_url": "twitter.com/iWozik/status/…",
+            "indices": [
+              93,
+              116
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 961519237830533100,
+      "quoted_status_id_str": "961519237830533120",
+      "quoted_status": {
+        "created_at": "Thu Feb 08 08:37:05 +0000 2018",
+        "id": 961519237830533100,
+        "id_str": "961519237830533120",
+        "text": "@gdunderhood некоторые мобильные разработчики могут пользоваться технологиями будущего уже сейчас!",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 960527534860333000,
+        "in_reply_to_status_id_str": "960527534860333056",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 24858478,
+          "id_str": "24858478"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "d56c5babcffde8ef",
+          "url": "https://api.twitter.com/1.1/geo/id/d56c5babcffde8ef.json",
+          "place_type": "city",
+          "name": "Stockholm",
+          "full_name": "Stockholm, Sverige",
+          "country_code": "SE",
+          "country": "Sverige",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  17.7601322,
+                  59.2271383
+                ],
+                [
+                  18.1999856,
+                  59.2271383
+                ],
+                [
+                  18.1999856,
+                  59.4402037
+                ],
+                [
+                  17.7601322,
+                  59.4402037
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 08 09:18:01 +0000 2018",
+      "id": 961529541477875700,
+      "id_str": "961529541477875712",
+      "text": "Невероятные Приключения Библиотекаря Василия в коме! Замечательно, спасибо 👍 https://t.co/6QBOYvdJRc",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/6QBOYvdJRc",
+            "expanded_url": "https://twitter.com/Aerigalle/status/961526510942375936",
+            "display_url": "twitter.com/Aerigalle/stat…",
+            "indices": [
+              77,
+              100
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 961526510942376000,
+      "quoted_status_id_str": "961526510942375936",
+      "quoted_status": {
+        "created_at": "Thu Feb 08 09:05:59 +0000 2018",
+        "id": 961526510942376000,
+        "id_str": "961526510942375936",
+        "text": "@gdunderhood Однажды в башню, где работает библиотекарь Василий, ударяет молния. Василий выпрыгивает из здания с па… https://t.co/IjDNZmQSse",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/IjDNZmQSse",
+              "expanded_url": "https://twitter.com/i/web/status/961526510942375936",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 961512639896563700,
+        "in_reply_to_status_id_str": "961512639896563712",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 336085298,
+          "id_str": "336085298"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 08 09:19:04 +0000 2018",
+      "id": 961529805169606700,
+      "id_str": "961529805169606656",
+      "text": "Вот, кстати тоже отличный кейс. Ретроспектива по кубикам - это что-то новенькое, надо взять на заметку 👍 https://t.co/IP6ai1pwUi",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/IP6ai1pwUi",
+            "expanded_url": "https://twitter.com/denishus/status/961525767476862976",
+            "display_url": "twitter.com/denishus/statu…",
+            "indices": [
+              105,
+              128
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 961525767476863000,
+      "quoted_status_id_str": "961525767476862976",
+      "quoted_status": {
+        "created_at": "Thu Feb 08 09:03:01 +0000 2018",
+        "id": 961525767476863000,
+        "id_str": "961525767476862976",
+        "text": "@gdunderhood Мы их используем на работе тоже, только для того, чтобы на ретро подвести итоги спринта. Рассказав с п… https://t.co/5R3mMRW9nt",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/5R3mMRW9nt",
+              "expanded_url": "https://twitter.com/i/web/status/961525767476862976",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 961512628962013200,
+        "in_reply_to_status_id_str": "961512628962013184",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 38173932,
+          "id_str": "38173932"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 08 09:49:48 +0000 2018",
+      "id": 961537540091035600,
+      "id_str": "961537540091035648",
+      "text": "Невероятные приключения черепашки - часть 1 https://t.co/3RHCSftsNV",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/3RHCSftsNV",
+            "expanded_url": "https://twitter.com/mindbokeh/status/961534045946511360",
+            "display_url": "twitter.com/mindbokeh/stat…",
+            "indices": [
+              44,
+              67
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 961534045946511400,
+      "quoted_status_id_str": "961534045946511360",
+      "quoted_status": {
+        "created_at": "Thu Feb 08 09:35:55 +0000 2018",
+        "id": 961534045946511400,
+        "id_str": "961534045946511360",
+        "text": "@gdunderhood читал утром книжку, там десантник уснул во время высадки, а очнулся на земле, в теле черепахи. первым… https://t.co/Prgg75qv7D",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/Prgg75qv7D",
+              "expanded_url": "https://twitter.com/i/web/status/961534045946511360",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 961512639896563700,
+        "in_reply_to_status_id_str": "961512639896563712",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 181437912,
+          "id_str": "181437912"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 08 09:50:23 +0000 2018",
+      "id": 961537684597428200,
+      "id_str": "961537684597428224",
+      "text": "Невероятные приключения черепашки 2: Черный вигвам. Осознание https://t.co/kkUXCb9Y50",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/kkUXCb9Y50",
+            "expanded_url": "https://twitter.com/fat_belfegor/status/961534699796680704",
+            "display_url": "twitter.com/fat_belfegor/s…",
+            "indices": [
+              62,
+              85
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 961534699796680700,
+      "quoted_status_id_str": "961534699796680704",
+      "quoted_status": {
+        "created_at": "Thu Feb 08 09:38:31 +0000 2018",
+        "id": 961534699796680700,
+        "id_str": "961534699796680704",
+        "text": "@gdunderhood Черепашка неожиданно осознает себя во сне сидящей в Черном вигваме. Глядя на свои права, она понимает,… https://t.co/AuKcNBujrw",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/AuKcNBujrw",
+              "expanded_url": "https://twitter.com/i/web/status/961534699796680704",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 961512639896563700,
+        "in_reply_to_status_id_str": "961512639896563712",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 212253835,
+          "id_str": "212253835"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 08 10:08:54 +0000 2018",
+      "id": 961542347044433900,
+      "id_str": "961542347044433920",
+      "text": "Невероятные приключения черепашки 3: Духовынй поиск https://t.co/cru42iXaSN",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/cru42iXaSN",
+            "expanded_url": "https://twitter.com/Keridans/status/961540247883567104",
+            "display_url": "twitter.com/Keridans/statu…",
+            "indices": [
+              52,
+              75
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 961540247883567100,
+      "quoted_status_id_str": "961540247883567104",
+      "quoted_status": {
+        "created_at": "Thu Feb 08 10:00:34 +0000 2018",
+        "id": 961540247883567100,
+        "id_str": "961540247883567104",
+        "text": "@gdunderhood Черепаха хотела знать все об этом мире, книг ей было мало. Она полетела к индейцам на воздушном шаре.… https://t.co/SV3bn9YZWk",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/SV3bn9YZWk",
+              "expanded_url": "https://twitter.com/i/web/status/961540247883567104",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 961512639896563700,
+        "in_reply_to_status_id_str": "961512639896563712",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 860060529485914100,
+          "id_str": "860060529485914113"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 08 10:48:24 +0000 2018",
+      "id": 961552287465324500,
+      "id_str": "961552287465324544",
+      "text": "И снова сайфай! Невероятные приключения черепашки 4: Дерзкая контрабанда 😀 https://t.co/efbRfHAX6O",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/efbRfHAX6O",
+            "expanded_url": "https://twitter.com/fat_belfegor/status/961546175538229248",
+            "display_url": "twitter.com/fat_belfegor/s…",
+            "indices": [
+              75,
+              98
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 961546175538229200,
+      "quoted_status_id_str": "961546175538229248",
+      "quoted_status": {
+        "created_at": "Thu Feb 08 10:24:07 +0000 2018",
+        "id": 961546175538229200,
+        "id_str": "961546175538229248",
+        "text": "@gdunderhood Тщательно всё взвесив, Черепашка принимает решение покинуть Землю и залечь на дно в кольцах Сатурна. Н… https://t.co/qWuQTwYxFG",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/qWuQTwYxFG",
+              "expanded_url": "https://twitter.com/i/web/status/961546175538229248",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 961534699796680700,
+        "in_reply_to_status_id_str": "961534699796680704",
+        "in_reply_to_user_id": 212253835,
+        "in_reply_to_user_id_str": "212253835",
+        "in_reply_to_screen_name": "fat_belfegor",
+        "user": {
+          "id": 212253835,
+          "id_str": "212253835"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 08 10:50:50 +0000 2018",
+      "id": 961552896998326300,
+      "id_str": "961552896998326273",
+      "text": "Видимо, это была стелс-миссия :) \nАж два неожиданных твиста в одном маленьком твите! :) https://t.co/jGpbVUs8M8",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/jGpbVUs8M8",
+            "expanded_url": "https://twitter.com/sanngris/status/961545550708596736",
+            "display_url": "twitter.com/sanngris/statu…",
+            "indices": [
+              88,
+              111
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 961545550708596700,
+      "quoted_status_id_str": "961545550708596736",
+      "quoted_status": {
+        "created_at": "Thu Feb 08 10:21:38 +0000 2018",
+        "id": 961545550708596700,
+        "id_str": "961545550708596736",
+        "text": "@gdunderhood В газетах писали \"Lучший десантник века высадился на высочайшем в мире здании!\" Там он обосновал вигва… https://t.co/NVyxVpqgGA",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/NVyxVpqgGA",
+              "expanded_url": "https://twitter.com/i/web/status/961545550708596736",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 961512639896563700,
+        "in_reply_to_status_id_str": "961512639896563712",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 235531778,
+          "id_str": "235531778"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 7,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 08 12:05:21 +0000 2018",
+      "id": 961571650134134800,
+      "id_str": "961571650134134786",
+      "text": "Приключения отважной буквы \"Г\" :)  Я думаю, ей нужно было стать буквой \"L\" https://t.co/t6AMYxYXvT",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/t6AMYxYXvT",
+            "expanded_url": "https://twitter.com/tilluan/status/961569588118016000",
+            "display_url": "twitter.com/tilluan/status…",
+            "indices": [
+              75,
+              98
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 961569588118016000,
+      "quoted_status_id_str": "961569588118016000",
+      "quoted_status": {
+        "created_at": "Thu Feb 08 11:57:09 +0000 2018",
+        "id": 961569588118016000,
+        "id_str": "961569588118016000",
+        "text": "@gdunderhood Однажды буква \"Г\" выбралась из книги и увидела себя в зеркале. Поняла - нужно что-то менять, и пошла к… https://t.co/J6EiZnZGwU",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/J6EiZnZGwU",
+              "expanded_url": "https://twitter.com/i/web/status/961569588118016000",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 961512639896563700,
+        "in_reply_to_status_id_str": "961512639896563712",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 2327030384,
+          "id_str": "2327030384"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 08 12:27:20 +0000 2018",
+      "id": 961577182379237400,
+      "id_str": "961577182379237376",
+      "text": "Я поясню, что я имела в виду. Десантник высадился на небоскребе - я уже представляю, что он там спецагент или типа… https://t.co/YuaxXuJldq",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/YuaxXuJldq",
+            "expanded_url": "https://twitter.com/i/web/status/961577182379237376",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 961575300923625500,
+      "quoted_status_id_str": "961575300923625472",
+      "quoted_status": {
+        "created_at": "Thu Feb 08 12:19:51 +0000 2018",
+        "id": 961575300923625500,
+        "id_str": "961575300923625472",
+        "text": "@gdunderhood Теперь бы еще понять, где были эти твисты, как их отслеживать и как в будущем использовать намеренно)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 961552896998326300,
+        "in_reply_to_status_id_str": "961552896998326273",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 235531778,
+          "id_str": "235531778"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 08 12:33:59 +0000 2018",
+      "id": 961578857198321700,
+      "id_str": "961578857198321664",
+      "text": "Во сне Пакман открыл новый элемент. Lенивий - корень всех бед! Проснувшись, он решил, что нужно начать прыгать с па… https://t.co/FSSyhfnss7",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/FSSyhfnss7",
+            "expanded_url": "https://twitter.com/i/web/status/961578857198321664",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 961512639896563700,
+      "in_reply_to_status_id_str": "961512639896563712",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 08 14:04:42 +0000 2018",
+      "id": 961601687239589900,
+      "id_str": "961601687239589889",
+      "text": "Невероятные приключения черепашки 5: Суровая реальность геймдева 👍 https://t.co/uoXDnh5z7U",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uoXDnh5z7U",
+            "expanded_url": "https://twitter.com/AnnTennKa/status/961584851261456385",
+            "display_url": "twitter.com/AnnTennKa/stat…",
+            "indices": [
+              67,
+              90
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 961584851261456400,
+      "quoted_status_id_str": "961584851261456385",
+      "quoted_status": {
+        "created_at": "Thu Feb 08 12:57:48 +0000 2018",
+        "id": 961584851261456400,
+        "id_str": "961584851261456385",
+        "text": "@gdunderhood Однажды молния ударила в небоскрёб, и это разбудило черепаху, которая читала книгу про создание тетрис… https://t.co/0ebZtkwaWa",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/0ebZtkwaWa",
+              "expanded_url": "https://twitter.com/i/web/status/961584851261456385",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 961512639896563700,
+        "in_reply_to_status_id_str": "961512639896563712",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 2921453441,
+          "id_str": "2921453441"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 08 14:05:07 +0000 2018",
+      "id": 961601793728761900,
+      "id_str": "961601793728761856",
+      "text": "AWWWWWW ^_^  Извините))) https://t.co/EeIKBExVh8",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/EeIKBExVh8",
+            "expanded_url": "https://twitter.com/sevr7gina/status/961587987929759746",
+            "display_url": "twitter.com/sevr7gina/stat…",
+            "indices": [
+              25,
+              48
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 961587987929759700,
+      "quoted_status_id_str": "961587987929759746",
+      "quoted_status": {
+        "created_at": "Thu Feb 08 13:10:16 +0000 2018",
+        "id": 961587987929759700,
+        "id_str": "961587987929759746",
+        "text": "@gdunderhood мальчик со шрамом на лбу в виде молнии жил не в небоскребе и даже не в палатке, а в обычном доме, где… https://t.co/m8MbTZRU4J",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/m8MbTZRU4J",
+              "expanded_url": "https://twitter.com/i/web/status/961587987929759746",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 961512639896563700,
+        "in_reply_to_status_id_str": "961512639896563712",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 732905773483892700,
+          "id_str": "732905773483892736"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "bg"
+    },
+    {
+      "created_at": "Thu Feb 08 14:09:42 +0000 2018",
+      "id": 961602944637452300,
+      "id_str": "961602944637452288",
+      "text": "Они украли наши полиме... звезды!  Слушайте, я не супер знаток в жанрах, но у нас тут потрясающее разнообразие полу… https://t.co/Wh6elzZYWv",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Wh6elzZYWv",
+            "expanded_url": "https://twitter.com/i/web/status/961602944637452288",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 961598491620503600,
+      "quoted_status_id_str": "961598491620503552",
+      "quoted_status": {
+        "created_at": "Thu Feb 08 13:52:00 +0000 2018",
+        "id": 961598491620503600,
+        "id_str": "961598491620503552",
+        "text": "@gdunderhood \"Анонимный источник сообщает, что вчерашний взрыв был салютом в честь нового верховного судьи Бада\".\nЯ… https://t.co/vOd9ntbzjo",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/vOd9ntbzjo",
+              "expanded_url": "https://twitter.com/i/web/status/961598491620503552",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 961512639896563700,
+        "in_reply_to_status_id_str": "961512639896563712",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 280595614,
+          "id_str": "280595614"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 08 14:11:20 +0000 2018",
+      "id": 961603354928533500,
+      "id_str": "961603354928533504",
+      "text": "Немного разбавим поток историй и прервемся на выпуск новостей о проблемах завтрашнего дня и их решении. https://t.co/Kkzt52FNQX",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Kkzt52FNQX",
+            "expanded_url": "https://twitter.com/iWozik/status/961597630311817216",
+            "display_url": "twitter.com/iWozik/status/…",
+            "indices": [
+              104,
+              127
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 961597630311817200,
+      "quoted_status_id_str": "961597630311817216",
+      "quoted_status": {
+        "created_at": "Thu Feb 08 13:48:35 +0000 2018",
+        "id": 961597630311817200,
+        "id_str": "961597630311817216",
+        "text": "@gdunderhood так рассказали и показали уже на #devgamm - https://t.co/eSSppJ1K58 Технология, которая решает проблем… https://t.co/G1yulph7Ia",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "devgamm",
+              "indices": [
+                46,
+                54
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/eSSppJ1K58",
+              "expanded_url": "https://www.youtube.com/watch?v=WFhU7IAckJo&feature=youtu.be&t=17806",
+              "display_url": "youtube.com/watch?v=WFhU7I…",
+              "indices": [
+                57,
+                80
+              ]
+            },
+            {
+              "url": "https://t.co/G1yulph7Ia",
+              "expanded_url": "https://twitter.com/i/web/status/961597630311817216",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 961522750132166700,
+        "in_reply_to_status_id_str": "961522750132166656",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 24858478,
+          "id_str": "24858478"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "d56c5babcffde8ef",
+          "url": "https://api.twitter.com/1.1/geo/id/d56c5babcffde8ef.json",
+          "place_type": "city",
+          "name": "Stockholm",
+          "full_name": "Stockholm, Sverige",
+          "country_code": "SE",
+          "country": "Sverige",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  17.7601322,
+                  59.2271383
+                ],
+                [
+                  18.1999856,
+                  59.2271383
+                ],
+                [
+                  18.1999856,
+                  59.4402037
+                ],
+                [
+                  17.7601322,
+                  59.4402037
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 08 16:29:34 +0000 2018",
+      "id": 961638145467953200,
+      "id_str": "961638145467953152",
+      "text": "Отличная завязка для романа 👍 сразу не догадаешься, что это были всего лишь какие-то кубики с картинками :) https://t.co/UgFQSFP7OB",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/UgFQSFP7OB",
+            "expanded_url": "https://twitter.com/v_d_ignatyev/status/961632147382693888",
+            "display_url": "twitter.com/v_d_ignatyev/s…",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 961632147382693900,
+      "quoted_status_id_str": "961632147382693888",
+      "quoted_status": {
+        "created_at": "Thu Feb 08 16:05:44 +0000 2018",
+        "id": 961632147382693900,
+        "id_str": "961632147382693888",
+        "text": "@gdunderhood Спустя много лет, слушая вердикт трибунала, решившего судьбу мятежного главы ордена техномантов, Квинн… https://t.co/uaiqFrXqWL",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/uaiqFrXqWL",
+              "expanded_url": "https://twitter.com/i/web/status/961632147382693888",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 961512639896563700,
+        "in_reply_to_status_id_str": "961512639896563712",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 3641585781,
+          "id_str": "3641585781"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 08 16:57:54 +0000 2018",
+      "id": 961645273637306400,
+      "id_str": "961645273637306368",
+      "text": "1. Второй артефакт, про который я обещала рассказать  - Колоды Для Генерации Персонажей от MetalWeave Games. Продае… https://t.co/gKSzwS1L4j",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gKSzwS1L4j",
+            "expanded_url": "https://twitter.com/i/web/status/961645273637306368",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 08 16:57:55 +0000 2018",
+      "id": 961645277055561700,
+      "id_str": "961645277055561730",
+      "text": "2. Каждая колода содержит 50 карт и рассматривает один из аспектов для  формирования личности будущего персонажа. Э… https://t.co/eHL8nZIHkH",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/eHL8nZIHkH",
+            "expanded_url": "https://twitter.com/i/web/status/961645277055561730",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 961645273637306400,
+      "in_reply_to_status_id_str": "961645273637306368",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 08 16:57:57 +0000 2018",
+      "id": 961645285028982800,
+      "id_str": "961645285028982789",
+      "text": "3. Для генерации имени есть два типа карт. Первый - имена. Можно выбрать, что нравится или кинуть двадцатигранный к… https://t.co/edY3MHdjqe",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/edY3MHdjqe",
+            "expanded_url": "https://twitter.com/i/web/status/961645285028982789",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 961645277055561700,
+      "in_reply_to_status_id_str": "961645277055561730",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 08 16:57:58 +0000 2018",
+      "id": 961645292662669300,
+      "id_str": "961645292662669312",
+      "text": "4. Давайте узнаем, что Deion за человек. Его характер - совать свой нос (и руки) во все дела, контролировать все, н… https://t.co/IMYP3tybTr",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/IMYP3tybTr",
+            "expanded_url": "https://twitter.com/i/web/status/961645292662669312",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 961645285028982800,
+      "in_reply_to_status_id_str": "961645285028982789",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 08 16:58:00 +0000 2018",
+      "id": 961645300493332500,
+      "id_str": "961645300493332480",
+      "text": "5. По профессии Deion - исследователь опасных частей света, где еще не ступала нога человека. Но однако вдаль от ци… https://t.co/g0q3D9QBuX",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/g0q3D9QBuX",
+            "expanded_url": "https://twitter.com/i/web/status/961645300493332480",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 961645292662669300,
+      "in_reply_to_status_id_str": "961645292662669312",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 08 16:58:02 +0000 2018",
+      "id": 961645309435641900,
+      "id_str": "961645309435641856",
+      "text": "6. Какая же у него цель в этих скитаниях? А цель у него - сбежать от прошлого и раствориться. Что-то мучает и пресл… https://t.co/tF3i3kz1lg",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/tF3i3kz1lg",
+            "expanded_url": "https://twitter.com/i/web/status/961645309435641856",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 961645300493332500,
+      "in_reply_to_status_id_str": "961645300493332480",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 08 16:58:05 +0000 2018",
+      "id": 961645318180716500,
+      "id_str": "961645318180716544",
+      "text": "7. Особые черты. Он носит униформу, которая указывает на то, что он военный, возможно член культа или сотрудник орг… https://t.co/M6k61PyUxW",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/M6k61PyUxW",
+            "expanded_url": "https://twitter.com/i/web/status/961645318180716544",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 961645309435641900,
+      "in_reply_to_status_id_str": "961645309435641856",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 08 16:58:06 +0000 2018",
+      "id": 961645325730570200,
+      "id_str": "961645325730570241",
+      "text": "8. Странности. Носит морально устаревшую одежду. Архаичен в манерах, использует устаревшие выражения, чтобы отдать… https://t.co/fGOoihaGYl",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/fGOoihaGYl",
+            "expanded_url": "https://twitter.com/i/web/status/961645325730570241",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 961645318180716500,
+      "in_reply_to_status_id_str": "961645318180716544",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 08 16:58:08 +0000 2018",
+      "id": 961645333703835600,
+      "id_str": "961645333703835648",
+      "text": "9. Теперь узнаем, что же он скрывает. Придерживается политических взглядов, непопулярных в его кругу общения. Если… https://t.co/j7hp5GKaVn",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/j7hp5GKaVn",
+            "expanded_url": "https://twitter.com/i/web/status/961645333703835648",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 961645325730570200,
+      "in_reply_to_status_id_str": "961645325730570241",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 08 16:58:10 +0000 2018",
+      "id": 961645342121799700,
+      "id_str": "961645342121799681",
+      "text": "10. Отношения с окружающими. Стал свидетелем тяжкого преступления - кражи, нападения, поджога, растраты казны. И у… https://t.co/0wRWbIKKnn",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/0wRWbIKKnn",
+            "expanded_url": "https://twitter.com/i/web/status/961645342121799681",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 961645333703835600,
+      "in_reply_to_status_id_str": "961645333703835648",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 08 16:58:12 +0000 2018",
+      "id": 961645350342746100,
+      "id_str": "961645350342746118",
+      "text": "11. В принципе, получился довольно цельный, интересный и многогранный персонаж, с которым можно дальше работать. Не… https://t.co/hSsr1K7Wag",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/hSsr1K7Wag",
+            "expanded_url": "https://twitter.com/i/web/status/961645350342746118",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 961645342121799700,
+      "in_reply_to_status_id_str": "961645342121799681",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 08 16:58:13 +0000 2018",
+      "id": 961645352976728000,
+      "id_str": "961645352976728064",
+      "text": "12. Пока что с артефактами все, а завтра поговорим о перфекционизме и критериях готовности игры :) Stay tuned!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 961645350342746100,
+      "in_reply_to_status_id_str": "961645350342746118",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 08 18:27:29 +0000 2018",
+      "id": 961667818595827700,
+      "id_str": "961667818595827712",
+      "text": "Ох, какой больной вопрос :) Есть как минимум одна большая, несколько маленьких - надеюсь, их будет еще много. Что-т… https://t.co/26sqqy7jm0",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/26sqqy7jm0",
+            "expanded_url": "https://twitter.com/i/web/status/961667818595827712",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 961659377215144000,
+      "quoted_status_id_str": "961659377215143936",
+      "quoted_status": {
+        "created_at": "Thu Feb 08 17:53:56 +0000 2018",
+        "id": 961659377215144000,
+        "id_str": "961659377215143936",
+        "text": "@gdunderhood В начале карьеры у вас наверняка была своя история(сюжет). Вы её воплотили?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 961645352976728000,
+        "in_reply_to_status_id_str": "961645352976728064",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 3631232537,
+          "id_str": "3631232537"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 09 05:51:42 +0000 2018",
+      "id": 961840007467098100,
+      "id_str": "961840007467098113",
+      "text": "@niks28rus Спасибо! Приятно слышать, что кому-то что-то пригодилось :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "niks28rus",
+            "name": "LuckyMushroom",
+            "id": 4861236220,
+            "id_str": "4861236220",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 961774589784313900,
+      "in_reply_to_status_id_str": "961774589784313856",
+      "in_reply_to_user_id": 4861236220,
+      "in_reply_to_user_id_str": "4861236220",
+      "in_reply_to_screen_name": "niks28rus",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
