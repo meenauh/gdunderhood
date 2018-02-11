@@ -4192,6 +4192,179 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 11 15:25:44 +0000 2018",
+      "id": 962709241109925900,
+      "id_str": "962709241109925889",
+      "text": "@gdunderhood Калининград ;(",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 962564669998157800,
+      "in_reply_to_status_id_str": "962564669998157825",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 767471245,
+        "id_str": "767471245"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "sr"
+    },
+    {
+      "created_at": "Sun Feb 11 17:30:21 +0000 2018",
+      "id": 962740603183419400,
+      "id_str": "962740603183419394",
+      "text": "@tailedCarpet @gdunderhood https://t.co/4jBxpZfIAo ?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tailedCarpet",
+            "name": "Иван Насонов",
+            "id": 767471245,
+            "id_str": "767471245",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              14,
+              26
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/4jBxpZfIAo",
+            "expanded_url": "https://vk.com/club10115325",
+            "display_url": "vk.com/club10115325",
+            "indices": [
+              27,
+              50
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 962709241109925900,
+      "in_reply_to_status_id_str": "962709241109925889",
+      "in_reply_to_user_id": 767471245,
+      "in_reply_to_user_id_str": "767471245",
+      "in_reply_to_screen_name": "tailedCarpet",
+      "user": {
+        "id": 53078384,
+        "id_str": "53078384"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Sun Feb 11 18:52:34 +0000 2018",
+      "id": 962761293424922600,
+      "id_str": "962761293424922624",
+      "text": "@u_djinno @gdunderhood @wnconf DevGAMM в вашем городе (Москва) уже 17-18 мая! :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "u_djinno",
+            "name": "Eugene Mitchell",
+            "id": 940838143112212500,
+            "id_str": "940838143112212480",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              10,
+              22
+            ]
+          },
+          {
+            "screen_name": "wnconf",
+            "name": "White Nights ⭐️",
+            "id": 3032340963,
+            "id_str": "3032340963",
+            "indices": [
+              23,
+              30
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 962628111602012200,
+      "in_reply_to_status_id_str": "962628111602012164",
+      "in_reply_to_user_id": 940838143112212500,
+      "in_reply_to_user_id_str": "940838143112212480",
+      "in_reply_to_screen_name": "u_djinno",
+      "user": {
+        "id": 23060987,
+        "id_str": "23060987"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
