@@ -895,6 +895,269 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 10 07:05:58 +0000 2018",
+      "id": 994473605672075300,
+      "id_str": "994473605672075264",
+      "text": "Поделитесь, какими приемами пользуетесь для придумывания игровых механик.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 10 07:16:09 +0000 2018",
+      "id": 994476169637584900,
+      "id_str": "994476169637584896",
+      "text": "Модель 4 действий по \"стратегии голубого океана\". Использовал для создания мини-игр, one-tap аркад. Разложить игру… https://t.co/EvBqLH3XMA",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/EvBqLH3XMA",
+            "expanded_url": "https://twitter.com/i/web/status/994476169637584896",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 994473605672075300,
+      "in_reply_to_status_id_str": "994473605672075264",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 16,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 10 09:58:29 +0000 2018",
+      "id": 994517020606595100,
+      "id_str": "994517020606595072",
+      "text": "@and_r3w Быстро накидал пример из практики. Слева - флэш-игра, взятая как референс, которую я декмопозировал. Справ… https://t.co/5VC32YcL6v",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "and_r3w",
+            "name": "andrew",
+            "id": 35002857,
+            "id_str": "35002857",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/5VC32YcL6v",
+            "expanded_url": "https://twitter.com/i/web/status/994517020606595072",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 994496160202182700,
+      "in_reply_to_status_id_str": "994496160202182656",
+      "in_reply_to_user_id": 35002857,
+      "in_reply_to_user_id_str": "35002857",
+      "in_reply_to_screen_name": "and_r3w",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 10 13:30:03 +0000 2018",
+      "id": 994570263223291900,
+      "id_str": "994570263223291904",
+      "text": "Немного о подкапотном устройстве нашей игры Versus. В основе мета-гейма - менеджмент персонажа, подбор наиболее эфф… https://t.co/pBCEQO9C3X",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/pBCEQO9C3X",
+            "expanded_url": "https://twitter.com/i/web/status/994570263223291904",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 10 13:31:37 +0000 2018",
+      "id": 994570655017459700,
+      "id_str": "994570655017459712",
+      "text": "Для того чтобы не программировать каждую карточку приема или расходник отдельно (именно так было в прототипе). Мы р… https://t.co/Auiz2kDw55",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Auiz2kDw55",
+            "expanded_url": "https://twitter.com/i/web/status/994570655017459712",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 994570263223291900,
+      "in_reply_to_status_id_str": "994570263223291904",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 10 14:29:09 +0000 2018",
+      "id": 994585137269665800,
+      "id_str": "994585137269665792",
+      "text": "Так выглядит настройка приема в консоли админа. Такая универсальная система вдохновила нас впоследствии на создание… https://t.co/RxysTv1Mlx",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/RxysTv1Mlx",
+            "expanded_url": "https://twitter.com/i/web/status/994585137269665792",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 994570655017459700,
+      "in_reply_to_status_id_str": "994570655017459712",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
