@@ -1740,6 +1740,104 @@
       "favorited": true,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Fri May 11 10:04:23 +0000 2018",
+      "id": 994880891112640500,
+      "id_str": "994880891112640513",
+      "text": "@gdunderhood а зачем повышать игроку размер первого платежа, если он два раза не купил стартерпак? интересует скачо… https://t.co/o0vM2enyuz",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/o0vM2enyuz",
+            "expanded_url": "https://twitter.com/i/web/status/994880891112640513",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 994876006761713700,
+      "in_reply_to_status_id_str": "994876006761713669",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 490673710,
+        "id_str": "490673710"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri May 11 14:24:31 +0000 2018",
+      "id": 994946359420706800,
+      "id_str": "994946359420706816",
+      "text": "@gdunderhood Офферы бывают разные. В идеале они должны порождать контент для распространения и тогда будет всё наоборот.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 994888626348675100,
+      "in_reply_to_status_id_str": "994888626348675073",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 369075063,
+        "id_str": "369075063"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
