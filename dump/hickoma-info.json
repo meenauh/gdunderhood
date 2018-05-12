@@ -26,42 +26,32 @@
     }
   },
   "protected": false,
-  "followers_count": 1675,
+  "followers_count": 1676,
   "friends_count": 48,
   "listed_count": 33,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 1970,
+  "favourites_count": 1971,
   "utc_offset": 25200,
   "time_zone": "Novosibirsk",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10052,
+  "statuses_count": 10057,
   "lang": "ru",
   "status": {
-    "created_at": "Fri May 11 10:51:29 +0000 2018",
-    "id": 994892745838944300,
-    "id_str": "994892745838944256",
-    "text": "Сейчас мы работаем над нелинейным методом, который включает в себя перерывы между офферами и уводит потенциальных к… https://t.co/QFnCWoFGnd",
-    "truncated": true,
+    "created_at": "Sat May 12 16:43:41 +0000 2018",
+    "id": 995343766637678600,
+    "id_str": "995343766637678593",
+    "text": "Поделитесь ресурсами, которые вы посещаете, чтобы быть в курсе выходящих игр и основных новостей индустрии.",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/QFnCWoFGnd",
-          "expanded_url": "https://twitter.com/i/web/status/994892745838944256",
-          "display_url": "twitter.com/i/web/status/9…",
-          "indices": [
-            117,
-            140
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 994888626348675100,
-    "in_reply_to_status_id_str": "994888626348675073",
+    "in_reply_to_status_id": 995341621582549000,
+    "in_reply_to_status_id_str": "995341621582548992",
     "in_reply_to_user_id": 747371158832545800,
     "in_reply_to_user_id_str": "747371158832545792",
     "in_reply_to_screen_name": "gdunderhood",
@@ -71,10 +61,9 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 9,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
