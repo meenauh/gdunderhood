@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 1721,
+  "followers_count": 1720,
   "friends_count": 48,
   "listed_count": 33,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
@@ -35,43 +35,22 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10085,
+  "statuses_count": 10120,
   "lang": "ru",
   "status": {
-    "created_at": "Tue May 29 14:40:25 +0000 2018",
-    "id": 1001473338827591700,
-    "id_str": "1001473338827591681",
-    "text": "Эксперты @Ray_Domkrat, @x_GS_x нашли ответы на множество вопросов, но мне кажется, что есть еще что добавить. Поско… https://t.co/84QCTpqbcz",
+    "created_at": "Thu May 31 13:43:57 +0000 2018",
+    "id": 1002183905137578000,
+    "id_str": "1002183905137577984",
+    "text": "Все еще продолжается обсуждение ключевых принципов игры про рыцарские турниры на Nintendo Switch. Там немного заруб… https://t.co/LxqQIsQ7JQ",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "Ray_Domkrat",
-          "name": "Max Nikolaev",
-          "id": 56799578,
-          "id_str": "56799578",
-          "indices": [
-            9,
-            21
-          ]
-        },
-        {
-          "screen_name": "x_GS_x",
-          "name": "AlexGaidukov",
-          "id": 108345880,
-          "id_str": "108345880",
-          "indices": [
-            23,
-            30
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/84QCTpqbcz",
-          "expanded_url": "https://twitter.com/i/web/status/1001473338827591681",
+          "url": "https://t.co/LxqQIsQ7JQ",
+          "expanded_url": "https://twitter.com/i/web/status/1002183905137577984",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -92,9 +71,7 @@
     "contributors": [
       904657574
     ],
-    "is_quote_status": true,
-    "quoted_status_id": 1001423888440528900,
-    "quoted_status_id_str": "1001423888440528897",
+    "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 1,
     "favorited": false,
