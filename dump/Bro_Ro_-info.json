@@ -1,0 +1,125 @@
+{
+  "id": 747371158832545800,
+  "id_str": "747371158832545792",
+  "name": "Гейм-дизайнер",
+  "screen_name": "gdunderhood",
+  "location": "Cyprus",
+  "profile_location": {
+    "id": "f0af1239cbebb474",
+    "url": "https://api.twitter.com/1.1/geo/id/f0af1239cbebb474.json",
+    "place_type": "unknown",
+    "name": "Cyprus",
+    "full_name": "Cyprus",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
+  "description": "Коллективный твиттер-аккаунт для гейм-дизайнеров by @GDCuffs. Новый автор каждую неделю. На этой неделе – Романов Роман @Bro_Ro_.",
+  "url": "https://t.co/lIo0mtT2X0",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/lIo0mtT2X0",
+          "expanded_url": "http://gdunderhood.ru/",
+          "display_url": "gdunderhood.ru",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "protected": false,
+  "followers_count": 1729,
+  "friends_count": 48,
+  "listed_count": 33,
+  "created_at": "Mon Jun 27 10:09:04 +0000 2016",
+  "favourites_count": 1979,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 10155,
+  "lang": "ru",
+  "status": {
+    "created_at": "Mon Jun 04 10:26:23 +0000 2018",
+    "id": 1003583738046009300,
+    "id_str": "1003583738046009344",
+    "text": "@NikolsaNNN Отлично! Именно о том, как их совмещать и зачем, я буду рассказывать далее. Но больше я уделю вниманию… https://t.co/bgcPm5CmWM",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "NikolsaNNN",
+          "name": "Nik Ambors",
+          "id": 359548015,
+          "id_str": "359548015",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bgcPm5CmWM",
+          "expanded_url": "https://twitter.com/i/web/status/1003583738046009344",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 1003583271861735400,
+    "in_reply_to_status_id_str": "1003583271861735425",
+    "in_reply_to_user_id": 359548015,
+    "in_reply_to_user_id_str": "359548015",
+    "in_reply_to_screen_name": "NikolsaNNN",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ru"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1003574459578617859/OjHZf83__normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1003574459578617859/OjHZf83__normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/747371158832545792/1527592017",
+  "profile_link_color": "1B95E0",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "000000",
+  "profile_text_color": "000000",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none",
+  "suspended": false,
+  "needs_phone_verification": false
+}
