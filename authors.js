@@ -2,7 +2,8 @@
 
 export default [
   // , post: false 
-  { username: 'vgf365',           start: '28 May 2018', first: '1000995336171614209' },
+  { username: 'Bro_Ro_',          start: '04 Jun 2018', first: '1003576402459971585', post: false },
+  { username: 'vgf365',           start: '28 May 2018', first: '1000995336171614209'},
   { username: 'hickoma',          start: '07 May 2018', first: '993411241711456262' },
   { username: 'ovca_snob',        start: '05 Feb 2018', first: '960389135167930368' },
   { username: 'YarKravtsov_2',    start: '15 Jan 2018', first: '952826394077220864' },
