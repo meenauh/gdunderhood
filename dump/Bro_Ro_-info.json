@@ -37,56 +37,45 @@
     }
   },
   "protected": false,
-  "followers_count": 1730,
+  "followers_count": 1791,
   "friends_count": 48,
-  "listed_count": 33,
+  "listed_count": 34,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
   "favourites_count": 1979,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10155,
+  "statuses_count": 10198,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Jun 04 10:26:23 +0000 2018",
-    "id": 1003583738046009300,
-    "id_str": "1003583738046009344",
-    "text": "@NikolsaNNN Отлично! Именно о том, как их совмещать и зачем, я буду рассказывать далее. Но больше я уделю вниманию… https://t.co/bgcPm5CmWM",
+    "created_at": "Wed Jun 06 06:25:07 +0000 2018",
+    "id": 1004247796659220500,
+    "id_str": "1004247796659220480",
+    "text": "Всем доброе утро! Чтобы начать проход по Латеральному мышлению - нам нужны еще геймдизайнерские задачи! Сможете нак… https://t.co/JqTuPxs4MM",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "NikolsaNNN",
-          "name": "Nik Ambors",
-          "id": 359548015,
-          "id_str": "359548015",
-          "indices": [
-            0,
-            11
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/bgcPm5CmWM",
-          "expanded_url": "https://twitter.com/i/web/status/1003583738046009344",
+          "url": "https://t.co/JqTuPxs4MM",
+          "expanded_url": "https://twitter.com/i/web/status/1004247796659220480",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            116,
-            139
+            117,
+            140
           ]
         }
       ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 1003583271861735400,
-    "in_reply_to_status_id_str": "1003583271861735425",
-    "in_reply_to_user_id": 359548015,
-    "in_reply_to_user_id_str": "359548015",
-    "in_reply_to_screen_name": "NikolsaNNN",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -96,6 +85,7 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
