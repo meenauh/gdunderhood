@@ -37,22 +37,22 @@
     }
   },
   "protected": false,
-  "followers_count": 1791,
+  "followers_count": 1802,
   "friends_count": 48,
-  "listed_count": 34,
+  "listed_count": 35,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 1979,
+  "favourites_count": 1980,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10198,
+  "statuses_count": 10239,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Jun 06 06:25:07 +0000 2018",
-    "id": 1004247796659220500,
-    "id_str": "1004247796659220480",
-    "text": "Всем доброе утро! Чтобы начать проход по Латеральному мышлению - нам нужны еще геймдизайнерские задачи! Сможете нак… https://t.co/JqTuPxs4MM",
+    "created_at": "Fri Jun 08 06:33:15 +0000 2018",
+    "id": 1004974619818971100,
+    "id_str": "1004974619818971136",
+    "text": "Давайте отрефлексируем методологию Дизайн мышление. Насколько эмпатия к покупателю нашей игры, к нашему игроку или… https://t.co/zy7GFBtMIt",
     "truncated": true,
     "entities": {
       "hashtags": [],
@@ -60,22 +60,22 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/JqTuPxs4MM",
-          "expanded_url": "https://twitter.com/i/web/status/1004247796659220480",
+          "url": "https://t.co/zy7GFBtMIt",
+          "expanded_url": "https://twitter.com/i/web/status/1004974619818971136",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            117,
-            140
+            116,
+            139
           ]
         }
       ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1004974617033936900,
+    "in_reply_to_status_id_str": "1004974617033936897",
+    "in_reply_to_user_id": 747371158832545800,
+    "in_reply_to_user_id_str": "747371158832545792",
+    "in_reply_to_screen_name": "gdunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -85,7 +85,6 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
