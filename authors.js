@@ -2,7 +2,7 @@
 
 export default [
   // , post: false 
-  { username: 'Bro_Ro_',          start: '04 Jun 2018', first: '1003576402459971585', post: false },
+  { username: 'Bro_Ro_',          start: '04 Jun 2018', first: '1003576402459971585'},
   { username: 'vgf365',           start: '28 May 2018', first: '1000995336171614209'},
   { username: 'hickoma',          start: '07 May 2018', first: '993411241711456262' },
   { username: 'ovca_snob',        start: '05 Feb 2018', first: '960389135167930368' },
