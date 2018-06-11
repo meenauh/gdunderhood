@@ -1,0 +1,58 @@
+{
+  "mentions": [
+    {
+      "created_at": "Mon Jun 11 10:03:32 +0000 2018",
+      "id": 1006114702144016400,
+      "id_str": "1006114702144016384",
+      "text": "@gdunderhood @AndrousMitsis Who let the notebook open?! The intern is posting on twitter again! ;) \n\nHave a good week, man. (=",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "AndrousMitsis",
+            "name": "Alexandros Androus-Mitsis",
+            "id": 1006087488975327200,
+            "id_str": "1006087488975327232",
+            "indices": [
+              13,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1006108789970554900,
+      "in_reply_to_status_id_str": "1006108789970554880",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 56799578,
+        "id_str": "56799578"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    }
+  ]
+}
