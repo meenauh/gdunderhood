@@ -1,0 +1,190 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Jun 25 09:39:21 +0000 2018",
+      "id": 1011182045551366100,
+      "id_str": "1011182045551366146",
+      "text": "Всем привет! Меня зовут Евгений Тараканов (twitter account: @ljtarkon), я Product Vision Expert в компании Wargamin… https://t.co/bnAZVRcMGH",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ljtarkon",
+            "name": "Tark",
+            "id": 172992415,
+            "id_str": "172992415",
+            "indices": [
+              60,
+              69
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/bnAZVRcMGH",
+            "expanded_url": "https://twitter.com/i/web/status/1011182045551366146",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 25 09:46:37 +0000 2018",
+      "id": 1011183874146209800,
+      "id_str": "1011183874146209793",
+      "text": "Начну неделю с вопроса: нужно ли вообще образование для работы гейм-дизайнером? Все эти школы, университеты, курсы,… https://t.co/grSK2s9N0b",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/grSK2s9N0b",
+            "expanded_url": "https://twitter.com/i/web/status/1011183874146209793",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 25 09:47:09 +0000 2018",
+      "id": 1011184008682786800,
+      "id_str": "1011184008682786816",
+      "text": "Вот и Сергей Галенкин задается тем же вопросом. https://t.co/xs7WScjnnZ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/xs7WScjnnZ",
+            "expanded_url": "https://twitter.com/galyonkin/status/1007712390689910784",
+            "display_url": "twitter.com/galyonkin/stat…",
+            "indices": [
+              48,
+              71
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1007712390689910800,
+      "quoted_status_id_str": "1007712390689910784",
+      "quoted_status": {
+        "created_at": "Fri Jun 15 19:52:10 +0000 2018",
+        "id": 1007712390689910800,
+        "id_str": "1007712390689910784",
+        "text": "There is an interesting exchange in our offtopic mailing list about studying game design in colleges. Most people a… https://t.co/z9iIbDgEZ4",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/z9iIbDgEZ4",
+              "expanded_url": "https://twitter.com/i/web/status/1007712390689910784",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://klinkerapps.com\" rel=\"nofollow\">Talon Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 14375068,
+          "id_str": "14375068"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 22,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
