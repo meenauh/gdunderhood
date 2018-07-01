@@ -3656,6 +3656,148 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 29 11:33:49 +0000 2018",
+      "id": 1012660404286378000,
+      "id_str": "1012660404286377985",
+      "text": "@gdunderhood Обожаю играть. И не смог бы делать игры, в которые бы не стал играть.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1012577316705366000,
+      "in_reply_to_status_id_str": "1012577316705366016",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 867050474830266400,
+        "id_str": "867050474830266368"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 29 11:34:41 +0000 2018",
+      "id": 1012660623409406000,
+      "id_str": "1012660623409405953",
+      "text": "@gdunderhood Инди... мне не особо нравится стиль большинства из них и все такое :(\nНо, имей бы я возможность делать игры, играл бы и в инди.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1012580294392729600,
+      "in_reply_to_status_id_str": "1012580294392729600",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 867050474830266400,
+        "id_str": "867050474830266368"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jul 01 06:58:30 +0000 2018",
+      "id": 1013315893420490800,
+      "id_str": "1013315893420490752",
+      "text": "@gdunderhood Да вроде «жизнь/анлок за друга» повсеместно используются в мобайл.\nА фб-инст-геймс вообще недавно появ… https://t.co/K5jWIdZg1Y",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdunderhood",
+            "name": "Гейм-дизайнер",
+            "id": 747371158832545800,
+            "id_str": "747371158832545792",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/K5jWIdZg1Y",
+            "expanded_url": "https://twitter.com/i/web/status/1013315893420490752",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1008658436773556200,
+      "in_reply_to_status_id_str": "1008658436773556224",
+      "in_reply_to_user_id": 747371158832545800,
+      "in_reply_to_user_id_str": "747371158832545792",
+      "in_reply_to_screen_name": "gdunderhood",
+      "user": {
+        "id": 85163927,
+        "id_str": "85163927"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }

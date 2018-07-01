@@ -2749,6 +2749,96 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jun 30 05:46:46 +0000 2018",
+      "id": 1012935455468326900,
+      "id_str": "1012935455468326912",
+      "text": "Судя по количеству лайков, для геймдизайнера игры это жизнь. https://t.co/DiJrNvIj88",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DiJrNvIj88",
+            "expanded_url": "https://twitter.com/retropcan/status/1012578787723235330",
+            "display_url": "twitter.com/retropcan/stat…",
+            "indices": [
+              61,
+              84
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1012578787723235300,
+      "quoted_status_id_str": "1012578787723235330",
+      "quoted_status": {
+        "created_at": "Fri Jun 29 06:09:30 +0000 2018",
+        "id": 1012578787723235300,
+        "id_str": "1012578787723235330",
+        "text": "@gdunderhood А где вариант \"игры - это моя жизнь\"?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gdunderhood",
+              "name": "Гейм-дизайнер",
+              "id": 747371158832545800,
+              "id_str": "747371158832545792",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1012577316705366000,
+        "in_reply_to_status_id_str": "1012577316705366016",
+        "in_reply_to_user_id": 747371158832545800,
+        "in_reply_to_user_id_str": "747371158832545792",
+        "in_reply_to_screen_name": "gdunderhood",
+        "user": {
+          "id": 904657574,
+          "id_str": "904657574"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 19,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
