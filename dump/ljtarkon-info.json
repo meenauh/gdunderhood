@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 1811,
+  "followers_count": 1810,
   "friends_count": 48,
   "listed_count": 36,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
@@ -46,26 +46,26 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10664,
+  "statuses_count": 10669,
   "lang": "en",
   "status": {
-    "created_at": "Sat Jun 30 05:46:46 +0000 2018",
-    "id": 1012935455468326900,
-    "id_str": "1012935455468326912",
-    "text": "Судя по количеству лайков, для геймдизайнера игры это жизнь. https://t.co/DiJrNvIj88",
-    "truncated": false,
+    "created_at": "Sun Jul 01 16:29:42 +0000 2018",
+    "id": 1013459643132203000,
+    "id_str": "1013459643132203008",
+    "text": "Всем спасибо! С вами был Евгений Тараканов, Product Vision Expert из  отдела R&amp;D компании Wargaming. Меня всегда мо… https://t.co/fc5cukhh0f",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/DiJrNvIj88",
-          "expanded_url": "https://twitter.com/retropcan/status/1012578787723235330",
-          "display_url": "twitter.com/retropcan/stat…",
+          "url": "https://t.co/fc5cukhh0f",
+          "expanded_url": "https://twitter.com/i/web/status/1013459643132203008",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            61,
-            84
+            121,
+            144
           ]
         }
       ]
@@ -80,11 +80,9 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 1012578787723235300,
-    "quoted_status_id_str": "1012578787723235330",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 4,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
