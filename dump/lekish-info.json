@@ -37,52 +37,31 @@
     }
   },
   "protected": false,
-  "followers_count": 1813,
+  "followers_count": 1822,
   "friends_count": 48,
   "listed_count": 36,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 2122,
+  "favourites_count": 2127,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10670,
+  "statuses_count": 10681,
   "lang": "en",
   "status": {
-    "created_at": "Mon Jul 02 07:03:41 +0000 2018",
-    "id": 1013679585299492900,
-    "id_str": "1013679585299492864",
-    "text": "Всем привет! Меня зовут Лена Бугакова (twitter account: @lekish), я работаю в @arpuguru. На этой неделе хочу погово… https://t.co/JHj775ZtAu",
+    "created_at": "Mon Jul 02 20:31:41 +0000 2018",
+    "id": 1013882926449209300,
+    "id_str": "1013882926449209344",
+    "text": "Ни разу не видела, чтобы в компании были проработанные персоны и их от гейм-диза скрывали. Но все возможно под луно… https://t.co/J5H4gUYRzd",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "lekish",
-          "name": "elena bugakova",
-          "id": 75078362,
-          "id_str": "75078362",
-          "indices": [
-            56,
-            63
-          ]
-        },
-        {
-          "screen_name": "arpuguru",
-          "name": "arpuguru",
-          "id": 879030116055212000,
-          "id_str": "879030116055212037",
-          "indices": [
-            78,
-            87
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/JHj775ZtAu",
-          "expanded_url": "https://twitter.com/i/web/status/1013679585299492864",
+          "url": "https://t.co/J5H4gUYRzd",
+          "expanded_url": "https://twitter.com/i/web/status/1013882926449209344",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -101,11 +80,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 1013855198123442200,
+    "quoted_status_id_str": "1013855198123442176",
     "retweet_count": 0,
-    "favorite_count": 4,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
