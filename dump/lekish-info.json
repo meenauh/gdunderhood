@@ -41,31 +41,31 @@
   "friends_count": 48,
   "listed_count": 36,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 2127,
+  "favourites_count": 2135,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10681,
+  "statuses_count": 10689,
   "lang": "en",
   "status": {
-    "created_at": "Mon Jul 02 20:31:41 +0000 2018",
-    "id": 1013882926449209300,
-    "id_str": "1013882926449209344",
-    "text": "Ни разу не видела, чтобы в компании были проработанные персоны и их от гейм-диза скрывали. Но все возможно под луно… https://t.co/J5H4gUYRzd",
-    "truncated": true,
+    "created_at": "Tue Jul 03 18:16:30 +0000 2018",
+    "id": 1014211293522333700,
+    "id_str": "1014211293522333696",
+    "text": "В paid проекте надо понимать сроки разработки. А сроки - почти бюджет. https://t.co/8hIoSoFwX2",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/J5H4gUYRzd",
-          "expanded_url": "https://twitter.com/i/web/status/1013882926449209344",
-          "display_url": "twitter.com/i/web/status/1…",
+          "url": "https://t.co/8hIoSoFwX2",
+          "expanded_url": "https://twitter.com/ovca_snob/status/1014145071845785600",
+          "display_url": "twitter.com/ovca_snob/stat…",
           "indices": [
-            117,
-            140
+            71,
+            94
           ]
         }
       ]
@@ -81,10 +81,10 @@
     "place": null,
     "contributors": null,
     "is_quote_status": true,
-    "quoted_status_id": 1013855198123442200,
-    "quoted_status_id_str": "1013855198123442176",
-    "retweet_count": 0,
-    "favorite_count": 1,
+    "quoted_status_id": 1014145071845785600,
+    "quoted_status_id_str": "1014145071845785600",
+    "retweet_count": 1,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
