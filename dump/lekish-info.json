@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 1822,
+  "followers_count": 1824,
   "friends_count": 48,
   "listed_count": 36,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
@@ -46,26 +46,26 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10689,
+  "statuses_count": 10691,
   "lang": "en",
   "status": {
-    "created_at": "Tue Jul 03 18:16:30 +0000 2018",
-    "id": 1014211293522333700,
-    "id_str": "1014211293522333696",
-    "text": "В paid проекте надо понимать сроки разработки. А сроки - почти бюджет. https://t.co/8hIoSoFwX2",
-    "truncated": false,
+    "created_at": "Wed Jul 04 12:13:47 +0000 2018",
+    "id": 1014482402276716500,
+    "id_str": "1014482402276716544",
+    "text": "Баланс в начале исключительно плюсовой, зачем игроку стартер-пак - не совсем ясно. Его лучше предлагать в момент пе… https://t.co/VKtVpsbtbi",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/8hIoSoFwX2",
-          "expanded_url": "https://twitter.com/ovca_snob/status/1014145071845785600",
-          "display_url": "twitter.com/ovca_snob/stat…",
+          "url": "https://t.co/VKtVpsbtbi",
+          "expanded_url": "https://twitter.com/i/web/status/1014482402276716544",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            71,
-            94
+            117,
+            140
           ]
         }
       ]
@@ -81,10 +81,10 @@
     "place": null,
     "contributors": null,
     "is_quote_status": true,
-    "quoted_status_id": 1014145071845785600,
-    "quoted_status_id_str": "1014145071845785600",
-    "retweet_count": 1,
-    "favorite_count": 3,
+    "quoted_status_id": 1013749168685318100,
+    "quoted_status_id_str": "1013749168685318144",
+    "retweet_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
