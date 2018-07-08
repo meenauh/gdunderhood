@@ -37,22 +37,22 @@
     }
   },
   "protected": false,
-  "followers_count": 1824,
+  "followers_count": 1829,
   "friends_count": 48,
   "listed_count": 36,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 2135,
+  "favourites_count": 2134,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10691,
+  "statuses_count": 10698,
   "lang": "en",
   "status": {
-    "created_at": "Wed Jul 04 12:13:47 +0000 2018",
-    "id": 1014482402276716500,
-    "id_str": "1014482402276716544",
-    "text": "Баланс в начале исключительно плюсовой, зачем игроку стартер-пак - не совсем ясно. Его лучше предлагать в момент пе… https://t.co/VKtVpsbtbi",
+    "created_at": "Fri Jul 06 13:52:42 +0000 2018",
+    "id": 1015232069251883000,
+    "id_str": "1015232069251883009",
+    "text": "Метагейм. Не жадничайте! Мета - это, то что будет кормить вашу игру. Задавайте себе такие вопросы: будет ли просто… https://t.co/ReOGiLhm6D",
     "truncated": true,
     "entities": {
       "hashtags": [],
@@ -60,12 +60,12 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/VKtVpsbtbi",
-          "expanded_url": "https://twitter.com/i/web/status/1014482402276716544",
+          "url": "https://t.co/ReOGiLhm6D",
+          "expanded_url": "https://twitter.com/i/web/status/1015232069251883009",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            117,
-            140
+            116,
+            139
           ]
         }
       ]
@@ -80,14 +80,11 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 1013749168685318100,
-    "quoted_status_id_str": "1013749168685318144",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
