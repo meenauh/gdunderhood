@@ -37,155 +37,46 @@
     }
   },
   "protected": false,
-  "followers_count": 1835,
+  "followers_count": 1876,
   "friends_count": 48,
-  "listed_count": 36,
+  "listed_count": 35,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
-  "favourites_count": 2134,
+  "favourites_count": 2161,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10704,
+  "statuses_count": 10743,
   "lang": "en",
   "status": {
-    "created_at": "Mon Jul 09 08:56:51 +0000 2018",
-    "id": 1016244782316818400,
-    "id_str": "1016244782316818433",
-    "text": "@Cadmus_Labs шутки про маудау за 200 https://t.co/2jFf9CMGN2",
+    "created_at": "Mon Jul 09 21:53:04 +0000 2018",
+    "id": 1016440122525585400,
+    "id_str": "1016440122525585408",
+    "text": "@electrovi4 Совсем первый Xbox, а не Xbox 360 :)",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "Cadmus_Labs",
-          "name": "Slava",
-          "id": 1909469556,
-          "id_str": "1909469556",
+          "screen_name": "electrovi4",
+          "name": "Элушка",
+          "id": 3818088135,
+          "id_str": "3818088135",
           "indices": [
             0,
-            12
+            11
           ]
         }
       ],
-      "urls": [],
-      "media": [
-        {
-          "id": 1016244617589780500,
-          "id_str": "1016244617589780480",
-          "indices": [
-            37,
-            60
-          ],
-          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1016244617589780480/pu/img/jgnnvtgx4UGcBtkR.jpg",
-          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1016244617589780480/pu/img/jgnnvtgx4UGcBtkR.jpg",
-          "url": "https://t.co/2jFf9CMGN2",
-          "display_url": "pic.twitter.com/2jFf9CMGN2",
-          "expanded_url": "https://twitter.com/gdunderhood/status/1016244782316818433/video/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 680,
-              "h": 680,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 720,
-              "h": 720,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 720,
-              "h": 720,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1016244617589780500,
-          "id_str": "1016244617589780480",
-          "indices": [
-            37,
-            60
-          ],
-          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1016244617589780480/pu/img/jgnnvtgx4UGcBtkR.jpg",
-          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1016244617589780480/pu/img/jgnnvtgx4UGcBtkR.jpg",
-          "url": "https://t.co/2jFf9CMGN2",
-          "display_url": "pic.twitter.com/2jFf9CMGN2",
-          "expanded_url": "https://twitter.com/gdunderhood/status/1016244782316818433/video/1",
-          "type": "video",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 680,
-              "h": 680,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 720,
-              "h": 720,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 720,
-              "h": 720,
-              "resize": "fit"
-            }
-          },
-          "video_info": {
-            "aspect_ratio": [
-              1,
-              1
-            ],
-            "duration_millis": 107412,
-            "variants": [
-              {
-                "bitrate": 1280000,
-                "content_type": "video/mp4",
-                "url": "https://video.twimg.com/ext_tw_video/1016244617589780480/pu/vid/720x720/t6RFYLkSgPJlDU_F.mp4?tag=3"
-              },
-              {
-                "bitrate": 256000,
-                "content_type": "video/mp4",
-                "url": "https://video.twimg.com/ext_tw_video/1016244617589780480/pu/vid/240x240/7lLXychBGQzOoUwH.mp4?tag=3"
-              },
-              {
-                "bitrate": 832000,
-                "content_type": "video/mp4",
-                "url": "https://video.twimg.com/ext_tw_video/1016244617589780480/pu/vid/480x480/Uoj9eKTLKwAlxupF.mp4?tag=3"
-              },
-              {
-                "content_type": "application/x-mpegURL",
-                "url": "https://video.twimg.com/ext_tw_video/1016244617589780480/pu/pl/9JiZ6e4XA6qcINP4.m3u8?tag=3"
-              }
-            ]
-          },
-          "additional_media_info": {
-            "monetizable": false
-          }
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": 1016241848648597500,
-    "in_reply_to_status_id_str": "1016241848648597504",
-    "in_reply_to_user_id": 747371158832545800,
-    "in_reply_to_user_id_str": "747371158832545792",
-    "in_reply_to_screen_name": "gdunderhood",
+    "in_reply_to_status_id": 1016434171533721600,
+    "in_reply_to_status_id_str": "1016434171533721602",
+    "in_reply_to_user_id": 3818088135,
+    "in_reply_to_user_id_str": "3818088135",
+    "in_reply_to_screen_name": "electrovi4",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -195,7 +86,6 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
