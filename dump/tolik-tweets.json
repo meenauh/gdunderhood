@@ -3535,6 +3535,158 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 13 11:03:29 +0000 2018",
+      "id": 1017726201849262100,
+      "id_str": "1017726201849262080",
+      "text": "https://t.co/zG1JUxHjb4",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/zG1JUxHjb4",
+            "expanded_url": "https://www.pscp.tv/w/bhh-gTFxTGpHVkxtWXZ3S0p8MXlwS2RZZWR3ZFFHVxslWJYF_qRsYXVs7nWwjmLwQoON1-n0wJP45Z30mfaA",
+            "display_url": "pscp.tv/w/bhh-gTFxTGpH…",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://periscope.tv\" rel=\"nofollow\">Periscope</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Fri Jul 13 12:29:36 +0000 2018",
+      "id": 1017747874573144000,
+      "id_str": "1017747874573144064",
+      "text": "Всем спасибо! Продолжаем AMA до понедельника здесь, всегда рад вопросам в @tolik.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tolik",
+            "name": "anatoly ropotov",
+            "id": 7273792,
+            "id_str": "7273792",
+            "indices": [
+              74,
+              80
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 13 13:46:35 +0000 2018",
+      "id": 1017767245026680800,
+      "id_str": "1017767245026680833",
+      "text": "@vedmich @tolik Больше интерактива! Смелей! Сложно просто рассказывать что-то, и за столько часов не получить вопро… https://t.co/pzffy4QksN",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vedmich",
+            "name": "Matsukaze",
+            "id": 56080508,
+            "id_str": "56080508",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "tolik",
+            "name": "anatoly ropotov",
+            "id": 7273792,
+            "id_str": "7273792",
+            "indices": [
+              9,
+              15
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/pzffy4QksN",
+            "expanded_url": "https://twitter.com/i/web/status/1017767245026680833",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017755346683691000,
+      "in_reply_to_status_id_str": "1017755346683691009",
+      "in_reply_to_user_id": 56080508,
+      "in_reply_to_user_id_str": "56080508",
+      "in_reply_to_screen_name": "vedmich",
+      "user": {
+        "id": 747371158832545800,
+        "id_str": "747371158832545792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
