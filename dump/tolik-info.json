@@ -3,20 +3,9 @@
   "id_str": "747371158832545792",
   "name": "Гейм-дизайнер",
   "screen_name": "gdunderhood",
-  "location": "London, England",
-  "profile_location": {
-    "id": "457b4814b4240d87",
-    "url": "https://api.twitter.com/1.1/geo/id/457b4814b4240d87.json",
-    "place_type": "unknown",
-    "name": "London, England",
-    "full_name": "London, England",
-    "country_code": "",
-    "country": "",
-    "contained_within": [],
-    "bounding_box": null,
-    "attributes": {}
-  },
-  "description": "Коллективный твиттер-аккаунт для гейм-дизайнеров by @GDCuffs. Новый автор каждую неделю. На этой неделе – Anatoly Ropotov (@tolik)",
+  "location": "",
+  "profile_location": null,
+  "description": "Коллективный твиттер-аккаунт для гейм-дизайнеров by @GDCuffs. Новый автор каждую неделю. На этой неделе –",
   "url": "https://t.co/lIo0mtT2X0",
   "entities": {
     "url": {
@@ -37,75 +26,66 @@
     }
   },
   "protected": false,
-  "followers_count": 1891,
+  "followers_count": 1892,
   "friends_count": 48,
-  "listed_count": 38,
+  "listed_count": 39,
   "created_at": "Mon Jun 27 10:09:04 +0000 2016",
   "favourites_count": 2162,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10754,
+  "statuses_count": 10755,
   "lang": "en",
   "status": {
-    "created_at": "Fri Jul 13 13:46:35 +0000 2018",
-    "id": 1017767245026680800,
-    "id_str": "1017767245026680833",
-    "text": "@vedmich @tolik Больше интерактива! Смелей! Сложно просто рассказывать что-то, и за столько часов не получить вопро… https://t.co/pzffy4QksN",
+    "created_at": "Mon Jul 16 16:54:01 +0000 2018",
+    "id": 1018901579490086900,
+    "id_str": "1018901579490086912",
+    "text": "Home-office @tolik в режиме для стримов (убраны подставки под нотики и клавы). Не успел выложить на выходных. Всем… https://t.co/h5BsLgdQKW",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "vedmich",
-          "name": "Matsukaze",
-          "id": 56080508,
-          "id_str": "56080508",
-          "indices": [
-            0,
-            8
-          ]
-        },
-        {
           "screen_name": "tolik",
           "name": "anatoly ropotov",
           "id": 7273792,
           "id_str": "7273792",
           "indices": [
-            9,
-            15
+            12,
+            18
           ]
         }
       ],
       "urls": [
         {
-          "url": "https://t.co/pzffy4QksN",
-          "expanded_url": "https://twitter.com/i/web/status/1017767245026680833",
+          "url": "https://t.co/h5BsLgdQKW",
+          "expanded_url": "https://twitter.com/i/web/status/1018901579490086912",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            117,
-            140
+            116,
+            139
           ]
         }
       ]
     },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 1017755346683691000,
-    "in_reply_to_status_id_str": "1017755346683691009",
-    "in_reply_to_user_id": 56080508,
-    "in_reply_to_user_id_str": "56080508",
-    "in_reply_to_screen_name": "vedmich",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -115,9 +95,8 @@
   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/1016217933620695040/IpBuH6qv_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1016217933620695040/IpBuH6qv_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/747371158832545792/1531120211",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1018901939055144960/5zWt9A5p_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1018901939055144960/5zWt9A5p_normal.jpg",
   "profile_link_color": "1B95E0",
   "profile_sidebar_border_color": "000000",
   "profile_sidebar_fill_color": "000000",
