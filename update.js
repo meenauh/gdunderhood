@@ -38,11 +38,11 @@ getInfo(tokens, underhood, (err, info) => {
   saveAuthorArea(username, 'info', info);
 });
 
-rm(`./dump/images/${username}*`);
-saveMedia(tokens, underhood, username, (err, media) => {
-  if (err) throw err;
-  saveAuthorArea(username, 'media', media);
-});
+// rm(`./dump/images/${username}*`);
+// saveMedia(tokens, underhood, username, (err, media) => {
+//   if (err) throw err;
+//   saveAuthorArea(username, 'media', media);
+// });
 
 getFollowers(tokens, underhood, (err, followersWithStatuses) => {
   if (err) throw err;
